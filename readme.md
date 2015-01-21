@@ -65,6 +65,17 @@ Personally I'm going to start with the first three.
 ## Movies
 
 - [Serenity *(Firefly)*](http://www.imdb.com/title/tt0379786/)
+- [Predestination](http://www.imdb.com/title/tt2397535/)
+- [I Origins](http://www.imdb.com/title/tt2884206/)
+- [Sunshine](http://www.imdb.com/title/tt0448134/)
+- [Moon](http://www.imdb.com/title/tt1182345/)
+- [A Scanner Darkly](http://www.imdb.com/title/tt0405296/)
+- [Coherence](http://www.imdb.com/title/tt2866360/)
+- [Prometheus](http://www.imdb.com/title/tt1446714/)
+- [Europa Report](http://www.imdb.com/title/tt2051879/)
+- [The Signal](http://www.imdb.com/title/tt2910814/)
+- [Source Code](http://www.imdb.com/title/tt0945513/)
+- [The Man from Earth](http://www.imdb.com/title/tt0945513/)
 
 
 ## TV-series
@@ -73,6 +84,7 @@ Personally I'm going to start with the first three.
 - [Stargate SG1](http://www.imdb.com/title/tt0118480/)
 - [Stargate Atlantis](http://www.imdb.com/title/tt0374455/)
 - [Battlestar Galactica](http://www.imdb.com/title/tt0407362/)
+- [Black Mirror](http://www.imdb.com/title/tt2085059/)
 - Star Trek (TODO: which ones?)
 
 
