@@ -31,7 +31,8 @@ Personally I'm going to start with the first three.
 - Brave New World
 - 1984
 - Old man's war
-- Daemon series
+- Daemon by _Daniel Suarez_, and its sequel Freedom also by _Daniel Suarez_
+  * _About a distributed, persistent computer application, known as The Daemon, that begins to change the real world after the original programmer's death_. This seamlessly blends computer gaming, AI, augmented reality, 3D printing, autonomous vehicles and a bunch of other cool tech into an entertaining thriller which also delivers effective social commentary upon the state of the world today.
 - Neuromancer
 - Sphere, by Crichton *(my favorite novel. Movie was worse than terrible.)*
 - The Culture Novels, by Iain M Banks
@@ -39,8 +40,6 @@ Personally I'm going to start with the first three.
 - Ready Player One *(one of the best I've ever read)*
 - Roadside Picnic *(one of the best books I have ever read)*
 - The Dispossessed, by Ursula Le Guin
-- Daemon Inc
-- Freedom *(sequal to Daemon Inc)*
 - Book of the Long Sun, by Gene Wolfe
 - Book of the New Sun, by Gene Wolfe
 - The Bone Clocks *(If you liked Cloud Atlas this is a good read)*
@@ -74,7 +73,6 @@ Personally I'm going to start with the first three.
 - [Stargate Atlantis](http://www.imdb.com/title/tt0374455/)
 - [Battlestar Galactica](http://www.imdb.com/title/tt0407362/)
 - Star Trek (TODO: which ones?)
-- [Farscape](http://www.imdb.com/title/tt0187636/)
 
 
 ## License
