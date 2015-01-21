@@ -29,14 +29,15 @@ Personally I'm going to start with the first three.
 - [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451), by Ray Bradbury [3.95]
 - [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World), by Aldous Huxley [3.93]
 - [1984](https://www.goodreads.com/book/show/5470.1984), by George Orwell [4.10]
-- [Old man's war](https://www.goodreads.com/series/40789-old-man-s-war), by John Scalzi [4.22]
+- [Old Man's War](https://www.goodreads.com/series/40789-old-man-s-war), by John Scalzi [4.22]
+- [The Ghost Brigades](http://www.goodreads.com/book/show/239399.The_Ghost_Brigades?from_search=true) (Old Man's War #2), by John Scalzi [4.07]
+- [The Last Colony](http://www.goodreads.com/book/show/88071.The_Last_Colony?from_search=true) (Old Man's War #3), by John Scalzi [4.00]
+- [Lock In](http://www.goodreads.com/book/show/21418013-lock-in?from_search=true), by John Scalzi [3.83]
 - [Godhunter](https://www.goodreads.com/book/show/17925326-godhunter) (Daemon series), by Donnie Rust [3.80]
 - [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer), by William Gibson [3.85]
 - [Sphere](https://www.goodreads.com/book/show/455373.Sphere), by Michael Crichton *(my favorite novel. Movie was worse than terrible.)* [3.70]
 - [Night's Dawn Trilogy](https://www.goodreads.com/series/43318-night-s-dawn), by Peter Hamilton [4.13]
 - [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic), by Arkady Strugatsky & Boris Strugatsky *(one of the best books I have ever read)* [4.23]
-- [Daemons, Inc.](https://www.goodreads.com/series/49944-daemons-inc), by Camille Bacon-Smith [3.54]
-- Freedom *(sequal to Daemon Inc)*
 - [Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun), by Gene Wolfe [3.97]
 - [Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun), by Gene Wolfe [3.92]
 - [The Bone Clocks](https://www.goodreads.com/book/show/20819685-the-bone-clocks), by David Mitchell *(If you liked Cloud Atlas this is a good read)* [3.89]
@@ -50,6 +51,8 @@ Personally I'm going to start with the first three.
 - [House of Suns](https://www.goodreads.com/book/show/1126719.House_of_Suns), by Alastair Reynolds [4.14]
 - [Fallen Dragon](https://www.goodreads.com/book/show/45258.Fallen_Dragon), by Peter F. Hamilton [4.00]
 - [Commonwealth Saga](https://www.goodreads.com/series/40740-commonwealth-saga), by Peter F. Hamilton *(and all the following trilogy of the void)* [4.21]
+- [Daemon](http://www.goodreads.com/book/show/4699575-daemon?from_search=true), by Daniel Suarez [4.19]
+- [Freedom](http://www.goodreads.com/book/show/7132363-freedom?from_search=true), by Daniel Suarez [4.28]
 - Almost anything by Greg Egan *(His works are mind bending)* (TODO: list his books)
 - Anything by John Scalzi. (TODO: list his books)
 
