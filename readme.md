@@ -38,7 +38,6 @@ Personally I'm going to start with the first three.
 - Night's Dawn Trilogy, by Peter Hamilton
 - Ready Player One *(one of the best I've ever read)*
 - Roadside Picnic *(one of the best books I have ever read)*
-- The Dispossessed, by Ursula Le Guin
 - Daemon Inc
 - Freedom *(sequal to Daemon Inc)*
 - Book of the Long Sun, by Gene Wolfe
