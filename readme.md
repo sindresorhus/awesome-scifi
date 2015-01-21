@@ -22,7 +22,6 @@ Personally I'm going to start with the first three.
 - A Fire Upon the Deep
 - Ready Player One
 - The Dispossessed, by Ursula K. Le Guin. *(Sci fi, sociology and philosophy)*
-- Culture, by Iain Banks
 - Wetware, by Rudy Rucker
 - Timestorm, by Gordon R. Dickson
 - Childhoods
@@ -35,7 +34,7 @@ Personally I'm going to start with the first three.
   * _About a distributed, persistent computer application, known as The Daemon, that begins to change the real world after the original programmer's death_. This seamlessly blends computer gaming, AI, augmented reality, 3D printing, autonomous vehicles and a bunch of other cool tech into an entertaining thriller which also delivers effective social commentary upon the state of the world today.
 - Neuromancer
 - Sphere, by Crichton *(my favorite novel. Movie was worse than terrible.)*
-- The Culture Novels, by Iain M Banks
+- The Culture Novels, by Iain M Banks (TODO: list the books)
 - Night's Dawn Trilogy, by Peter Hamilton
 - Ready Player One *(one of the best I've ever read)*
 - Roadside Picnic *(one of the best books I have ever read)*
