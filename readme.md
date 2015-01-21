@@ -34,7 +34,6 @@ Personally I'm going to start with the first three.
 - [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer), by William Gibson [3.85]
 - [Sphere](https://www.goodreads.com/book/show/455373.Sphere), by Michael Crichton *(my favorite novel. Movie was worse than terrible.)* [3.70]
 - [Night's Dawn Trilogy](https://www.goodreads.com/series/43318-night-s-dawn), by Peter Hamilton [4.13]
-- [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one), by Ernest Cline *(one of the best I've ever read)* [4.31]
 - [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic), by Arkady Strugatsky & Boris Strugatsky *(one of the best books I have ever read)* [4.23]
 - [Daemons, Inc.](https://www.goodreads.com/series/49944-daemons-inc), by Camille Bacon-Smith [3.54]
 - Freedom *(sequal to Daemon Inc)*
