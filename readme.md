@@ -22,7 +22,7 @@ Personally I'm going to start with the first three.
 - [A Fire Upon the Deep](https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep), by Vernor Vinge [4.12]
 - [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one), by Ernest Cline [4.31]
 - [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed), by Ursula K. Le Guin. *(Sci fi, sociology and philosophy)* [4.15]
-- [Culture](https://www.goodreads.com/series/49118-culture), by Iain Banks [3.83]
+- [Culture Series](https://www.goodreads.com/series/49118-culture), by Iain M. Banks [3.83]
 - [Ware](https://www.goodreads.com/series/41816-ware), by Rudy Rucker, [3.74]
 - [Timestorm](https://www.goodreads.com/book/show/536951.Time_Storm), by Gordon R. Dickson [3.72]
 - [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End), by Arthur C Clarke [4.06]
