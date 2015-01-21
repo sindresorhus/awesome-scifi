@@ -38,8 +38,6 @@ Personally I'm going to start with the first three.
 - [Sphere](https://www.goodreads.com/book/show/455373.Sphere), by Michael Crichton *(my favorite novel. Movie was worse than terrible.)* [3.70]
 - [Night's Dawn Trilogy](https://www.goodreads.com/series/43318-night-s-dawn), by Peter Hamilton [4.13]
 - [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic), by Arkady Strugatsky & Boris Strugatsky *(one of the best books I have ever read)* [4.23]
-- [Daemons, Inc.](https://www.goodreads.com/series/49944-daemons-inc), by Camille Bacon-Smith [3.54]
-- Freedom *(sequal to Daemon Inc)*
 - [Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun), by Gene Wolfe [3.97]
 - [Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun), by Gene Wolfe [3.92]
 - [The Bone Clocks](https://www.goodreads.com/book/show/20819685-the-bone-clocks), by David Mitchell *(If you liked Cloud Atlas this is a good read)* [3.89]
