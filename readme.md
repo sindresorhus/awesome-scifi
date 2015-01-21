@@ -7,51 +7,50 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 Personally I'm going to start with the first three.
 
 
-## Novel recommendations
+## Novel recommendations [Rating on Goodreads]
 
-- **Foundation, Isaac Asimov**
-- **Dune series, by Frank Herbert**
-- **Snow Crash, Neal Stephenson**
-- The Martian
-- The Golden Age
-- Oryx and Crake
-- Glasshouse
-- Spin
-- Rendevous with Rama
-- Cryptonomicon
-- A Fire Upon the Deep
-- Ready Player One
-- The Dispossessed, by Ursula K. Le Guin. *(Sci fi, sociology and philosophy)*
-- Wetware, by Rudy Rucker
-- Timestorm, by Gordon R. Dickson
-- Childhoods
-- End, by Arthur C Clarke
-- Fahrenheit 451
-- Brave New World
-- 1984
-- Old man's war
-- Daemon by _Daniel Suarez_, and its sequel Freedom also by _Daniel Suarez_
-  * _About a distributed, persistent computer application, known as The Daemon, that begins to change the real world after the original programmer's death_. This seamlessly blends computer gaming, AI, augmented reality, 3D printing, autonomous vehicles and a bunch of other cool tech into an entertaining thriller which also delivers effective social commentary upon the state of the world today.
-- Neuromancer
-- Sphere, by Crichton *(my favorite novel. Movie was worse than terrible.)*
-- The Culture Novels, by Iain M Banks (TODO: list the books)
-- Night's Dawn Trilogy, by Peter Hamilton
-- Ready Player One *(one of the best I've ever read)*
-- Roadside Picnic *(one of the best books I have ever read)*
-- Book of the Long Sun, by Gene Wolfe
-- Book of the New Sun, by Gene Wolfe
-- The Bone Clocks *(If you liked Cloud Atlas this is a good read)*
-- Stranger in a strange land
-- Battlefield Earth
-- Starship Troopers
-- Old Man's War, by John Scalzi *(also has some nice follow ups)*
-- Enders Game, by Orson Scott Card
-- A fire upon the deep, by Vernor vinge
-- Childhood's End, by Arthur C. Clarke
-- Hyperion
-- Solaris
-- House of Suns, by Alastair Reynolds
-- Fallen Dragon, Peter F. Hamilton
+- **[Foundation](https://www.goodreads.com/book/show/29579.Foundation), by Isaac Asimov** [4.05]
+- **[Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles), by Frank Herbert** [4.13]
+- **[Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash), by Neal Stephenson** [3.98]
+- [The Martian](https://www.goodreads.com/book/show/18007564-the-martian), by Andy Weir [4.36]
+- [The Golden Age](https://www.goodreads.com/series/41545-golden-age), by John C. Wright [4.10]
+- [Oryx and Crake](https://www.goodreads.com/series/55674-maddaddam) (MaddAddam), by Margaret Atwood [3.97]
+- [Glasshouse](https://www.goodreads.com/book/show/17866.Glasshouse), by Charles Stross [3.84]
+- [Spin](https://www.goodreads.com/book/show/910863.Spin), by Robert Charles Wilson [3.99]
+- [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama), by Arthur C. Clark [4.01]
+- [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon), by Neal Stephenson [4.24]
+- [A Fire Upon the Deep](https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep), by Vernor Vinge [4.12]
+- [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one), by Ernest Cline [4.31]
+- [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed), by Ursula K. Le Guin. *(Sci fi, sociology and philosophy)* [4.15]
+- [Culture](https://www.goodreads.com/series/49118-culture), by Iain Banks [3.83]
+- [Ware](https://www.goodreads.com/series/41816-ware), by Rudy Rucker, [3.74]
+- [Timestorm](https://www.goodreads.com/book/show/536951.Time_Storm), by Gordon R. Dickson [3.72]
+- [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End), by Arthur C Clarke [4.06]
+- [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451), by Ray Bradbury [3.95]
+- [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World), by Aldous Huxley [3.93]
+- [1984](https://www.goodreads.com/book/show/5470.1984), by George Orwell [4.10]
+- [Old man's war](https://www.goodreads.com/series/40789-old-man-s-war), by John Scalzi [4.22]
+- [Godhunter](https://www.goodreads.com/book/show/17925326-godhunter) (Daemon series), by Donnie Rust [3.80]
+- [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer), by William Gibson [3.85]
+- [Sphere](https://www.goodreads.com/book/show/455373.Sphere), by Michael Crichton *(my favorite novel. Movie was worse than terrible.)* [3.70]
+- [Night's Dawn Trilogy](https://www.goodreads.com/series/43318-night-s-dawn), by Peter Hamilton [4.13]
+- [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one), by Ernest Cline *(one of the best I've ever read)* [4.31]
+- [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic), by Arkady Strugatsky & Boris Strugatsky *(one of the best books I have ever read)* [4.23]
+- [Daemons, Inc.](https://www.goodreads.com/series/49944-daemons-inc), by Camille Bacon-Smith [3.54]
+- Freedom *(sequal to Daemon Inc)*
+- [Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun), by Gene Wolfe [3.97]
+- [Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun), by Gene Wolfe [3.92]
+- [The Bone Clocks](https://www.goodreads.com/book/show/20819685-the-bone-clocks), by David Mitchell *(If you liked Cloud Atlas this is a good read)* [3.89]
+- [Stranger in a strange land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land), by Robert A. Heinlein [3.87]
+- [Battlefield Earth](https://www.goodreads.com/book/show/769658.Battlefield_Earth), by L. Ron Hubbard [3.42]
+- [Starship Troopers](https://www.goodreads.com/book/show/17214.Starship_Troopers), by Robert A. Heinlein, [3.97]
+- [Enders Game](https://www.goodreads.com/book/show/375802.Ender_s_Game), by Orson Scott Card [4.28]
+- [A fire upon the deep](https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep), by Vernor Vinge [4.12]
+- [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion), by Dan Simmons [4.16]
+- [Solaris](https://www.goodreads.com/book/show/95558.Solaris), by Stanisław Lem [3.94]
+- [House of Suns](https://www.goodreads.com/book/show/1126719.House_of_Suns), by Alastair Reynolds [4.14]
+- [Fallen Dragon](https://www.goodreads.com/book/show/45258.Fallen_Dragon), by Peter F. Hamilton [4.00]
+- [Commonwealth Saga](https://www.goodreads.com/series/40740-commonwealth-saga), by Peter F. Hamilton *(and all the following trilogy of the void)* [4.21]
 - Almost anything by Greg Egan *(His works are mind bending)* (TODO: list his books)
 - Anything by John Scalzi. (TODO: list his books)
 
