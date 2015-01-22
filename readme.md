@@ -71,7 +71,7 @@ Twitter user: One of the best books I have ever read.
 
 > When Kris Kelvin arrives at the planet Solaris to study the ocean that covers its surface, he finds a painful, hitherto unconscious memory embodied in the living physical likeness of a long-dead lover. Others examining the planet, Kelvin learns, are plagued with their own repressed and newly corporeal memories. The Solaris ocean may be a massive brain that creates these incarnate memories, though its purpose in doing so is unknown, forcing the scientists to shift the focus of their quest and wonder if they can truly understand the universe without first understanding what lies within their hearts.
 
-#### [Jean le Flambeur](https://www.goodreads.com/series/57134-jean-le-flambeur) *by Hannu Rajaniemi* [3.83]
+#### [Jean le Flambeur Series](https://www.goodreads.com/series/57134-jean-le-flambeur) *by Hannu Rajaniemi* [4.03 (avg)]
 
 > Jean le Flambeur gets up in the morning and has to kill himself before his other self can kill him first. Just another day in the Dilemma Prison. Rescued by the mysterious Mieli and her flirtatious spacecraft, Jean is taken to the Oubliette, the Moving City of Mars, where time is a currency, memories are treasures, and a moon-turned-singularity lights the night. Meanwhile, investigator Isidore Beautrelet, called in to investigate the murder of a chocolatier, finds himself on the trail of an arch-criminal, a man named le Flambeur...
 
