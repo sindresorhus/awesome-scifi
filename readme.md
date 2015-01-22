@@ -60,6 +60,7 @@ Personally I'm going to start with the first three.
 - [The Fractal Prince](https://www.goodreads.com/book/show/12074927-the-fractal-prince), by Hannu Rajaniemi [4.03]
 - [The Causal Angel](https://www.goodreads.com/book/show/18190723-the-causal-angel), by Hannu Rajaniemi [4.23]
 - [The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl), by Paolo Bacigalupi [3.73]
+- [The End of Eternity by Isaac Asimov](http://www.goodreads.com/book/show/509784.The_End_of_Eternity) [4.16]
 - Almost anything by Greg Egan *(His works are mind bending)* (TODO: list his books)
 - Anything by John Scalzi. (TODO: list his books)
 
