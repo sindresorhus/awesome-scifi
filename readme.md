@@ -53,6 +53,12 @@ Personally I'm going to start with the first three.
 - [Commonwealth Saga](https://www.goodreads.com/series/40740-commonwealth-saga), by Peter F. Hamilton *(and all the following trilogy of the void)* [4.21]
 - [Daemon](http://www.goodreads.com/book/show/4699575-daemon?from_search=true), by Daniel Suarez [4.19]
 - [Freedom](http://www.goodreads.com/book/show/7132363-freedom?from_search=true), by Daniel Suarez [4.28]
+- [Permutation City](https://www.goodreads.com/book/show/156784.Permutation_City), by Greg Egan [4.08]
+- [Schild's Ladder](https://www.goodreads.com/book/show/156780.Schild_s_Ladder), by Greg Egan [3.89]
+- [Diaspora](https://www.goodreads.com/book/show/156785.Diaspora), by Greg Egan [4.10]
+- [The Quantum Thief](https://www.goodreads.com/book/show/7562764-the-quantum-thief), by Hannu Rajaniemi [3.83]
+- [The Fractal Prince](https://www.goodreads.com/book/show/12074927-the-fractal-prince), by Hannu Rajaniemi [4.03]
+- [The Causal Angel](https://www.goodreads.com/book/show/18190723-the-causal-angel), by Hannu Rajaniemi [4.23]
 - Almost anything by Greg Egan *(His works are mind bending)* (TODO: list his books)
 - Anything by John Scalzi. (TODO: list his books)
 
