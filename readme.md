@@ -241,7 +241,7 @@ Sci-fi, sociology and philosophy.
 
 #### [Commonwealth Saga](https://www.goodreads.com/series/40740-commonwealth-saga) *by Peter F. Hamilton* [4.21]
 
-*And all the following [trilogy of the void](https://www.goodreads.com/series/43520-void))*
+*(And all the following [trilogy of the void](https://www.goodreads.com/series/43520-void))*
 
 > The year is 2380. The Intersolar Commonwealth, a sphere of stars some four hundred light-years in diameter, contains more than six hundred worlds, interconnected by a web of transport "tunnels" known as wormholes. At the farthest edge of the Commonwealth, astronomer Dudley Bose observes the impossible: Over one thousand light-years away, a star... vanishes. It does not go supernova. It does not collapse into a black hole. It simply disappears. Since the location is too distant to reach by wormhole, a faster-than-light starship, the Second Chance, is dispatched to learn what has occurred and whether it represents a threat. In command is Wilson Kime, a five-time rejuvenated ex-NASA pilot whose glory days are centuries behind him.
 
@@ -262,6 +262,14 @@ Sci-fi, sociology and philosophy.
 #### [House of Suns](https://www.goodreads.com/book/show/1126719.House_of_Suns) *by Alastair Reynolds* [4.14]
 
 > Six million years ago, at the dawn of the star-faring era, Abigail Gentian fractured herself into a thousand male and female clones, which she called shatterlings. But now, someone is eliminating the Gentian line. Campion and Purslane-two shatterlings who have fallen in love and shared forbidden experiences-must determine exactly who, or what, their enemy is, before they are wiped out of existence.
+
+#### [Ancillary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) *by Ann Leckie* [3.98]
+
+*(And all the following [Ancillary Sword](https://www.goodreads.com/book/show/20706284-ancillary-sword))*
+
+> On a remote, icy planet, the soldier known as Breq is drawing closer to completing her quest.
+Once, she was the Justice of Toren - a colossal starship with an artificial intelligence linking thousands of soldiers in the service of the Radch, the empire that conquered the galaxy.
+Now, an act of treachery has ripped it all away, leaving her with one fragile human body, unanswered questions, and a burning desire for vengeance.
 
 
 ### Post Apocalyptic
