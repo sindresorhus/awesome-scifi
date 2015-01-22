@@ -5,7 +5,28 @@
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
 
-## Novel recommendations
+## TOC
+
+- [Novels](#novels)
+	- [Science Fiction](#science-fiction)
+	- [Hard Science Fiction](#hard-science-fiction)
+	- [Soft Science Fiction](#soft-science-fiction)
+	- [Cyberpunk](#cyberpunk)
+	- [Dystopia](#dystopia)
+	- [Space Opera](#space-opera)
+	- [Post Apocalyptic](#post-apocalyptic)
+	- [Military Science Fiction](#military-science-fiction)
+	- [Police Procedural Science Fiction](#police-procedural-science-fiction)
+	- [Techno Thriller](#techno-thriller)
+	- [High Fantasy](#high-fantasy)
+	- [Drama](#drama)
+	- [Biopunk](#biopunk)
+	- [Speculative Fiction](#speculative-fiction)
+- [Movies](#movies)
+- [TV-series](#tv-series)
+
+
+## Novels
 
 :star: means that it's a classic.
 
@@ -144,8 +165,8 @@ Twitter user: One of the best books I have ever read.
 #### [Greg Mandel](https://www.goodreads.com/series/43978-greg-mandel) *by Peter F. Hamilton* [3.85]
 
 > Greg Mandel, late of the Mindstar Battalion, has been many things in his life. Commando. Freedom fighter. Assassin. Now he's a freelance operative with a very special edge: telepathy.
-    In the high-tech, hard-edged world of computer crime, zero-gravity smuggling, and artificial intelligence, Greg Mandel is the man to call when things get rough. But when an elusive saboteur plagues a powerful organization known as Event Horizon, Mandel must cut his way through a maze of corporate intrigue and startling new scientific discoveries.
-    And nothing less than the future is at stake.
+	In the high-tech, hard-edged world of computer crime, zero-gravity smuggling, and artificial intelligence, Greg Mandel is the man to call when things get rough. But when an elusive saboteur plagues a powerful organization known as Event Horizon, Mandel must cut his way through a maze of corporate intrigue and startling new scientific discoveries.
+	And nothing less than the future is at stake.
 
 
 ### Dystopia
@@ -191,7 +212,7 @@ Sci-fi, sociology and philosophy.
 #### [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) *by Aldous Huxley* [3.93] :star: :fire:
 
 > Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations, where the old, imperfect life still continues, may be the cure for his
-    distress...
+	distress...
 
 > Huxley's ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.
 
