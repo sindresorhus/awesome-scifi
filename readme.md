@@ -130,6 +130,10 @@ Twitter user: One of the best books I have ever read.
 
 > Diaspora is the story of Yatima — a polis being created from random mutations of the Konishi polis base mind seed — and of humankind, Of an astrophysical accident that spurs the thousandfold cloning of the polises. Of the discovery of an alien race and of a kink in time that means humanity — whatever form it takes — will never again be threatened by acts of God.
 
+#### [Dragon's Egg](https://www.goodreads.com/book/show/263466.Dragon_s_Egg) *by Robert L. Forward* [4.12]
+
+> In a moving story of sacrifice and triumph, human scientists establish a relationship with intelligent life forms--the cheela--living on Dragon's Egg, a neutron star where one Earth hour is equivalent to hundreds of their years. The cheela culturally evolve from savagery to the discovery of science, and for a brief time men are their diligent teachers.
+
 
 ### Soft Science Fiction
 
