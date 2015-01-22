@@ -59,6 +59,7 @@ Personally I'm going to start with the first three.
 - [The Quantum Thief](https://www.goodreads.com/book/show/7562764-the-quantum-thief), by Hannu Rajaniemi [3.83]
 - [The Fractal Prince](https://www.goodreads.com/book/show/12074927-the-fractal-prince), by Hannu Rajaniemi [4.03]
 - [The Causal Angel](https://www.goodreads.com/book/show/18190723-the-causal-angel), by Hannu Rajaniemi [4.23]
+- [The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl), by Paolo Bacigalupi [3.73]
 - Almost anything by Greg Egan *(His works are mind bending)* (TODO: list his books)
 - Anything by John Scalzi. (TODO: list his books)
 
