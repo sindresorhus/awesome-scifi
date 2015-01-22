@@ -426,6 +426,19 @@ If you liked Cloud Atlas this is a good read.
 - [The Signal](http://www.imdb.com/title/tt2910814/)
 - [Source Code](http://www.imdb.com/title/tt0945513/)
 - [The Man from Earth](http://www.imdb.com/title/tt0756683/)
+- [Blade Runner](http://www.imdb.com/title/tt0083658/)
+- [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)
+- [A Clockwork Orange](http://www.imdb.com/title/tt0066921/)
+- [Metropolis](http://www.imdb.com/title/tt0017136/)
+- [The Matrix](http://www.imdb.com/title/tt0133093/)
+- [Primer](http://www.imdb.com/title/tt0390384/)
+- [La Jetée](http://www.imdb.com/title/tt0056119/)
+- [Solaris](http://www.imdb.com/title/tt0307479/)
+- [Brazil](http://www.imdb.com/title/tt0088846/)
+- [Eraserhead](http://www.imdb.com/title/tt0074486/)
+- [Minority Report](http://www.imdb.com/title/tt0181689)
+- [Godzilla](http://www.imdb.com/title/tt0047034/)
+- [Galaxy Quest](http://www.imdb.com/title/tt0177789/)
 
 
 ## TV-series
@@ -437,6 +450,12 @@ If you liked Cloud Atlas this is a good read.
 - [Black Mirror](http://www.imdb.com/title/tt2085059/)
 - Star Trek (TODO: which ones?)
 - [Farscape](http://www.imdb.com/title/tt0187636/)
+- [Dr. Who](http://www.imdb.com/title/tt0436992/)
+- [Twilight Zone](http://www.imdb.com/title/tt0052520/)
+- [Blakes 7](http://www.imdb.com/title/tt0076987/)
+- [Hitchhiker's Guide to the Galaxy](http://www.imdb.com/title/tt0081874/)
+- [The Prisoner](http://www.imdb.com/title/tt0061287/)
+- [The X-Files](http://www.imdb.com/title/tt0106179/)
 
 
 ## License
