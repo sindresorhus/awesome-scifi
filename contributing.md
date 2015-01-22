@@ -2,6 +2,7 @@
 
 Please ensure your pull request adheres to the following guidelines:
 
+- You should have consumed the content you're suggesting.
 - The entry should contain the name, description and why you are recommending it.
 - Use the following format: `[name](link) - Description. - *Reasoning.*`
 - Keep descriptions short and simple, but descriptive.
