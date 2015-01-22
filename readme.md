@@ -5,10 +5,13 @@
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
 
-## Novel recommendations [Rating on Goodreads]
+## Novel recommendations
 
 :star: means that it's a classic.
+
 :fire: means that it has more than 100 000 ratings on Goodreads.
+
+The [number] at the end is the rating on Goodreads.
 
 ### Science Fiction
 - :star: :fire: [Foundation](https://www.goodreads.com/book/show/29579.Foundation), by Isaac Asimov [4.05]
