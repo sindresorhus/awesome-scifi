@@ -75,7 +75,7 @@ Personally I'm going to start with the first three.
 - [Europa Report](http://www.imdb.com/title/tt2051879/)
 - [The Signal](http://www.imdb.com/title/tt2910814/)
 - [Source Code](http://www.imdb.com/title/tt0945513/)
-- [The Man from Earth](http://www.imdb.com/title/tt0945513/)
+- [The Man from Earth](http://www.imdb.com/title/tt0756683/)
 
 
 ## TV-series
