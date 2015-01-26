@@ -172,6 +172,10 @@ Twitter user: One of the best books I have ever read.
 	In the high-tech, hard-edged world of computer crime, zero-gravity smuggling, and artificial intelligence, Greg Mandel is the man to call when things get rough. But when an elusive saboteur plagues a powerful organization known as Event Horizon, Mandel must cut his way through a maze of corporate intrigue and startling new scientific discoveries.
 	And nothing less than the future is at stake.
 
+#### [The Diamond Age: Or, A Young Lady's Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) *by Neal Stephenson* [4.2]
+
+> The Diamond Age: Or, A Young Lady's Illustrated Primer is a postcyberpunk novel by Neal Stephenson. It is to some extent a science fiction coming-of-age story, focused on a young girl named Nell, and set in a future world in which nanotechnology affects all aspects of life. The novel deals with themes of education, social class, ethnicity, and the nature of artificial intelligence.
+
 
 ### Dystopia
 
