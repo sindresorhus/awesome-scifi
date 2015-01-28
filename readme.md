@@ -443,6 +443,7 @@ If you liked Cloud Atlas this is a good read.
 - [Minority Report](http://www.imdb.com/title/tt0181689)
 - [Godzilla](http://www.imdb.com/title/tt0047034/)
 - [Galaxy Quest](http://www.imdb.com/title/tt0177789/)
+- [Gattaca](http://www.imdb.com/title/tt0119177/)
 
 
 ## TV-series
