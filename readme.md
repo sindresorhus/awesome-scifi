@@ -28,16 +28,16 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 ## Novels
 
-:star: means that it's a classic.
+<img src="http://i.imgur.com/yJaoHfh.png" width="30px"> means that it's a classic.
 
-:fire: means that it has more than 100 000 ratings on Goodreads.
+<img src="http://i.imgur.com/iA6WScw.png" width="30px"> means that it has more than 100 000 ratings on Goodreads.
 
 The [number] at the end is the rating on Goodreads.
 
 
 ### Science Fiction
 
-#### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) *by Isaac Asimov* [4.05] :star: :fire:
+#### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) *by Isaac Asimov* [4.05] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future -- to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire -- both scientists and scholars -- and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
 
@@ -65,9 +65,9 @@ Twitter user: One of the best books I have ever read.
 
 > Red Schuhart is a stalker, one of those strange misfits compelled to venture illegally into the Zone and collect the strange artefacts that the alien visitors left scattered there. His whole life, even the nature of his daughter, is determined by the Zone.
 
-#### [Solaris](https://www.goodreads.com/book/show/95558.Solaris) *by Stanisław Lem* [3.94] :star:
+#### [Solaris](https://www.goodreads.com/book/show/95558.Solaris) *by Stanisław Lem* [3.94] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
-> A classic work of science fiction by renowned Polish novelist and satirist Stanislaw Lem.
+> A classic work of science fiction by renowned Polish novelist and satirist Stanisław Lem.
 
 > When Kris Kelvin arrives at the planet Solaris to study the ocean that covers its surface, he finds a painful, hitherto unconscious memory embodied in the living physical likeness of a long-dead lover. Others examining the planet, Kelvin learns, are plagued with their own repressed and newly corporeal memories. The Solaris ocean may be a massive brain that creates these incarnate memories, though its purpose in doing so is unknown, forcing the scientists to shift the focus of their quest and wonder if they can truly understand the universe without first understanding what lies within their hearts.
 
@@ -137,14 +137,14 @@ Twitter user: One of the best books I have ever read.
 
 ### Soft Science Fiction
 
-#### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) *by Frank Herbert* [4.13] :star: :fire:
+#### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) *by Frank Herbert* [4.13] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, Dune tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides & heir of House Atreides) as he & his family accept control of the desert planet Arrakis, the only source of the "spice" melange, the most important & valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology & human emotion, as the forces of the empire confront each other for control of Arrakis. Published in 1965, it won the Hugo Award in 1966 & the inaugural Nebula Award for Best Novel. Dune is frequently cited as the world's best-selling sf novel.
 
 
 ### Cyberpunk
 
-#### [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) *by Neal Stephenson* [3.98] :fire:
+#### [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) *by Neal Stephenson* [3.98] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > In reality, Hiro Protagonist delivers pizza for Uncle Enzo’s CosoNostra Pizza Inc., but in the Metaverse he’s a warrior prince. Plunging headlong into the enigma of a new computer virus that’s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. Snow Crash is a mind-altering romp through a future America so bizarre, so outrageous…you’ll recognize it immediately.
 
@@ -158,7 +158,7 @@ Twitter user: One of the best books I have ever read.
 
 > Cobb Anderson created the "boppers," sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers--and eventually every human--into a giant, melded consciousness. Some of the little boppers aren't too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his "software." It seems like a good idea to Cobb.
 
-#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) *by William Gibson* [3.85] :star: :fire:
+#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) *by William Gibson* [3.85] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > The Matrix is a world within the world, a global consensus- hallucination, the representation of every byte of data in cyberspace . . .
 
@@ -179,11 +179,11 @@ Twitter user: One of the best books I have ever read.
 
 ### Dystopia
 
-#### [Oryx and Crake](https://www.goodreads.com/series/55674-maddaddam) *by Margaret Atwood* [3.97] :fire:
+#### [Oryx and Crake](https://www.goodreads.com/series/55674-maddaddam) *by Margaret Atwood* [3.97] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > Oryx and Crake is at once an unforgettable love story and a compelling vision of the future. Snowman, known as Jimmy before mankind was overwhelmed by a plague, is struggling to survive in a world where he may be the last human, and mourning the loss of his best friend, Crake, and the beautiful and elusive Oryx whom they both loved. In search of answers, Snowman embarks on a journey–with the help of the green-eyed Children of Crake–through the lush wilderness that was so recently a great city, until powerful corporations took mankind on an uncontrolled genetic engineering ride. Margaret Atwood projects us into a near future that is both all too familiar and beyond our imagining.
 
-#### [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) *by Ernest Cline* [4.31] :fire:
+#### [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) *by Ernest Cline* [4.31] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > It's the year 2044, and the real world is an ugly place.
 
@@ -207,7 +207,7 @@ Sci-fi, sociology and philosophy.
 
 > Shevek, a brilliant physicist, decides to take action. He will seek answers, question the unquestionable, and attempt to tear down the walls of hatred that have isolated his planet of anarchists from the rest of the civilized universe. To do this dangerous task will mean giving up his family and possibly his life--Shevek must make the unprecedented journey to the utopian mother planet, Anarres, to challenge the complex structures of life and living, and ignite the fires of change.
 
-#### [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) *by Ray Bradbury* [3.95] :star: :fire:
+#### [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) *by Ray Bradbury* [3.95] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > The terrifyingly prophetic novel of a post-literate future.
 
@@ -217,14 +217,14 @@ Sci-fi, sociology and philosophy.
 
 > Bradbury’s powerful and poetic prose combines with uncanny insight into the potential of technology to create a novel which, decades on from first publication, still has the power to dazzle and shock.
 
-#### [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) *by Aldous Huxley* [3.93] :star: :fire:
+#### [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) *by Aldous Huxley* [3.93] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations, where the old, imperfect life still continues, may be the cure for his
 	distress...
 
 > Huxley's ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.
 
-#### [1984](https://www.goodreads.com/book/show/5470.1984) *by George Orwell* [4.10] :star: :fire:
+#### [1984](https://www.goodreads.com/book/show/5470.1984) *by George Orwell* [4.10] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > Written in 1948, 1984 was George Orwell's chilling prophecy about the future.
 
@@ -261,7 +261,7 @@ Sci-fi, sociology and philosophy.
 
 > Deploying invulnerable twenty-fifth-century soldiers called Skins, Zantiu-Braun's corporate starships loot entire planets. But as the Skins invade bucolic Thallspring, Z-B's strategy is about to go awry, all because of: Sgt. Lawrence Newton, a dreamer whose twenty years as a Skin have destroyed his hopes and desires; Denise Ebourn, a school teacher and resistance leader whose guerrilla tactics rival those of Che Guevara and George Washington and Simon Roderick, the director who serves Z-B with a dedication that not even he himself can understand. Grimly determined to steal, or protect, a mysterious treasure, the three players engage in a private war that will explode into unimaginable quests for personal grace...or galactic domination
 
-#### [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) *by Dan Simmons* [4.16] :star:
+#### [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) *by Dan Simmons* [4.16] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
 > On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge, brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope—and a terrible secret. And one may hold the fate of humanity in his hands.
 
@@ -286,7 +286,7 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 >  A time storm has devastated the Earth, and only a small fraction of humankind remains. From the rubble, three survivors form an unlikely alliance: a young man, a young woman, and a leopard.
 
-#### [The Stand](http://www.goodreads.com/book/show/149267.The_Stand) *by Stephen King* [4.31] :fire:
+#### [The Stand](http://www.goodreads.com/book/show/149267.The_Stand) *by Stephen King* [4.31] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.
 
@@ -307,7 +307,7 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 > In one of Robert Heinlein's most controversial bestsellers, a recruit of the future goes through the toughest boot camp in the Universe--and into battle with the Terran Mobile Infantry against mankind's most frightening enemy.
 
-#### [Enders Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) *by Orson Scott Card* [4.28] :star: :fire:
+#### [Enders Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) *by Orson Scott Card* [4.28] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > In order to develop a secure defense against a hostile alien race's next attack, government agencies breed child geniuses and train them as soldiers. A brilliant young boy, Andrew "Ender" Wiggin lives with his kind but distant parents, his sadistic brother Peter, and the person he loves more than anyone else, his sister Valentine. Peter and Valentine were candidates for the soldier-training program but didn't make the cut—young Ender is the Wiggin drafted to the orbiting Battle School for rigorous military training.
 
@@ -337,7 +337,7 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 ### Techno Thriller
 
-#### [Sphere](https://www.goodreads.com/book/show/455373.Sphere) *by Michael Crichton* [3.70] :star: :fire:
+#### [Sphere](https://www.goodreads.com/book/show/455373.Sphere) *by Michael Crichton* [3.70] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 Twitter user: My favorite novel. Movie was worse than terrible.
 
@@ -405,7 +405,7 @@ If you liked Cloud Atlas this is a good read.
 
 > Powerful unforeseen forces jeopardize the peaceful stability of mathic life and the established ennui of the Extramuros—a threat that only an unsteady alliance of saecular and avout can oppose—as, one by one, Erasmas and his colleagues, teachers, and friends are summoned forth from the safety of the concent in hopes of warding off global disaster. Suddenly burdened with a staggering responsibility, Erasmas finds himself a major player in a drama that will determine the future of his world—as he sets out on an extraordinary odyssey that will carry him to the most dangerous, inhospitable corners of the planet . . . and beyond.
 
-#### [Stranger in a strange land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land) *by Robert A. Heinlein* [3.87] :star: :fire:
+#### [Stranger in a strange land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land) *by Robert A. Heinlein* [3.87] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > NAME: Valentine Michael smith
 > ANCESTRY: Human
