@@ -535,19 +535,56 @@ If you liked Cloud Atlas this is a good read.
 
 ## TV-series
 
-- [Firefly](http://www.imdb.com/title/tt0303461/)
-- [Stargate SG1](http://www.imdb.com/title/tt0118480/)
-- [Stargate Atlantis](http://www.imdb.com/title/tt0374455/)
-- [Battlestar Galactica](http://www.imdb.com/title/tt0407362/)
-- [Black Mirror](http://www.imdb.com/title/tt2085059/)
+#### [Firefly](http://www.imdb.com/title/tt0303461/) [9.2]
+
+> Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.
+
+#### [Stargate SG1](http://www.imdb.com/title/tt0118480/) [8.5]
+
+> A secret military team, SG-1, is formed to explore the recently discovered Stargates.
+
+#### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) [8.1]
+
+> An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.
+
+#### [Battlestar Galactica](http://www.imdb.com/title/tt0407362/) [8.8]
+
+> When an old enemy, the Cylons, resurfaces and obliterate the 12 colonies, the crew of the aged Galactica protects a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony of Earth.
+
+#### [Black Mirror](http://www.imdb.com/title/tt2085059/) [8.8]
+
+>  A television anthology series that shows the dark side of life and technology.
+
 - Star Trek (TODO: which ones?)
-- [Farscape](http://www.imdb.com/title/tt0187636/)
-- [Dr. Who](http://www.imdb.com/title/tt0436992/)
-- [Twilight Zone](http://www.imdb.com/title/tt0052520/)
-- [Blakes 7](http://www.imdb.com/title/tt0076987/)
-- [Hitchhiker's Guide to the Galaxy](http://www.imdb.com/title/tt0081874/)
-- [The Prisoner](http://www.imdb.com/title/tt0061287/)
-- [The X-Files](http://www.imdb.com/title/tt0106179/)
+
+#### [Farscape](http://www.imdb.com/title/tt0187636/) [8.4]
+
+> Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.
+
+#### [Dr. Who](http://www.imdb.com/title/tt0436992/) [8.9]
+
+> The further adventures of the time traveling alien adventurer and his companions.
+
+#### [Twilight Zone](http://www.imdb.com/title/tt0052520/) [9.0]
+
+> Rod Serling's seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations. The stories would typically end with an ironic twist that would see the guilty punished.
+
+#### [Blakes 7](http://www.imdb.com/title/tt0076987/) [8.0]
+
+> A group of convicts and outcasts fight a guerrilla war against the totalitarian Terran Federation from a highly advanced alien spaceship.
+
+#### [Hitchhiker's Guide to the Galaxy](http://www.imdb.com/title/tt0081874/) [8.0]
+
+> An Earth man and his alien friend escape Earth's destruction and go on a truly strange adventure as space hitchhikers.
+
+#### [The Prisoner](http://www.imdb.com/title/tt0061287/) [8.8]
+
+> After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
+
+#### [The X-Files](http://www.imdb.com/title/tt0106179/) [8.8]
+
+> Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.
+
 
 
 ## License
