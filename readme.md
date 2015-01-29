@@ -296,6 +296,9 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 > Now Stephen King's apocalyptic vision of a world blasted by plague and embroiled in an elemental struggle between good and evil has been restored to its entirety. The Stand : The Complete And Uncut Edition includes more than five hundred pages of material previously deleted, along with new material that King added as he reworked the manuscript for a new generation. It gives us new characters and endows familiar ones with new depths. It has a new beginning and a new ending. What emerges is a gripping work with the scope and moral complexity of a true epic.
 
+#### [Where Late the Sweet Birds Sang](http://www.goodreads.com/book/show/968827.Where_Late_the_Sweet_Birds_Sang) *by Kate Wilhelm* [3.87]
+
+> The spellbinding story of an isolated post-holocaust community determined to preserve itself, through a perilous experiment in cloning. Sweeping, dramatic, rich with humanity, & rigorous in its science, Where Late the Sweet Birds Sang is widely regarded as a high point of both humanistic & hard SF, winning SF's Hugo Award & Locus Award on its first publication.
 
 ### Military Science Fiction
 
