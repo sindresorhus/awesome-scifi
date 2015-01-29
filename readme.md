@@ -419,34 +419,118 @@ If you liked Cloud Atlas this is a good read.
 
 ## Movies
 
-- [Her](http://www.imdb.com/title/tt1798709/)
-- [Snowpiercer](http://www.imdb.com/title/tt1706620/)
-- [Serenity *(Firefly)*](http://www.imdb.com/title/tt0379786/)
-- [Predestination](http://www.imdb.com/title/tt2397535/)
-- [I Origins](http://www.imdb.com/title/tt2884206/)
-- [Sunshine](http://www.imdb.com/title/tt0448134/)
-- [Moon](http://www.imdb.com/title/tt1182345/)
-- [A Scanner Darkly](http://www.imdb.com/title/tt0405296/)
-- [Coherence](http://www.imdb.com/title/tt2866360/)
-- [Prometheus](http://www.imdb.com/title/tt1446714/)
-- [Europa Report](http://www.imdb.com/title/tt2051879/)
-- [The Signal](http://www.imdb.com/title/tt2910814/)
-- [Source Code](http://www.imdb.com/title/tt0945513/)
-- [The Man from Earth](http://www.imdb.com/title/tt0756683/)
-- [Blade Runner](http://www.imdb.com/title/tt0083658/)
-- [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/)
-- [A Clockwork Orange](http://www.imdb.com/title/tt0066921/)
-- [Metropolis](http://www.imdb.com/title/tt0017136/)
-- [The Matrix](http://www.imdb.com/title/tt0133093/)
-- [Primer](http://www.imdb.com/title/tt0390384/)
-- [La Jetée](http://www.imdb.com/title/tt0056119/)
-- [Solaris](http://www.imdb.com/title/tt0307479/)
-- [Brazil](http://www.imdb.com/title/tt0088846/)
-- [Eraserhead](http://www.imdb.com/title/tt0074486/)
-- [Minority Report](http://www.imdb.com/title/tt0181689)
-- [Godzilla](http://www.imdb.com/title/tt0047034/)
-- [Galaxy Quest](http://www.imdb.com/title/tt0177789/)
-- [Gattaca](http://www.imdb.com/title/tt0119177/)
+#### [Her](http://www.imdb.com/title/tt1798709/) [8.0]
+
+> A lonely writer develops an unlikely relationship with his newly purchased operating system that's designed to meet his every need.
+
+#### [Snowpiercer](http://www.imdb.com/title/tt1706620/) [7.0]
+
+> Set in a future where a failed climate-change experiment kills all life on the planet except for a lucky few who boarded the Snowpiercer, a train that travels around the globe, where a class system emerges.
+
+#### [Serenity *(Firefly)*](http://www.imdb.com/title/tt0379786/) [8.0]
+
+> The crew of the ship Serenity tries to evade an assassin sent to recapture one of their number who is telepathic.
+
+#### [Predestination](http://www.imdb.com/title/tt2397535/) [7.5]
+
+> The life of a time-traveling Temporal Agent. On his final assignment, he must pursue the one criminal that has eluded him throughout time.
+
+#### [I Origins](http://www.imdb.com/title/tt2884206/) [7.3]
+
+> A molecular biologist and his laboratory partner uncover evidence that may fundamentally change society as we know it.
+
+#### [Sunshine](http://www.imdb.com/title/tt0448134/) [7.3]
+
+> A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
+
+#### [Moon](http://www.imdb.com/title/tt1182345/) [8.0]
+
+> Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.
+
+#### [A Scanner Darkly](http://www.imdb.com/title/tt0405296/) [7.1]
+
+> An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
+
+#### [Coherence](http://www.imdb.com/title/tt2866360/) [7.1]
+
+> Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
+
+#### [Prometheus](http://www.imdb.com/title/tt1446714/) [7.0]
+
+> Following clues to the origin of mankind a team journey across the universe and find a structure on a distant planet containing a monolithic statue of a humanoid head and stone cylinders of alien blood but they soon find they are not alone.
+
+#### [Europa Report](http://www.imdb.com/title/tt2051879/) [6.5]
+
+> An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
+
+#### [The Signal](http://www.imdb.com/title/tt2910814/) [6.2]
+
+> On a road trip, Nic and two friends are drawn to an isolated area by a computer genius. When everything suddenly goes dark, Nic regains consciousness - only to find himself in a waking nightmare.
+
+#### [Source Code](http://www.imdb.com/title/tt0945513/) [7.5]
+
+> A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train. A mission he has only 8 minutes to complete.
+
+#### [The Man from Earth](http://www.imdb.com/title/tt0756683/) [8.0]
+
+> An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.
+
+#### [Blade Runner](http://www.imdb.com/title/tt0083658/) [8.2]
+
+> A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
+
+#### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) [8.3]
+
+> Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
+
+#### [A Clockwork Orange](http://www.imdb.com/title/tt0066921/) [8.4]
+
+> In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.
+
+#### [Metropolis](http://www.imdb.com/title/tt0017136/) [8.3]
+
+> In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
+
+#### [The Matrix](http://www.imdb.com/title/tt0133093/) [8.7]
+
+> A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+#### [Primer](http://www.imdb.com/title/tt0390384/) [7.0]
+
+> Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
+
+#### [La Jetée](http://www.imdb.com/title/tt0056119/) [8.4]
+
+> Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world's fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
+
+#### [Solaris](http://www.imdb.com/title/tt0307479/) [6.2]
+
+> A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.
+
+#### [Brazil](http://www.imdb.com/title/tt0088846/) [8.0]
+
+> A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.
+
+#### [Eraserhead](http://www.imdb.com/title/tt0074486/) [7.4]
+
+> Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.
+
+#### [Minority Report](http://www.imdb.com/title/tt0181689) [7.7]
+
+> In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
+
+#### [Godzilla](http://www.imdb.com/title/tt0047034/) [7.5]
+
+> American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
+
+#### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) [7.3]
+
+> The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.
+
+#### [Gattaca](http://www.imdb.com/title/tt0119177/) [7.8]
+
+> A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
+
 
 
 ## TV-series
