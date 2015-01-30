@@ -79,6 +79,12 @@ Twitter user: One of the best books I have ever read.
 
 > The Quantum Thief is a breathtaking joyride through the solar system several centuries hence, a world of marching cities, ubiquitous public-key encryption, people who communicate via shared memory, and a race of hyper-advanced humans who originated as an MMORPG guild. But for all its wonders, The Quantum Thief is also a story powered by very human motives of betrayal, jealousy, and revenge.
 
+#### [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) *by Peter Watts* [3.95]
+
+A cast of strange and wonderful characters. Overarching themes on consciousness, transhumanism, humanity and first contact. This book has everything.
+
+> It's been two months since a myriad of alien objects clenched about the Earth, screaming as they burned. The heavens have been silent since - until a derelict space probe hears whispers from a distant comet. Something talks out there: but not to us. Who to send to meet the alien, when the alien doesn't want to meet? Send a linguist with multiple-personality disorder, and a biologist so spliced to machinery he can't feel his own flesh. Send a pacifist warrior, and a vampire recalled from the grave by the voodoo of paleogenetics. Send a man with half his mind gone since childhood. Send them to the edge of the solar system, praying you can trust such freaks and monsters with the fate of a world. You fear they may be more alien than the thing they've been sent to find - but you'd give anything for that to be true, if you knew what was waiting for them.
+
 
 ### Hard Science Fiction
 
