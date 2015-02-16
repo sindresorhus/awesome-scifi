@@ -597,6 +597,7 @@ If you liked Cloud Atlas this is a good read.
 ## Links
 
 * [What are your favourite sci-fi books? - Hacker News](https://news.ycombinator.com/item?id=9056319)
+* [Whats the best Sci-Fi novel you have ever read? - Reddit](http://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/)
 
 
 
