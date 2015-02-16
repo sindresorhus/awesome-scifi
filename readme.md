@@ -24,6 +24,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Speculative Fiction](#speculative-fiction)
 - [Movies](#movies)
 - [TV-series](#tv-series)
+- [Links](#links)
 
 
 ## Novels
@@ -590,6 +591,12 @@ If you liked Cloud Atlas this is a good read.
 #### [The X-Files](http://www.imdb.com/title/tt0106179/) [8.8]
 
 > Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.
+
+
+
+## Links
+
+* [What are your favourite sci-fi books? - Hacker News](https://news.ycombinator.com/item?id=9056319)
 
 
 
