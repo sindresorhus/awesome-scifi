@@ -592,6 +592,10 @@ If you liked Cloud Atlas this is a good read.
 
 > Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.
 
+#### [Continuum](http://www.imdb.com/title/tt1954347/) [7.8]
+
+> A detective from the year 2077 finds herself trapped in present day Vancouver and searching for ruthless criminals from the future.
+
 
 
 ## Links
