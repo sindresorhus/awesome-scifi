@@ -596,6 +596,9 @@ If you liked Cloud Atlas this is a good read.
 
 > A detective from the year 2077 finds herself trapped in present day Vancouver and searching for ruthless criminals from the future.
 
+#### [Fringe](http://www.imdb.com/title/tt1119644/) [8.5]
+
+> A television drama centered around a female FBI agent who is forced to work with an institutionalized scientist in order to rationalize a brewing storm of unexplained phenomena.
 
 
 ## Links
