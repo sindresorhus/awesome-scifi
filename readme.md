@@ -86,6 +86,12 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > It's been two months since a myriad of alien objects clenched about the Earth, screaming as they burned. The heavens have been silent since - until a derelict space probe hears whispers from a distant comet. Something talks out there: but not to us. Who to send to meet the alien, when the alien doesn't want to meet? Send a linguist with multiple-personality disorder, and a biologist so spliced to machinery he can't feel his own flesh. Send a pacifist warrior, and a vampire recalled from the grave by the voodoo of paleogenetics. Send a man with half his mind gone since childhood. Send them to the edge of the solar system, praying you can trust such freaks and monsters with the fate of a world. You fear they may be more alien than the thing they've been sent to find - but you'd give anything for that to be true, if you knew what was waiting for them.
 
+#### [The Door Into Summer](http://www.goodreads.com/book/show/348.The_Door_Into_Summer) *by Robert A. Heinlein* [4.0]
+
+> It is 1970, and electronics engineer Dan Davis has finally made the invention of a lifetime: a household robot with extraordinary abilities, destined to dramatically change the landscape of everyday routine. Then, with wild success just within reach, Dan's greedy partner and even greedier fiancée steal his work and leave him penniless, and trick him into taking the long sleep—suspended animation for thirty years.
+
+> They never imagine that the future time in which Dan awakens has a very limited form of time travel, just enough that Davis can travel back and recover his research. He then again undergoes suspended animation, and awakens again in the high-tech future of the year 2000, with his reputation, fortune, and his sweetheart.
+
 
 ### Hard Science Fiction
 
