@@ -148,6 +148,12 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, Dune tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides & heir of House Atreides) as he & his family accept control of the desert planet Arrakis, the only source of the "spice" melange, the most important & valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology & human emotion, as the forces of the empire confront each other for control of Arrakis. Published in 1965, it won the Hugo Award in 1966 & the inaugural Nebula Award for Best Novel. Dune is frequently cited as the world's best-selling sf novel.
 
+#### [Haroun and the Sea of Stories](https://www.goodreads.com/book/show/4835.Haroun_and_the_Sea_of_Stories) *by Salman Rushdie* [4.01]
+
+> Set in an exotic Eastern landscape peopled by magicians and fantastic talking animals, Salman Rushdie's classic children's novel Haroun and the Sea of Stories inhabits the same imaginative space as Gulliver's Travels, Alice in Wonderland, and The Wizard of Oz. In this captivating adaptation for the stage, Haroun sets out on an adventure to restore the poisoned source of the sea of stories. On the way, he encounters many foes, all intent on draining the sea of all its storytelling powers.
+
+> The author of The Satanic Verses returns with his most humorous and accessible novel yet. This is the story of Haroun, a 12-year-old boy whose father Rashid is the greatest storyteller in a city so sad that it has forgotten its name. When the gift of gab suddenly deserts Rashid, Haroun sets out on an adventure to rescue his print.
+
 
 ### Cyberpunk
 
