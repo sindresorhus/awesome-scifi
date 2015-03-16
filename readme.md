@@ -161,12 +161,6 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > In reality, Hiro Protagonist delivers pizza for Uncle Enzo’s CosoNostra Pizza Inc., but in the Metaverse he’s a warrior prince. Plunging headlong into the enigma of a new computer virus that’s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. Snow Crash is a mind-altering romp through a future America so bizarre, so outrageous…you’ll recognize it immediately.
 
-#### [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon) *by Neal Stephenson* [4.2]
-
-> Cryptonomicon zooms all over the world, careening conspiratorially back and forth between two time periods--World War II and the present. Our 1940s heroes are the brilliant mathematician Lawrence Waterhouse, crypt analyst extraordinaire, and gung-ho, morphine-addicted marine Bobby Shaftoe. They're part of Detachment 2702, an Allied group trying to break Axis communication codes while simultaneously preventing the enemy from figuring out that their codes have been broken. Their job boils down to layer upon layer of deception. Dr. Alan Turing is also a member of 2702, and he explains the unit's strange workings to Waterhouse. "When we want to sink a convoy, we send out an observation plane first... Of course, to observe is not its real duty--we already know exactly where the convoy is. Its real duty is to be observed... Then, when we come round and sink them, the Germans will not find it suspicious."
-
-> All of this secrecy resonates in the present-day story line, in which the grandchildren of the WWII heroes--inimitable programming geek Randy Waterhouse and the lovely and powerful Amy Shaftoe--team up to help create an offshore data haven in Southeast Asia and maybe uncover some gold once destined for Nazi coffers. To top off the paranoiac tone of the book, the mysterious Enoch Root, key member of Detachment 2702 and the Societas Eruditorum, pops up with an unbreakable encryption scheme left over from WWII to befuddle the 1990s protagonists with conspiratorial ties.
-
 #### [Ware](https://www.goodreads.com/series/41816-ware) *by Rudy Rucker* [3.7]
 
 > Cobb Anderson created the "boppers," sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers--and eventually every human--into a giant, melded consciousness. Some of the little boppers aren't too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his "software." It seems like a good idea to Cobb.
@@ -369,7 +363,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 > Computer technology expert Daniel Suarez blends haunting high-tech realism with gripping suspense in an authentic, complex thriller in the tradition of Michael Crichton, Neal Stephenson, and William Gibson.
 
-#### [Cryptonomicon](http://www.goodreads.com/book/show/816.Cryptonomicon) [4.2]
+#### [Cryptonomicon](http://www.goodreads.com/book/show/816.Cryptonomicon) *by Neal Stephenson* [4.2]
 
 > Cryptonomicon zooms all over the world, careening conspiratorially back and forth between two time periods--World War II and the present. Our 1940s heroes are the brilliant mathematician Lawrence Waterhouse, crypt analyst extraordinaire, and gung-ho, morphine-addicted marine Bobby Shaftoe. They're part of Detachment 2702, an Allied group trying to break Axis communication codes while simultaneously preventing the enemy from figuring out that their codes have been broken. Their job boils down to layer upon layer of deception. Dr. Alan Turing is also a member of 2702, and he explains the unit's strange workings to Waterhouse. "When we want to sink a convoy, we send out an observation plane first... Of course, to observe is not its real duty--we already know exactly where the convoy is. Its real duty is to be observed... Then, when we come round and sink them, the Germans will not find it suspicious."
 
