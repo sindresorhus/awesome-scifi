@@ -4,6 +4,8 @@
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
+*Please read the [Contributing Guidelines](contributing.md) before contributing.*
+
 
 ## TOC
 
