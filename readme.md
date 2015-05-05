@@ -464,6 +464,14 @@ If you liked Cloud Atlas this is a good read.
 
 > An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
 
+#### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) [7.3]
+
+> The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.
+
+#### [Gattaca](http://www.imdb.com/title/tt0119177/) [7.8]
+
+> A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
+
 #### [Godzilla](http://www.imdb.com/title/tt0047034/) [7.5]
 
 > American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
@@ -476,17 +484,21 @@ If you liked Cloud Atlas this is a good read.
 
 > A molecular biologist and his laboratory partner uncover evidence that may fundamentally change society as we know it.
 
-#### [Interstellar](http://www.imdb.com/title/tt0816692/) [8.7]
-
-> A team of explorers travel through a wormhole in an attempt to ensure humanity's survival.
-
 #### [Inception](http://www.imdb.com/title/tt1375666/) [8.8]
 
 > A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
 
+#### [Interstellar](http://www.imdb.com/title/tt0816692/) [8.7]
+
+> A team of explorers travel through a wormhole in an attempt to ensure humanity's survival.
+
 #### [La Jetée](http://www.imdb.com/title/tt0056119/) [8.4]
 
 > Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world's fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
+
+#### [Metropolis](http://www.imdb.com/title/tt0017136/) [8.3]
+
+> In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
 
 #### [Minority Report](http://www.imdb.com/title/tt0181689) [7.7]
 
@@ -540,18 +552,6 @@ If you liked Cloud Atlas this is a good read.
 
 > On a road trip, Nic and two friends are drawn to an isolated area by a computer genius. When everything suddenly goes dark, Nic regains consciousness - only to find himself in a waking nightmare.
 
-#### [Metropolis](http://www.imdb.com/title/tt0017136/) [8.3]
-
-> In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
-
-#### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) [7.3]
-
-> The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.
-
-#### [Gattaca](http://www.imdb.com/title/tt0119177/) [7.8]
-
-> A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
-
 
 ## TV-series
 
@@ -593,13 +593,13 @@ If you liked Cloud Atlas this is a good read.
 
 - Star Trek (TODO: which ones?)
 
-#### [Stargate SG1](http://www.imdb.com/title/tt0118480/) [8.5]
-
-> A secret military team, SG-1, is formed to explore the recently discovered Stargates.
-
 #### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) [8.1]
 
 > An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.
+
+#### [Stargate SG1](http://www.imdb.com/title/tt0118480/) [8.5]
+
+> A secret military team, SG-1, is formed to explore the recently discovered Stargates.
 
 #### [The Prisoner](http://www.imdb.com/title/tt0061287/) [8.8]
 
