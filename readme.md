@@ -544,7 +544,13 @@ If you liked Cloud Atlas this is a good read.
 
 > A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
+#### [Interstellar](http://www.imdb.com/title/tt0816692/) [8.7]
 
+> A team of explorers travel through a wormhole in an attempt to ensure humanity's survival.
+
+#### [Inception](http://www.imdb.com/title/tt1375666/) [8.8]
+
+> A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
 
 ## TV-series
 
