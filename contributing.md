@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines:
 - The entry should contain the name, link, rating, and description.
 - Use the following format: `[name](link) [rating] - Description`.
   - For books, please copy the description and rating from [Goodreads](https://goodreads.com).
-  - For movies and TV shows, please copy the description and rating from [IMDb](https://imdb.com).
+  - For movies and TV shows, please copy the description and rating from [IMDb](https://www.imdb.com).
 - Check your spelling and gramar.
 - Please add the entry in the correct section, in alphabetical order.
 - Start the description with a capital and end with a full stop/period.
