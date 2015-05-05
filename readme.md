@@ -35,6 +35,8 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 *The [number] at the end is the rounded version of the rating on Goodreads.*
 
+Please read the [Contributing Guidelines](contributing.md) before contributing.
+
 
 ### Science Fiction
 
