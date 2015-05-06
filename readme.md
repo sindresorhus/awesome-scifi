@@ -458,6 +458,10 @@ If you liked Cloud Atlas this is a good read.
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
 
+#### [Dune](http://www.imdb.com/title/tt0087182/) [6.6]
+
+> A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.
+
 #### [Eraserhead](http://www.imdb.com/title/tt0074486/) [7.4]
 
 > Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.
@@ -542,6 +546,10 @@ If you liked Cloud Atlas this is a good read.
 
 > A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
 
+#### [The City of Lost Children](http://www.imdb.com/title/tt0112682/) [7.7]
+
+> A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.
+
 #### [The Man from Earth](http://www.imdb.com/title/tt0756683/) [8.0]
 
 > An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.
@@ -553,6 +561,10 @@ If you liked Cloud Atlas this is a good read.
 #### [The Signal](http://www.imdb.com/title/tt2910814/) [6.2]
 
 > On a road trip, Nic and two friends are drawn to an isolated area by a computer genius. When everything suddenly goes dark, Nic regains consciousness - only to find himself in a waking nightmare.
+
+#### [Twelve Monkeys](http://www.imdb.com/title/tt0114746/) [8.1]
+
+> In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
 
 ## TV-series
