@@ -291,6 +291,10 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 ### Post Apocalyptic
 
+#### [Do Androids Dream of Electric Sheep?](http://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) *by Philip K. Dick* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+> A final, apocalyptic, world war has killed millions, driving entire species into extinction and sending the majority of mankind off-planet. Those who remain, venerate all remaining examples of life, and owning an animal of your own is both a symbol of status and a necessity. For those who can't afford an authentic animal, companies build incredibly realistic simulacrae: horses, birds, cats, sheep . . . even humans.
+
 #### [The Stand](http://www.goodreads.com/book/show/149267.The_Stand) *by Stephen King* [4.3] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.
