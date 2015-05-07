@@ -103,6 +103,8 @@ Twitter user: One of the best books I have ever read.
 
 ### Hard Science Fiction
 
+_Novels which place an emphasis on scientific accuracy and/or technical detail; where the science itself is a central topic._
+
 #### [A Fire Upon the Deep](https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep) *by Vernor Vinge* [4.1]
 
 > A Fire upon the Deep is the big, breakout book that fulfills the promise of Vinge's career to date: a gripping tale of galactic war told on a cosmic scale.
@@ -125,6 +127,8 @@ Twitter user: One of the best books I have ever read.
 
 
 ### Soft Science Fiction
+
+_Novels where the science elements from the backdrop of the story rather than the central topic._
 
 #### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) *by Frank Herbert* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
@@ -165,6 +169,8 @@ Twitter user: One of the best books I have ever read.
 
 ### Cyberpunk
 
+_Future-based novels with advanced science and technology coupled with a disrupted social order._
+
 #### [Greg Mandel](https://www.goodreads.com/series/43978-greg-mandel) *by Peter F. Hamilton* [3.9]
 
 > Greg Mandel, late of the Mindstar Battalion, has been many things in his life. Commando. Freedom fighter. Assassin. Now he's a freelance operative with a very special edge: telepathy.
@@ -193,6 +199,8 @@ Twitter user: One of the best books I have ever read.
 
 
 ### Dystopia
+
+_Dystopian novels deal with imaginary communities or societies that are undesirable or frightening._
 
 #### [1984](https://www.goodreads.com/book/show/5470.1984) *by George Orwell* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
@@ -248,6 +256,8 @@ Sci-fi, sociology and philosophy.
 
 ### Space Opera
 
+_Novels which emphasize adventure, set mainly or entirely in outer space, usually involving conflict between opponents possessing advanced abilities, weapons, and other technology._
+
 #### [Ancillary Justice](https://www.goodreads.com/book/show/17333324-ancillary-justice) *by Ann Leckie* [4.0]
 
 *(And all the following [Ancillary Sword](https://www.goodreads.com/book/show/20706284-ancillary-sword))*
@@ -297,6 +307,8 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 ### Post Apocalyptic
 
+_Novels concerning the end of civilisation, usually basd in a future resulting from a catastrophe of some sort, where only scattered elements of technology remain._
+
 #### [Do Androids Dream of Electric Sheep?](http://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) *by Philip K. Dick* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > A final, apocalyptic, world war has killed millions, driving entire species into extinction and sending the majority of mankind off-planet. Those who remain, venerate all remaining examples of life, and owning an animal of your own is both a symbol of status and a necessity. For those who can't afford an authentic animal, companies build incredibly realistic simulacrae: horses, birds, cats, sheep . . . even humans.
@@ -321,6 +333,8 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 ### Military Science Fiction
 
+_Novels featuring the use use of technology, mainly weapons, for military purposes and principal characters that are members of a military organization involved in military activity; sometimes occurring in outer space or other planets._
+
 #### [Enders Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) *by Orson Scott Card* [4.3] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > In order to develop a secure defense against a hostile alien race's next attack, government agencies breed child geniuses and train them as soldiers. A brilliant young boy, Andrew "Ender" Wiggin lives with his kind but distant parents, his sadistic brother Peter, and the person he loves more than anyone else, his sister Valentine. Peter and Valentine were candidates for the soldier-training program but didn't make the cut—young Ender is the Wiggin drafted to the orbiting Battle School for rigorous military training.
@@ -344,6 +358,7 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 ### Police Procedural Science Fiction
 
+
 #### [Lock In](http://www.goodreads.com/book/show/21418013-lock-in?from_search=true) *by John Scalzi* [3.8]
 
 > A novel of our near future, from one of the most popular authors in modern SF
@@ -358,6 +373,8 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 
 ### Techno Thriller
+
+_Novels which draw from sci-fi, thrillers, spying, action and wars. Include lots of technical detail regarding the subject matter._
 
 #### [Cryptonomicon](http://www.goodreads.com/book/show/816.Cryptonomicon) *by Neal Stephenson* [4.2]
 
@@ -409,6 +426,8 @@ If you liked Cloud Atlas this is a good read.
 
 
 ### Biopunk
+
+_Novels which focus on the near-future unintended consequences of biotechnology revolutions._
 
 #### [The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl) *by Paolo Bacigalupi* [3.7]
 
