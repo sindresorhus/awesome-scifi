@@ -66,6 +66,10 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > Jean le Flambeur gets up in the morning and has to kill himself before his other self can kill him first. Just another day in the Dilemma Prison. Rescued by the mysterious Mieli and her flirtatious spacecraft, Jean is taken to the Oubliette, the Moving City of Mars, where time is a currency, memories are treasures, and a moon-turned-singularity lights the night. Meanwhile, investigator Isidore Beautrelet, called in to investigate the murder of a chocolatier, finds himself on the trail of an arch-criminal, a man named le Flambeur...
 
+#### [Manhattan in Reverse](http://www.goodreads.com/book/show/10710770-manhattan-in-reverse) *by Peter F. Hamilton* [3.9]
+
+> This is a collection of short stories from the master of space opera. Peter Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a story featuring Paula Mayo, deputy director of the Intersolar Commonwealth's Serious Crimes Directorate.
+
 #### [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic) *by Arkady Strugatsky & Boris Strugatsky* [4.2]
 
 Twitter user: One of the best books I have ever read.
