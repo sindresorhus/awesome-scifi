@@ -94,6 +94,12 @@ Twitter user: One of the best books I have ever read.
 
 > They never imagine that the future time in which Dan awakens has a very limited form of time travel, just enough that Davis can travel back and recover his research. He then again undergoes suspended animation, and awakens again in the high-tech future of the year 2000, with his reputation, fortune, and his sweetheart.
 
+#### [The Gods Themselves](http://www.goodreads.com/book/show/41821.The_Gods_Themselves) *by Isaac Asimov* [4.1]
+
+> In the twenty-second century Earth obtains limitless, free energy from a source science little understands: an exchange between Earth and a parallel universe, using a process devised by the aliens. But even free energy has a price. The transference process itself will eventually lead to the destruction of Earth's Sun—and of Earth itself.
+
+> Only a few know the terrifying truth—an outcast Earth scientist, a rebellious alien inhabitant who senses the imminent annihilation of the Sun. They know the truth—but who will listen? They have foreseen the cost of abundant energy—but who will believe? These few beings, human and alien, hold the key to Earth's survival.
+
 
 ### Hard Science Fiction
 
