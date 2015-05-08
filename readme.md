@@ -193,6 +193,10 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 > In reality, Hiro Protagonist delivers pizza for Uncle Enzo’s CosoNostra Pizza Inc., but in the Metaverse he’s a warrior prince. Plunging headlong into the enigma of a new computer virus that’s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. Snow Crash is a mind-altering romp through a future America so bizarre, so outrageous…you’ll recognize it immediately.
 
+#### [The Demolished Man](https://www.goodreads.com/book/show/76740.The_Demolished_Man) *by Alfred Bester* [4.0]
+
+> In a world in which the police have telepathic powers, how do you get away with murder? Ben Reichs heads a huge 24th century business empire, spanning the solar system. He is also an obsessed, driven man determined to murder a rival. To avoid capture, in a society where murderers can be detected even before they commit their crime, is the greatest challenge of his life.
+
 #### [The Diamond Age: Or, A Young Lady's Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) *by Neal Stephenson* [4.2]
 
 > The Diamond Age: Or, A Young Lady's Illustrated Primer is a postcyberpunk novel by Neal Stephenson. It is to some extent a science fiction coming-of-age story, focused on a young girl named Nell, and set in a future world in which nanotechnology affects all aspects of life. The novel deals with themes of education, social class, ethnicity, and the nature of artificial intelligence.
