@@ -66,7 +66,9 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > Jean le Flambeur gets up in the morning and has to kill himself before his other self can kill him first. Just another day in the Dilemma Prison. Rescued by the mysterious Mieli and her flirtatious spacecraft, Jean is taken to the Oubliette, the Moving City of Mars, where time is a currency, memories are treasures, and a moon-turned-singularity lights the night. Meanwhile, investigator Isidore Beautrelet, called in to investigate the murder of a chocolatier, finds himself on the trail of an arch-criminal, a man named le Flambeur...
 
-#### [Jem](https://www.goodreads.com/book/show/591572.Jem) *by Frederik Pohl* [3.55]
+#### [Jem](https://www.goodreads.com/book/show/591572.Jem) *by Frederik Pohl* [3.6]
+
+This book has a few beautiful passages. It deals mainly with the ethics of using alien species for nationalistic purposes, and for that alone was an interesting read. Like a lot of science fiction, I found it a bit hard to empathize with any particular characters, but it's a short read and worth it anyway. The politics are a bit dated. 
 
 > The discovery of another habitable world might spell salvation to the three bitterly competing power blocs of the resource-starved 21st century; but when their representatives arrive on Jem, with its multiple intelligent species, they discover instead the perfect situation into which to export their rivalries. Subtitled, with savage irony, 'The Making of a Utopia', Jem is one of Frederik Pohl's most powerful novels.
 
