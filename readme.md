@@ -199,6 +199,8 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 #### [The Stars My Destination](https://www.goodreads.com/book/show/333867.The_Stars_My_Destination) *by Alfred Bester* [4.2]
 
+This book is fantastic not for the novelty of non-technological teleportation, but because of the main character. What happens when someone who has been ignored by society finds himself in a position of power? This book reminds me a tiny bit of Ender's Game - imagine what would happen if Mazer Rackham, another tattooed Maori hero, wanted more than to be a military genius. I loved it. I quote the poem to myself all the time, and have set a variant of it as my twitter bio for years now. 
+
 > In this pulse-quickening novel, Alfred Bester imagines a future in which people "jaunte" a thousand miles with a single thought, where the rich barricade themselves in labyrinths and protect themselves with radioactive hit men - and where an inarticulate outcast is the most valuable and dangerous man alive. The Stars My Destination is a classic of technological prophecy and timeless narrative enchantment by an acknowledged master of science fiction.
 
 #### [Ware](https://www.goodreads.com/series/41816-ware) *by Rudy Rucker* [3.7]
