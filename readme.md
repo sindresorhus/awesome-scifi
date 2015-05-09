@@ -50,7 +50,9 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > Without warning, giant silver ships from deep space appear in the skies above every major city on Earth. Manned by the Overlords, in fifty years, they eliminate ignorance, disease, and poverty. Then this golden age ends--and then the age of Mankind begins....
 
-#### [Cities in Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight) *by James Blish* [3.95]
+#### [Cities in Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight) *by James Blish* [4.0]
+
+This is a long book, but absolutely fantastic. It redefined for me the scale at which science fiction was possible, especially given the human elements are very fleshed out (as opposed to other massive space epics, like Olaf Stapledon's 'Last and First Men'). A brilliant look at the future, going off of only two small changes - what if we had drugs to defeat death, and cities could fly. 
 
 >Originally published in four volumes nearly fifty years ago, Cities in Flight brings together the famed "Okie novels" of science fiction master James Blish. Named after the migrant workers of America's Dust Bowl, these novels convey Blish's "history of the future," a brilliant and bleak look at a world where cities roam the Galaxy looking for work and a sustainable way of life. 
 
