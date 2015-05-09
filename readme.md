@@ -205,6 +205,8 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 #### [The Demolished Man](https://www.goodreads.com/book/show/76740.The_Demolished_Man) *by Alfred Bester* [4.0]
 
+I think of this book often, even though initially I had consigned it as a cheap paperback crime thriller set in space. The main part of this book that is interesting is the implications regarding policed thoughts, especially given recent advances in government surveillance. The other part of this book I think about a lot is the advertising jingle - _Tenser, Tenser, said the tensor_ - which plays a major role. I've still got no idea what it is meant to mean. 
+
 > In a world in which the police have telepathic powers, how do you get away with murder? Ben Reichs heads a huge 24th century business empire, spanning the solar system. He is also an obsessed, driven man determined to murder a rival. To avoid capture, in a society where murderers can be detected even before they commit their crime, is the greatest challenge of his life.
 
 #### [The Diamond Age: Or, A Young Lady's Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) *by Neal Stephenson* [4.2]
