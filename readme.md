@@ -681,8 +681,6 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 
 > An Earth man and his alien friend escape Earth's destruction and go on a truly strange adventure as space hitchhikers.
 
-- Star Trek (TODO: which ones?)
-
 #### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) [8.1]
 
 > An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.
