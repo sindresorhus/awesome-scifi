@@ -106,6 +106,13 @@ Twitter user: One of the best books I have ever read.
 
 > The Quantum Thief is a breathtaking joyride through the solar system several centuries hence, a world of marching cities, ubiquitous public-key encryption, people who communicate via shared memory, and a race of hyper-advanced humans who originated as an MMORPG guild. But for all its wonders, The Quantum Thief is also a story powered by very human motives of betrayal, jealousy, and revenge.
 
+#### [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) *by Olaf Stapledon* [3.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+
+If you're going to read one Science Fiction book to get a broader perspective on what it means to be human and the size of space and time, read this one. It blew me away. 
+
+> Star Maker is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon's previous book, Last and First Men (1930), a history of the human species over two billion years. Star Maker tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered Star Maker to be one of the finest works of science fiction ever written.
+
+
 #### [The Door Into Summer](http://www.goodreads.com/book/show/348.The_Door_Into_Summer) *by Robert A. Heinlein* [4.0]
 
 > It is 1970, and electronics engineer Dan Davis has finally made the invention of a lifetime: a household robot with extraordinary abilities, destined to dramatically change the landscape of everyday routine. Then, with wild success just within reach, Dan's greedy partner and even greedier fiancée steal his work and leave him penniless, and trick him into taking the long sleep—suspended animation for thirty years.
