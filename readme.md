@@ -211,6 +211,12 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 > The Diamond Age: Or, A Young Lady's Illustrated Primer is a postcyberpunk novel by Neal Stephenson. It is to some extent a science fiction coming-of-age story, focused on a young girl named Nell, and set in a future world in which nanotechnology affects all aspects of life. The novel deals with themes of education, social class, ethnicity, and the nature of artificial intelligence.
 
+#### [The Stars My Destination](https://www.goodreads.com/book/show/333867.The_Stars_My_Destination) *by Alfred Bester* [4.2]
+
+This book is fantastic not for the novelty of non-technological teleportation, but because of the main character. What happens when someone who has been ignored by society finds himself in a position of power? This book reminds me a tiny bit of Ender's Game - imagine what would happen if Mazer Rackham, another tattooed Maori hero, wanted more than to be a military genius. I loved it. I quote the poem to myself all the time, and have set a variant of it as my twitter bio for years now. 
+
+> In this pulse-quickening novel, Alfred Bester imagines a future in which people "jaunte" a thousand miles with a single thought, where the rich barricade themselves in labyrinths and protect themselves with radioactive hit men - and where an inarticulate outcast is the most valuable and dangerous man alive. The Stars My Destination is a classic of technological prophecy and timeless narrative enchantment by an acknowledged master of science fiction.
+
 #### [Ware](https://www.goodreads.com/series/41816-ware) *by Rudy Rucker* [3.7]
 
 > Cobb Anderson created the "boppers," sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers--and eventually every human--into a giant, melded consciousness. Some of the little boppers aren't too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his "software." It seems like a good idea to Cobb.
