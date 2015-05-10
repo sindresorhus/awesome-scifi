@@ -58,6 +58,12 @@ This is a long book, but absolutely fantastic. It redefined for me the scale at 
 
 > In the first novel, They Shall Have Stars, man has thoroughly explored the Solar System, yet the dream of going even further seems to have died in all but one man. His battle to realize his dream results in two momentous discoveries anti-gravity and the secret of immortality. In A Life for the Stars, it is centuries later and antigravity generations have enabled whole cities to lift off the surface of the earth to become galactic wanderers. In Earthman, Come Home, the nomadic cities revert to barbarism and marauding rogue cities begin to pose a threat to all civilized worlds. In the final novel, The Triumph of Time, historyrepeats itself as the cities once again journey back in to space making a terrifying discovery which could destroy the entire Universe. A serious andhaunting vision of our world and its limits, Cities in Flight marks the return to print of one of science fiction's most inimitable writers. 
 
+#### [Doorways in the Sand](https://www.goodreads.com/book/show/61998.Doorways_in_the_Sand) *by Robert Zelazny* [4.0]
+
+What a weird, funny and lovely little book.
+
+>  Fred Cassidy, a perpetual student, scrounger, and acrophile, is the last known person to have seen an important stone that his friend had. Various criminals, Anglophile zealots, government agents and aliens torture, shoot, beat, trick, chase, terrorize, assault telepathically, stalk, and importune Fred in attempts to get him to tell them the location of the stone. He denies any knowledge of its whereabouts, and decides to make his own investigation. 
+
 #### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) *by Isaac Asimov* [4.0] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future -- to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire -- both scientists and scholars -- and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
