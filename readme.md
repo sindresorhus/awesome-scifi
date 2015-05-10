@@ -24,7 +24,6 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Drama](#drama)
 	- [Biopunk](#biopunk)
 	- [Speculative Fiction](#speculative-fiction)
-	- [Theological](#theological-science-fiction)
 - [Movies](#movies)
 - [TV-series](#tv-series)
 - [Links](#links)
@@ -96,6 +95,26 @@ Twitter user: One of the best books I have ever read.
 > A classic work of science fiction by renowned Polish novelist and satirist Stanisław Lem.
 
 > When Kris Kelvin arrives at the planet Solaris to study the ocean that covers its surface, he finds a painful, hitherto unconscious memory embodied in the living physical likeness of a long-dead lover. Others examining the planet, Kelvin learns, are plagued with their own repressed and newly corporeal memories. The Solaris ocean may be a massive brain that creates these incarnate memories, though its purpose in doing so is unknown, forcing the scientists to shift the focus of their quest and wonder if they can truly understand the universe without first understanding what lies within their hearts.
+
+#### [Space Trilogy: Out of the Silent Planet, Perelandra, and That Hideous Strength](https://www.goodreads.com/book/show/30628.Out_of_the_Silent_Planet_Perelandra_That_Hideous_Strength?ac=1) *by C.S. Lewis* [4.1]
+
+##### [Out of the Silent Planet](https://www.goodreads.com/book/show/25350.Out_of_the_Silent_Planet) *by C.S. Lewis* [3.9]
+
+A fairly well-wrapped first book in a trilogy, that has some very imaginative and well worked through takes on what Martian life may have looked like at the time. I love the imagery, and the theology isn't as worked through everything as the other books. 
+
+> In the first novel of C.S. Lewis's classic science fiction trilogy, Dr Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet's treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the 'silent planet' – Earth – whose tragic story is known throughout the universe...
+
+##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) *by C.S. Lewis* [4.0]
+
+This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. 
+
+> The second novel in Lewis's science fiction trilogy tells of Dr Ransom's voyage to the planet of Perelandra (Venus). Dr Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
+
+##### [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) *by C.S. Lewis* [3.9]
+
+One of the weirdest books I have read and enjoyed.
+
+>  The third novel in the science-fiction trilogy by C.S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a Sociologist who is enticed to join an organisation called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organisation, he discovers the truth of his wife's dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St Anne's, where she meets their leader -- Dr Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
 #### [Spin](https://www.goodreads.com/book/show/910863.Spin) *by Robert Charles Wilson* [4.0]
 
@@ -501,26 +520,6 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 #### [The End of Eternity](http://www.goodreads.com/book/show/509784.The_End_of_Eternity) *by Isaac Asimov* [4.2]
 
 > Andrew Harlan is an Eternal, a man whose job it is to range through past and present Centuries, monitoring and, where necessary, altering Time's myriad cause-and-effect relationships. But when Harlan meets and falls for a non-Eternal woman, he seeks to use the awesome powers and techniques of the Eternals to twist time for his own purposes, so that he and his love can survive together.
-
-### Theological Science Fiction
-
-#### [Out of the Silent Planet](https://www.goodreads.com/book/show/25350.Out_of_the_Silent_Planet) *by C.S. Lewis* [3.9]
-
-A fairly well-wrapped first book in a trilogy, that has some very imaginative and well worked through takes on what Martian life may have looked like at the time. I love the imagery, and the theology isn't as worked through everything as the other books. 
-
-> In the first novel of C.S. Lewis's classic science fiction trilogy, Dr Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet's treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the 'silent planet' – Earth – whose tragic story is known throughout the universe...
-
-#### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) *by C.S. Lewis* [4.0]
-
-This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. 
-
-> The second novel in Lewis's science fiction trilogy tells of Dr Ransom's voyage to the planet of Perelandra (Venus). Dr Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
-
-#### [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) *by C.S. Lewis* [3.9]
-
-One of the weirdest books I have read and enjoyed.
-
->  The third novel in the science-fiction trilogy by C.S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a Sociologist who is enticed to join an organisation called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organisation, he discovers the truth of his wife's dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St Anne's, where she meets their leader -- Dr Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
 ## Movies
 
