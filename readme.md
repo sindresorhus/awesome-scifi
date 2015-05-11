@@ -635,7 +635,15 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 
 > Set in a future where a failed climate-change experiment kills all life on the planet except for a lucky few who boarded the Snowpiercer, a train that travels around the globe, where a class system emerges.
 
-#### [Solaris](http://www.imdb.com/title/tt0307479/) [6.2]
+#### [Solaris](http://www.imdb.com/title/tt0069293/) (1972) [8.1]
+
+Directed by Andrei Tarkovsky, this is the original film based on the book. It is much slower than the remake, but a classic. - [@RichardLitt](https://github.com/RichardLitt)  
+
+> A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.
+
+#### [Solaris](http://www.imdb.com/title/tt0307479/) (2002) [6.2]
+
+Directed by Steven Soderbergh, starring George Clooney and Natasha McElhone, this is much more of a modern psychodrama with fantastic shots and a more colored atmosphere than the original film. The original score by Cliff Martinez really adds to the film, and is great on its own. One of my favourite films. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.
 
