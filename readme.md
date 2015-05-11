@@ -354,6 +354,12 @@ _Novels concerning the end of civilisation, usually basd in a future resulting f
 
 > A final, apocalyptic, world war has killed millions, driving entire species into extinction and sending the majority of mankind off-planet. Those who remain, venerate all remaining examples of life, and owning an animal of your own is both a symbol of status and a necessity. For those who can't afford an authentic animal, companies build incredibly realistic simulacrae: horses, birds, cats, sheep . . . even humans.
 
+#### [Riddley Walker](https://www.goodreads.com/book/show/776573.Riddley_Walker) *by Russell Hoban* [4.1]
+
+I travelled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedral to see the painting that inspired this book. It is that good. It was hard for me to read as I normally speed read, and the invented language makes it slow going, but it sticks with you and the imagination of Hoban is uniquely vivid. 
+
+> Riddley Walker is a brilliant, unique, completely realized work of fiction. One reads it again and again, discovering new wonders every time through. Set in a remote future in a post-nuclear holocaust England (Inland), Hoban has imagined a humanity regressed to an iron-age, semi-literate state--and invented a language to represent it. Riddley is at once the Huck Finn and the Stephen Dedalus of his culture--rebel, change agent, and artist. Read again or for the first time this masterpiece of 20th-century literature with new material by the author.
+
 #### [The Stand](http://www.goodreads.com/book/show/149267.The_Stand) *by Stephen King* [4.3] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.
