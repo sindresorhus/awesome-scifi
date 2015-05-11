@@ -52,7 +52,7 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 #### [Cities in Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight) *by James Blish* [4.0]
 
-This is a long book, but absolutely fantastic. It redefined for me the scale at which science fiction was possible, especially given the human elements are very fleshed out (as opposed to other massive space epics, like Olaf Stapledon's 'Last and First Men'). A brilliant look at the future, going off of only two small changes - what if we had drugs to defeat death, and cities could fly. 
+This is a long book, but absolutely fantastic. It redefined for me the scale at which science fiction was possible, especially given the human elements are very fleshed out (as opposed to other massive space epics, like Olaf Stapledon's 'Last and First Men'). A brilliant look at the future, going off of only two small changes - what if we had drugs to defeat death, and cities could fly. - [@RichardLitt](https://github.com/RichardLitt)
 
 >Originally published in four volumes nearly fifty years ago, Cities in Flight brings together the famed "Okie novels" of science fiction master James Blish. Named after the migrant workers of America's Dust Bowl, these novels convey Blish's "history of the future," a brilliant and bleak look at a world where cities roam the Galaxy looking for work and a sustainable way of life. 
 
@@ -60,7 +60,7 @@ This is a long book, but absolutely fantastic. It redefined for me the scale at 
 
 #### [Doorways in the Sand](https://www.goodreads.com/book/show/61998.Doorways_in_the_Sand) *by Robert Zelazny* [4.0]
 
-What a weird, funny and lovely little book.
+What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/RichardLitt)
 
 >  Fred Cassidy, a perpetual student, scrounger, and acrophile, is the last known person to have seen an important stone that his friend had. Various criminals, Anglophile zealots, government agents and aliens torture, shoot, beat, trick, chase, terrorize, assault telepathically, stalk, and importune Fred in attempts to get him to tell them the location of the stone. He denies any knowledge of its whereabouts, and decides to make his own investigation. 
 
@@ -82,7 +82,7 @@ What a weird, funny and lovely little book.
 
 #### [Jem](https://www.goodreads.com/book/show/591572.Jem) *by Frederik Pohl* [3.6]
 
-This book has a few beautiful passages. It deals mainly with the ethics of using alien species for nationalistic purposes, and for that alone was an interesting read. Like a lot of science fiction, I found it a bit hard to empathize with any particular characters, but it's a short read and worth it anyway. The politics are a bit dated. 
+This book has a few beautiful passages. It deals mainly with the ethics of using alien species for nationalistic purposes, and for that alone was an interesting read. Like a lot of science fiction, I found it a bit hard to empathize with any particular characters, but it's a short read and worth it anyway. The politics are a bit dated. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The discovery of another habitable world might spell salvation to the three bitterly competing power blocs of the resource-starved 21st century; but when their representatives arrive on Jem, with its multiple intelligent species, they discover instead the perfect situation into which to export their rivalries. Subtitled, with savage irony, 'The Making of a Utopia', Jem is one of Frederik Pohl's most powerful novels.
 
@@ -106,19 +106,19 @@ Twitter user: One of the best books I have ever read.
 
 ##### [Out of the Silent Planet](https://www.goodreads.com/book/show/25350.Out_of_the_Silent_Planet) *by C.S. Lewis* [3.9]
 
-A fairly well-wrapped first book in a trilogy, that has some very imaginative and well worked through takes on what Martian life may have looked like at the time. I love the imagery, and the theology isn't as worked through everything as the other books. 
+A fairly well-wrapped first book in a trilogy, that has some very imaginative and well worked through takes on what Martian life may have looked like at the time. I love the imagery, and the theology isn't as worked through everything as the other books. - [@RichardLitt](https://github.com/RichardLitt) 
 
 > In the first novel of C.S. Lewis's classic science fiction trilogy, Dr Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet's treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the 'silent planet' – Earth – whose tragic story is known throughout the universe...
 
 ##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) *by C.S. Lewis* [4.0]
 
-This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. 
+This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. - [@RichardLitt](https://github.com/RichardLitt) 
 
 > The second novel in Lewis's science fiction trilogy tells of Dr Ransom's voyage to the planet of Perelandra (Venus). Dr Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
 
 ##### [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) *by C.S. Lewis* [3.9]
 
-One of the weirdest books I have read and enjoyed.
+One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt) 
 
 >  The third novel in the science-fiction trilogy by C.S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a Sociologist who is enticed to join an organisation called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organisation, he discovers the truth of his wife's dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St Anne's, where she meets their leader -- Dr Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
@@ -134,7 +134,7 @@ One of the weirdest books I have read and enjoyed.
 
 #### [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) *by Olaf Stapledon* [3.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
-If you're going to read one Science Fiction book to get a broader perspective on what it means to be human and the size of space and time, read this one. It blew me away. 
+If you're going to read one Science Fiction book to get a broader perspective on what it means to be human and the size of space and time, read this one. It blew me away. - [@RichardLitt](https://github.com/RichardLitt) 
 
 > Star Maker is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon's previous book, Last and First Men (1930), a history of the human species over two billion years. Star Maker tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered Star Maker to be one of the finest works of science fiction ever written.
 
@@ -246,7 +246,7 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 #### [The Demolished Man](https://www.goodreads.com/book/show/76740.The_Demolished_Man) *by Alfred Bester* [4.0]
 
-I think of this book often, even though initially I had consigned it as a cheap paperback crime thriller set in space. The main part of this book that is interesting is the implications regarding policed thoughts, especially given recent advances in government surveillance. The other part of this book I think about a lot is the advertising jingle - _Tenser, Tenser, said the tensor_ - which plays a major role. I've still got no idea what it is meant to mean. 
+I think of this book often, even though initially I had consigned it as a cheap paperback crime thriller set in space. The main part of this book that is interesting is the implications regarding policed thoughts, especially given recent advances in government surveillance. The other part of this book I think about a lot is the advertising jingle - _Tenser, Tenser, said the tensor_ - which plays a major role. I've still got no idea what it is meant to mean. - [@RichardLitt](https://github.com/RichardLitt) 
 
 > In a world in which the police have telepathic powers, how do you get away with murder? Ben Reichs heads a huge 24th century business empire, spanning the solar system. He is also an obsessed, driven man determined to murder a rival. To avoid capture, in a society where murderers can be detected even before they commit their crime, is the greatest challenge of his life.
 
@@ -256,7 +256,7 @@ I think of this book often, even though initially I had consigned it as a cheap 
 
 #### [The Stars My Destination](https://www.goodreads.com/book/show/333867.The_Stars_My_Destination) *by Alfred Bester* [4.2]
 
-This book is fantastic not for the novelty of non-technological teleportation, but because of the main character. What happens when someone who has been ignored by society finds himself in a position of power? This book reminds me a tiny bit of Ender's Game - imagine what would happen if Mazer Rackham, another tattooed Maori hero, wanted more than to be a military genius. I loved it. I quote the poem to myself all the time, and have set a variant of it as my twitter bio for years now. 
+This book is fantastic not for the novelty of non-technological teleportation, but because of the main character. What happens when someone who has been ignored by society finds himself in a position of power? This book reminds me a tiny bit of Ender's Game - imagine what would happen if Mazer Rackham, another tattooed Maori hero, wanted more than to be a military genius. I loved it. I quote the poem to myself all the time, and have set a variant of it as my twitter bio for years now. - [@RichardLitt](https://github.com/RichardLitt) 
 
 > In this pulse-quickening novel, Alfred Bester imagines a future in which people "jaunte" a thousand miles with a single thought, where the rich barricade themselves in labyrinths and protect themselves with radioactive hit men - and where an inarticulate outcast is the most valuable and dangerous man alive. The Stars My Destination is a classic of technological prophecy and timeless narrative enchantment by an acknowledged master of science fiction.
 
