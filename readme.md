@@ -747,6 +747,11 @@ This is a classic film, and well worth watching if only for the incredible and i
 * [Whats the best Sci-Fi novel you have ever read? - Reddit](http://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/)
 
 
+## Credit
+
+Maintained by [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
+
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
