@@ -376,6 +376,14 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 _Novels concerning the end of civilisation, usually basd in a future resulting from a catastrophe of some sort, where only scattered elements of technology remain._
 
+#### [A Canticle for Leibowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz) *by Walter M. Miller Jr.* [4.0]
+
+This has a particularly arid and inspired view of humanity after a nuclear holocaust. The discovery of small things and their new importance down the line is well done here. 
+
+> Winner of the 1961 Hugo Award for Best Novel and widely considered one of the most accomplished, powerful, and enduring classics of modern speculative fiction, Walter M. Miller, Jr.'s A Canticle for Leibowitz is a true landmark of twentieth-century literature--a chilling and still provocative look at a post-apocalyptic future.
+
+> In a nightmarish ruined world slowly awakening to the light after sleeping in darkness, the infant rediscoveries of science are secretly nourished by cloistered monks dedicated to the study and preservation of the relics and writings of the blessed Saint Isaac Leibowitz. From here the story spans centuries of ignorance, violence, and barbarism, viewing through a sharp, satirical eye the relentless progression of a human race damned by its inherent humanness to recelebrate its grand foibles and repeat its grievous mistakes. Seriously funny, stunning, and tragic, eternally fresh, imaginative, and altogether remarkable, A Canticle for Leibowitz retains its ability to enthrall and amaze. It is now, as it always has been, a masterpiece.
+
 #### [Do Androids Dream of Electric Sheep?](http://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) *by Philip K. Dick* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > A final, apocalyptic, world war has killed millions, driving entire species into extinction and sending the majority of mankind off-planet. Those who remain, venerate all remaining examples of life, and owning an animal of your own is both a symbol of status and a necessity. For those who can't afford an authentic animal, companies build incredibly realistic simulacrae: horses, birds, cats, sheep . . . even humans.
