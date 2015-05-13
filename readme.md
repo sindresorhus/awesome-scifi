@@ -54,15 +54,15 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 This is a long book, but absolutely fantastic. It redefined for me the scale at which science fiction was possible, especially given the human elements are very fleshed out (as opposed to other massive space epics, like Olaf Stapledon's 'Last and First Men'). A brilliant look at the future, going off of only two small changes - what if we had drugs to defeat death, and cities could fly. - [@RichardLitt](https://github.com/RichardLitt)
 
->Originally published in four volumes nearly fifty years ago, Cities in Flight brings together the famed "Okie novels" of science fiction master James Blish. Named after the migrant workers of America's Dust Bowl, these novels convey Blish's "history of the future," a brilliant and bleak look at a world where cities roam the Galaxy looking for work and a sustainable way of life. 
+>Originally published in four volumes nearly fifty years ago, Cities in Flight brings together the famed "Okie novels" of science fiction master James Blish. Named after the migrant workers of America's Dust Bowl, these novels convey Blish's "history of the future," a brilliant and bleak look at a world where cities roam the Galaxy looking for work and a sustainable way of life.
 
-> In the first novel, They Shall Have Stars, man has thoroughly explored the Solar System, yet the dream of going even further seems to have died in all but one man. His battle to realize his dream results in two momentous discoveries anti-gravity and the secret of immortality. In A Life for the Stars, it is centuries later and antigravity generations have enabled whole cities to lift off the surface of the earth to become galactic wanderers. In Earthman, Come Home, the nomadic cities revert to barbarism and marauding rogue cities begin to pose a threat to all civilized worlds. In the final novel, The Triumph of Time, historyrepeats itself as the cities once again journey back in to space making a terrifying discovery which could destroy the entire Universe. A serious andhaunting vision of our world and its limits, Cities in Flight marks the return to print of one of science fiction's most inimitable writers. 
+> In the first novel, They Shall Have Stars, man has thoroughly explored the Solar System, yet the dream of going even further seems to have died in all but one man. His battle to realize his dream results in two momentous discoveries anti-gravity and the secret of immortality. In A Life for the Stars, it is centuries later and antigravity generations have enabled whole cities to lift off the surface of the earth to become galactic wanderers. In Earthman, Come Home, the nomadic cities revert to barbarism and marauding rogue cities begin to pose a threat to all civilized worlds. In the final novel, The Triumph of Time, historyrepeats itself as the cities once again journey back in to space making a terrifying discovery which could destroy the entire Universe. A serious andhaunting vision of our world and its limits, Cities in Flight marks the return to print of one of science fiction's most inimitable writers.
 
 #### [Doorways in the Sand](https://www.goodreads.com/book/show/61998.Doorways_in_the_Sand) *by Robert Zelazny* [4.0]
 
 What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/RichardLitt)
 
->  Fred Cassidy, a perpetual student, scrounger, and acrophile, is the last known person to have seen an important stone that his friend had. Various criminals, Anglophile zealots, government agents and aliens torture, shoot, beat, trick, chase, terrorize, assault telepathically, stalk, and importune Fred in attempts to get him to tell them the location of the stone. He denies any knowledge of its whereabouts, and decides to make his own investigation. 
+>  Fred Cassidy, a perpetual student, scrounger, and acrophile, is the last known person to have seen an important stone that his friend had. Various criminals, Anglophile zealots, government agents and aliens torture, shoot, beat, trick, chase, terrorize, assault telepathically, stalk, and importune Fred in attempts to get him to tell them the location of the stone. He denies any knowledge of its whereabouts, and decides to make his own investigation.
 
 #### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) *by Isaac Asimov* [4.0] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
@@ -75,6 +75,20 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 > When Robin wakes up in a clinic with most of his memories missing, it doesn’t take him long to discover that someone is trying to kill him. It’s the twenty-seventh century, when interstellar travel is by teleport gate and conflicts are fought by network worms that censor refugees’ personalities and target historians. The civil war is over and Robin has been demobilized, but someone wants him out of the picture because of something his earlier self knew.
 
 > On the run from a ruthless pursuer and searching for a place to hide, he volunteers to participate in a unique experimental polity, the Glasshouse, constructed to simulate a pre-accelerated culture. Participants are assigned anonymized identities: It looks like the ideal hiding place for a posthuman on the run. But in this escape-proof environment, Robin will undergo an even more radical change, placing him at the mercy of the experimenters—and at the mercy of his own unbalanced psyche...
+
+#### [I, Robot](http://www.goodreads.com/book/show/41804.I_Robot) *by Isaac Asimov* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+> The three laws of Robotics:
+
+> 1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+
+> 2) A robot must obey orders given to it by human beings except where such orders would conflict with the First Law.
+
+> 3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
+> With these three, simple directives, Isaac Asimov changed our perception of robots forever when he formulated the laws governing their behavior. In I, Robot, Asimov chronicles the development of the robot through a series of interlinked stories: from its primitive origins in the present to its ultimate perfection in the not-so-distant future--a future in which humanity itself may be rendered obsolete.
+
+> Here are stories of robots gone mad, of mind-read robots, and robots with a sense of humor. Of robot politicians, and robots who secretly run the world--all told with the dramatic blend of science fact and science fiction that has become Asmiov's trademark.
 
 #### [Jean le Flambeur Series](https://www.goodreads.com/series/57134-jean-le-flambeur) *by Hannu Rajaniemi* [4.0 (avg)]
 
@@ -106,19 +120,19 @@ Twitter user: One of the best books I have ever read.
 
 ##### [Out of the Silent Planet](https://www.goodreads.com/book/show/25350.Out_of_the_Silent_Planet) *by C.S. Lewis* [3.9]
 
-A fairly well-wrapped first book in a trilogy, that has some very imaginative and well worked through takes on what Martian life may have looked like at the time. I love the imagery, and the theology isn't as worked through everything as the other books. - [@RichardLitt](https://github.com/RichardLitt) 
+A fairly well-wrapped first book in a trilogy, that has some very imaginative and well worked through takes on what Martian life may have looked like at the time. I love the imagery, and the theology isn't as worked through everything as the other books. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In the first novel of C.S. Lewis's classic science fiction trilogy, Dr Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet's treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the 'silent planet' – Earth – whose tragic story is known throughout the universe...
 
 ##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) *by C.S. Lewis* [4.0]
 
-This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. - [@RichardLitt](https://github.com/RichardLitt) 
+This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The second novel in Lewis's science fiction trilogy tells of Dr Ransom's voyage to the planet of Perelandra (Venus). Dr Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
 
 ##### [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) *by C.S. Lewis* [3.9]
 
-One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt) 
+One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt)
 
 >  The third novel in the science-fiction trilogy by C.S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a Sociologist who is enticed to join an organisation called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organisation, he discovers the truth of his wife's dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St Anne's, where she meets their leader -- Dr Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
@@ -134,7 +148,7 @@ One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://gith
 
 #### [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) *by Olaf Stapledon* [3.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
-If you're going to read one Science Fiction book to get a broader perspective on what it means to be human and the size of space and time, read this one. It blew me away. - [@RichardLitt](https://github.com/RichardLitt) 
+If you're going to read one Science Fiction book to get a broader perspective on what it means to be human and the size of space and time, read this one. It blew me away. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Star Maker is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon's previous book, Last and First Men (1930), a history of the human species over two billion years. Star Maker tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered Star Maker to be one of the finest works of science fiction ever written.
 
@@ -246,7 +260,7 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 #### [The Demolished Man](https://www.goodreads.com/book/show/76740.The_Demolished_Man) *by Alfred Bester* [4.0]
 
-I think of this book often, even though initially I had consigned it as a cheap paperback crime thriller set in space. The main part of this book that is interesting is the implications regarding policed thoughts, especially given recent advances in government surveillance. The other part of this book I think about a lot is the advertising jingle - _Tenser, Tenser, said the tensor_ - which plays a major role. I've still got no idea what it is meant to mean. - [@RichardLitt](https://github.com/RichardLitt) 
+I think of this book often, even though initially I had consigned it as a cheap paperback crime thriller set in space. The main part of this book that is interesting is the implications regarding policed thoughts, especially given recent advances in government surveillance. The other part of this book I think about a lot is the advertising jingle - _Tenser, Tenser, said the tensor_ - which plays a major role. I've still got no idea what it is meant to mean. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In a world in which the police have telepathic powers, how do you get away with murder? Ben Reichs heads a huge 24th century business empire, spanning the solar system. He is also an obsessed, driven man determined to murder a rival. To avoid capture, in a society where murderers can be detected even before they commit their crime, is the greatest challenge of his life.
 
@@ -256,7 +270,7 @@ I think of this book often, even though initially I had consigned it as a cheap 
 
 #### [The Stars My Destination](https://www.goodreads.com/book/show/333867.The_Stars_My_Destination) *by Alfred Bester* [4.2]
 
-This book is fantastic not for the novelty of non-technological teleportation, but because of the main character. What happens when someone who has been ignored by society finds himself in a position of power? This book reminds me a tiny bit of Ender's Game - imagine what would happen if Mazer Rackham, another tattooed Maori hero, wanted more than to be a military genius. I loved it. I quote the poem to myself all the time, and have set a variant of it as my twitter bio for years now. - [@RichardLitt](https://github.com/RichardLitt) 
+This book is fantastic not for the novelty of non-technological teleportation, but because of the main character. What happens when someone who has been ignored by society finds himself in a position of power? This book reminds me a tiny bit of Ender's Game - imagine what would happen if Mazer Rackham, another tattooed Maori hero, wanted more than to be a military genius. I loved it. I quote the poem to myself all the time, and have set a variant of it as my twitter bio for years now. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In this pulse-quickening novel, Alfred Bester imagines a future in which people "jaunte" a thousand miles with a single thought, where the rich barricade themselves in labyrinths and protect themselves with radioactive hit men - and where an inarticulate outcast is the most valuable and dangerous man alive. The Stars My Destination is a classic of technological prophecy and timeless narrative enchantment by an acknowledged master of science fiction.
 
@@ -378,7 +392,7 @@ _Novels concerning the end of civilisation, usually basd in a future resulting f
 
 #### [A Canticle for Leibowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz) *by Walter M. Miller Jr.* [4.0]
 
-This has a particularly arid and inspired view of humanity after a nuclear holocaust. The discovery of small things and their new importance down the line is well done here. 
+This has a particularly arid and inspired view of humanity after a nuclear holocaust. The discovery of small things and their new importance down the line is well done here.
 
 > Winner of the 1961 Hugo Award for Best Novel and widely considered one of the most accomplished, powerful, and enduring classics of modern speculative fiction, Walter M. Miller, Jr.'s A Canticle for Leibowitz is a true landmark of twentieth-century literature--a chilling and still provocative look at a post-apocalyptic future.
 
@@ -390,7 +404,7 @@ This has a particularly arid and inspired view of humanity after a nuclear holoc
 
 #### [Riddley Walker](https://www.goodreads.com/book/show/776573.Riddley_Walker) *by Russell Hoban* [4.1]
 
-I travelled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedral to see the painting that inspired this book. It is that good. It was hard for me to read as I normally speed read, and the invented language makes it slow going, but it sticks with you and the imagination of Hoban is uniquely vivid. 
+I travelled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedral to see the painting that inspired this book. It is that good. It was hard for me to read as I normally speed read, and the invented language makes it slow going, but it sticks with you and the imagination of Hoban is uniquely vivid.
 
 > Riddley Walker is a brilliant, unique, completely realized work of fiction. One reads it again and again, discovering new wonders every time through. Set in a remote future in a post-nuclear holocaust England (Inland), Hoban has imagined a humanity regressed to an iron-age, semi-literate state--and invented a language to represent it. Riddley is at once the Huck Finn and the Stephen Dedalus of his culture--rebel, change agent, and artist. Read again or for the first time this masterpiece of 20th-century literature with new material by the author.
 
@@ -647,7 +661,7 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 
 Director: _Andrei Tarkovsky_
 
-This is the original film based on the book. It is much slower than the remake, but a classic. - [@RichardLitt](https://github.com/RichardLitt)  
+This is the original film based on the book. It is much slower than the remake, but a classic. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.
 
