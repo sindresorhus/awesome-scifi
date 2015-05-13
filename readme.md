@@ -80,7 +80,7 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 > The three laws of Robotics:
 
-> 1) A robot may not injure a human being or, through inaction, allow a human being to come to harm
+> 1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 
 > 2) A robot must obey orders given to it by human beings except where such orders would conflict with the First Law.
 
