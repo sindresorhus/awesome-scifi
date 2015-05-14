@@ -783,8 +783,8 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 ## Links
 
-* [What are your favourite sci-fi books? - Hacker News](https://news.ycombinator.com/item?id=9056319)
-* [Whats the best Sci-Fi novel you have ever read? - Reddit](http://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/)
+* [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319)  - Hacker News
+* [Whats the best Sci-Fi novel you have ever read?](http://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
 
 
 ## Credit
