@@ -522,7 +522,7 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 
 #### [Flowers for Algernon](http://www.goodreads.com/book/show/18373.Flowers_for_Algernon) *by Daniel Keyes* [4.0] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
-This book made me cry. It is often given to high school students, but stands up well as an adult read. 
+This book made me cry. It is often given to high school students, but stands up well as an adult read. - [@RichardLitt](https://github.com/RichardLitt)
 
 > With more than five million copies sold, Flowers for Algernon is the beloved, classic story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse. In poignant diary entries, Charlie tells how a brain operation increases his IQ and changes his life. As the experimental procedure takes effect, Charlie's intelligence expands until it surpasses that of the doctors who engineered his metamorphosis. The experiment seems to be a scientific breakthrough of paramount importance--until Algernon begins his sudden, unexpected deterioration. Will the same happen to Charlie?
 
@@ -561,7 +561,7 @@ This book made me cry. It is often given to high school students, but stands up 
 
 #### [Behold the Man](https://www.goodreads.com/book/show/60146.Behold_the_Man) *by Michael Moorcock* [3.8]
 
-Easily one of the most disrespectful, sacreligious, memorable and funny books I have read. 
+Easily one of the most disrespectful, sacreligious, memorable and funny books I have read. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Karl Glogauer is a disaffected modern professional casting about for meaning in a series of half-hearted relationships, a dead-end job, and a personal struggle. His questions of faith surrounding his father's run-of-the-mill Christianity and his mother's suppressed Judaism lead him to a bizarre obsession with the idea of the messiah. After the collapse of his latest affair and his introduction to a reclusive physics professor, Karl is given the opportunity to confront his obsession and take a journey that no man has taken before, and from which he knows he cannot return.
 
