@@ -24,6 +24,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Drama](#drama)
 	- [Biopunk](#biopunk)
 	- [Speculative Fiction](#speculative-fiction)
+	- [Time Travel](#time-travel)
 - [Movies](#movies)
 - [TV-series](#tv-series)
 - [Links](#links)
@@ -151,13 +152,6 @@ One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://gith
 If you're going to read one Science Fiction book to get a broader perspective on what it means to be human and the size of space and time, read this one. It blew me away. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Star Maker is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon's previous book, Last and First Men (1930), a history of the human species over two billion years. Star Maker tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered Star Maker to be one of the finest works of science fiction ever written.
-
-
-#### [The Door Into Summer](http://www.goodreads.com/book/show/348.The_Door_Into_Summer) *by Robert A. Heinlein* [4.0]
-
-> It is 1970, and electronics engineer Dan Davis has finally made the invention of a lifetime: a household robot with extraordinary abilities, destined to dramatically change the landscape of everyday routine. Then, with wild success just within reach, Dan's greedy partner and even greedier fiancée steal his work and leave him penniless, and trick him into taking the long sleep—suspended animation for thirty years.
-
-> They never imagine that the future time in which Dan awakens has a very limited form of time travel, just enough that Davis can travel back and recover his research. He then again undergoes suspended animation, and awakens again in the high-tech future of the year 2000, with his reputation, fortune, and his sweetheart.
 
 #### [The Gods Themselves](http://www.goodreads.com/book/show/41821.The_Gods_Themselves) *by Isaac Asimov* [4.1]
 
@@ -554,6 +548,24 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 #### [The End of Eternity](http://www.goodreads.com/book/show/509784.The_End_of_Eternity) *by Isaac Asimov* [4.2]
 
 > Andrew Harlan is an Eternal, a man whose job it is to range through past and present Centuries, monitoring and, where necessary, altering Time's myriad cause-and-effect relationships. But when Harlan meets and falls for a non-Eternal woman, he seeks to use the awesome powers and techniques of the Eternals to twist time for his own purposes, so that he and his love can survive together.
+
+### Time Travel
+
+#### [Behold the Man](https://www.goodreads.com/book/show/60146.Behold_the_Man) *by Michael Moorcock* [3.8]
+
+Easily one of the most disrespectful, sacreligious, memorable and funny books I have read. 
+
+> Karl Glogauer is a disaffected modern professional casting about for meaning in a series of half-hearted relationships, a dead-end job, and a personal struggle. His questions of faith surrounding his father's run-of-the-mill Christianity and his mother's suppressed Judaism lead him to a bizarre obsession with the idea of the messiah. After the collapse of his latest affair and his introduction to a reclusive physics professor, Karl is given the opportunity to confront his obsession and take a journey that no man has taken before, and from which he knows he cannot return.
+
+> Upon arriving in Palestine, A.D. 29, Glogauer finds that Jesus Christ is not the man that history and faith would like to believe, but that there is an opportunity for someone to change the course of history by making the ultimate sacrifice.
+
+> First published in 1969, Behold the Man broke through science fiction's genre boundaries to create a poignant reflection on faith, disillusion and self-sacrifice. This is the classic novel that established the career of perhaps contemporary science fiction's most cerebral and innovative author.
+
+#### [The Door Into Summer](http://www.goodreads.com/book/show/348.The_Door_Into_Summer) *by Robert A. Heinlein* [4.0]
+
+> It is 1970, and electronics engineer Dan Davis has finally made the invention of a lifetime: a household robot with extraordinary abilities, destined to dramatically change the landscape of everyday routine. Then, with wild success just within reach, Dan's greedy partner and even greedier fiancée steal his work and leave him penniless, and trick him into taking the long sleep—suspended animation for thirty years.
+
+> They never imagine that the future time in which Dan awakens has a very limited form of time travel, just enough that Davis can travel back and recover his research. He then again undergoes suspended animation, and awakens again in the high-tech future of the year 2000, with his reputation, fortune, and his sweetheart.
 
 ## Movies
 
