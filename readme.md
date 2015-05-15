@@ -27,6 +27,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Biopunk](#biopunk)
 	- [Speculative Fiction](#speculative-fiction)
 	- [Time Travel](#time-travel)
+	- [Comedy](#comedy)
 - [Movies](#movies)
 - [TV-series](#tv-series)
 - [Links](#links)
@@ -574,6 +575,16 @@ Easily one of the most disrespectful, sacreligious, memorable and funny books I 
 > It is 1970, and electronics engineer Dan Davis has finally made the invention of a lifetime: a household robot with extraordinary abilities, destined to dramatically change the landscape of everyday routine. Then, with wild success just within reach, Dan's greedy partner and even greedier fiancée steal his work and leave him penniless, and trick him into taking the long sleep—suspended animation for thirty years.
 
 > They never imagine that the future time in which Dan awakens has a very limited form of time travel, just enough that Davis can travel back and recover his research. He then again undergoes suspended animation, and awakens again in the high-tech future of the year 2000, with his reputation, fortune, and his sweetheart.
+
+### Comedy
+
+#### [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) *by Douglas Adams* [4.20] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+One of the funniest series I have ever read. I laugh to myself and think about this all of the time. Changed how I view the galaxy and lost pens irreversibly. I also celebrate [International Towel Day](http://en.wikipedia.org/wiki/Towel_Day) every year now. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.
+
+> Together this dynamic pair begin a journey through space aided by quotes from The Hitchhiker's Guide ("A towel is about the most massively useful thing an interstellar hitchhiker can have") and a galaxy-full of fellow travelers: Zaphod Beeblebrox--the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian, Zaphod's girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ballpoint pens he bought over the years.
 
 ## Movies
 
