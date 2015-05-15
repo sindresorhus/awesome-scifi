@@ -191,6 +191,11 @@ _Novels which place an emphasis on scientific accuracy and/or technical detail; 
 
 > In a moving story of sacrifice and triumph, human scientists establish a relationship with intelligent life forms--the cheela--living on Dragon's Egg, a neutron star where one Earth hour is equivalent to hundreds of their years. The cheela culturally evolve from savagery to the discovery of science, and for a brief time men are their diligent teachers.
 
+#### [Red Mars](http://www.goodreads.com/book/show/77507.Red_Mars) *by Kim Stanley Robinson* [3.8]
+
+An interesting take on the near-future colonization of Mars by one hundred of the world's greatest scientists, filled with political intrigue and "hard science" alike. Admittedly some parts can be a slog, think A Song of Ice and Fire: awesome narrative in the grand scheme, with perhaps a bit too much description of Martian landscape/house sigils. - [@rubzo](https://github.com/rubzo)
+
+> For eons, sandstorms have swept the barren desolate landscape of the red planet. For centuries, Mars has beckoned to mankind to come and conquer its hostile climate. Now, in the year 2026, a group of one hundred colonists is about to fulfill that destiny. John Boone, Maya Toitavna, Frank Chalmers, and Arkady Bogdanov lead a mission whose ultimate goal is the terraforming of Mars. For some, Mars will become a passion driving them to daring acts of courage and madness; for others it offers and opportunity to strip the planet of its riches. And for the genetic "alchemists, " Mars presents a chance to create a biomedical miracle, a breakthrough that could change all we know about life...and death.
 
 ### Soft Science Fiction
 
