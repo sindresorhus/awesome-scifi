@@ -156,6 +156,12 @@ One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://gith
 
 > The Quantum Thief is a breathtaking joyride through the solar system several centuries hence, a world of marching cities, ubiquitous public-key encryption, people who communicate via shared memory, and a race of hyper-advanced humans who originated as an MMORPG guild. But for all its wonders, The Quantum Thief is also a story powered by very human motives of betrayal, jealousy, and revenge.
 
+#### [Stand on Zanzibar](http://www.goodreads.com/book/show/41069.Stand_on_Zanzibar) *by John Brunner* [4.0]
+
+This book was written about 2010, and what the world would be like when the world is over populated. It is still very pertinent today, especially given the style of writing, which seems to have too much information packed in than needed. 'Muckers', the idea of people who go crazy without reason due to overcrowdedness, are a really interesting concept given the rise in anti-terrorist rhetoric in recent years. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Norman Niblock House is a rising executive at General Technics, one of a few all-powerful corporations. His work is leading General Technics to the forefront of global domination, both in the marketplace and politically---it's about to take over a country in Africa. Donald Hogan is his roommate, a seemingly sheepish bookworm. But Hogan is a spy, and he's about to discover a breakthrough in genetic engineering that will change the world...and kill him. These two men's lives weave through one of science fiction's most praised novels. Written in a way that echoes John Dos Passos' U.S.A. Trilogy, "Stand on Zanzibar "is a cross-section of a world overpopulated by the billions. Where society is squeezed into hive-living madness by god-like mega computers, mass-marketed psychedelic drugs, and mundane uses of genetic engineering. Though written in 1968, it speaks of 2010, and is frighteningly prescient and intensely powerful.
+
 #### [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) *by Olaf Stapledon* [3.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
 
 If you're going to read one Science Fiction book to get a broader perspective on what it means to be human and the size of space and time, read this one. It blew me away. - [@RichardLitt](https://github.com/RichardLitt)
