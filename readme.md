@@ -104,6 +104,12 @@ This book has a few beautiful passages. It deals mainly with the ethics of using
 
 > The discovery of another habitable world might spell salvation to the three bitterly competing power blocs of the resource-starved 21st century; but when their representatives arrive on Jem, with its multiple intelligent species, they discover instead the perfect situation into which to export their rivalries. Subtitled, with savage irony, 'The Making of a Utopia', Jem is one of Frederik Pohl's most powerful novels.
 
+#### [Lord of Light](http://www.goodreads.com/book/show/13821.Lord_of_Light) *by Roger Zelazny* [4.1]
+
+This was like if Hermann Hesse decided he was tired of writing Steppenwolf and Siddhartha and wanted to do something interesting for a change. What a weird book. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Earth is long since dead. On a colony planet, a band of men has gained control of technology, made themselves immortal, and now rule their world as the gods of the Hindu pantheon. Only one dares oppose them: he who was once Siddhartha and is now Mahasamatman. Binder of Demons, Lord of Light.
+
 #### [Manhattan in Reverse](http://www.goodreads.com/book/show/10710770-manhattan-in-reverse) *by Peter F. Hamilton* [3.9]
 
 > This is a collection of short stories from the master of space opera. Peter Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a story featuring Paula Mayo, deputy director of the Intersolar Commonwealth's Serious Crimes Directorate.
