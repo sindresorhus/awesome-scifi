@@ -231,6 +231,14 @@ _Novels where the science elements from the backdrop of the story rather than th
 
 > However, in the center of the vacuum, something is developing that neither Tchicaya and the Yielders nor Mariama and the Preservationists could ever have imagined possible: life.
 
+#### [The Deep Range](http://www.goodreads.com/book/show/20410412-the-deep-range) *by Arthur C. Clarke* [3.7]
+
+This is one of Arthur C. Clarke's novels that is less about space and more about humanity, and the oceans. Clarke lived for a large part of his later life in Sri Lanka, and always loved the sea; in this book, that sentiment really comes out. I love it for that. It also has a nice view of ocean management, which is rare for books set in the future. 
+
+> A century into the future, humanity lives mostly on the sea. Gigantic whale herds are tended by submariners, and vast plankton farms feed the world. 
+
+> Walter Franklin, once a space engineer, now works on a submarine patrol. This novel tells the story of his adventures, including Franklin's capture of an enormous kraken at 12,000 feet under the sea; his search for a monstrous sea serpent; and the thrilling rescue of a sunken submarine-all set against the backdrop of a futuristic world that's both imaginative and believable.
+
 #### [The Golden Age](https://www.goodreads.com/series/41545-golden-age) *by John C. Wright* [4.1]
 
 > The Golden Age is 10,000 years in the future in our solar system, an interplanetary utopian society filled with immortal humans.
