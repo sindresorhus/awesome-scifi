@@ -610,6 +610,12 @@ This book made me cry. It is often given to high school students, but stands up 
 
 > Here is Heinlein's masterpiece--the brilliant spectacular and incredibly popular novel that grew from a cult favoirte to a bestseller to a classic in a few short years. It is the story of Valentine Michael Smith, the man from Mars who taught humankind grokking and water-sharing. And love.
 
+#### [The Shrinking Man](http://www.goodreads.com/book/show/33549.The_Shrinking_Man) [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+This was pretty good; it's pretty obvious what it is about, and it reads predictably, but the ending is strong enough to make the entire book worth reading. - [@RichardLitt](https://github.com/RichardLitt)
+
+> While on holiday, Scott Carey is exposed to a cloud of radioactive spray shortly after he accidentally ingests insecticide. The radioactivity acts as a catalyst for the bug spray, causing his body to shrink at a rate of approximately 1/7 of an inch per day. A few weeks later, Carey can no longer deny the truth: not only is he losing weight, he is also shorter than he was and deduces, to his dismay, that his body will continue to shrink.
+
 #### [The End of Eternity](http://www.goodreads.com/book/show/509784.The_End_of_Eternity) *by Isaac Asimov* [4.2]
 
 > Andrew Harlan is an Eternal, a man whose job it is to range through past and present Centuries, monitoring and, where necessary, altering Time's myriad cause-and-effect relationships. But when Harlan meets and falls for a non-Eternal woman, he seeks to use the awesome powers and techniques of the Eternals to twist time for his own purposes, so that he and his love can survive together.
