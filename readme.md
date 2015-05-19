@@ -595,6 +595,12 @@ Easily one of the most disrespectful, sacreligious, memorable and funny books I 
 
 > First published in 1969, Behold the Man broke through science fiction's genre boundaries to create a poignant reflection on faith, disillusion and self-sacrifice. This is the classic novel that established the career of perhaps contemporary science fiction's most cerebral and innovative author.
 
+#### [The Dancers at the End of Time](http://www.goodreads.com/book/show/60147.The_Dancers_at_the_End_of_Time) *by Michael Moorcock* [4.0]
+
+I liked this series so much I got a tattoo partially inspired by it. - [@RichardLitt](https://github.com/RichardLitt)
+
+> The Dancers at the End of Time is a series of science fiction novels and short stories, the setting of which is the End of Time, an era "where entropy is king and the universe has begun collapsing upon itself". The inhabitants of this era are immortal decadents, who create flights of fancy using power rings which draw on energy devised and stored by their ancestors millions of years prior. Time travel is possible, and throughout the series various points in time are visited and revisited. Space travellers are also common, but most residents of the End of Time find leaving the planet distasteful and clichéd.
+
 #### [The Door Into Summer](http://www.goodreads.com/book/show/348.The_Door_Into_Summer) *by Robert A. Heinlein* [4.0]
 
 > It is 1970, and electronics engineer Dan Davis has finally made the invention of a lifetime: a household robot with extraordinary abilities, destined to dramatically change the landscape of everyday routine. Then, with wild success just within reach, Dan's greedy partner and even greedier fiancée steal his work and leave him penniless, and trick him into taking the long sleep—suspended animation for thirty years.
