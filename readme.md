@@ -410,7 +410,7 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 ### Post Apocalyptic
 
-_Novels concerning the end of civilisation, usually basd in a future resulting from a catastrophe of some sort, where only scattered elements of technology remain._
+_Novels concerning the end of civilisation, usually based in a future resulting from a catastrophe of some sort, where only scattered elements of technology remain._
 
 #### [A Canticle for Leibowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz) *by Walter M. Miller Jr.* [4.0]
 
@@ -429,6 +429,12 @@ This has a particularly arid and inspired view of humanity after a nuclear holoc
 I travelled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedral to see the painting that inspired this book. It is that good. It was hard for me to read as I normally speed read, and the invented language makes it slow going, but it sticks with you and the imagination of Hoban is uniquely vivid.
 
 > Riddley Walker is a brilliant, unique, completely realized work of fiction. One reads it again and again, discovering new wonders every time through. Set in a remote future in a post-nuclear holocaust England (Inland), Hoban has imagined a humanity regressed to an iron-age, semi-literate state--and invented a language to represent it. Riddley is at once the Huck Finn and the Stephen Dedalus of his culture--rebel, change agent, and artist. Read again or for the first time this masterpiece of 20th-century literature with new material by the author.
+
+#### [The Drowned World](http://www.goodreads.com/book/show/16234584-the-drowned-world) *by J.G. Ballard* [3.6]
+
+This had some very haunting scenes. The last pages, in particular, will stick with me for a while. - [@RichardLitt](https://github.com/RichardLitt)
+
+> First published in 1962, J.G. Ballard's mesmerizing and ferociously prescient novel imagines a terrifying future in which solar radiation and global warming have melted the ice caps and Triassic-era jungles have overrun a submerged and tropical London. Set during the year 2145, the novel follows biologist Dr. Robert Kerans and his team of scientists as they confront a surreal cityscape populated by giant iguanas, albino alligators, and endless swarms of malarial insects. Nature has swallowed all but a few remnants of human civilization, and, slowly, Kerans and his companions are transformed--both physically and psychologically--by this prehistoric environment. Echoing Joseph Conrad's Heart of Darkness--complete with a mad white hunter and his hordes of native soldiers--this "powerful and beautifully clear" (Brian Aldiss) work becomes a thrilling adventure and a haunting examination of the effects of environmental collapse on the human mind.
 
 #### [The Stand](http://www.goodreads.com/book/show/149267.The_Stand) *by Stephen King* [4.3] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
