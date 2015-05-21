@@ -222,6 +222,12 @@ An interesting take on the near-future colonization of Mars by one hundred of th
 
 > For eons, sandstorms have swept the barren desolate landscape of the red planet. For centuries, Mars has beckoned to mankind to come and conquer its hostile climate. Now, in the year 2026, a group of one hundred colonists is about to fulfill that destiny. John Boone, Maya Toitavna, Frank Chalmers, and Arkady Bogdanov lead a mission whose ultimate goal is the terraforming of Mars. For some, Mars will become a passion driving them to daring acts of courage and madness; for others it offers and opportunity to strip the planet of its riches. And for the genetic "alchemists, " Mars presents a chance to create a biomedical miracle, a breakthrough that could change all we know about life...and death.
 
+#### [The Sands of Mars](https://www.goodreads.com/book/show/149063.The_Sands_of_Mars) *by Arthur C. Clarke* [3.7]
+
+This book is most interesting for it's pretty cool take on terraforming a planet, and how that goes both for the inhabitants and what it means for nationalism (or planetism, as it were). - [@RichardLitt](https://github.com/RichardLitt)
+
+> Space writers holiday. When a celebrated science fiction writer takes to space on his first trip to Mars, he's sure to be in for some heckling from the spaceship crew. But Martin Gibson, man about space, takes it all in his stride. That is, until he lands on the red planet. Once there the intrepid author causes one problem after another as he stumbles upon Mars's most carefully hidden secrets and threatens the future of an entire planet
+
 ### Soft Science Fiction
 
 _Novels where the science elements from the backdrop of the story rather than the central topic._
