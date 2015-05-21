@@ -186,6 +186,12 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 
 > That The Illustrated Man has remained in print since being published in 1951 is fair testimony to the universal appeal of Ray Bradbury's work. Only his second collection (the first was Dark Carnival, later reworked into The October Country), it is a marvelous, if mostly dark, quilt of science fiction, fantasy, and horror. In an ingenious framework to open and close the book, Bradbury presents himself as a nameless narrator who meets the Illustrated Man--a wanderer whose entire body is a living canvas of exotic tattoos. What's even more remarkable, and increasingly disturbing, is that the illustrations are themselves magically alive, and each proceeds to unfold its own story, such as "The Veldt," wherein rowdy children take a game of virtual reality way over the edge. Or "Kaleidoscope," a heartbreaking portrait of stranded astronauts about to reenter our atmosphere--without the benefit of a spaceship. Or "Zero Hour," in which invading aliens have discovered a most logical ally--our own children. Even though most were written in the 1940s and 1950s, these 18 classic stories will be just as chillingly effective 50 years from now. --Stanley Wiater
 
+#### [The Invisible Man](http://www.goodreads.com/book/show/17184.The_Invisible_Man) *by H.G. Wells* [3.6] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+This is more of a read about what happens when you are outside the law than anything else. Fascinating, and kind of reads like Sherlock Holmes at times. - [@RichardLitt](https://github.com/RichardLitt)
+
+> This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.)
+
 #### [The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) *by H.G. Wells* [3.8] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 This is always fun; it's a classic, and it is fun remembering what science fiction was like before there were tropes. - [@RichardLitt](https://github.com/RichardLitt)
