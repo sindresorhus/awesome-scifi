@@ -242,6 +242,14 @@ _Novels where the science elements from the backdrop of the story rather than th
 
 > Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, Dune tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides & heir of House Atreides) as he & his family accept control of the desert planet Arrakis, the only source of the "spice" melange, the most important & valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology & human emotion, as the forces of the empire confront each other for control of Arrakis. Published in 1965, it won the Hugo Award in 1966 & the inaugural Nebula Award for Best Novel. Dune is frequently cited as the world's best-selling sf novel.
 
+#### [Home Fires](http://www.goodreads.com/book/show/8694515-home-fires) *by Gene Wolfe* [3.3]
+
+This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and the main character is sometimes one sided. But the context and the fleshed out world entirely make up for it, as does Gene Wolfe's standard of never mentioning an important detail more than once as a foreshadowing. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Gene Wolfe takes us to a future North America at once familiar and utterly strange. A young man and woman, Skip and Chelle, fall in love in college and marry, but she is enlisted in the military, there is a war on, and she must serve her tour of duty before they can settle down. But the military is fighting a war with aliens in distant solar systems, and her months in the service will be years in relative time on Earth. Chelle returns to recuperate from severe injuries, after months of service, still a young woman but not necessarily the same person—while Skip is in his forties and a wealthy businessman, but eager for her return.
+
+> Still in love (somewhat to his surprise and delight), they go on a Caribbean cruise to resume their marriage. Their vacation rapidly becomes a complex series of challenges, not the least of which are spies, aliens, and battles with pirates who capture the ship for ransom. There is no writer in SF like Gene Wolfe and no SF novel like Home Fires.
+
 #### [Permutation City](https://www.goodreads.com/book/show/156784.Permutation_City) *by Greg Egan* [4.1]
 
 > In the not-too-distant future, technology has given birth to a form of immortality. The human mind can be scanned and uploaded into a virtual reality program to become a perfect electronic "Copy", aware of itself. A new Copy finds himself forced to cooperate in scientific experiments with the flesh-and-blood man he was copied from. (From the author of Quarantine.)
