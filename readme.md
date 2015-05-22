@@ -29,6 +29,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Speculative Fiction](#speculative-fiction)
 	- [Time Travel](#time-travel)
 	- [Comedy](#comedy)
+- [Short Stories](#short-stories)
 - [Movies](#movies)
 - [TV-series](#tv-series)
 - [Links](#links)
@@ -110,10 +111,6 @@ This book has a few beautiful passages. It deals mainly with the ethics of using
 This was like if Hermann Hesse decided he was tired of writing Steppenwolf and Siddhartha and wanted to do something interesting for a change. What a weird book. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Earth is long since dead. On a colony planet, a band of men has gained control of technology, made themselves immortal, and now rule their world as the gods of the Hindu pantheon. Only one dares oppose them: he who was once Siddhartha and is now Mahasamatman. Binder of Demons, Lord of Light.
-
-#### [Manhattan in Reverse](http://www.goodreads.com/book/show/10710770-manhattan-in-reverse) *by Peter F. Hamilton* [3.9]
-
-> This is a collection of short stories from the master of space opera. Peter Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a story featuring Paula Mayo, deputy director of the Intersolar Commonwealth's Serious Crimes Directorate.
 
 #### [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic) *by Arkady Strugatsky & Boris Strugatsky* [4.2]
 
@@ -686,6 +683,12 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 > Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of The Hitchhiker's Guide to the Galaxy who, for the last fifteen years, has been posing as an out-of-work actor.
 
 > Together this dynamic pair begin a journey through space aided by quotes from The Hitchhiker's Guide ("A towel is about the most massively useful thing an interstellar hitchhiker can have") and a galaxy-full of fellow travelers: Zaphod Beeblebrox--the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian, Zaphod's girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ballpoint pens he bought over the years.
+
+## Short Stories
+
+#### [Manhattan in Reverse](http://www.goodreads.com/book/show/10710770-manhattan-in-reverse) *by Peter F. Hamilton* [3.9]
+
+> This is a collection of short stories from the master of space opera. Peter Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a story featuring Paula Mayo, deputy director of the Intersolar Commonwealth's Serious Crimes Directorate.
 
 ## Movies
 
