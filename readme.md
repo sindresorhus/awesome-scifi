@@ -23,6 +23,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Police Procedural Science Fiction](#police-procedural-science-fiction)
 	- [Techno Thriller](#techno-thriller)
 	- [High Fantasy](#high-fantasy)
+	- [Low Fantasy](#low-fantasy)
 	- [Drama](#drama)
 	- [Biopunk](#biopunk)
 	- [Speculative Fiction](#speculative-fiction)
@@ -573,6 +574,15 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 > Young Severian, an apprentice in the Guild of Torturers on the world called Urth, has been exiled for committing the ultimate sin of his profession—showing mercy toward his victim.
 
+### Low Fantasy
+
+_Fantasy which isn't epic, but still has elements of science fiction in it_
+
+#### [There Are Doors](http://www.goodreads.com/book/show/666601.There_Are_Doors) *by Gene Wolfe* [3.6]
+
+This is debatably science fiction. I mention it here because certain elements, like a lot of Gene Wolfe's works, are science fiction - for instance, the android-esque doll. This book is much more of a fantasy. I love it, but it's a bit weird in places. If you like Gene Wolfe, read it. - [@RichardLitt](https://github.com/RichardLitt)
+
+> There Are Doors is the story of a man who falls in love with a goddess from an alternate universe. She flees him, but he pursues her through doorways-interdimensional gateways-to the other place, determined to sacrifice his life, if necessary, for her love.
 
 ### Drama
 
