@@ -638,6 +638,15 @@ I liked this series so much I got a tattoo partially inspired by it. - [@Richard
 
 > They never imagine that the future time in which Dan awakens has a very limited form of time travel, just enough that Davis can travel back and recover his research. He then again undergoes suspended animation, and awakens again in the high-tech future of the year 2000, with his reputation, fortune, and his sweetheart.
 
+#### [The Time Machine](https://www.goodreads.com/book/show/2493.The_Time_Machine) *by H.G. Wells* [3.8] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+Worth the read. - [@RichardLitt](https://github.com/RichardLitt)
+
+> “I’ve had a most amazing time....”
+
+> So begins the Time Traveller’s astonishing firsthand account of his journey 800,000 years beyond his own era—and the story that launched H.G. Wells’s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes...and our darkest fears. A pull of the Time Machine’s lever propels him to the age of a slowly dying Earth.  There he discovers two bizarre races—the ethereal Eloi and the subterranean Morlocks—who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well.  Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Wells’s expert storytelling and provocative insight, The Time Machine will continue to enthrall readers for generations to come.
+
+
 ### Comedy
 
 #### [The Hitchhiker's Guide to the Galaxy](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) *by Douglas Adams* [4.20] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
