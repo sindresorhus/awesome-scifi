@@ -463,6 +463,12 @@ I travelled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathed
 
 > Riddley Walker is a brilliant, unique, completely realized work of fiction. One reads it again and again, discovering new wonders every time through. Set in a remote future in a post-nuclear holocaust England (Inland), Hoban has imagined a humanity regressed to an iron-age, semi-literate state--and invented a language to represent it. Riddley is at once the Huck Finn and the Stephen Dedalus of his culture--rebel, change agent, and artist. Read again or for the first time this masterpiece of 20th-century literature with new material by the author.
 
+#### [The City and the Stars](http://www.goodreads.com/book/show/250024.The_City_and_the_Stars) *by Arthur C. Clarke* [4.1]
+
+One of Arthur C. Clarke's best novels. It makes _Childhood's End_ seem a bit immature in comparison, and evokes that strange concept of deep space that was prevalent in the 50s and in the early Star Trek series which seems to be out of fashion more recently. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Clarke's masterful evocation of the far future of humanity, considered his finest novel. The City and the Stars takes place one billion years in the future, in the city of Diaspar. By this time, the Earth is so old that the oceans have gone and humanity has all but left. As far as the people of Diaspar know, they are the only city left on the planet. The city of Diaspar is completely enclosed. Nobody has come in or left the city for as long as anybody can remember, and everybody in Diaspar has an instinctive insular conservatism. The story behind this fear of venturing outside the city tells of a race of ruthless invaders which beat humanity back from the stars to Earth, and then made a deal that humanity could live—if they never left the planet.
+
 #### [The Drowned World](http://www.goodreads.com/book/show/16234584-the-drowned-world) *by J.G. Ballard* [3.6]
 
 This had some very haunting scenes. The last pages, in particular, will stick with me for a while. - [@RichardLitt](https://github.com/RichardLitt)
