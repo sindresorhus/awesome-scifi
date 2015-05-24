@@ -670,7 +670,7 @@ I liked this series so much I got a tattoo partially inspired by it. - [@Richard
 
 #### [The Time Machine](https://www.goodreads.com/book/show/2493.The_Time_Machine) *by H.G. Wells* [3.8] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
-Worth the read. - [@RichardLitt](https://github.com/RichardLitt)
+Worth the read, mostly because it is the first time the words 'time machine' were used, and because the story, while a bit cliched to modern ears, is still good and gripping. - [@RichardLitt](https://github.com/RichardLitt)
 
 > “I’ve had a most amazing time....”
 
