@@ -31,7 +31,8 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Comedy](#comedy)
 - [Short Stories](#short-stories)
 - [Movies](#movies)
-- [TV-series](#tv-series)
+- [Movie Series](#movie-series)
+- [TV Series](#tv-series)
 - [Links](#links)
 
 
@@ -814,12 +815,6 @@ Starring George Clooney and Natasha McElhone, this is much more of a modern psyc
 
 > A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train. A mission he has only 8 minutes to complete.
 
-#### [Star Trek II: The Wrath of Khan](http://www.imdb.com/title/tt0084726/) [7.7]
-
-This is a classic film, and well worth watching if only for the incredible and iconic 'khaaaaan' echo. More impressive, however, is Ricardo Montalban's performance, which is incredible on its own. As well, in a move that goes against mainstream whitewashing, a Mexican and not a Caucasian plays a genetically engineered superhuman, making this a movie that showed the power of diversity well ahead of its time. This movie is great to watch. - [@RichardLitt](https://github.com/RichardLitt)
-
-> With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using his son's life-generating device, the Genesis Device, as the ultimate weapon.
-
 #### [Sunshine](http://www.imdb.com/title/tt0448134/) [7.3]
 
 > A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
@@ -844,8 +839,17 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 > In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
+## Movie Series
 
-## TV-series
+### Star Trek
+
+#### [Star Trek II: The Wrath of Khan](http://www.imdb.com/title/tt0084726/) [7.7]
+
+This is a classic film, and well worth watching if only for the incredible and iconic 'khaaaaan' echo. More impressive, however, is Ricardo Montalban's performance, which is incredible on its own. As well, in a move that goes against mainstream whitewashing, a Mexican and not a Caucasian plays a genetically engineered superhuman, making this a movie that showed the power of diversity well ahead of its time. This movie is great to watch. - [@RichardLitt](https://github.com/RichardLitt)
+
+> With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using his son's life-generating device, the Genesis Device, as the ultimate weapon.
+
+## TV Series
 
 #### [Battlestar Galactica](http://www.imdb.com/title/tt0407362/) [8.8]
 
