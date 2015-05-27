@@ -9,7 +9,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format:
 
 ```
-[name](link) [rating]
+[name](link) (year) *by author* [rating]
 
 Commentary - [@you](https://github.com/you)
 
