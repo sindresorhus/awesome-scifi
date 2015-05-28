@@ -731,6 +731,10 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 > An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
 
+#### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9]
+
+> A young programmer is selected to participate in a breakthrough experiment in artificial intelligence by evaluating the human qualities of a breathtaking female A.I.
+
 #### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) (1999) [7.3]
 
 > The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.
@@ -834,6 +838,10 @@ Starring George Clooney and Natasha McElhone, this is much more of a modern psyc
 #### [The Signal](http://www.imdb.com/title/tt2910814/) (2014) [6.2]
 
 > On a road trip, Nic and two friends are drawn to an isolated area by a computer genius. When everything suddenly goes dark, Nic regains consciousness - only to find himself in a waking nightmare.
+
+#### [Transcendence](http://www.imdb.com/title/tt2209764/) (2014) [6.3]
+
+>  A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
 #### [Twelve Monkeys](http://www.imdb.com/title/tt0114746/) (1996) [8.1]
 
