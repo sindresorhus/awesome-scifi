@@ -767,6 +767,10 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 > Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world's fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
 
+#### [Lucy](http://www.imdb.com/title/tt2872732/) (2014) [6.4]
+
+> A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.
+
 #### [Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]
 
 > In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
@@ -915,17 +919,14 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 > Rod Serling's seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations. The stories would typically end with an ironic twist that would see the guilty punished.
 
-
 ## Links
 
 * [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319)  - Hacker News
 * [Whats the best Sci-Fi novel you have ever read?](http://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
 
-
 ## Credit
 
 Maintained by [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
-
 
 ## License
 
