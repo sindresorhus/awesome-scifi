@@ -715,6 +715,10 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 > A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.
 
+#### [Chappie](http://www.imdb.com/title/tt1823672/) (2015) [7.1]
+
+> In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.
+
 #### [Coherence](http://www.imdb.com/title/tt2866360/) (2014) [7.1]
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
