@@ -153,10 +153,6 @@ One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://gith
 
 > Life on Earth is about to get much, much stranger.
 
-> Indeed, in his many lives, the entity called Jean le Flambeur has been a thief, a confidence artist, a posthuman mind-burgler, and more. His origins are shrouded in mystery, but his deeds are known throughout the Heterarchy, from breaking into the vast Zeusbrains of the Inner System to stealing rare Earth antiques from the aristocrats of Mars. In his last exploit, he managed the supreme feat of hiding the truth about himself from the one person in the solar system hardest to hide from: himself. Now he has the chance to regain himself in all his power—in exchange for finishing the one heist he never quite managed.
-
-> The Quantum Thief is a breathtaking joyride through the solar system several centuries hence, a world of marching cities, ubiquitous public-key encryption, people who communicate via shared memory, and a race of hyper-advanced humans who originated as an MMORPG guild. But for all its wonders, The Quantum Thief is also a story powered by very human motives of betrayal, jealousy, and revenge.
-
 #### [Stand on Zanzibar](http://www.goodreads.com/book/show/41069.Stand_on_Zanzibar) (1999) *by John Brunner* [4.0]
 
 This book was written about 2010, and what the world would be like when the world is over populated. It is still very pertinent today, especially given the style of writing, which seems to have too much information packed in than needed. 'Muckers', the idea of people who go crazy without reason due to overcrowdedness, are a really interesting concept given the rise in anti-terrorist rhetoric in recent years. - [@RichardLitt](https://github.com/RichardLitt)
