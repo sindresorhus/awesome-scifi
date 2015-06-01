@@ -40,9 +40,9 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 ## Novels
 
-<img src="http://i.imgur.com/yJaoHfh.png" width="30px"> means that it's a classic.
+<img src="https://i.imgur.com/yJaoHfh.png" width="30px"> means that it's a classic.
 
-<img src="http://i.imgur.com/iA6WScw.png" width="30px"> means that it has more than 100 000 ratings on Goodreads.
+<img src="https://i.imgur.com/iA6WScw.png" width="30px"> means that it has more than 100 000 ratings on Goodreads.
 
 *The [number] at the end is the rounded version of the rating on Goodreads.*
 
@@ -75,7 +75,7 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 > When distant political machinations deliver a new ambassador to Arieka, the fragile equilibrium between humans and aliens is violently upset. Catastrophe looms, and Avice is torn between competing loyalties—to a husband she no longer loves, to a system she no longer trusts, and to her place in a language she cannot speak yet speaks through her.
 
-#### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by Isaac Asimov* [4.0] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by Isaac Asimov* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire—both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
 
@@ -87,7 +87,7 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 > On the run from a ruthless pursuer and searching for a place to hide, he volunteers to participate in a unique experimental polity, the Glasshouse, constructed to simulate a pre-accelerated culture. Participants are assigned anonymized identities: It looks like the ideal hiding place for a posthuman on the run. But in this escape-proof environment, Robin will undergo an even more radical change, placing him at the mercy of the experimenters—and at the mercy of his own unbalanced psyche…
 
-#### [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot) (1950) *by Isaac Asimov* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot) (1950) *by Isaac Asimov* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > The three laws of Robotics:
 
@@ -123,7 +123,7 @@ Twitter user: One of the best books I have ever read.
 
 > Red Schuhart is a stalker, one of those strange misfits compelled to venture illegally into the Zone and collect the strange artefacts that the alien visitors left scattered there. His whole life, even the nature of his daughter, is determined by the Zone.
 
-#### [Solaris](https://www.goodreads.com/book/show/95558.Solaris) (1961) *by Stanisław Lem* [3.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [Solaris](https://www.goodreads.com/book/show/95558.Solaris) (1961) *by Stanisław Lem* [3.9] <img src="https://i.imgur.com/yJaoHfh.png" width="30px">
 
 > A classic work of science fiction by renowned Polish novelist and satirist Stanisław Lem.
 
@@ -161,7 +161,7 @@ This book was written about 2010, and what the world would be like when the worl
 
 > Norman Niblock House is a rising executive at General Technics, one of a few all-powerful corporations. His work is leading General Technics to the forefront of global domination, both in the marketplace and politically—it’s about to take over a country in Africa. Donald Hogan is his roommate, a seemingly sheepish bookworm. But Hogan is a spy, and he’s about to discover a breakthrough in genetic engineering that will change the world… and kill him. These two men’s lives weave through one of science fiction’s most praised novels. Written in a way that echoes John Dos Passos’ _U.S.A._ trilogy, _Stand on Zanzibar_ is a cross-section of a world overpopulated by the billions. Where society is squeezed into hive-living madness by god-like mega computers, mass-marketed psychedelic drugs, and mundane uses of genetic engineering. Though written in 1968, it speaks of 2010, and is frighteningly prescient and intensely powerful.
 
-#### [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) (1937) *by Olaf Stapledon* [3.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [Star Maker](https://www.goodreads.com/book/show/525304.Star_Maker) (1937) *by Olaf Stapledon* [3.9] <img src="https://i.imgur.com/yJaoHfh.png" width="30px">
 
 If you're going to read one Science Fiction book to get a broader perspective on what it means to be human and the size of space and time, read this one. It blew me away. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -181,17 +181,17 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 
 > Only a few know the terrifying truth—an outcast Earth scientist, a rebellious alien inhabitant who senses the imminent annihilation of the Sun. They know the truth—but who will listen? They have foreseen the cost of abundant energy—but who will believe? These few beings, human and alien, hold the key to Earth’s survival.
 
-#### [The Illustrated Man](https://www.goodreads.com/book/show/24830.The_Illustrated_Man) (1951) *by Ray Bradbury* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [The Illustrated Man](https://www.goodreads.com/book/show/24830.The_Illustrated_Man) (1951) *by Ray Bradbury* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px">
 
 > That _The Illustrated Man_ has remained in print since being published in 1951 is fair testimony to the universal appeal of Ray Bradbury’s work. Only his second collection (the first was Dark Carnival, later reworked into _The October Country_), it is a marvelous, if mostly dark, quilt of science fiction, fantasy, and horror. In an ingenious framework to open and close the book, Bradbury presents himself as a nameless narrator who meets the Illustrated Man—a wanderer whose entire body is a living canvas of exotic tattoos. What’s even more remarkable, and increasingly disturbing, is that the illustrations are themselves magically alive, and each proceeds to unfold its own story, such as “The Veldt,” wherein rowdy children take a game of virtual reality way over the edge. Or “Kaleidoscope,” a heartbreaking portrait of stranded astronauts about to reenter our atmosphere—without the benefit of a spaceship. Or “Zero Hour,” in which invading aliens have discovered a most logical ally—our own children. Even though most were written in the 1940s and 1950s, these 18 classic stories will be just as chillingly effective 50 years from now. —Stanley Wiater
 
-#### [The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man) (1897) *by H.G. Wells* [3.6] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man) (1897) *by H.G. Wells* [3.6] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 This is more of a read about what happens when you are outside the law than anything else. Fascinating, and kind of reads like Sherlock Holmes at times. - [@RichardLitt](https://github.com/RichardLitt)
 
 > This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.)
 
-#### [The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) (1898) *by H.G. Wells* [3.8] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) (1898) *by H.G. Wells* [3.8] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 This is always fun; it's a classic, and it is fun remembering what science fiction was like before there were tropes. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -245,7 +245,7 @@ This book is most interesting for it's pretty cool take on terraforming a planet
 
 _Novels where the science elements from the backdrop of the story rather than the central topic._
 
-#### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) (1963-1994) *by Frank Herbert* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) (1963-1994) *by Frank Herbert* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, _Dune_ tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice” melange, the most important and valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology and human emotion, as the forces of the empire confront each other for control of Arrakis.
 
@@ -312,7 +312,7 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 > And nothing less than the future is at stake.
 
-#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) *by William Gibson* [3.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Neuromancer](https://www.goodreads.com/book/show/22328.Neuromancer) (1984) *by William Gibson* [3.9] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > The Matrix is a world within the world, a global consensus hallucination, the representation of every byte of data in cyberspace…
 
@@ -320,7 +320,7 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 > Hotwired to the leading edges of art and technology, _Neuromancer_ ranks with _1984_ and _Brave New World_ as one of the century’s most potent visions of the future.
 
-#### [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) (1992) *by Neal Stephenson* [4.0] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) (1992) *by Neal Stephenson* [4.0] <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > In reality, Hiro Protagonist delivers pizza for Uncle Enzo’s CosoNostra Pizza Inc., but in the Metaverse he’s a warrior prince. Plunging headlong into the enigma of a new computer virus that’s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. _Snow Crash_ is a mind-altering romp through a future America so bizarre, so outrageous… you’ll recognize it immediately.
 
@@ -355,19 +355,19 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 _Dystopian novels deal with imaginary communities or societies that are undesirable or frightening._
 
-#### [1984](https://www.goodreads.com/book/show/5470.1984) (1949) *by George Orwell* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [1984](https://www.goodreads.com/book/show/5470.1984) (1949) *by George Orwell* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > Written in 1948, _1984_ was George Orwell’s chilling prophecy about the future.
 
 > While 1984 has come and gone, Orwell’s narrative is more timely that ever. _1984_ presents a “negative utopia,” that is at once a startling and haunting vision of the world—so powerful that it’s completely convincing from start to finish. No one can deny the power of this novel, its hold on the imaginations of entire generations of readers, or the resiliency of its admonitions—a legacy that seems to grow, not lessen, with the passage of time.
 
-#### [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) (1932) *by Aldous Huxley* [3.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) (1932) *by Aldous Huxley* [3.9] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations, where the old, imperfect life still continues, may be the cure for his distress…
 
 > Huxley’s ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.
 
-#### [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) (1953) *by Ray Bradbury* [4.0] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) (1953) *by Ray Bradbury* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > The terrifyingly prophetic novel of a post-literate future.
 
@@ -377,11 +377,11 @@ _Dystopian novels deal with imaginary communities or societies that are undesira
 
 > Bradbury’s powerful and poetic prose combines with uncanny insight into the potential of technology to create a novel which, decades on from first publication, still has the power to dazzle and shock.
 
-#### [Oryx and Crake](https://www.goodreads.com/series/55674-maddaddam) (2003, 2009, 2013) *by Margaret Atwood* [4.0] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Oryx and Crake](https://www.goodreads.com/series/55674-maddaddam) (2003, 2009, 2013) *by Margaret Atwood* [4.0] <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > _Oryx and Crake_ is at once an unforgettable love story and a compelling vision of the future. Snowman, known as Jimmy before mankind was overwhelmed by a plague, is struggling to survive in a world where he may be the last human, and mourning the loss of his best friend, Crake, and the beautiful and elusive Oryx whom they both loved. In search of answers, Snowman embarks on a journey–with the help of the green-eyed Children of Crake–through the lush wilderness that was so recently a great city, until powerful corporations took mankind on an uncontrolled genetic engineering ride. Margaret Atwood projects us into a near future that is both all too familiar and beyond our imagining.
 
-#### [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) (2011) *by Ernest Cline* [4.3] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) (2011) *by Ernest Cline* [4.3] <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > It’s the year 2044, and the real world is an ugly place.
 
@@ -446,7 +446,7 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 > Six million years ago, at the dawn of the star-faring era, Abigail Gentian fractured herself into a thousand male and female clones, which she called shatterlings. But now, someone is eliminating the Gentian line. Campion and Purslane—two shatterlings who have fallen in love and shared forbidden experiences—must determine exactly who, or what, their enemy is, before they are wiped out of existence.
 
-#### [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) (1989) *by Dan Simmons* [4.2] <img src="http://i.imgur.com/yJaoHfh.png" width="30px">
+#### [Hyperion](https://www.goodreads.com/book/show/77566.Hyperion) (1989) *by Dan Simmons* [4.2] <img src="https://i.imgur.com/yJaoHfh.png" width="30px">
 
 > On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge, brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope—and a terrible secret. And one may hold the fate of humanity in his hands.
 
@@ -469,7 +469,7 @@ This has a particularly arid and inspired view of humanity after a nuclear holoc
 
 > In a nightmarish ruined world slowly awakening to the light after sleeping in darkness, the infant rediscoveries of science are secretly nourished by cloistered monks dedicated to the study and preservation of the relics and writings of the blessed Saint Isaac Leibowitz. From here the story spans centuries of ignorance, violence, and barbarism, viewing through a sharp, satirical eye the relentless progression of a human race damned by its inherent humanness to recelebrate its grand foibles and repeat its grievous mistakes. Seriously funny, stunning, and tragic, eternally fresh, imaginative, and altogether remarkable, _A Canticle for Leibowitz_ retains its ability to enthrall and amaze. It is now, as it always has been, a masterpiece.
 
-#### [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) (1968) *by Philip K. Dick* [4.1] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) (1968) *by Philip K. Dick* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > A final, apocalyptic, world war has killed millions, driving entire species into extinction and sending the majority of mankind off-planet. Those who remain, venerate all remaining examples of life, and owning an animal of your own is both a symbol of status and a necessity. For those who can’t afford an authentic animal, companies build incredibly realistic simulacrae: horses, birds, cats, sheep… even humans.
 
@@ -491,7 +491,7 @@ This had some very haunting scenes. The last pages, in particular, will stick wi
 
 > First published in 1962, J.G. Ballard’s mesmerizing and ferociously prescient novel imagines a terrifying future in which solar radiation and global warming have melted the ice caps and Triassic-era jungles have overrun a submerged and tropical London. Set during the year 2145, the novel follows biologist Dr. Robert Kerans and his team of scientists as they confront a surreal cityscape populated by giant iguanas, albino alligators, and endless swarms of malarial insects. Nature has swallowed all but a few remnants of human civilization, and, slowly, Kerans and his companions are transformed—both physically and psychologically—by this prehistoric environment. Echoing Joseph Conrad’s _Heart of Darkness_—complete with a mad white hunter and his hordes of native soldiers—this “powerful and beautifully clear” (Brian Aldiss) work becomes a thrilling adventure and a haunting examination of the effects of environmental collapse on the human mind.
 
-#### [The Stand](https://www.goodreads.com/book/show/149267.The_Stand) (1978) *by Stephen King* [4.3] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Stand](https://www.goodreads.com/book/show/149267.The_Stand) (1978) *by Stephen King* [4.3] <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > This is the way the world ends: with a nanosecond of computer error in a Defense Department laboratory and a million casual contacts that form the links in a chain letter of death.
 
@@ -514,7 +514,7 @@ This had some very haunting scenes. The last pages, in particular, will stick wi
 
 _Novels featuring the use use of technology, mainly weapons, for military purposes and principal characters that are members of a military organization involved in military activity; sometimes occurring in outer space or other planets._
 
-#### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) *by Orson Scott Card* [4.3] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) *by Orson Scott Card* [4.3] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > In order to develop a secure defense against a hostile alien race’s next attack, government agencies breed child geniuses and train them as soldiers. A brilliant young boy—Andrew “Ender” Wiggin—lives with his kind but distant parents, his sadistic brother Peter, and the person he loves more than anyone else, his sister Valentine. Peter and Valentine were candidates for the soldier-training program but didn’t make the cut—young Ender is the Wiggin drafted to the orbiting Battle School for rigorous military training.
 
@@ -570,7 +570,7 @@ _Novels which draw from sci-fi, thrillers, spying, action and wars. Include lots
 
 > Computer technology expert Daniel Suarez blends haunting high-tech realism with gripping suspense in an authentic, complex thriller in the tradition of Michael Crichton, Neal Stephenson, and William Gibson.
 
-#### [Sphere](https://www.goodreads.com/book/show/455373.Sphere) (1987) *by Michael Crichton* [3.7] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Sphere](https://www.goodreads.com/book/show/455373.Sphere) (1987) *by Michael Crichton* [3.7] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 Twitter user: My favorite novel. Movie was worse than terrible.
 
@@ -620,7 +620,7 @@ If you liked Cloud Atlas this is a good read.
 
 _Novels which focus on the near-future unintended consequences of biotechnology revolutions._
 
-#### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) *by Daniel Keyes* [4.0] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) *by Daniel Keyes* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 This book made me cry. It is often given to high school students, but stands up well as an adult read. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -645,7 +645,7 @@ This book made me cry. It is often given to high school students, but stands up 
 
 > Powerful unforeseen forces jeopardize the peaceful stability of mathic life and the established ennui of the Extramuros—a threat that only an unsteady alliance of saecular and avout can oppose—as, one by one, Erasmas and his colleagues, teachers, and friends are summoned forth from the safety of the concent in hopes of warding off global disaster. Suddenly burdened with a staggering responsibility, Erasmas finds himself a major player in a drama that will determine the future of his world—as he sets out on an extraordinary odyssey that will carry him to the most dangerous, inhospitable corners of the planet… and beyond.
 
-#### [Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land) (1961) *by Robert A. Heinlein* [3.9] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land) (1961) *by Robert A. Heinlein* [3.9] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > NAME: Valentine Michael smith
 > ANCESTRY: Human
@@ -653,7 +653,7 @@ This book made me cry. It is often given to high school students, but stands up 
 
 > Here is Heinlein’s masterpiece—the brilliant spectacular and incredibly popular novel that grew from a cult favorite to a bestseller to a classic in a few short years. It is the story of Valentine Michael Smith, the man from Mars who taught humankind grokking and water-sharing. And love.
 
-#### [The Shrinking Man](https://www.goodreads.com/book/show/33549.The_Shrinking_Man) (1956) *by Richard Matheson* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Shrinking Man](https://www.goodreads.com/book/show/33549.The_Shrinking_Man) (1956) *by Richard Matheson* [3.8] <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 This was pretty good; it's pretty obvious what it is about, and it reads predictably, but the ending is strong enough to make the entire book worth reading. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -688,7 +688,7 @@ I liked this series so much I got a tattoo partially inspired by it. - [@Richard
 
 > They never imagine that the future time in which Dan awakens has a very limited form of time travel, just enough that Davis can travel back and recover his research. He then again undergoes suspended animation, and awakens again in the high-tech future of the year 2000, with his reputation, fortune, and his sweetheart.
 
-#### [The Time Machine](https://www.goodreads.com/book/show/2493.The_Time_Machine) (1895) *by H.G. Wells* [3.8] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Time Machine](https://www.goodreads.com/book/show/2493.The_Time_Machine) (1895) *by H.G. Wells* [3.8] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 Worth the read, mostly because it is the first time the words 'time machine' were used, and because the story, while a bit cliched to modern ears, is still good and gripping. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -699,7 +699,7 @@ Worth the read, mostly because it is the first time the words 'time machine' wer
 
 ### Comedy
 
-#### [The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by Douglas Adams* [4.20] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by Douglas Adams* [4.20] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 One of the funniest series I have ever read. I laugh to myself and think about this all of the time. Changed how I view the galaxy and lost pens irreversibly. I also celebrate [International Towel Day](http://en.wikipedia.org/wiki/Towel_Day) every year now. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -966,7 +966,7 @@ This is a classic film, and well worth watching if only for the incredible and i
 ## Links
 
 * [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319)  - Hacker News
-* [Whats the best Sci-Fi novel you have ever read?](http://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
+* [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
 
 ## Credit
 
@@ -974,6 +974,6 @@ Maintained by [these marvelous humanoids](https://github.com/sindresorhus/awesom
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
