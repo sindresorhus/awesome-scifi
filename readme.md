@@ -698,7 +698,7 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 ## Movies
 
-#### [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/) (1968) [8.3]
+#### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]
 
 > Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
