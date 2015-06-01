@@ -73,6 +73,14 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 >  Fred Cassidy, a perpetual student, scrounger, and acrophile, is the last known person to have seen an important stone that his friend had. Various criminals, Anglophile zealots, government agents and aliens torture, shoot, beat, trick, chase, terrorize, assault telepathically, stalk, and importune Fred in attempts to get him to tell them the location of the stone. He denies any knowledge of its whereabouts, and decides to make his own investigation.
 
+#### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) *by China Miéville* [3.84]
+
+>  In the far future, humans have colonized a distant planet, home to the enigmatic Ariekei, sentient beings famed for a language unique in the universe, one that only a few altered human ambassadors can speak.
+
+> Avice Benner Cho, a human colonist, has returned to Embassytown after years of deep-space adventure. She cannot speak the Ariekei tongue, but she is an indelible part of it, having long ago been made a figure of speech, a living simile in their language.
+
+> When distant political machinations deliver a new ambassador to Arieka, the fragile equilibrium between humans and aliens is violently upset. Catastrophe looms, and Avice is torn between competing loyalties—to a husband she no longer loves, to a system she no longer trusts, and to her place in a language she cannot speak yet speaks through her.
+
 #### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by Isaac Asimov* [4.0] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future -- to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire -- both scientists and scholars -- and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
