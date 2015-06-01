@@ -724,7 +724,7 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 #### [Chappie](http://www.imdb.com/title/tt1823672/) (2015) [7.1]
 
-A movie about an AI robot "growing up" (as in, learning about the world and learning the difference between good and bad). An amazing story, you really feel like Chappie is your friend by the end of the movie. Visual effects are not that great in a couple of scenes.
+A movie about an AI robot "growing up" (as in, learning about the world and learning the difference between good and bad). An amazing story, you really feel like Chappie is your friend by the end of the movie. Visual effects are not that great in a couple of scenes. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 > In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.
 
