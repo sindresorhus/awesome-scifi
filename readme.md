@@ -876,6 +876,8 @@ Starring George Clooney and Natasha McElhone, this is much more of a modern psyc
 
 ### Star Trek
 
+![](https://cloud.githubusercontent.com/assets/170270/7905777/f4fc5402-081e-11e5-9a71-8dad63e3b30b.gif)
+
 #### [Star Trek II: The Wrath of Khan](http://www.imdb.com/title/tt0084726/) [7.7]
 
 This is a classic film, and well worth watching if only for the incredible and iconic 'khaaaaan' echo. More impressive, however, is Ricardo Montalban's performance, which is incredible on its own. As well, in a move that goes against mainstream whitewashing, a Mexican and not a Caucasian plays a genetically engineered superhuman, making this a movie that showed the power of diversity well ahead of its time. This movie is great to watch. - [@RichardLitt](https://github.com/RichardLitt)
