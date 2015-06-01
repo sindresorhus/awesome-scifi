@@ -900,7 +900,7 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 > A detective from the year 2077 finds herself trapped in present day Vancouver and searching for ruthless criminals from the future.
 
-#### [Dr. Who](http://www.imdb.com/title/tt0436992/) [8.9]
+#### [Doctor Who](http://www.imdb.com/title/tt0436992/) [8.9]
 
 > The further adventures of the time traveling alien adventurer and his companions.
 
