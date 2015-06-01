@@ -332,6 +332,11 @@ This book is fantastic not for the novelty of non-technological teleportation, b
 
 > Cobb Anderson created the "boppers," sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers--and eventually every human--into a giant, melded consciousness. Some of the little boppers aren't too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his "software." It seems like a good idea to Cobb.
 
+#### [Hard-Boiled Wonderland and the End of the World](http://www.goodreads.com/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World) (1985) *by Haruki Murakami* [4.2]
+
+My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. Short read too. - [@desandro](https://github.com/desandro)
+
+> 'A narrative particle accelerator that zooms between Wild Turkey Whiskey and Bob Dylan, unicorn skulls and voracious librarians, John Coltrane and Lord Jim. Science fiction, detective story and post-modern manifesto all rolled into one rip-roaring novel, Hard-Boiled Wonderland and the End of the World is the tour de force that expanded Haruki Murakami's international following. Tracking one man's descent into the Kafkaesque underworld of contemporary Tokyo, Murakami unites East and West, tragedy and farce, compassion and detachment, slang and philosophy.'
 
 ### Dystopia
 
@@ -707,6 +712,10 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 > An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
 
+#### [Akira](http://www.imdb.com/title/tt0094625/) (1988) [8.1]
+
+> A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psionic psychopath that only two kids and a group of psionics can stop.
+
 #### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
 > A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
@@ -747,6 +756,10 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 > A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
+#### [Ghost in the Shell](http://www.imdb.com/title/tt0113568/) (1995) [8.0]
+
+> A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master.
+
 #### [Godzilla](http://www.imdb.com/title/tt0047034/) (2004) [7.5]
 
 > American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
@@ -786,6 +799,10 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 #### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]
 
 > Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.
+
+#### [Paprika](http://www.imdb.com/title/tt0851578/) (2006) [7.7]
+
+> When a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.
 
 #### [Predestination](http://www.imdb.com/title/tt2397535/) (2014) [7.5]
 
@@ -902,6 +919,10 @@ This is a classic film, and well worth watching if only for the incredible and i
 #### [Hitchhiker's Guide to the Galaxy](http://www.imdb.com/title/tt0081874/) [8.0]
 
 > An Earth man and his alien friend escape Earth's destruction and go on a truly strange adventure as space hitchhikers.
+
+#### [Neon Genesis Evangelion](http://www.imdb.com/title/tt0112159/) [8.6]
+
+> 15 years after the enormous catastrophe that killed half of the world population, another crisis has come — the unidentified invaders called "Angels" begin to attack human-kind. Mankind's only hope lies with giant organic mecha and their teenage pilots.
 
 #### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) [8.1]
 
