@@ -49,12 +49,6 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 ### Science Fiction
 
-#### [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) (2006) *by Peter Watts* [4.0]
-
-A cast of strange and wonderful characters. Overarching themes on consciousness, transhumanism, humanity and first contact. This book has everything.
-
-> It's been two months since a myriad of alien objects clenched about the Earth, screaming as they burned. The heavens have been silent since - until a derelict space probe hears whispers from a distant comet. Something talks out there: but not to us. Who to send to meet the alien, when the alien doesn't want to meet? Send a linguist with multiple-personality disorder, and a biologist so spliced to machinery he can't feel his own flesh. Send a pacifist warrior, and a vampire recalled from the grave by the voodoo of paleogenetics. Send a man with half his mind gone since childhood. Send them to the edge of the solar system, praying you can trust such freaks and monsters with the fate of a world. You fear they may be more alien than the thing they've been sent to find - but you'd give anything for that to be true, if you knew what was waiting for them.
-
 #### [Childhood's End](https://www.goodreads.com/book/show/414999.Childhood_s_End) (1953) *by Arthur C Clarke* [4.0]
 
 > Without warning, giant silver ships from deep space appear in the skies above every major city on Earth. Manned by the Overlords, in fifty years, they eliminate ignorance, disease, and poverty. Then this golden age ends--and then the age of Mankind begins....
@@ -206,6 +200,12 @@ _Novels which place an emphasis on scientific accuracy and/or technical detail; 
 > Thousands of years hence, many races inhabit a universe where a mind's potential is determined by its location in space, from superintelligent entities in the Transcend, to the limited minds of the Unthinking Depths, where only simple creatures and technology can function. Nobody knows what strange force partitioned space into these "regions of thought," but when the warring Straumli realm use an ancient Transcendent artifact as a weapon, they unwittingly unleash an awesome power that destroys thousands of worlds and enslaves all natural and artificial intelligence.
 
 > Fleeing the threat, a family of scientists, including two children, are taken captive by the Tines, an alien race with a harsh medieval culture, and used as pawns in a ruthless power struggle. A rescue mission, not entirely composed of humans, must rescue the children-and a secret that may save the rest of interstellar civilization.
+
+#### [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) (2006) *by Peter Watts* [4.0]
+
+A cast of strange and wonderful characters. Overarching themes on consciousness, transhumanism, humanity and first contact. This book has everything.
+
+> It's been two months since a myriad of alien objects clenched about the Earth, screaming as they burned. The heavens have been silent since - until a derelict space probe hears whispers from a distant comet. Something talks out there: but not to us. Who to send to meet the alien, when the alien doesn't want to meet? Send a linguist with multiple-personality disorder, and a biologist so spliced to machinery he can't feel his own flesh. Send a pacifist warrior, and a vampire recalled from the grave by the voodoo of paleogenetics. Send a man with half his mind gone since childhood. Send them to the edge of the solar system, praying you can trust such freaks and monsters with the fate of a world. You fear they may be more alien than the thing they've been sent to find - but you'd give anything for that to be true, if you knew what was waiting for them.
 
 #### [Diaspora](https://www.goodreads.com/book/show/156785.Diaspora) (1997) *by Greg Egan* [4.1]
 
