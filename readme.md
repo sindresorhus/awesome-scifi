@@ -355,7 +355,7 @@ _Dystopian novels deal with imaginary communities or societies that are undesira
 
 > Huxley's ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.
 
-#### [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) (2013) *by Ray Bradbury* [4.0] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+#### [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) (1953) *by Ray Bradbury* [4.0] <img src="http://i.imgur.com/yJaoHfh.png" width="30px"> <img src="http://i.imgur.com/iA6WScw.png" width="30px">
 
 > The terrifyingly prophetic novel of a post-literate future.
 
