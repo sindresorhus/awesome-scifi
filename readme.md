@@ -434,9 +434,7 @@ Now, an act of treachery has ripped it all away, leaving her with one fragile hu
 
 > On the world called Hyperion, beyond the law of the Hegemony of Man, there waits the creature called the Shrike. There are those who worship it. There are those who fear it. And there are those who have vowed to destroy it. In the Valley of the Time Tombs, where huge, brooding structures move backward through time, the Shrike waits for them all. On the eve of Armageddon, with the entire galaxy at war, seven pilgrims set forth on a final voyage to Hyperion seeking the answers to the unsolved riddles of their lives. Each carries a desperate hope—and a terrible secret. And one may hold the fate of humanity in his hands.
 
-> A stunning tour de force filled with transcendent awe and wonder, Hyperion is a masterwork of science fiction that resonates with excitement and invention, the first volume in a remarkable new science fiction epic by the multiple-award-winning author of The Hollow Man
-
-> Within the cosmic conflict, an individual crusade. Deep within a fabled labyrinth on a barren world, a Planet of the Dead proscribed to mortals, lay a fugitive Mind. Both the Culture and the Idirans sought it. It was the fate of Horza, the Changer, and his motley crew of unpredictable mercenaries, human and machine, actually to find it, and with it their own destruction.
+> A stunning tour de force filled with transcendent awe and wonder, Hyperion is a masterwork of science fiction that resonates with excitement and invention, the first volume in a remarkable new science fiction epic by the multiple-award-winning author of The Hollow Man.
 
 #### [Night's Dawn Trilogy](https://www.goodreads.com/series/43318-night-s-dawn) (1996, 1997, 1999) *by Peter Hamilton* [4.1]
 
