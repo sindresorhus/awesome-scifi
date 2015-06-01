@@ -743,6 +743,8 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 #### [Chappie](http://www.imdb.com/title/tt1823672/) (2015) [7.1]
 
+A movie about an AI robot "growing up" (as in, learning about the world and learning the difference between good and bad). An amazing story, you really feel like Chappie is your friend by the end of the movie. Visual effects are not that great in a couple of scenes. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
 > In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.
 
 #### [Coherence](http://www.imdb.com/title/tt2866360/) (2013) [7.1]
@@ -762,6 +764,8 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 > An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
 
 #### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9]
+
+Kind of a parody about Google. The owner of a huge search provider creates an A.I. humanoid in a complete secrecy and calls a young programmer to perform a slight variation of a [Turing test](https://en.wikipedia.org/wiki/Turing_test) to test his creation in a secret underground lab. Can be a good introduction to Turing test to people interested in A.I. To be honest, the end of the movie was a bit dissapointing to me. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 > A young programmer is selected to participate in a breakthrough experiment in artificial intelligence by evaluating the human qualities of a breathtaking female A.I.
 
@@ -783,6 +787,8 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 #### [Her](http://www.imdb.com/title/tt1798709/) (2014) [8.0]
 
+Hey, lets all fall in love in our operating systems! The movie seems like a plausible love story and it takes the reality of our addiction to technology to a whole new level. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
 > A lonely writer develops an unlikely relationship with his newly purchased operating system that's designed to meet his every need.
 
 #### [I Origins](http://www.imdb.com/title/tt2884206/) (2014) [7.3]
@@ -795,6 +801,8 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 #### [Interstellar](http://www.imdb.com/title/tt0816692/) (2014) [8.7]
 
+An interesting (and long) movie about a humanity trying to safe itself by leaving Earth after a huge climate change that made it difficult to grow food. Truly remarkable story and amazing graphic. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
 > A team of explorers travel through a wormhole in an attempt to ensure humanity's survival.
 
 #### [La Jetée](http://www.imdb.com/title/tt0056119/) (1962) [8.4]
@@ -802,6 +810,8 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 > Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world's fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
 
 #### [Lucy](http://www.imdb.com/title/tt2872732/) (2014) [6.4]
+
+A movie about a [10% of the brain myth](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth) in which Scarlett Jonansson tries to find out what the hell is wrong with her and what will happen to her once she reaches a 100% brain capacity. In the meantime, she starts to get some awesome superhuman powers! Oh, and Morgan Freeman explains things, yay! - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 > A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.
 
@@ -882,6 +892,8 @@ Starring George Clooney and Natasha McElhone, this is much more of a modern psyc
 > On a road trip, Nic and two friends are drawn to an isolated area by a computer genius. When everything suddenly goes dark, Nic regains consciousness - only to find himself in a waking nightmare.
 
 #### [Transcendence](http://www.imdb.com/title/tt2209764/) (2014) [6.3]
+
+A love story between a woman and her husband uploaded into a computer. What makes the movie a bit scary is that, although a bit unrealistic, it is placed in a near future. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 >  A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
