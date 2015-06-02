@@ -710,6 +710,14 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 ## Short Stories
 
+#### [Axiomatic](https://www.goodreads.com/book/show/156783.Axiomatic) (1995) *by Greg Egan* [4.2]
+
+Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially if you haven’t had a chance to read anything written by Greg Egan before.) The stories have aged surprisingly well—which only underlines Egan’s penchant for sounding out the shape of the future. - [@mihailim](https://github.com/mihailim)
+
+> _Axiomatic_ is a collection of Greg Egan’s short stories that appeared in various science fiction magazines (mostly _Interzone_ and _Asimov’s_) between 1989 and 1992. Like most of Egan’s work, the stories focus on science and ideas, sometimes at the expense of the writing. But although Egan may lack a certain stylistic flair, he more than makes up for it with his wonderful visions of the future. Some of the more interesting stories include _Into Darkness_, the tale of a rescue worker whose territory is a runaway wormhole, and the title story _Axiomatic_, which is about a man looking to find meaning in the senseless death of his wife.
+
+> Contents: _The Infinite Assassin_ (1991), _The Hundred Light-Year Diary_ (1992), _Eugene_ (1990), _The Caress_ (1990), _Blood Sisters_ (1991), _Axiomatic_ (1990), _The Safe-Deposit Box_ (1990), _Seeing_ (1995), _A Kidnapping_ (1995), _Learning to Be Me_ (1990), _The Moat_ (1991), _The Walk_ (1992), _The Cutie_ (1989), _Into Darkness_ (1992), _Appropriate Love_ (1991), _The Moral Virologist_ (1990), _Closer_ (1992), _Unstable Orbits in the Space of Lies_ (1992)
+
 #### [Manhattan in Reverse](https://www.goodreads.com/book/show/10710770-manhattan-in-reverse) (2011) *by Peter F. Hamilton* [3.9]
 
 > This is a collection of short stories from the master of space opera. Peter Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a story featuring Paula Mayo, deputy director of the Intersolar Commonwealth’s Serious Crimes Directorate.
