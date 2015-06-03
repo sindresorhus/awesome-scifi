@@ -889,6 +889,12 @@ Starring George Clooney and Natasha McElhone, this is much more of a modern psyc
 
 > A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train. A mission he has only 8 minutes to complete.
 
+#### [Stalker](http://www.imdb.com/title/tt0079944/) (1979) [8.2]
+
+Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadside Picnic".
+
+> Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife's objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He's a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one's secret hopes come true.
+
 #### [Sunshine](http://www.imdb.com/title/tt0448134/) (2007) [7.3]
 
 > A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
@@ -919,9 +925,6 @@ A love story between a woman and her husband uploaded into a computer. What make
 
 > In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
-#### [Stalker](http://www.imdb.com/title/tt0079944/) (1979) [8.2]
-
-> Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife's objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He's a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one's secret hopes come true.
 
 ## Movie Series
 
