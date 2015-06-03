@@ -891,7 +891,7 @@ Starring George Clooney and Natasha McElhone, this is much more of a modern psyc
 
 #### [Stalker](http://www.imdb.com/title/tt0079944/) (1979) [8.2]
 
-Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadside Picnic".
+Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadside Picnic". - [@ggb](https://github.com/ggb)
 
 > Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife's objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He's a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one's secret hopes come true.
 
