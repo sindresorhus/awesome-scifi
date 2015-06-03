@@ -803,6 +803,10 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 > American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
 
+#### [Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2]
+
+> A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
+
 #### [Her](http://www.imdb.com/title/tt1798709/) (2014) [8.0]
 
 Hey, lets all fall in love in our operating systems! The movie seems like a plausible love story and it takes the reality of our addiction to technology to a whole new level. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
