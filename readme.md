@@ -234,11 +234,15 @@ An interesting take on the near-future colonization of Mars by one hundred of th
 
 > For eons, sandstorms have swept the barren desolate landscape of the red planet. For centuries, Mars has beckoned to mankind to come and conquer its hostile climate. Now, in the year 2026, a group of one hundred colonists is about to fulfill that destiny. John Boone, Maya Toitavna, Frank Chalmers, and Arkady Bogdanov lead a mission whose ultimate goal is the terraforming of Mars. For some, Mars will become a passion driving them to daring acts of courage and madness; for others it offers and opportunity to strip the planet of its riches. And for the genetic “alchemists,” Mars presents a chance to create a biomedical miracle, a breakthrough that could change all we know about life… and death.
 
-#### [Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by Ramez Naam* [4.07]
+#### [Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by Ramez Naam* [4.0]
 
 Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [thumbs up](https://twitter.com/ID_AA_Carmack/status/494337667035697152) from John Carmack. Can't go wrong. - [@christianboyle](https://github.com/christianboyle) 
 
 > In the near future, the experimental nano-drug Nexus can link humans together, mind to mind. There are some who want to improve it. There are some who want to eradicate it. And there are others who just want to exploit it.
+
+> When a young scientist is caught improving Nexus, he's thrust over his head into a world of danger and international espionage - for there is far more at stake than anyone realizes.
+
+> From the halls of academe to the halls of power; from the headquarters of an elite agency in Washington DC to a secret lab beneath Shanghai; from the underground parties of San Francisco to the illegal biotech markets of Bangkok; from an international neuroscience conference to a remote monastery in the mountains of Thailand - Nexus is a thrill ride through a future on the brink of explosion. 
 
 #### [The Sands of Mars](https://www.goodreads.com/book/show/149063.The_Sands_of_Mars) (1951) *by Arthur C. Clarke* [3.7]
 
