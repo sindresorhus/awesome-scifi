@@ -236,7 +236,7 @@ An interesting take on the near-future colonization of Mars by one hundred of th
 
 #### [Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by Ramez Naam* [4.07]
 
-Near-future hard Sci-Fi at its best. Lots of awards and endorsements, all deserved. 
+Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [thumbs up](https://twitter.com/ID_AA_Carmack/status/494337667035697152) from John Carmack. Can't go wrong. - [@christianboyle](https://github.com/christianboyle) 
 
 > In the near future, the experimental nano-drug Nexus can link humans together, mind to mind. There are some who want to improve it. There are some who want to eradicate it. And there are others who just want to exploit it.
 
