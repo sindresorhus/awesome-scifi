@@ -230,14 +230,14 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 #### [Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by Ramez Naam* [4.1]
 
-Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [thumbs up](https://twitter.com/ID_AA_Carmack/status/494337667035697152) from John Carmack. Can't go wrong. - [@christianboyle](https://github.com/christianboyle) 
+Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [thumbs up](https://twitter.com/ID_AA_Carmack/status/494337667035697152) from John Carmack. Can't go wrong. - [@christianboyle](https://github.com/christianboyle)
 
 > In the near future, the experimental nano-drug Nexus can link humans together, mind to mind. There are some who want to improve it. There are some who want to eradicate it. And there are others who just want to exploit it.
 
 > When a young scientist is caught improving Nexus, he's thrust over his head into a world of danger and international espionage - for there is far more at stake than anyone realizes.
 
 > From the halls of academe to the halls of power; from the headquarters of an elite agency in Washington DC to a secret lab beneath Shanghai; from the underground parties of San Francisco to the illegal biotech markets of Bangkok; from an international neuroscience conference to a remote monastery in the mountains of Thailand - Nexus is a thrill ride through a future on the brink of explosion.
- 
+
 #### [Red Mars](https://www.goodreads.com/book/show/77507.Red_Mars) (1993) *by Kim Stanley Robinson* [3.8]
 
 An interesting take on the near-future colonization of Mars by one hundred of the world's greatest scientists, filled with political intrigue and "hard science" alike. Admittedly some parts can be a slog, think A Song of Ice and Fire: awesome narrative in the grand scheme, with perhaps a bit too much description of Martian landscape/house sigils. - [@rubzo](https://github.com/rubzo)
@@ -415,6 +415,19 @@ Sci-fi, sociology and philosophy.
 
 > Shevek, a brilliant physicist, decides to take action. He will seek answers, question the unquestionable, and attempt to tear down the walls of hatred that have isolated his planet of anarchists from the rest of the civilized universe. To do this dangerous task will mean giving up his family and possibly his life—Shevek must make the unprecedented journey to the utopian mother planet, Anarres, to challenge the complex structures of life and living, and ignite the fires of change.
 
+#### [Wool Omnibus](https://www.goodreads.com/book/show/13453029-wool-omnibus) (2011) *by Hugh Howey* [4.3]
+
+Set in the near future, the story follows a number of characters as their lives unfold living in an underground silo. Life underground seems quite grim, people have obviously been down there quite a while, and even though they seem to have quite advanced technology, it's old and decaying. The engineers and mechanics do their best to keep the electricity throughout the 100 levels of the silo, it's a lottery to see who gets to start a family as the population needs to be strictly controlled.
+
+It's set close enough to the present that you can see how things could end up the way they are in the silo, the political structures, the way the silo is organized, the rivalry between the various levels and departments; but what happened to lead to humanity living this way in the first place? Why are they all down there, and what's wrong with the surface?
+
+This series of books is well worth a read, I couldn't put it down once I got into the first few chapters. I think this series will be recognized as a sci-fi classic in the coming years.
+
+Also, the first book is available free on Kindle, so it won't cost you anything to check it out - except maybe a Kindle. - [@elektrovert](https://github.com/elektrovert)
+
+>  This Omnibus Edition collects the five Wool books into a single volume. It is for those who arrived late to the party and who wish to save a dollar or two while picking up the same stories in a single package.
+
+> This is the story of mankind clawing for survival, of mankind on the edge. The world outside has grown unkind, the view of it limited, talk of it forbidden. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they profess to want: They are allowed outside.
 
 ### Space Opera
 
