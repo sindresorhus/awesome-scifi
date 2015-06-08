@@ -889,10 +889,6 @@ A movie about a [10% of the brain myth](https://en.wikipedia.org/wiki/Ten_percen
 
 > Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
 
-#### [Prometheus](http://www.imdb.com/title/tt1446714/) (2012) [7.0]
-
-> Following clues to the origin of mankind a team journey across the universe and find a structure on a distant planet containing a monolithic statue of a humanoid head and stone cylinders of alien blood but they soon find they are not alone.
-
 #### [Serenity (Firefly)](http://www.imdb.com/title/tt0379786/) (2005) [8.0]
 
 > The crew of the ship Serenity tries to evade an assassin sent to recapture one of their number who is telepathic.
