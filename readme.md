@@ -782,6 +782,21 @@ A movie about an AI robot "growing up" (as in, learning about the world and lear
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
 
+#### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
+
+Director: _Neill Blomkamp_
+Writer: _Neill Blomkamp, Terri Tatchell_
+
+:+1: I liked it. Very original. - [@sindresorhus](https://github.com/sindresorhus)
+
+Yep, the idea is pretty cool and original. Although I have some doubts
+about the realization. I hope in twenty years someone will make a better
+remake :) - [@marcoslhc](https://github.com/marcoslhc)
+
+I thought it was pretty awesome, even just linguistically. Special effects were great. Interesting given it was South African, too. - [@RichardLitt](https://github.com/RichardLitt)
+
+> An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.
+
 #### [Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]
 
 > A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.
