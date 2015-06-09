@@ -77,7 +77,7 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 #### [Flatland](http://www.goodreads.com/book/show/433567.Flatland) (1884) *by Edwin A. Abbott* [3.8] <img src="https://i.imgur.com/yJaoHfh.png" width="30px">
 
-This book will teach you to stretch your imagination and see things in a different way. [@elssar](https://github.com/elssar)
+This book will teach you to stretch your imagination and see things in a different way. - [@elssar](https://github.com/elssar)
 
 > This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women-thin, straight lines-are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
 
