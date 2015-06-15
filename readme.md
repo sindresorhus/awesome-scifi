@@ -49,7 +49,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 ### Science Fiction
 
-#### [Babel-17](https://www.goodreads.com/book/show/1199688.Babel_17) (1966) *by Samuel R Delaney* [3.79]
+#### [Babel-17](https://www.goodreads.com/book/show/1199688.Babel_17) (1966) *by Samuel R Delaney* [3.8]
 This intense linguistic thriller will change the way you think about lanuage. - [@helderroem](https://github.com/helderroem)
 
 > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
