@@ -16,7 +16,7 @@ Commentary - [@you](https://github.com/you)
 > Description
 ```
 
-- Check your spelling and gramar.
+- Check your spelling and grammar.
 - Please add the entry in the correct section, in alphabetical order.
 - Please add your name to your commentary, so we know who it is.
 - Start the description with a capital and end with a full stop/period.
