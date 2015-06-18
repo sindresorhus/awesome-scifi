@@ -4,7 +4,7 @@
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For fantasy books, see the [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) list.*
 
 *Please read the [Contributing Guidelines](contributing.md) before contributing.*
 
@@ -621,6 +621,8 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### High Fantasy
 
+_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list](https://github.com/RichardLitt/awesome-fantasy)._
+
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by Gene Wolfe* [4.0]
 
 > Set aboard a vast starship traveling for generations, _The Book of the Long Sun_ is a masterpiece of science fiction. The series follows the story of Patera Silk, a priest who becomes a prophet as he learns about the nature of his world and the gods he serves.
@@ -636,7 +638,7 @@ This is my favourite book. It is science fiction and, to a certain extent, fanta
 
 ### Low Fantasy
 
-_Fantasy which isn't epic, but still has elements of science fiction in it_
+_Fantasy which isn't epic, but still has elements of science fiction in it._
 
 #### [There Are Doors](https://www.goodreads.com/book/show/666601.There_Are_Doors) (1988) *by Gene Wolfe* [3.6]
 
