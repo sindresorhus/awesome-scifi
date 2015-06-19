@@ -898,6 +898,12 @@ A movie about a [10% of the brain myth](https://en.wikipedia.org/wiki/Ten_percen
 
 > Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.
 
+#### [Oblivion](http://www.imdb.com/title/tt1483013/) (2013) [7.0]
+
+A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andrea Riseborough as Victoria (Vica). Jack has a lot of questions, Vica shrugs them off, and then, they get answered and Jack can barely live with it! Beuatifully shot! - [@icyflame](https://github.com/icyflame)
+
+> A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.
+
 #### [Paprika](http://www.imdb.com/title/tt0851578/) (2006) [7.7]
 
 > When a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.
