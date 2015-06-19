@@ -772,7 +772,7 @@ I can't praise this book enough. _The Nine Billion Names of God_ is brilliantly 
 
 > Of Time and Stars is a collection of short stories by science fiction writer Arthur C. Clarke. The stories all originally appeared in a number of different publications including the periodicals Dude, The Evening Standard, Lilliput, The Magazine of Fantasy & Science Fiction, Future, New Worlds, Startling Stories, Astounding, Fantasy, King's College Review, Satellite, Amazing Stories, London Evening News, Infinity Science Fiction and Ten Story Fantasy as well as the anthologies Star Science Fiction Stories No.1 edited by Frederik Pohl and Time to Come edited by August Derleth.
 
-#### [The Island of Dr. Death and Other Stories and Other Stories](https://www.goodreads.com/book/show/271587.The_Island_of_Dr_Death_and_Other_Stories_and_Other_Stories) (1997) *by Gene Wolfe* [4.1]
+#### [The Island of Dr. Death and Other Stories and Other Stories](https://www.goodreads.com/book/show/271587.The_Island_of_Dr_Death_and_Other_Stories_and_Other_Stories) (1970) *by Gene Wolfe* [4.1]
 
 I think of these stories often; The Death of Dr. Island won a Nebula and offers a startling view into the rehabilitation and justice system we currently deal with and what we might have. The Doctor of Death Island is the same - I often think of him taking off the book cover, "like Mephistopholes". It takes an amazing talent to make three beautiful short stories out of permutations on a title. Also, Feather Tigers made me view the jungles in South East Asia a bit differently than I would have, and I think about Nashwonk a lot more than I should. I highly suggest this book. - [@RichardLitt](https://github.com/RichardLitt)
 
