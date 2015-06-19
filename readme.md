@@ -874,12 +874,6 @@ An interesting (and long) movie about a humanity trying to safe itself by leavin
 
 > Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world's fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
 
-#### [Lucy](http://www.imdb.com/title/tt2872732/) (2014) [6.4]
-
-A movie about a [10% of the brain myth](https://en.wikipedia.org/wiki/Ten_percent_of_the_brain_myth) in which Scarlett Jonansson tries to find out what the hell is wrong with her and what will happen to her once she reaches a 100% brain capacity. In the meantime, she starts to get some awesome superhuman powers! Oh, and Morgan Freeman explains things, yay! - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
-
-> A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.
-
 #### [Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]
 
 > In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
