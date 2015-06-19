@@ -830,6 +830,18 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 > A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.
 
+#### [Edge of Tomorrow](http://www.imdb.com/title/tt1631867/) (2014) [7.9]
+
+Thrilling and original. Feels like a cross between Halo (the game), Groundhog Day and The Butterfly Effect. - [@sindresorhus](https://github.com/sindresorhus)
+
+I was thinking that this movie would be like the rest of the movies starring Tom Cruise, but I was pleasantly surprised. The first half of the movie had nice humoristic scenes. They made the repeating of the day far more interesting than in the Groundhog Day. The love story between the main characters doesn't look cheap. The visual effects is not in the center of the attention, it's the story. I have to say that the movie was way better than I expected it to be by looking at the trailers for it. I highly recommend it. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
+It was pretty good, the premise is quiet interesting, and the acting was quite good. - [@elssar](https://github.com/elssar)
+
+I thought it was great, and I was a bit anxious about there being so many scenes repeating the same thing, but it worked! - [@tjFogarty](https://github.com/tjFogarty)
+
+>  A military officer is brought into an alien war against an extraterrestrial enemy who can reset the day and know the future. When this officer is enabled with the same power, he teams up with a Special Forces warrior to try and end the war.
+
 #### [Eraserhead](http://www.imdb.com/title/tt0074486/) (1977) [7.4]
 
 > Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.
