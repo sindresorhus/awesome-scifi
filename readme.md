@@ -284,6 +284,12 @@ _Novels where the science elements from the backdrop of the story rather than th
 
 > Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. _Dune_ is frequently cited as the world’s best-selling SF novel.
 
+#### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) *by Daniel Keyes* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
+
+This book is often given to high school students, but stands up well as an adult read. I think the best part about it is what Charlie does once he starts being intelligent; he suddenly likes art and making things and scientific theory. I think the altruism and openness of that time shows that the experiment, such as it was, didn't change everything. It's fun to think about. Also, this book made me cry the first time I read it. I was 25. - [@RichardLitt](https://github.com/RichardLitt)
+
+> With more than five million copies sold, _Flowers for Algernon_ is the beloved, classic story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse. In poignant diary entries, Charlie tells how a brain operation increases his IQ and changes his life. As the experimental procedure takes effect, Charlie’s intelligence expands until it surpasses that of the doctors who engineered his metamorphosis. The experiment seems to be a scientific breakthrough of paramount importance—until Algernon begins his sudden, unexpected deterioration. Will the same happen to Charlie?
+
 #### [Home Fires](https://www.goodreads.com/book/show/8694515-home-fires) (2011) *by Gene Wolfe* [3.3]
 
 This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and the main character is sometimes one sided. But the context and the fleshed out world entirely make up for it, as does Gene Wolfe's standard of never mentioning an important detail more than once as a foreshadowing. - [@RichardLitt](https://github.com/RichardLitt)
@@ -657,12 +663,6 @@ If you liked Cloud Atlas this is a good read.
 ### Biopunk
 
 _Novels which focus on the near-future unintended consequences of biotechnology revolutions._
-
-#### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) *by Daniel Keyes* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
-
-This book made me cry. It is often given to high school students, but stands up well as an adult read. - [@RichardLitt](https://github.com/RichardLitt)
-
-> With more than five million copies sold, _Flowers for Algernon_ is the beloved, classic story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse. In poignant diary entries, Charlie tells how a brain operation increases his IQ and changes his life. As the experimental procedure takes effect, Charlie’s intelligence expands until it surpasses that of the doctors who engineered his metamorphosis. The experiment seems to be a scientific breakthrough of paramount importance—until Algernon begins his sudden, unexpected deterioration. Will the same happen to Charlie?
 
 #### [The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl) (2009) *by Paolo Bacigalupi* [3.7]
 
