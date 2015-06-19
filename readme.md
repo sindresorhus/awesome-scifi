@@ -4,7 +4,7 @@
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For fantasy books, see the [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy) list.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For fantasy books, see [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy).*
 
 *Please read the [Contributing Guidelines](contributing.md) before contributing.*
 
@@ -182,7 +182,7 @@ If you're going to read one Science Fiction book to get a broader perspective on
 
 #### [The Fifth Head of Cerberus](https://www.goodreads.com/book/show/845501.The_Fifth_Head_of_Cerberus) (1972) *by Gene Wolfe* [4.0]
 
-This is an incredible book. Absolutely incredible. The first section, about a son of a scientist, is a great exposé of Wolfe's ability to make the future sound like the Victorian past, and to add decay to what, to our eyes, seems incredibly futuristic. The story about the traveller and the aborigines on Saint Croix is something I think about a lot - "old men think long thoughts", in particular, is a thought that I love, especially given it's context. Gene Wolfe also uses the epistolary novel technique incredibly well in the third story. But the best part is how you come to realise that each of these stories is intertwined with the others, subtly. Amazing storytelling. - [@RichardLitt](https://github.com/RichardLitt)
+This is an incredible book. Absolutely incredible. The first section, about a son of a scientist, is a great exposé of Wolfe's ability to make the future sound like the Victorian past, and to add decay to what, to our eyes, seems incredibly futuristic. The story about the traveler and the aborigines on Saint Croix is something I think about a lot - "old men think long thoughts", in particular, is a thought that I love, especially given it's context. Gene Wolfe also uses the epistolary novel technique incredibly well in the third story. But the best part is how you come to realize that each of these stories is intertwined with the others, subtly. Amazing storytelling. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Gene Wolfe’s _The Fifth Head of Cerberus_ is a universally acknowledged masterpiece of science fiction by one of the field’s most brilliant writers. Far out from Earth, two sister planets, Saint Anne and Saint Croix, circle each other in an eternal dance. It is said a race of shapeshifters once lived here, only to perish when men came. But one man believes they can still be found, somewhere in the back of the beyond.
 
@@ -424,7 +424,7 @@ _Dystopian novels deal with imaginary communities or societies that are undesira
 
 #### [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed) (1974) *by Ursula K. Le Guin.* [4.2]
 
-Sci-fi, sociology and philosophy.
+Sci-Fi, sociology and philosophy.
 
 > Shevek, a brilliant physicist, decides to take action. He will seek answers, question the unquestionable, and attempt to tear down the walls of hatred that have isolated his planet of anarchists from the rest of the civilized universe. To do this dangerous task will mean giving up his family and possibly his life—Shevek must make the unprecedented journey to the utopian mother planet, Anarres, to challenge the complex structures of life and living, and ignite the fires of change.
 
@@ -495,7 +495,7 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 ### Post Apocalyptic
 
-_Novels concerning the end of civilisation, usually based in a future resulting from a catastrophe of some sort, where only scattered elements of technology remain._
+_Novels concerning the end of civilization, usually based in a future resulting from a catastrophe of some sort, where only scattered elements of technology remain._
 
 #### [A Canticle for Leibowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz) (1959) *by Walter M. Miller Jr.* [4.0]
 
@@ -511,7 +511,7 @@ This has a particularly arid and inspired view of humanity after a nuclear holoc
 
 #### [Riddley Walker](https://www.goodreads.com/book/show/776573.Riddley_Walker) (1980) *by Russell Hoban* [4.1]
 
-I travelled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedral to see the painting that inspired this book. It is that good. It was hard for me to read as I normally speed read, and the invented language makes it slow going, but it sticks with you and the imagination of Hoban is uniquely vivid.
+I traveled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedral to see the painting that inspired this book. It is that good. It was hard for me to read as I normally speed read, and the invented language makes it slow going, but it sticks with you and the imagination of Hoban is uniquely vivid.
 
 > _Riddley Walker_ is a brilliant, unique, completely realized work of fiction. One reads it again and again, discovering new wonders every time through. Set in a remote future in a post-nuclear holocaust England (Inland), Hoban has imagined a humanity regressed to an iron-age, semi-literate state—and invented a language to represent it. Riddley is at once the Huck Finn and the Stephen Dedalus of his culture—rebel, change agent, and artist. Read again or for the first time this masterpiece of 20th-century literature with new material by the author.
 
@@ -623,7 +623,7 @@ _Fantasy books which contain elements of science fiction. For pure fantasy, see 
 
 #### [The Book of the New Sun](https://www.goodreads.com/series/41474-the-book-of-the-new-sun) (1980-1987) *by Gene Wolfe* [3.9]
 
-This is my favourite book. It is science fiction and, to a certain extent, fantasy, but at places reads more like a philosophical tract of a collection of stories. The plot is minimal, but the character of Severian is fascinating; he forgets nothing, but lies to you. As you read along, it becomes clear that earlier chapters were wrong or lacked important details, which heavily contributes to a sense of wonder and enchantment. Or, in my case, aw at Gene Wolfe's writing abilities. Highly suggested. - [@RichardLitt](https://github.com/RichardLitt)
+This is my favorite book. It is science fiction and, to a certain extent, fantasy, but at places reads more like a philosophical tract of a collection of stories. The plot is minimal, but the character of Severian is fascinating; he forgets nothing, but lies to you. As you read along, it becomes clear that earlier chapters were wrong or lacked important details, which heavily contributes to a sense of wonder and enchantment. Or, in my case, aw at Gene Wolfe's writing abilities. Highly suggested. - [@RichardLitt](https://github.com/RichardLitt)
 
 > _The Book of the New Sun_ is unanimously acclaimed as Gene Wolfe…s most remarkable work, hailed as “a masterpiece of science fantasy comparable in importance to the major works of Tolkien and Lewis” by _Publishers Weekly_, and “one of the most ambitious works of speculative fiction in the twentieth century” by _The Magazine of Fantasy and Science Fiction_.
 
@@ -706,7 +706,7 @@ This was pretty good; it's pretty obvious what it is about, and it reads predict
 
 #### [Behold the Man](https://www.goodreads.com/book/show/60146.Behold_the_Man) (1969) *by Michael Moorcock* [3.8]
 
-Easily one of the most disrespectful, sacreligious, memorable and funny books I have read. - [@RichardLitt](https://github.com/RichardLitt)
+Easily one of the most disrespectful, sacrilegious, memorable and funny books I have read. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Karl Glogauer is a disaffected modern professional casting about for meaning in a series of half-hearted relationships, a dead-end job, and a personal struggle. His questions of faith surrounding his father’s run-of-the-mill Christianity and his mother’s suppressed Judaism lead him to a bizarre obsession with the idea of the messiah. After the collapse of his latest affair and his introduction to a reclusive physics professor, Karl is given the opportunity to confront his obsession and take a journey that no man has taken before, and from which he knows he cannot return.
 
@@ -750,7 +750,7 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 
 #### [Axiomatic](https://www.goodreads.com/book/show/156783.Axiomatic) (1995) *by Greg Egan* [4.2]
 
-Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially if you haven’t had a chance to read anything written by Greg Egan before.) The stories have aged surprisingly well—which only underlines Egan’s penchant for sounding out the shape of the future. - [@mihailim](https://github.com/mihailim)
+Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially if you haven't had a chance to read anything written by Greg Egan before.) The stories have aged surprisingly well — which only underlines Egan’s penchant for sounding out the shape of the future. - [@mihailim](https://github.com/mihailim)
 
 > _Axiomatic_ is a collection of Greg Egan’s short stories that appeared in various science fiction magazines (mostly _Interzone_ and _Asimov’s_) between 1989 and 1992. Like most of Egan’s work, the stories focus on science and ideas, sometimes at the expense of the writing. But although Egan may lack a certain stylistic flair, he more than makes up for it with his wonderful visions of the future. Some of the more interesting stories include _Into Darkness_, the tale of a rescue worker whose territory is a runaway wormhole, and the title story _Axiomatic_, which is about a man looking to find meaning in the senseless death of his wife.
 
@@ -826,7 +826,7 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 #### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9]
 
-Kind of a parody about Google. The owner of a huge search provider creates an A.I. humanoid in a complete secrecy and calls a young programmer to perform a slight variation of a [Turing test](https://en.wikipedia.org/wiki/Turing_test) to test his creation in a secret underground lab. Can be a good introduction to Turing test to people interested in A.I. To be honest, the end of the movie was a bit dissapointing to me. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+Kind of a parody about Google. The owner of a huge search provider creates an A.I. humanoid in a complete secrecy and calls a young programmer to perform a slight variation of a [Turing test](https://en.wikipedia.org/wiki/Turing_test) to test his creation in a secret underground lab. Can be a good introduction to Turing test to people interested in A.I. To be honest, the end of the movie was a bit disappointing to me. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 > A young programmer is selected to participate in a breakthrough experiment in artificial intelligence by evaluating the human qualities of a breathtaking female A.I.
 
@@ -924,7 +924,7 @@ This is the original film based on the book. It is much slower than the remake, 
 
 Director: _Steven Soderbergh_
 
-Starring George Clooney and Natasha McElhone, this is much more of a modern psychodrama with fantastic shots and a more colored atmosphere than the original film. The original score by Cliff Martinez really adds to the film, and is great on its own. One of my favourite films. - [@RichardLitt](https://github.com/RichardLitt)
+Starring George Clooney and Natasha McElhone, this is much more of a modern psychodrama with fantastic shots and a more colored atmosphere than the original film. The original score by Cliff Martinez really adds to the film, and is great on its own. One of my favorite films. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.
 

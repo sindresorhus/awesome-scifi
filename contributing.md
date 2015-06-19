@@ -18,11 +18,11 @@ Commentary - [@you](https://github.com/you)
 
 - Check your spelling and grammar.
 - Please add the entry in the correct section, in alphabetical order.
-- Please add your name to your commentary, so we know who it is.
+- Please add your name to your commentary, so we know who made it.
 - Start the description with a capital and end with a full stop/period.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
-- The pull request should have a useful title.
+- The pull request and commit should have a useful title.
 - As of June 13th, Pull Requests without a personal comment will not be accepted until one is added.
- 
+
 Thank you for your suggestions!
