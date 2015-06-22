@@ -31,7 +31,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Speculative Fiction](#speculative-fiction)
 	- [Time Travel](#time-travel)
 	- [Comedy](#comedy)
-- [Short Stories](#short-stories)
+- [Short Story Collections](#short-story-collections)
 - [Movies](#movies)
 - [Movie Series](#movie-series)
 - [TV Series](#tv-series)
@@ -743,7 +743,7 @@ One of the funniest series I have ever read. I laugh to myself and think about t
 > Together this dynamic pair begin a journey through space aided by quotes from _The Hitchhiker’s Guide_ (“A towel is about the most massively useful thing an interstellar hitchhiker can have”) and a galaxy-full of fellow travelers: Zaphod Beeblebrox—the two-headed, three-armed ex-hippie and totally out-to-lunch president of the galaxy; Trillian, Zaphod’s girlfriend (formally Tricia McMillan), whom Arthur tried to pick up at a cocktail party once upon a time zone; Marvin, a paranoid, brilliant, and chronically depressed robot; Veet Voojagig, a former graduate student who is obsessed with the disappearance of all the ballpoint pens he bought over the years.
 
 
-## Short Stories
+## Short Story Collections
 
 #### [Axiomatic](https://www.goodreads.com/book/show/156783.Axiomatic) (1995) *by Greg Egan* [4.2]
 
