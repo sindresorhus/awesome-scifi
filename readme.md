@@ -330,9 +330,9 @@ This is one of Arthur C. Clarke's novels that is less about space and more about
 
 _Future-based novels with advanced science and technology coupled with a disrupted social order._
 
-#### [Altered Carbon](https://www.goodreads.com/book/show/40445.Altered_Carbon) (2002) *by Richard K Morgan* [4.1]
+#### [Altered Carbon](https://www.goodreads.com/book/show/40445.Altered_Carbon) (2002) *by Richard K. Morgan* [4.1]
 
-A fun and fast-paced hard-boiled cyberpunk noir, almost impossible to put down. [@helderroem](https://github.com/helderroem)
+A fun and fast-paced hard-boiled cyberpunk noir, almost impossible to put down. - [@helderroem](https://github.com/helderroem)
 
 > It's the twenty-fifth century, and advances in technology have redefined life itself. A person's consciousness can now be stored in the brain and downloaded into a new body [or "sleeve"], making death nothing more than a minor blip on a screen. Onetime U.N. Envoy Takeshi Kovacs has been killed before, but his last death was particularly painful. Resleeved into a body in Bay City [formerly San Francisco], Kovacs is thrown into the dark heart of a shady, far-reaching conspiracy that is vicious even by the standards of a society that treats existence as something that can be bought and sold. For Kovacs, the shell that blew a hole in his chest was only the beginning.
 
