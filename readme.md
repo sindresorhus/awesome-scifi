@@ -900,6 +900,8 @@ An interesting (and long) movie about a humanity trying to safe itself by leavin
 
 #### [Minority Report](http://www.imdb.com/title/tt0181689/) (2002) [7.7]
 
+Predicting future crimes? Sure, I am all for it, _until_ they make a mistake and implicate the hero himself. After watching the movie, you could be thinking, _we_ should probably not try to predict the future! Nevertheless, great movie!  - [@icyflame](https://github.com/icyflame)
+
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
 #### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]
