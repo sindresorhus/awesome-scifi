@@ -56,6 +56,8 @@ This intense linguistic thriller will change the way you think about lanuage. - 
 
 #### [Childhood’s End](https://www.goodreads.com/book/show/414999.Childhood_s_End) (1953) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
 
+This book is interesting for its view of what a golden age of mankind would look like, and what would the shortcomings of that be. It also has a very interesting take on mass psychology - I don't want to give away too much, but the Overlords are a nifty bunch. This is a good early Clarke, and has two of his favorite themes; the first that remote work will be possible with technology, and the second that any sufficiently advanced technology is indistinguishable from magic. - [@RichardLitt](https://github.com/RichardLitt)
+
 > Without warning, giant silver ships from deep space appear in the skies above every major city on Earth. Manned by the Overlords, in fifty years, they eliminate ignorance, disease, and poverty. Then this golden age ends—and then the age of Mankind begins…
 
 #### [Cities in Flight](https://www.goodreads.com/book/show/141805.Cities_in_Flight) (1970) *by [James Blish](https://en.wikipedia.org/wiki/James_Blish)* [4.0]
