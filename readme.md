@@ -508,7 +508,7 @@ _Novels concerning the end of civilization, usually based in a future resulting 
 
 #### [A Canticle for Leibowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz) (1959) *by [Walter M. Miller, Jr.](https://en.wikipedia.org/wiki/Walter_M._Miller,_Jr.)* [4.0]
 
-This has a particularly arid and inspired view of humanity after a nuclear holocaust. The discovery of small things and their new importance down the line is well done here.
+This has a particularly arid and inspired view of humanity after a nuclear holocaust. The discovery of small things and their new importance down the line is well done here. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Winner of the 1961 Hugo Award for Best Novel and widely considered one of the most accomplished, powerful, and enduring classics of modern speculative fiction, Walter M. Miller, Jr.’s _A Canticle for Leibowitz_ is a true landmark of twentieth-century literature—a chilling and still provocative look at a post-apocalyptic future.
 
