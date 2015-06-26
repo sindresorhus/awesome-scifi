@@ -520,7 +520,7 @@ This has a particularly arid and inspired view of humanity after a nuclear holoc
 
 #### [Riddley Walker](https://www.goodreads.com/book/show/776573.Riddley_Walker) (1980) *by [Russell Hoban](https://en.wikipedia.org/wiki/Russell_Hoban)* [4.1]
 
-I traveled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedral to see the painting that inspired this book. It is that good. It was hard for me to read as I normally speed read, and the invented language makes it slow going, but it sticks with you and the imagination of Hoban is uniquely vivid.
+I traveled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedral to see the painting that inspired this book. It is that good. It was hard for me to read as I normally speed read, and the invented language makes it slow going, but it sticks with you and the imagination of Hoban is uniquely vivid. - [@RichardLitt](https://github.com/RichardLitt)
 
 > _Riddley Walker_ is a brilliant, unique, completely realized work of fiction. One reads it again and again, discovering new wonders every time through. Set in a remote future in a post-nuclear holocaust England (Inland), Hoban has imagined a humanity regressed to an iron-age, semi-literate state—and invented a language to represent it. Riddley is at once the Huck Finn and the Stephen Dedalus of his culture—rebel, change agent, and artist. Read again or for the first time this masterpiece of 20th-century literature with new material by the author.
 
