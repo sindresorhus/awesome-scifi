@@ -64,7 +64,7 @@ This book is interesting for its view of what a golden age of mankind would look
 
 This is a long book, but absolutely fantastic. It redefined for me the scale at which science fiction was possible, especially given the human elements are very fleshed out (as opposed to other massive space epics, like Olaf Stapledon's 'Last and First Men'). A brilliant look at the future, going off of only two small changes - what if we had drugs to defeat death, and cities could fly. - [@RichardLitt](https://github.com/RichardLitt)
 
-> Originally published in four volumes nearly fifty years ago, Cities in Flight brings together the famed “Okie novels” of science fiction master James Blish. Named after the migrant workers of America’s Dust Bowl, these novels convey Blish’s “history of the future,” a brilliant and bleak look at a world where cities roam the Galaxy looking for work and a sustainable way of life.
+> Originally published in four volumes nearly fifty years ago, _Cities in Flight_ brings together the famed “Okie novels” of science fiction master James Blish. Named after the migrant workers of America’s Dust Bowl, these novels convey Blish’s “history of the future,” a brilliant and bleak look at a world where cities roam the Galaxy looking for work and a sustainable way of life.
 
 > In the first novel, _They Shall Have Stars_, man has thoroughly explored the Solar System, yet the dream of going even further seems to have died in all but one man. His battle to realize his dream results in two momentous discoveries anti-gravity and the secret of immortality. In _A Life for the Stars_, it is centuries later and antigravity generations have enabled whole cities to lift off the surface of the earth to become galactic wanderers. In _Earthman, Come Home_, the nomadic cities revert to barbarism and marauding rogue cities begin to pose a threat to all civilized worlds. In the final novel, _The Triumph of Time_, history repeats itself as the cities once again journey back in to space making a terrifying discovery which could destroy the entire Universe. A serious and haunting vision of our world and its limits, _Cities in Flight_ marks the return to print of one of science fiction’s most inimitable writers.
 
@@ -86,9 +86,9 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 This book will teach you to stretch your imagination and see things in a different way. - [@elssar](https://github.com/elssar)
 
-> This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women-thin, straight lines-are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
+> This masterpiece of science (and mathematical) fiction is a delightfully unique and highly entertaining satire that has charmed readers for more than 100 years. The work of English clergyman, educator and Shakespearean scholar Edwin A. Abbott (1838-1926), it describes the journeys of A. Square, a mathematician and resident of the two-dimensional Flatland, where women—thin, straight lines—are the lowliest of shapes, and where men may have any number of sides, depending on their social status.
 
-> Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. "Instructive, entertaining, and stimulating to the imagination." — _Mathematics Teacher_.
+> Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. “Instructive, entertaining, and stimulating to the imagination.” — _Mathematics Teacher_
 
 #### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
@@ -156,13 +156,13 @@ A fairly well-wrapped first book in a trilogy, that has some very imaginative an
 
 This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. - [@RichardLitt](https://github.com/RichardLitt)
 
-> The second novel in Lewis’s science fiction trilogy tells of Dr Ransom’s voyage to the planet of Perelandra (Venus). Dr Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
+> The second novel in Lewis’s science fiction trilogy tells of Dr. Ransom’s voyage to the planet of Perelandra (Venus). Dr. Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
 
 ##### [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) (1945) *by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)* [3.9]
 
 One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt)
 
->  The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organisation called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organisation, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St Anne’s, where she meets their leader—Dr Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
+>  The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organisation called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organisation, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
 #### [Spin](https://www.goodreads.com/book/show/910863.Spin) (2005) *by [Robert Charles Wilson](https://en.wikipedia.org/wiki/Robert_Charles_Wilson)* [4.0]
 
@@ -249,9 +249,9 @@ Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [th
 
 > In the near future, the experimental nano-drug Nexus can link humans together, mind to mind. There are some who want to improve it. There are some who want to eradicate it. And there are others who just want to exploit it.
 
-> When a young scientist is caught improving Nexus, he's thrust over his head into a world of danger and international espionage - for there is far more at stake than anyone realizes.
+> When a young scientist is caught improving Nexus, he’s thrust over his head into a world of danger and international espionage—for there is far more at stake than anyone realizes.
 
-> From the halls of academe to the halls of power; from the headquarters of an elite agency in Washington DC to a secret lab beneath Shanghai; from the underground parties of San Francisco to the illegal biotech markets of Bangkok; from an international neuroscience conference to a remote monastery in the mountains of Thailand - Nexus is a thrill ride through a future on the brink of explosion.
+> From the halls of academe to the halls of power; from the headquarters of an elite agency in Washington, D.C. to a secret lab beneath Shanghai; from the underground parties of San Francisco to the illegal biotech markets of Bangkok; from an international neuroscience conference to a remote monastery in the mountains of Thailand—Nexus is a thrill ride through a future on the brink of explosion.
 
 #### [Permutation City](https://www.goodreads.com/book/show/156784.Permutation_City) (1994) *by [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan)* [4.1]
 
@@ -338,9 +338,9 @@ _Future-based novels with advanced science and technology coupled with a disrupt
 
 A fun and fast-paced hard-boiled cyberpunk noir, almost impossible to put down. - [@helderroem](https://github.com/helderroem)
 
-> It's the twenty-fifth century, and advances in technology have redefined life itself. A person's consciousness can now be stored in the brain and downloaded into a new body [or "sleeve"], making death nothing more than a minor blip on a screen. Onetime U.N. Envoy Takeshi Kovacs has been killed before, but his last death was particularly painful. Resleeved into a body in Bay City [formerly San Francisco], Kovacs is thrown into the dark heart of a shady, far-reaching conspiracy that is vicious even by the standards of a society that treats existence as something that can be bought and sold. For Kovacs, the shell that blew a hole in his chest was only the beginning.
+> It’s the twenty-fifth century, and advances in technology have redefined life itself. A person’s consciousness can now be stored in the brain and downloaded into a new body (or “sleeve”,) making death nothing more than a minor blip on a screen. Onetime U.N. Envoy Takeshi Kovacs has been killed before, but his last death was particularly painful. Resleeved into a body in Bay City (formerly San Francisco,) Kovacs is thrown into the dark heart of a shady, far-reaching conspiracy that is vicious even by the standards of a society that treats existence as something that can be bought and sold. For Kovacs, the shell that blew a hole in his chest was only the beginning.
 
-#### [Greg Mandel](https://www.goodreads.com/series/43978-greg-mandel) (1993, 1994, 1995) *by [Peter F. Hamilton](https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [3.9]
+#### [Greg Mandel Series](https://www.goodreads.com/series/43978-greg-mandel) (1993, 1994, 1995) *by [Peter F. Hamilton](https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [3.9]
 
 > Greg Mandel, late of the Mindstar Battalion, has been many things in his life. Commando. Freedom fighter. Assassin. Now he’s a freelance operative with a very special edge: telepathy.
 
@@ -439,7 +439,7 @@ _Dystopian novels deal with imaginary communities or societies that are undesira
 
 Sci-Fi, sociology and philosophy.
 
-> Shevek, a brilliant physicist, decides to take action. He will seek answers, question the unquestionable, and attempt to tear down the walls of hatred that have isolated his planet of anarchists from the rest of the civilized universe. To do this dangerous task will mean giving up his family and possibly his life—Shevek must make the unprecedented journey to the utopian mother planet, Anarres, to challenge the complex structures of life and living, and ignite the fires of change.
+> Shevek, a brilliant physicist, decides to take action. He will seek answers, question the unquestionable, and attempt to tear down the walls of hatred that have isolated his planet of anarchists from the rest of the civilized universe. To do this dangerous task will mean giving up his family and possibly his life—Shevek must make the unprecedented journey to the utopian mother planet, Urras, to challenge the complex structures of life and living, and ignite the fires of change.
 
 #### [Wool Omnibus](https://www.goodreads.com/book/show/13453029-wool-omnibus) (2011) *by [Hugh Howey](https://en.wikipedia.org/wiki/Hugh_Howey)* [4.3]
 
@@ -451,7 +451,7 @@ This series of books is well worth a read, I couldn't put it down once I got int
 
 Also, the first book is available free on Kindle, so it won't cost you anything to check it out - except maybe a Kindle. - [@elektrovert](https://github.com/elektrovert)
 
->  This Omnibus Edition collects the five Wool books into a single volume. It is for those who arrived late to the party and who wish to save a dollar or two while picking up the same stories in a single package.
+>  This Omnibus Edition collects the five _Wool_ books into a single volume. It is for those who arrived late to the party and who wish to save a dollar or two while picking up the same stories in a single package.
 
 > This is the story of mankind clawing for survival, of mankind on the edge. The world outside has grown unkind, the view of it limited, talk of it forbidden. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they profess to want: They are allowed outside.
 
@@ -538,7 +538,7 @@ One of Arthur C. Clarke's best novels. It makes _Childhood's End_ seem a bit imm
 
 This had some very haunting scenes. The last pages, in particular, will stick with me for a while. - [@RichardLitt](https://github.com/RichardLitt)
 
-> First published in 1962, J. G. Ballard’s mesmerizing and ferociously prescient novel imagines a terrifying future in which solar radiation and global warming have melted the ice caps and Triassic-era jungles have overrun a submerged and tropical London. Set during the year 2145, the novel follows biologist Dr. Robert Kerans and his team of scientists as they confront a surreal cityscape populated by giant iguanas, albino alligators, and endless swarms of malarial insects. Nature has swallowed all but a few remnants of human civilization, and, slowly, Kerans and his companions are transformed—both physically and psychologically—by this prehistoric environment. Echoing Joseph Conrad’s _Heart of Darkness_—complete with a mad white hunter and his hordes of native soldiers—this “powerful and beautifully clear” (Brian Aldiss) work becomes a thrilling adventure and a haunting examination of the effects of environmental collapse on the human mind.
+> First published in 1962, J. G. Ballard’s mesmerizing and ferociously prescient novel imagines a terrifying future in which solar radiation and global warming have melted the ice caps and Triassic-era jungles have overrun a submerged and tropical London. Set during the year 2145, the novel follows biologist Dr. Robert Kerans and his team of scientists as they confront a surreal cityscape populated by giant iguanas, albino alligators, and endless swarms of malarial insects. Nature has swallowed all but a few remnants of human civilization, and, slowly, Kerans and his companions are transformed—both physically and psychologically—by this prehistoric environment. Echoing Joseph Conrad’s _Heart of Darkness—complete with a mad white hunter and his hordes of native soldiers—this “powerful and beautifully clear” (Brian Aldiss) work becomes a thrilling adventure and a haunting examination of the effects of environmental collapse on the human mind.
 
 #### [The Stand](https://www.goodreads.com/book/show/149267.The_Stand) (1978) *by [Stephen King](https://en.wikipedia.org/wiki/Stephen_King)* [4.3] <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
@@ -552,7 +552,7 @@ This had some very haunting scenes. The last pages, in particular, will stick wi
 
 #### [Timestorm](https://www.goodreads.com/book/show/536951.Time_Storm) (1977) *by [Gordon R. Dickson](https://en.wikipedia.org/wiki/Gordon_R._Dickson)* [3.7]
 
->  A time storm has devastated the Earth, and only a small fraction of humankind remains. From the rubble, three survivors form an unlikely alliance: a young man, a young woman, and a leopard.
+> A time storm has devastated the Earth, and only a small fraction of humankind remains. From the rubble, three survivors form an unlikely alliance: a young man, a young woman, and a leopard.
 
 #### [Where Late the Sweet Birds Sang](https://www.goodreads.com/book/show/968827.Where_Late_the_Sweet_Birds_Sang) (1974) *by [Kate Wilhelm](https://en.wikipedia.org/wiki/Kate_Wilhelm)* [3.9]
 
@@ -605,7 +605,7 @@ _Novels which draw from sci-fi, thrillers, spying, action and wars. Include lots
 
 #### [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon) (1999) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]
 
-> _Cryptonomicon_ zooms all over the world, careening conspiratorially back and forth between two time periods—World War II and the present. Our 1940s heroes are the brilliant mathematician Lawrence Waterhouse, crypt analyst extraordinaire, and gung-ho, morphine-addicted marine Bobby Shaftoe. They’re part of Detachment 2702, an Allied group trying to break Axis communication codes while simultaneously preventing the enemy from figuring out that their codes have been broken. Their job boils down to layer upon layer of deception. Dr. Alan Turing is also a member of 2702, and he explains the unit’s strange workings to Waterhouse. “When we want to sink a convoy, we send out an observation plane first… Of course, to observe is not its real duty—we already know exactly where the convoy is. Its real duty is to be observed… Then, when we come round and sink them, the Germans will not find it suspicious.”
+> _Cryptonomicon_ zooms all over the world, careening conspiratorially back and forth between two time periods—World War II and the present. Our 1940s heroes are the brilliant mathematician Lawrence Waterhouse, cryptanalyst extraordinaire, and gung-ho, morphine-addicted marine Bobby Shaftoe. They’re part of Detachment 2702, an Allied group trying to break Axis communication codes while simultaneously preventing the enemy from figuring out that their codes have been broken. Their job boils down to layer upon layer of deception. Dr. Alan Turing is also a member of 2702, and he explains the unit’s strange workings to Waterhouse. “When we want to sink a convoy, we send out an observation plane first… Of course, to observe is not its real duty—we already know exactly where the convoy is. Its real duty is to be observed… Then, when we come round and sink them, the Germans will not find it suspicious.”
 
 > All of this secrecy resonates in the present-day story line, in which the grandchildren of the WWII heroes—inimitable programming geek Randy Waterhouse and the lovely and powerful Amy Shaftoe—team up to help create an offshore data haven in Southeast Asia and maybe uncover some gold once destined for Nazi coffers. To top off the paranoiac tone of the book, the mysterious Enoch Root, key member of Detachment 2702 and the Societas Eruditorum, pops up with an unbreakable encryption scheme left over from WWII to befuddle the 1990s protagonists with conspiratorial ties.
 
@@ -692,7 +692,7 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 
 #### [Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land) (1961) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [3.9] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
-> NAME: Valentine Michael smith
+> NAME: Valentine Michael Smith
 > ANCESTRY: Human
 > ORIGIN: Mars
 
@@ -719,7 +719,7 @@ Easily one of the most disrespectful, sacrilegious, memorable and funny books I 
 
 > Upon arriving in Palestine, A.D. 29, Glogauer finds that Jesus Christ is not the man that history and faith would like to believe, but that there is an opportunity for someone to change the course of history by making the ultimate sacrifice.
 
-> First published in 1969, Behold the Man broke through science fiction’s genre boundaries to create a poignant reflection on faith, disillusion and self-sacrifice. This is the classic novel that established the career of perhaps contemporary science fiction’s most cerebral and innovative author.
+> First published in 1969, _Behold the Man_ broke through science fiction’s genre boundaries to create a poignant reflection on faith, disillusion and self-sacrifice. This is the classic novel that established the career of perhaps contemporary science fiction’s most cerebral and innovative author.
 
 #### [The Dancers at the End of Time](https://www.goodreads.com/book/show/60147.The_Dancers_at_the_End_of_Time) (1977) *by [Michael Moorcock](https://en.wikipedia.org/wiki/Michael_Moorcock)* [4.0]
 
@@ -765,15 +765,15 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 
 #### [Manhattan in Reverse](https://www.goodreads.com/book/show/10710770-manhattan-in-reverse) (2011) *by [Peter F. Hamilton](https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [3.9]
 
-> This is a collection of short stories from the master of space opera. Peter Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a story featuring Paula Mayo, deputy director of the Intersolar Commonwealth’s Serious Crimes Directorate.
+> This is a collection of short stories from the master of space opera. Peter F. Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a story featuring Paula Mayo, deputy director of the Intersolar Commonwealth’s Serious Crimes Directorate.
 
-> Contents: _Watching Trees Grow_ (2000), _Footvote_ (2004), _If at First..._ (2007), _The Forever Kitten_ (2005), _Blessed by an Angel_ (2007), _The Demon Trap_ (2008), _Manhattan in Reverse_ (2011)
+> Contents: _Watching Trees Grow_ (2000), _Footvote_ (2004), _If at First…_ (2007), _The Forever Kitten_ (2005), _Blessed by an Angel_ (2007), _The Demon Trap_ (2008), _Manhattan in Reverse_ (2011)
 
 #### [Of Time and Stars](https://www.goodreads.com/book/show/21798296-of-time-and-stars) (1972) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.1]
 
 I can't praise this book enough. _The Nine Billion Names of God_ is brilliantly done; well written, executed, and frisson-inducing. _If I Forget Thee, Oh Earth_ is also a stark reminder that we only have one planet. One of the most memorable Science Fiction stories I have ever read. - [@RichardLitt](https://github.com/RichardLitt)
 
-> Of Time and Stars is a collection of short stories by science fiction writer Arthur C. Clarke. The stories all originally appeared in a number of different publications including the periodicals Dude, The Evening Standard, Lilliput, The Magazine of Fantasy & Science Fiction, Future, New Worlds, Startling Stories, Astounding, Fantasy, King's College Review, Satellite, Amazing Stories, London Evening News, Infinity Science Fiction and Ten Story Fantasy as well as the anthologies Star Science Fiction Stories No.1 edited by Frederik Pohl and Time to Come edited by August Derleth.
+> _Of Time and Stars_ is a collection of short stories by science fiction writer Arthur C. Clarke. The stories all originally appeared in a number of different publications including the periodicals _Dude_, _The Evening Standard_, _Lilliput_, _The Magazine of Fantasy & Science Fiction_, _Future_, _New Worlds_, _Startling Stories_, _Astounding_, _Fantasy_, _King’s College Review_, _Satellite_, _Amazing Stories_, _London Evening News_, _Infinity Science Fiction_ and _Ten Story Fantasy_ as well as the anthologies _Star Science Fiction Stories No.1_ edited by Frederik Pohl and _Time to Come_ edited by August Derleth.
 
 > Contents: _The Nine Billion Names of God_ (1953), _An Ape About the House_ (1962), _Green Fingers_ (1956), _Trouble with the Natives_ (1951), _Into the Comet_ (1960), _No Morning After_ (1954), _‘If I Forget Thee, Oh Earth…’_ (1951), _Who’s There?_ (1958), _All the Time in the World_ (1952), _Hide and Seek_ (1949), _Robin Hood, F.R.S._ (1956), _The Fires Within_ (1949), _The Forgotten Enemy_ (1953), _The Reluctant Orchid_ (1956), _Encounter at Dawn_ (1953), _Security Check_ (1957), _Feathered Friend_ (1957), _The Sentinel_ (1951)
 
@@ -791,7 +791,7 @@ What amazes me most about Ted Chiang’s stories is their *richness*—the level
 
 I think of these stories often; The Death of Dr. Island won a Nebula and offers a startling view into the rehabilitation and justice system we currently deal with and what we might have. The Doctor of Death Island is the same - I often think of him taking off the book cover, "like Mephistopholes". It takes an amazing talent to make three beautiful short stories out of permutations on a title. Also, Feather Tigers made me view the jungles in South East Asia a bit differently than I would have, and I think about Nashwonk a lot more than I should. I highly suggest this book. - [@RichardLitt](https://github.com/RichardLitt)
 
-> A superb collection of science fiction and fantasy stories, The Island of Doctor Death and Other Stories and Other Stories is a book that transcends all genre definitions. The stories within are mined with depth charges, explosions of meaning and illumination that will keep you thinking and feeling long after you have finished reading.
+> A superb collection of science fiction and fantasy stories, _The Island of Doctor Death and Other Stories and Other Stories_ is a book that transcends all genre definitions. The stories within are mined with depth charges, explosions of meaning and illumination that will keep you thinking and feeling long after you have finished reading.
 
 > Contents: _The Island of Doctor Death and Other Stories_ (1970), _Alien Stones_ (1972), _La Befana_ (1973), _The Hero as Werwolf_ (1975), _Three Fingers_ (1976), _The Death of Dr. Island_ (1973), _Feather Tigers_ (1973), _Hour of Trust_ (1973), _Tracking Song_ (1975), _The Toy Theater_ (1971), _The Doctor of Death Island_ (1978), _Cues_ (1974), _The Eyeflash Miracles_ (1976), _Seven American Nights_ (1978)
 
@@ -803,7 +803,7 @@ I think of these stories often; The Death of Dr. Island won a Nebula and offers 
 
 #### [A Clockwork Orange](http://www.imdb.com/title/tt0066921/) (1971) [8.4]
 
-> In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society's crime problem - but not all goes according to plan.
+> In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society’s crime problem—but not all goes according to plan.
 
 #### [A Scanner Darkly](http://www.imdb.com/title/tt0405296/) (2006) [7.1]
 
@@ -848,7 +848,7 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 #### [Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]
 
-> A Duke's son leads desert warriors against the galactic emperor and his father's evil nemesis when they assassinate his father and free their desert world from the emperor's rule.
+> A Duke’s son leads desert warriors against the galactic emperor and his father’s evil nemesis when they assassinate his father and free their desert world from the emperor’s rule.
 
 #### [Edge of Tomorrow](http://www.imdb.com/title/tt1631867/) (2014) [7.9]
 
@@ -868,7 +868,7 @@ I thought it was great, and I was a bit anxious about there being so many scenes
 
 #### [Europa Report](http://www.imdb.com/title/tt2051879/) (2013) [6.5]
 
-> An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
+> An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter’s fourth largest moon.
 
 #### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9]
 
@@ -900,7 +900,7 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 Hey, lets all fall in love in our operating systems! The movie seems like a plausible love story and it takes the reality of our addiction to technology to a whole new level. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
-> A lonely writer develops an unlikely relationship with his newly purchased operating system that's designed to meet his every need.
+> A lonely writer develops an unlikely relationship with his newly purchased operating system that’s designed to meet his every need.
 
 #### [I Origins](http://www.imdb.com/title/tt2884206/) (2014) [7.3]
 
@@ -914,15 +914,15 @@ Hey, lets all fall in love in our operating systems! The movie seems like a plau
 
 An interesting (and long) movie about a humanity trying to safe itself by leaving Earth after a huge climate change that made it difficult to grow food. Truly remarkable story and amazing graphic. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
-> A team of explorers travel through a wormhole in an attempt to ensure humanity's survival.
+> A team of explorers travel through a wormhole in an attempt to ensure humanity’s survival.
 
 #### [La Jetée](http://www.imdb.com/title/tt0056119/) (1962) [8.4]
 
-> Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world's fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
+> Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world’s fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
 
 #### [Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]
 
-> In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
+> In a futuristic city sharply divided between the working class and the city planners, the son of the city’s mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
 
 #### [Minority Report](http://www.imdb.com/title/tt0181689/) (2002) [7.7]
 
@@ -932,17 +932,17 @@ Predicting future crimes? Sure, I am all for it, _until_ they make a mistake and
 
 #### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]
 
-> Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet's power problems.
+> Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet’s power problems.
 
 #### [Oblivion](http://www.imdb.com/title/tt1483013/) (2013) [7.0]
 
 A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andrea Riseborough as Victoria (Vica). Jack has a lot of questions, Vica shrugs them off, and then, they get answered and Jack can barely live with it! Beuatifully shot! - [@icyflame](https://github.com/icyflame)
 
-> A veteran assigned to extract Earth's remaining resources begins to question what he knows about his mission and himself.
+> A veteran assigned to extract Earth’s remaining resources begins to question what he knows about his mission and himself.
 
 #### [Paprika](http://www.imdb.com/title/tt0851578/) (2006) [7.7]
 
-> When a machine that allows therapists to enter their patients' dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.
+> When a machine that allows therapists to enter their patients’ dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.
 
 #### [Predestination](http://www.imdb.com/title/tt2397535/) (2014) [7.5]
 
@@ -950,7 +950,7 @@ A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andre
 
 #### [Primer](http://www.imdb.com/title/tt0390384/) (2004) [7.0]
 
-> Four friends/fledgling entrepreneurs, knowing that there's something bigger and more innovative than the different error-checking devices they've built, wrestle over their new invention.
+> Four friends/fledgling entrepreneurs, knowing that there’s something bigger and more innovative than the different error-checking devices they’ve built, wrestle over their new invention.
 
 #### [Serenity (Firefly)](http://www.imdb.com/title/tt0379786/) (2005) [8.0]
 
@@ -978,13 +978,13 @@ Starring George Clooney and Natasha McElhone, this is much more of a modern psyc
 
 #### [Source Code](http://www.imdb.com/title/tt0945513/) (2011) [7.5]
 
-> A soldier wakes up in someone else's body and discovers he's part of an experimental government program to find the bomber of a commuter train. A mission he has only 8 minutes to complete.
+> A soldier wakes up in someone else’s body and discovers he’s part of an experimental government program to find the bomber of a commuter train. A mission he has only 8 minutes to complete.
 
 #### [Stalker](http://www.imdb.com/title/tt0079944/) (1979) [8.2]
 
 Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadside Picnic". - [@ggb](https://github.com/ggb)
 
-> Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife's objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He's a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one's secret hopes come true.
+> Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife’s objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He’s a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one’s secret hopes come true.
 
 #### [Sunshine](http://www.imdb.com/title/tt0448134/) (2007) [7.3]
 
@@ -1010,7 +1010,7 @@ Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadsi
 
 A love story between a woman and her husband uploaded into a computer. What makes the movie a bit scary is that, although a bit unrealistic, it is placed in a near future. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
->  A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
+>  A scientist’s drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
 #### [Twelve Monkeys](http://www.imdb.com/title/tt0114746/) (1996) [8.1]
 
@@ -1027,7 +1027,7 @@ A love story between a woman and her husband uploaded into a computer. What make
 
 This is a classic film, and well worth watching if only for the incredible and iconic 'khaaaaan' echo. More impressive, however, is Ricardo Montalban's performance, which is incredible on its own. As well, in a move that goes against mainstream whitewashing, a Mexican and not a Caucasian plays a genetically engineered superhuman, making this a movie that showed the power of diversity well ahead of its time. This movie is great to watch. - [@RichardLitt](https://github.com/RichardLitt)
 
-> With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using his son's life-generating device, the Genesis Device, as the ultimate weapon.
+> With the assistance of the Enterprise crew, Admiral Kirk must stop an old nemesis, Khan Noonien Singh, from using his son’s life-generating device, the Genesis Device, as the ultimate weapon.
 
 ## TV Series
 
@@ -1063,13 +1063,13 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 > A television drama centered around a female FBI agent who is forced to work with an institutionalized scientist in order to rationalize a brewing storm of unexplained phenomena.
 
-#### [Hitchhiker's Guide to the Galaxy](http://www.imdb.com/title/tt0081874/) [8.0]
+#### [Hitchhiker’s Guide to the Galaxy](http://www.imdb.com/title/tt0081874/) [8.0]
 
-> An Earth man and his alien friend escape Earth's destruction and go on a truly strange adventure as space hitchhikers.
+> An Earth man and his alien friend escape Earth’s destruction and go on a truly strange adventure as space hitchhikers.
 
 #### [Neon Genesis Evangelion](http://www.imdb.com/title/tt0112159/) [8.6]
 
-> 15 years after the enormous catastrophe that killed half of the world population, another crisis has come — the unidentified invaders called "Angels" begin to attack human-kind. Mankind's only hope lies with giant organic mecha and their teenage pilots.
+> 15 years after the enormous catastrophe that killed half of the world population, another crisis has come—the unidentified invaders called “Angels” begin to attack human-kind. Mankind’s only hope lies with giant organic mecha and their teenage pilots.
 
 #### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) [8.1]
 
@@ -1089,7 +1089,7 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 #### [Twilight Zone](http://www.imdb.com/title/tt0052520/) [9.0]
 
-> Rod Serling's seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations. The stories would typically end with an ironic twist that would see the guilty punished.
+> Rod Serling’s seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations. The stories would typically end with an ironic twist that would see the guilty punished.
 
 ## Links
 
