@@ -767,11 +767,15 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 
 > This is a collection of short stories from the master of space opera. Peter Hamilton takes us on a journey from a murder mystery in an alternative Oxford in the 1800s to a story featuring Paula Mayo, deputy director of the Intersolar Commonwealth’s Serious Crimes Directorate.
 
+> Contents: _Watching Trees Grow_ (2000), _Footvote_ (2004), _If at First..._ (2007), _The Forever Kitten_ (2005), _Blessed by an Angel_ (2007), _The Demon Trap_ (2008), _Manhattan in Reverse_ (2011)
+
 #### [Of Time and Stars](https://www.goodreads.com/book/show/21798296-of-time-and-stars) (1972) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.1]
 
 I can't praise this book enough. _The Nine Billion Names of God_ is brilliantly done; well written, executed, and frisson-inducing. _If I Forget Thee, Oh Earth_ is also a stark reminder that we only have one planet. One of the most memorable Science Fiction stories I have ever read. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Of Time and Stars is a collection of short stories by science fiction writer Arthur C. Clarke. The stories all originally appeared in a number of different publications including the periodicals Dude, The Evening Standard, Lilliput, The Magazine of Fantasy & Science Fiction, Future, New Worlds, Startling Stories, Astounding, Fantasy, King's College Review, Satellite, Amazing Stories, London Evening News, Infinity Science Fiction and Ten Story Fantasy as well as the anthologies Star Science Fiction Stories No.1 edited by Frederik Pohl and Time to Come edited by August Derleth.
+
+> Contents: _The Nine Billion Names of God_ (1953), _An Ape About the House_ (1962), _Green Fingers_ (1956), _Trouble with the Natives_ (1951), _Into the Comet_ (1960), _No Morning After_ (1954), _‘If I Forget Thee, Oh Earth…’_ (1951), _Who’s There?_ (1958), _All the Time in the World_ (1952), _Hide and Seek_ (1949), _Robin Hood, F.R.S._ (1956), _The Fires Within_ (1949), _The Forgotten Enemy_ (1953), _The Reluctant Orchid_ (1956), _Encounter at Dawn_ (1953), _Security Check_ (1957), _Feathered Friend_ (1957), _The Sentinel_ (1951)
 
 #### [Stories of Your Life and Others](https://www.goodreads.com/book/show/729760.Stories_of_Your_Life_and_Others) (2002) *by [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)* [4.4]
 
@@ -788,6 +792,8 @@ What amazes me most about Ted Chiang’s stories is their *richness*—the level
 I think of these stories often; The Death of Dr. Island won a Nebula and offers a startling view into the rehabilitation and justice system we currently deal with and what we might have. The Doctor of Death Island is the same - I often think of him taking off the book cover, "like Mephistopholes". It takes an amazing talent to make three beautiful short stories out of permutations on a title. Also, Feather Tigers made me view the jungles in South East Asia a bit differently than I would have, and I think about Nashwonk a lot more than I should. I highly suggest this book. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A superb collection of science fiction and fantasy stories, The Island of Doctor Death and Other Stories and Other Stories is a book that transcends all genre definitions. The stories within are mined with depth charges, explosions of meaning and illumination that will keep you thinking and feeling long after you have finished reading.
+
+> Contents: _The Island of Doctor Death and Other Stories_ (1970), _Alien Stones_ (1972), _La Befana_ (1973), _The Hero as Werwolf_ (1975), _Three Fingers_ (1976), _The Death of Dr. Island_ (1973), _Feather Tigers_ (1973), _Hour of Trust_ (1973), _Tracking Song_ (1975), _The Toy Theater_ (1971), _The Doctor of Death Island_ (1978), _Cues_ (1974), _The Eyeflash Miracles_ (1976), _Seven American Nights_ (1978)
 
 ## Movies
 
