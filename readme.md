@@ -102,20 +102,6 @@ This book will teach you to stretch your imagination and see things in a differe
 
 > On the run from a ruthless pursuer and searching for a place to hide, he volunteers to participate in a unique experimental polity, the Glasshouse, constructed to simulate a pre-accelerated culture. Participants are assigned anonymized identities: It looks like the ideal hiding place for a posthuman on the run. But in this escape-proof environment, Robin will undergo an even more radical change, placing him at the mercy of the experimenters—and at the mercy of his own unbalanced psyche…
 
-#### [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot) (1950) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
-
-> The three laws of Robotics:
-
-> 1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.
-
-> 2) A robot must obey orders given to it by human beings except where such orders would conflict with the First Law.
-
-> 3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
-
-> With these three, simple directives, Isaac Asimov changed our perception of robots forever when he formulated the laws governing their behavior. In _I, Robot_, Asimov chronicles the development of the robot through a series of interlinked stories: from its primitive origins in the present to its ultimate perfection in the not-so-distant future—a future in which humanity itself may be rendered obsolete.
-
-> Here are stories of robots gone mad, of mind-read robots, and robots with a sense of humor. Of robot politicians, and robots who secretly run the world—all told with the dramatic blend of science fact and science fiction that has become Asimov’s trademark.
-
 #### [Jean le Flambeur Series](https://www.goodreads.com/series/57134-jean-le-flambeur) (2010, 2012, 2014) *by [Hannu Rajaniemi](https://en.wikipedia.org/wiki/Hannu_Rajaniemi)* [4.0 (avg)]
 
 > Jean le Flambeur gets up in the morning and has to kill himself before his other self can kill him first. Just another day in the Dilemma Prison. Rescued by the mysterious Mieli and her flirtatious spacecraft, Jean is taken to the Oubliette, the Moving City of Mars, where time is a currency, memories are treasures, and a moon-turned-singularity lights the night. Meanwhile, investigator Isidore Beautrelet, called in to investigate the murder of a chocolatier, finds himself on the trail of an arch-criminal, a man named le Flambeur…
@@ -762,6 +748,20 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 > _Axiomatic_ is a collection of Greg Egan’s short stories that appeared in various science fiction magazines (mostly _Interzone_ and _Asimov’s_) between 1989 and 1992. Like most of Egan’s work, the stories focus on science and ideas, sometimes at the expense of the writing. But although Egan may lack a certain stylistic flair, he more than makes up for it with his wonderful visions of the future. Some of the more interesting stories include _Into Darkness_, the tale of a rescue worker whose territory is a runaway wormhole, and the title story _Axiomatic_, which is about a man looking to find meaning in the senseless death of his wife.
 
 > Contents: _The Infinite Assassin_ (1991), _The Hundred Light-Year Diary_ (1992), _Eugene_ (1990), _The Caress_ (1990), _Blood Sisters_ (1991), _Axiomatic_ (1990), _The Safe-Deposit Box_ (1990), _Seeing_ (1995), _A Kidnapping_ (1995), _Learning to Be Me_ (1990), _The Moat_ (1991), _The Walk_ (1992), _The Cutie_ (1989), _Into Darkness_ (1992), _Appropriate Love_ (1991), _The Moral Virologist_ (1990), _Closer_ (1992), _Unstable Orbits in the Space of Lies_ (1992)
+
+#### [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot) (1950) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
+
+> The three laws of Robotics:
+
+> 1) A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+
+> 2) A robot must obey orders given to it by human beings except where such orders would conflict with the First Law.
+
+> 3) A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
+
+> With these three, simple directives, Isaac Asimov changed our perception of robots forever when he formulated the laws governing their behavior. In _I, Robot_, Asimov chronicles the development of the robot through a series of interlinked stories: from its primitive origins in the present to its ultimate perfection in the not-so-distant future—a future in which humanity itself may be rendered obsolete.
+
+> Here are stories of robots gone mad, of mind-read robots, and robots with a sense of humor. Of robot politicians, and robots who secretly run the world—all told with the dramatic blend of science fact and science fiction that has become Asimov’s trademark.
 
 #### [Manhattan in Reverse](https://www.goodreads.com/book/show/10710770-manhattan-in-reverse) (2011) *by [Peter F. Hamilton](https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [3.9]
 
