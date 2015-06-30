@@ -294,6 +294,8 @@ This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and
 
 #### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
 
+This book is filled with a quiet suspense that is almost palpable; in that, it does an extraordinary job of showing how humans respond to alien encounters. The otherworldliness of Rama isn't always interesting, but the reaction of the reader to it is. - [@RichardLitt](https://github.com/RichardLitt)
+
 > At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits—just behind a Raman airlock door.
 
 #### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.7]
