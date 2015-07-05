@@ -850,6 +850,10 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 #### [Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]
 
+Director: _David Lynch_
+
+This is based on the Dune book by Herbert, listed above. This version is legendary - it has Patrick Stewart and Sting as actors, and David Lynch's direction is weird and weighty. The soundtrack, by Toto, is good enough to stand on its own. I can't imagine reading the books without thinking of this viewing. - [@RichardLitt](https://github.com/RichardLitt)
+
 > A Duke’s son leads desert warriors against the galactic emperor and his father’s evil nemesis when they assassinate his father and free their desert world from the emperor’s rule.
 
 #### [Edge of Tomorrow](http://www.imdb.com/title/tt1631867/) (2014) [7.9]
