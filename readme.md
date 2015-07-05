@@ -1045,6 +1045,12 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 > A group of convicts and outcasts fight a guerrilla war against the totalitarian Terran Federation from a highly advanced alien spaceship.
 
+#### [Children of Dune](http://www.imdb.com/title/tt0287839/) [7.7]
+
+James McAvoy's acting as Leto II is absolutely incredible in this short series, as is Susan Sarandon's as Princess Corrinno. This miniseries is short and sweet, and manages to make the most out of what really is one of the lesser of the Dune book series. - [@RichardLitt](https://github.com/RichardLitt)
+
+> The twins of Paul "Muad'dib" Atreides become embroiled in the political landscape of Arrakis ("Dune") and the rest of the universe.
+
 #### [Continuum](http://www.imdb.com/title/tt1954347/) [7.8]
 
 > A detective from the year 2077 finds herself trapped in present day Vancouver and searching for ruthless criminals from the future.
@@ -1052,6 +1058,12 @@ This is a classic film, and well worth watching if only for the incredible and i
 #### [Doctor Who](http://www.imdb.com/title/tt0436992/) [8.9]
 
 > The further adventures of the time traveling alien adventurer and his companions.
+
+#### [Dune](http://www.imdb.com/title/tt0142032/) [7.1]
+
+Out of all--big or small screen--Dune adaptations, I felt this one has come closest to Herbert's vision. They didn't go too crazy on the CGI either, in that it didn't distract from the story. The acting was a bit meh, but that's usually a question of budget (wasn't HBO... :wink:). Given the dearth of good SF on TV, I would consider it awesome by comparison. - [@mihailim](https://github.com/mihailim)
+
+> A three-part miniseries on politics, betrayal, lust, greed and the coming of a Messiah. Based on Frank Herbert's classic science fiction novel.
 
 #### [Farscape](http://www.imdb.com/title/tt0187636/) [8.4]
 
