@@ -878,6 +878,8 @@ I thought it was great, and I was a bit anxious about there being so many scenes
 
 #### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9]
 
+Thought-provoking movie that explores what it means to be human. Deep, suspenseful, and at times claustrophobic. Acting is to perfection. Visual effects are so well done and natural you don't even notice them. Truly the best sci-fi movie I've watched in years. - [@sindresorhus](http://sindresorhus.com)
+
 Kind of a parody about Google. The owner of a huge search provider creates an A.I. humanoid in a complete secrecy and calls a young programmer to perform a slight variation of a [Turing test](https://en.wikipedia.org/wiki/Turing_test) to test his creation in a secret underground lab. Can be a good introduction to Turing test to people interested in A.I. To be honest, the end of the movie was a bit disappointing to me. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 > A young programmer is selected to participate in a breakthrough experiment in artificial intelligence by evaluating the human qualities of a breathtaking female A.I.
