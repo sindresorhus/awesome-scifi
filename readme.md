@@ -1002,6 +1002,12 @@ Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadsi
 
 > A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.
 
+#### [The Fifth Element](http://www.imdb.com/title/tt0119116/) (1997) [7.6]
+
+This movie is ridiculous. Worth watching just for the amazing opera scene - the 'science' in 'science fiction' isn't really worth it, though. - [@RichardLitt](https://github.com/RichardLitt)
+
+> In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr Zorg at bay.
+
 #### [The Man from Earth](http://www.imdb.com/title/tt0756683/) (2007) [8.0]
 
 > An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.
