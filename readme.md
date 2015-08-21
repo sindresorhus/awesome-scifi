@@ -1045,6 +1045,16 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 ## TV Series
 
+#### [Babylon 5](http://www.imdb.com/title/tt0105946/) [8.2]
+
+Babylon 5's special effects left a lot to be desired, but the plot was amazing. - [@elektrovert](https://github.com/elektrovert)
+
+The CGI hasn't aged well—but the show's strength lies in character development and (on a meta level) the pre-planned structure which is fairly unique for TV series. On the other hand, it's a polarizing show... So my vote is a conditional yes :) - [@mihailim](https://github.com/mihailim)
+
+This is awesome for its nostalgic value, if little else. The line about frictionless sheets is hilarious. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A space station in neutral territory is the focus of a unique five year saga.
+
 #### [Battlestar Galactica](http://www.imdb.com/title/tt0407362/) [8.8]
 
 > When an old enemy, the Cylons, resurfaces and obliterate the 12 colonies, the crew of the aged Galactica protects a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony of Earth.
