@@ -1,5 +1,17 @@
 # Contribution Guidelines
 
+### Comments
+
+If you have consumed any of the content here, please add a comment if you think it is awesome. This especially applies if the content has no comments. Please use the format:
+
+```
+Commentary. - [@you](https://github.com/you)
+```
+
+Thanks!
+
+### New Suggestions
+
 Please ensure your pull request adheres to the following guidelines:
 
 - You should have consumed the content you're suggesting.
