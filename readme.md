@@ -801,6 +801,10 @@ I think of these stories often; The Death of Dr. Island won a Nebula and offers 
 
 #### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]
 
+Director: _Stanley Kubrick_
+
+Cinematically, this movie is a masterpiece. This is one of the few films on this list that is important as a film in itself, not just to the genre. From the beginning to the end, it is captivating - if you don't mind a bit of a slower pace than most of the other films on here. - [@RichardLitt](https://github.com/RichardLitt)
+
 > Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
 #### [A Clockwork Orange](http://www.imdb.com/title/tt0066921/) (1971) [8.4]
@@ -813,13 +817,21 @@ I think of these stories often; The Death of Dr. Island won a Nebula and offers 
 
 #### [Akira](http://www.imdb.com/title/tt0094625/) (1988) [8.1]
 
+One of the first mainstream anime movies. Pyshcologically horrifying in more than a few ways. - [@RichardLitt](https://github.com/RichardLitt)
+
 > A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psionic psychopath that only two kids and a group of psionics can stop.
 
 #### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
+Director: _Ridley Scott_
+
+Very few films can stand up to as many rewatches as this film can - there are layers upon layers, and the bleak image of the future hasn't lost it's power in the thirty years the film has been around. This was a reworking of the Phillip K. Dick book (above), but without a lot of unnecessary or largely spurious subplots, and it focuses much more on identity, sexuality, and the psychological ramifications of technology. A masterpiece. - [@RichardLitt](https://github.com/RichardLitt)
+
 > A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
 
 #### [Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]
+
+If you're looking to replicate the experience of taking acid without actually doing drugs, than this film is for you. Weird as hell, and De Niro's cameo is strange, but this film is very good. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.
 
@@ -886,9 +898,13 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 #### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) (1999) [7.3]
 
+If you've heard of Star Trek, and like comedy, this is for you - the entire film is a giant joke on the scifi industry, played by fantastic actors. Hilarious. - [@RichardLitt](https://github.com/RichardLitt)
+
 > The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.
 
 #### [Gattaca](http://www.imdb.com/title/tt0119177/) (1997) [7.8]
+
+This film gets more relevant every year. Slow at times, the questions it raises about potential are especially pertinent as your data becomes more important to insurance companies and governments, and as Western culture is increasingly becoming aware of genetic advantages and privilege.  - [@RichardLitt](https://github.com/RichardLitt)
 
 > A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
@@ -902,11 +918,15 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 #### [Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2]
 
+In a strange loop, a lot of the statements made in this film about who hackers are have gone full circle and been incorporated into our culture (Substack's ending most of his slides with 'Hack the planet', for instance). The actual hacking is ridiculous, but the punks on the edge of society coming into their own makes this worth watching. - [@RichardLitt](https://github.com/RichardLitt)
+
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
 #### [Her](http://www.imdb.com/title/tt1798709/) (2014) [8.0]
 
 Hey, lets all fall in love in our operating systems! The movie seems like a plausible love story and it takes the reality of our addiction to technology to a whole new level. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
+This is a beautiful film; the plot was forced at times, especially towards the end, but the character development was fantastic, and Joaquin Phoenix's acting carries the film. The set design and clothes are also impeccable, with a few of what the near future might look like. I cried. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A lonely writer develops an unlikely relationship with his newly purchased operating system that’s designed to meet his every need.
 
@@ -915,6 +935,8 @@ Hey, lets all fall in love in our operating systems! The movie seems like a plau
 > A molecular biologist and his laboratory partner uncover evidence that may fundamentally change society as we know it.
 
 #### [Inception](http://www.imdb.com/title/tt1375666/) (2010) [8.8]
+
+A major blockbuster, this film stretches the limits of recursion while maintaining it's action. Well acted and beautifully shot. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
 
@@ -926,9 +948,13 @@ An interesting (and long) movie about a humanity trying to safe itself by leavin
 
 #### [La Jetée](http://www.imdb.com/title/tt0056119/) (1962) [8.4]
 
+This film inspired Twelve Monkeys, but is more notable for being one fo the earliest short scifi films that deals with time travel and its ramifications for revolutions and society as a whole. Black and white and beautiful. - [@RichardLitt](https://github.com/RichardLitt)
+
 > Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world’s fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
 
 #### [Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]
+
+This is the kind of film that sells out art houses when someone finds an early roll of the film in a theatre in Buenos Aires, stacked away behind decades of other movies. Seminal in it's ability to show a technological future when we were just beginning to understand what that would look like, this film is a masterpiece of class statements, and is much braver at times than a lot of modern, 'edgy' scripts. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In a futuristic city sharply divided between the working class and the city planners, the son of the city’s mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
 
@@ -939,6 +965,8 @@ Predicting future crimes? Sure, I am all for it, _until_ they make a mistake and
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
 #### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]
+
+This is one of the best drawn-out psychodrama films about space out there, along with 2001: A Space Odyssey and Solaris. Sam Bell is the pretty much the only actor in the film, and his lonely acting makes you feel the loneliness of isolation. This film is also fantastic for its powerful score. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet’s power problems.
 
@@ -961,6 +989,8 @@ A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andre
 > Four friends/fledgling entrepreneurs, knowing that there’s something bigger and more innovative than the different error-checking devices they’ve built, wrestle over their new invention.
 
 #### [Serenity (Firefly)](http://www.imdb.com/title/tt0379786/) (2005) [8.0]
+
+Watch the Firefly series before seeing this film. It is good in itself, for the special effects if nothing else, but it wraps up and solidifies a lot of things that the cancelled show left open, to the equal chagrin and joy of its fanatic fanbase. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The crew of the ship Serenity tries to evade an assassin sent to recapture one of their number who is telepathic.
 
@@ -1013,6 +1043,8 @@ This movie is ridiculous. Worth watching just for the amazing opera scene - the 
 > An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.
 
 #### [The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7]
+
+One of the most well known Science Fiction films, this is a great expose on what people thought of hackers in the late 90s. The first in a trilogy, this film stands on its own legs, for its well-written script, great casting, and solid score. The unworldly choreography combined with slow motion filming was so influential it is now a cliché. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
