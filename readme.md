@@ -1139,6 +1139,12 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 > 15 years after the enormous catastrophe that killed half of the world population, another crisis has come—the unidentified invaders called “Angels” begin to attack human-kind. Mankind’s only hope lies with giant organic mecha and their teenage pilots.
 
+#### [Red Dwarf](http://www.imdb.com/title/tt0094535/) [8.5]
+
+This stretched my ideas of how stupid and silly space travel could be. It's smegging awesome. - [@RichardLitt](https://github.com/RichardLitt)
+
+> The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.
+
 #### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) [8.1]
 
 > An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.
