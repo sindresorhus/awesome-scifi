@@ -1174,7 +1174,7 @@ This stretched my ideas of how stupid and silly space travel could be. It's smeg
 
 ## Credit
 
-Maintained by [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
+Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
 
 ## License
 
