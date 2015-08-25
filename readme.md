@@ -801,6 +801,7 @@ I think of these stories often; The Death of Dr. Island won a Nebula and offers 
 
 #### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]
 
+Categories: `space` `ai` `singularity`  
 Director: _Stanley Kubrick_
 
 Cinematically, this movie is a masterpiece. This is one of the few films on this list that is important as a film in itself, not just to the genre. From the beginning to the end, it is captivating - if you don't mind a bit of a slower pace than most of the other films on here. - [@RichardLitt](https://github.com/RichardLitt)
@@ -809,13 +810,19 @@ Cinematically, this movie is a masterpiece. This is one of the few films on this
 
 #### [A Clockwork Orange](http://www.imdb.com/title/tt0066921/) (1971) [8.4]
 
+Categories: `dystopia`
+
 > In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society’s crime problem—but not all goes according to plan.
 
 #### [A Scanner Darkly](http://www.imdb.com/title/tt0405296/) (2006) [7.1]
 
+Categories: `dystopia` `cyberpunk`
+
 > An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
 
 #### [Akira](http://www.imdb.com/title/tt0094625/) (1988) [8.1]
+
+Categories: `anime` `dystopia` `thriller`
 
 One of the first mainstream anime movies. Pyshcologically horrifying in more than a few ways. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -823,6 +830,7 @@ One of the first mainstream anime movies. Pyshcologically horrifying in more tha
 
 #### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
+Categories: `dystopia` `ai` `cyberpunk` `singularity`  
 Director: _Ridley Scott_
 
 Very few films can stand up to as many rewatches as this film can - there are layers upon layers, and the bleak image of the future hasn't lost its power in the thirty years the film has been around. This was a reworking of the Phillip K. Dick book (above), but without a lot of unnecessary or largely spurious subplots, and it focuses much more on identity, sexuality, and the psychological ramifications of technology. A masterpiece. - [@RichardLitt](https://github.com/RichardLitt)
@@ -831,11 +839,15 @@ Very few films can stand up to as many rewatches as this film can - there are la
 
 #### [Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]
 
+Categories: `dystopia` `police`
+
 If you're looking to replicate the experience of taking acid without actually doing drugs, than this film is for you. Weird as hell, and De Niro's cameo is strange, but this film is very good. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.
 
 #### [Chappie](http://www.imdb.com/title/tt1823672/) (2015) [7.1]
+
+Categories: `ai` `police`
 
 A movie about an AI robot "growing up" (as in, learning about the world and learning the difference between good and bad). An amazing story, you really feel like Chappie is your friend by the end of the movie. Visual effects are not that great in a couple of scenes. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
@@ -847,7 +859,8 @@ A movie about an AI robot "growing up" (as in, learning about the world and lear
 
 #### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
 
-Director: _Neill Blomkamp_
+Categories: `aliens` `thriller`  
+Director: _Neill Blomkamp_  
 Writer: _Neill Blomkamp, Terri Tatchell_
 
 :+1: I liked it. Very original. - [@sindresorhus](https://github.com/sindresorhus)
@@ -862,6 +875,7 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 #### [Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]
 
+Categories: `space` `aliens`  
 Director: _David Lynch_
 
 This is based on the Dune book by Herbert, listed above. This version is legendary - it has Patrick Stewart and Sting as actors, and David Lynch's direction is weird and weighty. The soundtrack, by Toto, is good enough to stand on its own. I can't imagine reading the books without thinking of this viewing. - [@RichardLitt](https://github.com/RichardLitt)
@@ -869,6 +883,8 @@ This is based on the Dune book by Herbert, listed above. This version is legenda
 > A Duke’s son leads desert warriors against the galactic emperor and his father’s evil nemesis when they assassinate his father and free their desert world from the emperor’s rule.
 
 #### [Edge of Tomorrow](http://www.imdb.com/title/tt1631867/) (2014) [7.9]
+
+Categories: `thriller` `police` `aliens`
 
 Thrilling and original. Feels like a cross between Halo (the game), Groundhog Day and The Butterfly Effect. - [@sindresorhus](https://github.com/sindresorhus)
 
@@ -886,9 +902,13 @@ I thought it was great, and I was a bit anxious about there being so many scenes
 
 #### [Europa Report](http://www.imdb.com/title/tt2051879/) (2013) [6.5]
 
+Categories: `space`
+
 > An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter’s fourth largest moon.
 
 #### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9]
+
+Categories: `ai`
 
 Thought-provoking movie that explores what it means to be human. Deep, suspenseful, and at times claustrophobic. Acting is to perfection. Visual effects are so well done and natural you don't even notice them. Truly the best sci-fi movie I've watched in years. - [@sindresorhus](http://sindresorhus.com)
 
@@ -898,11 +918,15 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 #### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) (1999) [7.3]
 
+Categories: `comedy` `space` `aliens`
+
 If you've heard of Star Trek, and like comedy, this is for you - the entire film is a giant joke on the scifi industry, played by fantastic actors. Hilarious. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.
 
 #### [Gattaca](http://www.imdb.com/title/tt0119177/) (1997) [7.8]
+
+Categories: `biopunk` `space`
 
 This film gets more relevant every year. Slow at times, the questions it raises are especially pertinent as your data becomes more important to insurance companies and governments, and as Western culture is increasingly becoming aware of genetic advantages and privilege.  - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -910,19 +934,27 @@ This film gets more relevant every year. Slow at times, the questions it raises 
 
 #### [Ghost in the Shell](http://www.imdb.com/title/tt0113568/) (1995) [8.0]
 
+Categories: `anime` `ai` `police`
+
 > A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master.
 
 #### [Godzilla](http://www.imdb.com/title/tt0047034/) (1954) [7.5]
 
+Categories: `apocalypse` `aliens` `action`
+
 > American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
 
 #### [Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2]
+
+Categories: `cyberpunk` `police` `thriller`
 
 In a strange loop, a lot of the statements made in this film about who hackers are have gone full circle and been incorporated into our culture (Substack's ending most of his slides with 'Hack the planet', for instance). The actual hacking is ridiculous, but the punks on the edge of society coming into their own makes this worth watching. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
 #### [Her](http://www.imdb.com/title/tt1798709/) (2014) [8.0]
+
+Categories: `ai` `drama` `singularity`
 
 Hey, lets all fall in love in our operating systems! The movie seems like a plausible love story and it takes the reality of our addiction to technology to a whole new level. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
@@ -932,9 +964,13 @@ This is a beautiful film; the plot was forced at times, especially towards the e
 
 #### [I Origins](http://www.imdb.com/title/tt2884206/) (2014) [7.3]
 
+Categories: `cyberpunk`
+
 > A molecular biologist and his laboratory partner uncover evidence that may fundamentally change society as we know it.
 
 #### [Inception](http://www.imdb.com/title/tt1375666/) (2010) [8.8]
+
+Categories: `cyberpunk`
 
 A major blockbuster, this film stretches the limits of recursion while maintaining its action. Well acted and beautifully shot. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -942,11 +978,15 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 #### [Interstellar](http://www.imdb.com/title/tt0816692/) (2014) [8.7]
 
+Categories: `space`
+
 An interesting (and long) movie about a humanity trying to safe itself by leaving Earth after a huge climate change that made it difficult to grow food. Truly remarkable story and amazing graphic. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 > A team of explorers travel through a wormhole in an attempt to ensure humanity’s survival.
 
 #### [La Jetée](http://www.imdb.com/title/tt0056119/) (1962) [8.4]
+
+Categories: `time travel` `drama`
 
 This film inspired Twelve Monkeys, but is more notable for being one of the earliest short scifi films that deals with time travel and its ramifications for revolutions and society as a whole. Black and white and beautiful. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -954,11 +994,15 @@ This film inspired Twelve Monkeys, but is more notable for being one of the earl
 
 #### [Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]
 
+Categories: `apocalypse`
+
 This is the kind of film that sells out art houses when someone finds an early roll of the film in a theatre in Buenos Aires, stacked away behind decades of other movies. Seminal in its ability to show a technological future when we were just beginning to understand what that would look like, this film is a masterpiece of class statements, and is much braver at times than a lot of modern, 'edgy' scripts. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In a futuristic city sharply divided between the working class and the city planners, the son of the city’s mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
 
 #### [Minority Report](http://www.imdb.com/title/tt0181689/) (2002) [7.7]
+
+Categories: `ai` `police`
 
 Predicting future crimes? Sure, I am all for it, _until_ they make a mistake and implicate the hero himself. After watching the movie, you could be thinking, _we_ should probably not try to predict the future! Nevertheless, great movie!  - [@icyflame](https://github.com/icyflame)
 
@@ -966,11 +1010,15 @@ Predicting future crimes? Sure, I am all for it, _until_ they make a mistake and
 
 #### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]
 
+Categories: `space` `drama`
+
 This is one of the best drawn-out psychodrama films about space out there, along with 2001: A Space Odyssey and Solaris. Sam Bell is pretty much the only actor in the film, and his lonely acting makes you feel the loneliness of isolation. This film is also fantastic for its powerful score. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet’s power problems.
 
 #### [Oblivion](http://www.imdb.com/title/tt1483013/) (2013) [7.0]
+
+Categories: `apocalypse`
 
 A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andrea Riseborough as Victoria (Vica). Jack has a lot of questions, Vica shrugs them off, and then, they get answered and Jack can barely live with it! Beuatifully shot! - [@icyflame](https://github.com/icyflame)
 
@@ -978,9 +1026,13 @@ A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andre
 
 #### [Paprika](http://www.imdb.com/title/tt0851578/) (2006) [7.7]
 
+Categories: `ai`
+
 > When a machine that allows therapists to enter their patients’ dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.
 
 #### [Predestination](http://www.imdb.com/title/tt2397535/) (2014) [7.5]
+
+Categories: `time travel`
 
 > The life of a time-traveling Temporal Agent. On his final assignment, he must pursue the one criminal that has eluded him throughout time.
 
@@ -990,16 +1042,21 @@ A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andre
 
 #### [Serenity (Firefly)](http://www.imdb.com/title/tt0379786/) (2005) [8.0]
 
+Categories: `space` `western` `action`
+
 Watch the Firefly series before seeing this film. It is good in itself, for the special effects if nothing else, but it wraps up and solidifies a lot of things that the cancelled show left open, to the equal chagrin and joy of its fanatic fanbase. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The crew of the ship Serenity tries to evade an assassin sent to recapture one of their number who is telepathic.
 
 #### [Snowpiercer](http://www.imdb.com/title/tt1706620/) (2013) [7.0]
 
+Categories: `apocalypse` `action`
+
 > Set in a future where a failed climate-change experiment kills all life on the planet except for a lucky few who boarded the Snowpiercer, a train that travels around the globe, where a class system emerges.
 
 #### [Solaris](http://www.imdb.com/title/tt0069293/) (1972) [8.1]
 
+Categories: `space` `drama`  
 Director: _Andrei Tarkovsky_
 
 This is the original film based on the book. It is much slower than the remake, but a classic. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1008,6 +1065,7 @@ This is the original film based on the book. It is much slower than the remake, 
 
 #### [Solaris](http://www.imdb.com/title/tt0307479/) (2002) [6.2]
 
+Categories: `space` `drama`  
 Director: _Steven Soderbergh_
 
 Starring George Clooney and Natasha McElhone, this is much more of a modern psychodrama with fantastic shots and a more colored atmosphere than the original film. The original score by Cliff Martinez really adds to the film, and is great on its own. One of my favorite films. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1015,6 +1073,8 @@ Starring George Clooney and Natasha McElhone, this is much more of a modern psyc
 > A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.
 
 #### [Source Code](http://www.imdb.com/title/tt0945513/) (2011) [7.5]
+
+Categories: `ai` `action`
 
 > A soldier wakes up in someone else’s body and discovers he’s part of an experimental government program to find the bomber of a commuter train. A mission he has only 8 minutes to complete.
 
@@ -1026,6 +1086,8 @@ Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadsi
 
 #### [Sunshine](http://www.imdb.com/title/tt0448134/) (2007) [7.3]
 
+Categories: `space` `action`
+
 This is a pretty good movie. The science is ridiculous, but the characters are great and the CGI is fantastic. At points, chilling. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
@@ -1035,6 +1097,8 @@ This is a pretty good movie. The science is ridiculous, but the characters are g
 > A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.
 
 #### [The Fifth Element](http://www.imdb.com/title/tt0119116/) (1997) [7.6]
+
+Categories: `space` `action`
 
 This movie is ridiculous. Worth watching just for the amazing opera scene - the 'science' in 'science fiction' isn't really worth it, though. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1046,6 +1110,8 @@ This movie is ridiculous. Worth watching just for the amazing opera scene - the 
 
 #### [The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7]
 
+Categories: `ai` `action` `apocalypse` `singularity`
+
 One of the most well known scifi films, this is a great expose on what people thought of hackers in the late 90s. The first in a trilogy, this film stands on its own legs, for its well-written script, great casting, and solid score. The unworldly choreography combined with slow motion filming was so influential it is now a cliché. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
@@ -1056,11 +1122,15 @@ One of the most well known scifi films, this is a great expose on what people th
 
 #### [Transcendence](http://www.imdb.com/title/tt2209764/) (2014) [6.3]
 
+Categories: `ai`
+
 A love story between a woman and her husband uploaded into a computer. What makes the movie a bit scary is that, although a bit unrealistic, it is placed in a near future. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 >  A scientist’s drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
 #### [Twelve Monkeys](http://www.imdb.com/title/tt0114746/) (1996) [8.1]
+
+Categories: `time travel` `action`
 
 > In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
