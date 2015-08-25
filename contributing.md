@@ -14,7 +14,7 @@ Thanks!
 
 Please ensure your pull request adheres to the following guidelines:
 
-- You should have consumed the content you're suggesting.
+- You should have consumed the content you're suggesting, unless you are adding a book to the 'Suggested' category.
 - The entry should contain the title and author links, first publication year, rating, description and your personal commentary.
   - For books, please copy the description and rating from [Goodreads](https://goodreads.com) and link to the Goodreads entry.
   - For movies and TV shows, please copy the description and rating from [IMDb](https://www.imdb.com) and link to the IMDb entry.
@@ -36,6 +36,12 @@ Commentary - [@you](https://github.com/you)
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Make an individual pull request for each suggestion.
 - The pull request and commit should have a useful title.
-- As of June 13th, Pull Requests without a personal comment will not be accepted until one is added.
+- Pull Requests without a personal comment will not be accepted until one is added.
+- If you are adding a movie, please add categories as you see fit, using inline code ticks to mark different categories, in this format:
+
+```
+Categories: `ai` `action` `not about batman`
+```
+
 
 Thank you for your suggestions!
