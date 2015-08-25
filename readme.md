@@ -1026,6 +1026,8 @@ Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadsi
 
 #### [Sunshine](http://www.imdb.com/title/tt0448134/) (2007) [7.3]
 
+This is a pretty good movie. The science is ridiculous, but the characters are great and the CGI is fantastic. At points, chilling. - [@RichardLitt](https://github.com/RichardLitt)
+
 > A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
 
 #### [The City of Lost Children](http://www.imdb.com/title/tt0112682/) (1995) [7.7]
