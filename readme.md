@@ -47,7 +47,7 @@ We've heard these books are awesome, but no one has done a PR to add them yet. I
 * [The Clockwork Trilogy](https://www.goodreads.com/book/show/9756310-the-clockwork-rocket) by Greg Egan
 * [The Expanse Series](https://www.goodreads.com/book/show/8855321-leviathan-wakes) by James A. Corey
 * [The Metamorphosis of Prime Intellect](https://www.goodreads.com/book/show/64341.The_Metamorphosis_of_Prime_Intellect) by Roger Williams
-* [The Three Day Problem](http://www.goodreads.com/book/show/20518872-the-three-body-problem) by Liu Cixin
+* [The Three Body Problem](http://www.goodreads.com/book/show/20518872-the-three-body-problem) by Liu Cixin
 
 If you think there should be a book or movie or TV series here but haven't read it yet, please add it here instead of opening an issue.
 
@@ -837,7 +837,7 @@ Categories: `dystopia` `cyberpunk`
 
 Categories: `anime` `dystopia` `thriller`
 
-One of the first mainstream anime movies. Pyshcologically horrifying in more than a few ways. - [@RichardLitt](https://github.com/RichardLitt)
+One of the first mainstream anime movies. Psychologically horrifying in more than a few ways. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psionic psychopath that only two kids and a group of psionics can stop.
 
