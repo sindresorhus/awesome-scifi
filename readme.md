@@ -1238,6 +1238,12 @@ This stretched my ideas of how stupid and silly space travel could be. It's smeg
 
 > A secret military team, SG-1, is formed to explore the recently discovered Stargates.
 
+#### [Stargate Universe](http://www.imdb.com/title/tt1286039/) [7.7]
+
+The show feels completely different than Stargate SG-1 and Atlantis, it is certainly the most cinematic looking of the three series. It is darker, the plot seems slower, but also more realistic and intense, which provides a higher dose of suspense to the show. - [@HQarroum](https://github.com/HQarroum)
+
+> Trapped on an Ancient spaceship billions of light years from home, a group of soldiers and civilians struggle to survive and find their way back to Earth.
+
 #### [The Prisoner](http://www.imdb.com/title/tt0061287/) [8.8]
 
 > After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
