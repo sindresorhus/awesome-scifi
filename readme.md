@@ -266,6 +266,8 @@ An interesting take on the near-future colonization of Mars by one hundred of th
 
 #### [The Martian](https://www.goodreads.com/book/show/18007564-the-martian) (2012) *by [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir_%28writer%29)* [4.4]
 
+This is a fun read; Weir manages to write an evocative techno-thriller without having his characters stoop to constant navel gazing and lonesome pining. This could be described as Robinson Crusoe - in Space. The characters on the earth side aren't the greatest, but the humor throughout the book really pulls it together, and watching a master at work as far as mechanical engineering goes was fascinating. Loved it. - [@RichardLitt](https://github.com/RichardLitt)
+
 > _Apollo 13_ meets _Cast Away_ in this grippingly detailed, brilliantly ingenious man-vs-nature survival thriller, set on the surface of Mars. Six days ago, astronaut Mark Watney became one of the first men to walk on the surface of Mars. Now, he’s sure he’ll be the first man to die there.
 
 > It started with the dust storm that holed his suit and nearly killed him, and that forced his crew to leave him behind, sure he was already dead. Now he’s stranded millions of miles from the nearest human being, with no way to even signal Earth that he’s alive—and even if he could get word out, his food would be gone years before a rescue mission could arrive. Chances are, though, he won’t have time to starve to death. The damaged machinery, unforgiving environment, or plain-old “human error” are much more likely to get him first.
