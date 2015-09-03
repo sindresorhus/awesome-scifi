@@ -313,7 +313,7 @@ This book is filled with a quiet suspense that is almost palpable; in that, it d
 
 #### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.7]
 
-This is one of Arthur C. Clarke's novels that is less about space and more about humanity, and the oceans. Clarke lived for a large part of his later life in Sri Lanka, and always loved the sea; in this book, that sentiment really comes out. I love it for that. It also has a nice view of ocean management, which is rare for books set in the future.
+This is one of Arthur C. Clarke's novels that is less about space and more about humanity, and the oceans. Clarke lived for a large part of his later life in Sri Lanka, and always loved the sea; in this book, that sentiment really comes out. I love it for that. It also has a nice view of ocean management, which is rare for books set in the future. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A century into the future, humanity lives mostly on the sea. Gigantic whale herds are tended by submariners, and vast plankton farms feed the world.
 
