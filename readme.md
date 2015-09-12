@@ -868,6 +868,14 @@ A movie about an AI robot "growing up" (as in, learning about the world and lear
 
 > In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.
 
+#### [Children of Men](http://www.imdb.com/title/tt0206634/) (2006) [7.9]
+
+Categories: `dystopia` `drama`
+
+Imagine a world where no baby has been born for 18 years because of the global human infertility. Think which kinds of concequences would that bring. Then, imagine a girl getting pregnant in that kind of world. This movie is absolutely fantastic! The action shots are magnicificent. I rewatched it tonight and the movie gave me the same kind of goosebumps it did when I first watched it a couple of years ago. I have no compaints about this movie. It's the perfect way to spend two hours. It gets 10/10 from me. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
+>  In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.
+
 #### [Coherence](http://www.imdb.com/title/tt2866360/) (2013) [7.1]
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
