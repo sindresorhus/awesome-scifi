@@ -1055,6 +1055,14 @@ Categories: `ai`
 
 > When a machine that allows therapists to enter their patients’ dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.
 
+#### [Possible Worlds](http://www.imdb.com/title/tt0222293/) (2000) [6.9]
+
+Categories: `philosophy` `drama`
+
+This is an extraordinary film that manages to give an expose of possible worlds without ending with a completely deranged plot. It is well done, and the mystery and romance of the characters involved adds to the constanct feeling of apprehension. Which reality is the viewer in? Also, Tilda Swinton is great in this. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A man lives in parallel worlds, falling in love with the same woman, while the police hunt down a serial killer who steals brains.
+
 #### [Predestination](http://www.imdb.com/title/tt2397535/) (2014) [7.5]
 
 Categories: `time travel`
