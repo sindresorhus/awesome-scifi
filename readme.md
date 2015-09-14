@@ -1159,6 +1159,13 @@ Categories: `time travel` `action`
 
 > In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
+#### [Vanilla Sky](http://www.imdb.com/title/tt0259711/) (2001) [6.9]
+
+Categoris: `drama` `romance`
+
+This is an early version of [Inception](#inception) in a lot of ways, and a remake of Possible Worlds in others. While the acting isn't spectactular (notably Tom Cruise's), what is interesting is the myriad level of interpretations of the film and possibly realities involved. The budget ensured that the actual plot was well done, as opposed to just a poor implementation of possible world ideas. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A self-indulgent and vain publishing magnate finds his privileged life upended after a vehicular accident with a resentful lover.
 
 ## Movie Series
 
