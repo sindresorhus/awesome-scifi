@@ -398,6 +398,8 @@ _Dystopian novels deal with imaginary communities or societies that are undesira
 
 #### [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) (1932) *by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)* [3.9] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
+This book is insidiously horrifying in its applicability, more so than _1984_ or _Fahrenheit 451_. [Here's a comic](https://abetterkuwait.files.wordpress.com/2011/08/orwell-huxley.jpg) that sums up the difference. Well worth the read. - [@RichardLitt](https://github.com/RichardLitt)
+
 > Far in the future, the World Controllers have created the ideal society. Through clever use of genetic engineering, brainwashing and recreational sex and drugs, all its members are happy consumers. Bernard Marx seems alone harbouring an ill-defined longing to break free. A visit to one of the few remaining Savage Reservations, where the old, imperfect life still continues, may be the cure for his distress…
 
 > Huxley’s ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.
