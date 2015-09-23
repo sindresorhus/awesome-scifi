@@ -404,6 +404,8 @@ _Dystopian novels deal with imaginary communities or societies that are undesira
 
 #### [Fahrenheit 451](https://www.goodreads.com/book/show/17470674-fahrenheit-451) (1953) *by [Ray Bradbury](https://en.wikipedia.org/wiki/Ray_Bradbury)* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
+A classic, beautiful book. A short read that does a good job of making the reader think about the ramifications of censorship, and is still entertaining and beautiful in its own way. - [@RichardLitt](https://github.com/RichardLitt)
+
 > The terrifyingly prophetic novel of a post-literate future.
 
 > Guy Montag is a fireman. His job is to burn books, which are forbidden, being the source of all discord and unhappiness. Even so, Montag is unhappy; there is discord in his marriage. Are books hidden in his house? The Mechanical Hound of the Fire Department, armed with a lethal hypodermic, escorted by helicopters, is ready to track down those dissidents who defy society to preserve and read books.
