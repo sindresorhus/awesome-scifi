@@ -438,7 +438,7 @@ A classic, beautiful book. A short read that does a good job of making the reade
 
 #### [The Dispossessed](https://www.goodreads.com/book/show/13651.The_Dispossessed) (1974) *by [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [4.2]
 
-Sci-Fi, sociology and philosophy.
+Sci-Fi, sociology and philosophy. - [@NaxYoMizmo](https://twitter.com/NaxYoMizmo)
 
 > Shevek, a brilliant physicist, decides to take action. He will seek answers, question the unquestionable, and attempt to tear down the walls of hatred that have isolated his planet of anarchists from the rest of the civilized universe. To do this dangerous task will mean giving up his family and possibly his life—Shevek must make the unprecedented journey to the utopian mother planet, Urras, to challenge the complex structures of life and living, and ignite the fires of change.
 
