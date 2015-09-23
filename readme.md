@@ -276,7 +276,7 @@ This is a fun read; Weir manages to write an evocative techno-thriller without h
 
 #### [The Sands of Mars](https://www.goodreads.com/book/show/149063.The_Sands_of_Mars) (1951) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.7]
 
-This book is most interesting for it's pretty cool take on terraforming a planet, and how that goes both for the inhabitants and what it means for nationalism (or planetism, as it were). - [@RichardLitt](https://github.com/RichardLitt)
+This book is most interesting for its pretty cool take on terraforming a planet, and how that goes both for the inhabitants and what it means for nationalism (or planetism, as it were). - [@RichardLitt](https://github.com/RichardLitt)
 
 > Space writers holiday. When a celebrated science fiction writer takes to space on his first trip to Mars, he’s sure to be in for some heckling from the spaceship crew. But Martin Gibson, man about space, takes it all in his stride. That is, until he lands on the red planet. Once there the intrepid author causes one problem after another as he stumbles upon Mars’ most carefully hidden secrets and threatens the future of an entire planet
 
