@@ -200,9 +200,9 @@ This is more of a read about what happens when you are outside the law than anyt
 
 > This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.
 
-### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* [4.0]  
+#### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* [4.0]  
 
-This book is not only filled to the brim with original ideas, it also offers some really great insights into china and its recent history. The follow up book: "The Dark Forest"(https://www.goodreads.com/book/show/23168817-the-dark-forest), is great as well.  - [@sylvarant](https://github.com/sylvarant)
+This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into china and its recent history. The follow up book: "[The Dark Forest(https://www.goodreads.com/book/show/23168817-the-dark-forest)]", is great as well.  - [@sylvarant](https://github.com/sylvarant)
 
 > Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
 
