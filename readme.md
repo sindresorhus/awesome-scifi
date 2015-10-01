@@ -47,7 +47,6 @@ We've heard these books are awesome, but no one has done a PR to add them yet. I
 * [The Clockwork Trilogy](https://www.goodreads.com/book/show/9756310-the-clockwork-rocket) by Greg Egan
 * [The Expanse Series](https://www.goodreads.com/book/show/8855321-leviathan-wakes) by James A. Corey
 * [The Metamorphosis of Prime Intellect](https://www.goodreads.com/book/show/64341.The_Metamorphosis_of_Prime_Intellect) by Roger Williams
-* [The Three Body Problem](http://www.goodreads.com/book/show/20518872-the-three-body-problem) by Liu Cixin
 
 If you think there should be a book or movie or TV series here but haven't read it yet, please add it here instead of opening an issue.
 
@@ -199,13 +198,21 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 
 This is more of a read about what happens when you are outside the law than anything else. Fascinating, and kind of reads like Sherlock Holmes at times. - [@RichardLitt](https://github.com/RichardLitt)
 
-> This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.)
+> This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.
+
+### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* [4.0]  
+
+This book is not only filled to the brim with original ideas, it also offers some really great insights into china and its recent history. The follow up book: "The Dark Forest"(https://www.goodreads.com/book/show/23168817-the-dark-forest), is great as well.  - [@sylvarant](https://github.com/sylvarant)
+
+> Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
 
 #### [The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) (1898) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.8] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 This is always fun; it's a classic, and it is fun remembering what science fiction was like before there were tropes. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Man had not yet learned to fly when H. G. Wells conceived this story of a Martian attack on England. Giant cylinders crash to Earth, disgorging huge, unearthly creatures armed with heat-rays and fighting machines. Amid the boundless destruction they cause, it looks as if the end of the world has come.
+
+
 
 
 ### Hard Science Fiction
