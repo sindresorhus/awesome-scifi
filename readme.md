@@ -40,7 +40,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 ## Suggested
 
-We've heard these books are awesome, but no one has done a PR to add them yet. If you think any of these are awesome, please read the [contribution guidelines](contribute.md), remove it from this list, and open a PR!
+We've heard these books are awesome, but no one has done a PR to add them yet. If you think any of these are awesome, please read the [Contributing Guidelines](contributing.md), remove it from this list, and open a PR!
 
 * [Accelerando](https://www.goodreads.com/book/show/17863.Accelerando) by Charles Stross
 * [An Oblique Approach](http://www.goodreads.com/book/show/406911.An_Oblique_Approach) by David Drake, Eric Flint
