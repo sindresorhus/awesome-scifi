@@ -108,6 +108,14 @@ This book will teach you to stretch your imagination and see things in a differe
 
 > But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind’s last best hope is faced with an agonizing choice: submit to the barbarians and be overrun—or fight them and be destroyed.
 
+#### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) *by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)* [3.7] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
+
+Archetypal tale of mad science with the theme of 'how far can Science go' that arguably spawned the modern genre of Science Fiction. - [@katamaritaco](https://github.com/katamaritaco)
+
+> Mary Shelley began writing Frankenstein when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, Frankenstein tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.
+
+> Frankenstein, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.
+
 #### [Glasshouse](https://www.goodreads.com/book/show/17866.Glasshouse) (2006) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.8]
 
 > When Robin wakes up in a clinic with most of his memories missing, it doesn’t take him long to discover that someone is trying to kill him. It’s the twenty-seventh century, when interstellar travel is by teleport gate and conflicts are fought by network worms that censor refugees’ personalities and target historians. The civil war is over and Robin has been demobilized, but someone wants him out of the picture because of something his earlier self knew.
