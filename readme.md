@@ -473,6 +473,16 @@ Also, the first book is available free on Kindle, so it won't cost you anything 
 
 > This is the story of mankind clawing for survival, of mankind on the edge. The world outside has grown unkind, the view of it limited, talk of it forbidden. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they profess to want: They are allowed outside.
 
+#### [Dad's Nuke](https://www.goodreads.com/book/show/730945.Dad_s_Nuke) (1985) *by [Marc Laidlaw](https://en.wikipedia.org/wiki/Marc_Laidlaw)* [3.6]
+
+The debut novel from the guy who would go on to write Half-Life and Portal. A dizzyingly funny dystopia straight from the heart of the 80s. Deftly manages the tightrope walk of absurdity without the world crumbling underneath it. Philip K. Dick would be proud. - [@jackflips](https://github.com/jackflips)
+
+> The US is divided into independent, heavily defended neighborhoods; Cobblestone Hill is a planned, self-sufficient community, dreamed up and secretly controlled by the mysterious Doc Edison; here Dad Johnson struggles to raise his oddball family and defend his house against potentially hostile neighbors.
+
+> One-upmanship is still alive, though, and when Jock Smith plants a rocket launcher in his backyard, Dad responds with a nuclear reactor in his garage. (Doc Edison thoughtfully gene-splices the new Johnson baby so that she eats nuclear waste.)
+
+> Dad's son P.J., discovering that he's been programmed to be gay (as part of Doc Edison's notions of a "balanced family"), flees the enclave, only to be captured, drugged, and brainwashed by Christian Soldiers. Dad's wife Connie runs off with a salesman from the ubiquitous Cartel; a bunch of Doc Edison clones show up, all quite mad; the Christian Soldiers attempt a computerized invasion; and the feud between Dad and Jock Smith comes to a head.
+
 ### Space Opera
 
 _Novels which emphasize adventure, set mainly or entirely in outer space, usually involving conflict between opponents possessing advanced abilities, weapons, and other technology._
