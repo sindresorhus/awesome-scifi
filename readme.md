@@ -1236,6 +1236,8 @@ This is awesome for its nostalgic value, if little else. The line about friction
 
 #### [Battlestar Galactica](http://www.imdb.com/title/tt0407362/) [8.8]
 
+This show. Watch this show. It's military science fiction done right. The interpersonal relationships are the best part, and the constant questioning of what it means to be human. At times it is a bit heavy handed. At other times it paints humanity as a desperate and stupid species, but at least it does so faithfully and self-referentially. The show is written tremendously well. Gaius Baltar, in particular, is a character worth watching out for. Be warned: once you start, you can't really stop. Portlandia even made a skit about needing [one more episode](https://www.youtube.com/watch?v=yYjLrJRuMnY). - [@RichardLitt](https://github.com/RichardLitt)
+
 > When an old enemy, the Cylons, resurfaces and obliterate the 12 colonies, the crew of the aged Galactica protects a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony of Earth.
 
 #### [Black Mirror](http://www.imdb.com/title/tt2085059/) [8.8]
