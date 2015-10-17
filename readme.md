@@ -1172,6 +1172,14 @@ This movie is ridiculous. Worth watching just for the amazing opera scene - the 
 
 > In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr Zorg at bay.
 
+#### [The Island](http://www.imdb.com/title/tt0399201/) (2005) [6.9]
+
+Categories: `action`
+
+I rather liked this film; Steve Buscemi's acting abilities brings a poorly-written character above and beyond what I would have thought possible, and Ewan McGregor and Scarlett Johanssen were perfectly cast. This was a solid film. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Lincoln Six-Echo is a resident of a seemingly Utopian but contained facility in the year 2019. Like all of the inhabitants of this carefully controlled environment, Lincoln hopes to be chosen to go to the "The Island" - reportedly the last uncontaminated spot on the planet. But Lincoln soon discovers that everything about his existence is a lie. He and all of the other inhabitants of the facility are actually human clones. Lincoln makes a daring escape with a beautiful fellow resident named Jordan Two-Delta. Relentlessly pursued by the forces of the sinister institute that once housed them, Lincoln and Jordan engage in a race for their lives to literally meet their makers.
+
 #### [The Man from Earth](http://www.imdb.com/title/tt0756683/) (2007) [8.0]
 
 > An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.
