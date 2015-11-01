@@ -483,6 +483,12 @@ The debut novel from the guy who would go on to write Half-Life and Portal. A di
 
 > Dad's son P.J., discovering that he's been programmed to be gay (as part of Doc Edison's notions of a "balanced family"), flees the enclave, only to be captured, drugged, and brainwashed by Christian Soldiers. Dad's wife Connie runs off with a salesman from the ubiquitous Cartel; a bunch of Doc Edison clones show up, all quite mad; the Christian Soldiers attempt a computerized invasion; and the feud between Dad and Jock Smith comes to a head.
 
+#### [The Man in the High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle) (1962) *by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)* [3.8]
+
+My favourite of all Philip K. Dick's novels, the I Ching and the alternate history within an alternate history novel being interesting elements. - [@roryrjb](https://github.com/roryrjb)
+
+> An alternate history novel set in 1962, fifteen years after an alternate ending to World War II which in the novel lasted until 1947, the novel concerns intrigues between the victorious Axis Powers—Imperial Japan and Nazi Germany—as they rule over the former United States, as well as daily life under the resulting totalitarian rule.
+
 ### Space Opera
 
 _Novels which emphasize adventure, set mainly or entirely in outer space, usually involving conflict between opponents possessing advanced abilities, weapons, and other technology._
