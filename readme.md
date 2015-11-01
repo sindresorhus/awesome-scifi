@@ -1190,6 +1190,12 @@ I rather liked this film; Steve Buscemi's acting abilities brings a poorly-writt
 
 > An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.
 
+#### [The Martian](http://www.imdb.com/title/tt3659388/) (2015) [8.2]
+
+This is a fairly accurate representation of the awesome book, but it focuses much more on Watney's personality than on the science (which is a given, as we can actually see Watney in this, as opposed to just read his logs in the book). The space shots were incredibly well done, and one scene with a ribbon like an umbilical chord floating in zero g - absolutely beautiful. This film had great actors, marvelously cast. And there's even a reference to Glorfindel at the council of Elrond; I don't think I've laughed that hard in a theatre in years. Loved it. - [@RichardLitt](https://github.com/RichardLitt)
+
+> During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.
+
 #### [The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7]
 
 Categories: `ai` `action` `apocalypse` `singularity`
