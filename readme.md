@@ -1330,7 +1330,7 @@ The show feels completely different than Stargate SG-1 and Atlantis, it is certa
 
 #### [Star Trek: The Original Series](http://www.imdb.com/title/tt0060028/) [8.4]
 
-A science-fiction masterpiece, Star Trek has been a really important vision not only of what future technology could look like, but also a reflection of what the hopes were, especially in his time (The 60's), for what human society could look like. - [@augustopedro](https://github.com/augustopedro)
+A science-fiction masterpiece, Star Trek has been a really important vision not only of what future technology could look like, but also a reflection of what the hopes were, especially in the 60's, for what human society could look like. - [@augustopedro](https://github.com/augustopedro)
 
 > Captain James T. Kirk and the crew of the Starship Enterprise explore the Galaxy and defend the United Federation of Planets.
 
