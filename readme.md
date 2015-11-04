@@ -1328,6 +1328,10 @@ The show feels completely different than Stargate SG-1 and Atlantis, it is certa
 
 > Trapped on an Ancient spaceship billions of light years from home, a group of soldiers and civilians struggle to survive and find their way back to Earth.
 
+#### [Star Trek: The Original Series](http://www.imdb.com/title/tt0060028/) [8.4]
+
+> Captain James T. Kirk and the crew of the Starship Enterprise explore the Galaxy and defend the United Federation of Planets.
+
 #### [The Prisoner](http://www.imdb.com/title/tt0061287/) [8.8]
 
 > After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
