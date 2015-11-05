@@ -1338,6 +1338,12 @@ Plus, I'm not sure the franchise has ever quite topped the amazing chemistry bet
 
 > Captain James T. Kirk and the crew of the Starship Enterprise explore the Galaxy and defend the United Federation of Planets.
 
+#### [Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/) [8.7]
+
+Similar in ethic and setting to the Star Trek: The Original Series, but with new enemies and technologies; continues to deal with issues of morality, culture, and politics. The stories and the acting are excellent, and it has pretty amazing special effects for that time. There's also 4 movies which take place after the series. - [@augustopedro](https://github.com/augustopedro)
+
+> Set decades after Captain James T. Kirk's 5-year mission, a new generation of Starfleet officers in a new Enterprise set off on their own mission to go where no one has gone before.
+
 #### [The Prisoner](http://www.imdb.com/title/tt0061287/) [8.8]
 
 > After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
