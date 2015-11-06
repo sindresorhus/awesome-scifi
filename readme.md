@@ -208,7 +208,7 @@ This is more of a read about what happens when you are outside the law than anyt
 
 > This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.
 
-#### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* [4.0]  
+#### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* [4.0]
 
 This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. The follow-up book: "[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)", is great as well.  - [@sylvarant](https://github.com/sylvarant)
 
@@ -603,6 +603,10 @@ A short and rather old post-apocalyptic story which remained stuck in my mind li
 
 _Novels featuring the use use of technology, mainly weapons, for military purposes and principal characters that are members of a military organization involved in military activity; sometimes occurring in outer space or other planets._
 
+#### [Armor](https://www.goodreads.com/book/show/102327.Armor) (1984) *by [John Steakley](https://en.wikipedia.org/wiki/John_Steakley)* [4.12]
+
+> Felix is an Earth soldier, encased in special body armor designed to withstand Earth's most implacable enemy-a bioengineered, insectoid alien horde. But Felix is also equipped with internal mechanisms that enable him, and his fellow soldiers, to survive battle situations that would destroy a man's mind. This is a remarkable novel of the horror, the courage, and the aftermath of combat--and how the strength of the human spirit can be the greatest armor of all.
+
 #### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.3] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > In order to develop a secure defense against a hostile alien race’s next attack, government agencies breed child geniuses and train them as soldiers. A brilliant young boy—Andrew “Ender” Wiggin—lives with his kind but distant parents, his sadistic brother Peter, and the person he loves more than anyone else, his sister Valentine. Peter and Valentine were candidates for the soldier-training program but didn’t make the cut—young Ender is the Wiggin drafted to the orbiting Battle School for rigorous military training.
@@ -857,7 +861,7 @@ I think of these stories often; The Death of Dr. Island won a Nebula and offers 
 
 #### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]
 
-Categories: `space` `ai` `singularity`  
+Categories: `space` `ai` `singularity`
 Director: _Stanley Kubrick_
 
 Cinematically, this movie is a masterpiece. This is one of the few films on this list that is important as a film in itself, not just to the genre. From the beginning to the end, it is captivating - if you don't mind a bit of a slower pace than most of the other films on here. - [@RichardLitt](https://github.com/RichardLitt)
@@ -886,7 +890,7 @@ One of the first mainstream anime movies. Psychologically horrifying in more tha
 
 #### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
-Categories: `dystopia` `ai` `cyberpunk` `singularity`  
+Categories: `dystopia` `ai` `cyberpunk` `singularity`
 Director: _Ridley Scott_
 
 Very few films can stand up to as many rewatches as this film can - there are layers upon layers, and the bleak image of the future hasn't lost its power in the thirty years the film has been around. This was a reworking of the Phillip K. Dick book (above), but without a lot of unnecessary or largely spurious subplots, and it focuses much more on identity, sexuality, and the psychological ramifications of technology. A masterpiece. - [@RichardLitt](https://github.com/RichardLitt)
@@ -925,8 +929,8 @@ Absolutely beautiful film. The cinematography is fantastic; Michael Caine has a 
 
 #### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
 
-Categories: `aliens` `thriller`  
-Director: _Neill Blomkamp_  
+Categories: `aliens` `thriller`
+Director: _Neill Blomkamp_
 Writer: _Neill Blomkamp, Terri Tatchell_
 
 :+1: I liked it. Very original. - [@sindresorhus](https://github.com/sindresorhus)
@@ -941,7 +945,7 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 #### [Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]
 
-Categories: `space` `aliens`  
+Categories: `space` `aliens`
 Director: _David Lynch_
 
 This is based on the Dune book by Herbert, listed above. This version is legendary - it has Patrick Stewart and Sting as actors, and David Lynch's direction is weird and weighty. The soundtrack, by Toto, is good enough to stand on its own. I can't imagine reading the books without thinking of this viewing. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1130,7 +1134,7 @@ Categories: `apocalypse` `action`
 
 #### [Solaris](http://www.imdb.com/title/tt0069293/) (1972) [8.1]
 
-Categories: `space` `drama`  
+Categories: `space` `drama`
 Director: _Andrei Tarkovsky_
 
 This is the original film based on the book. It is much slower than the remake, but a classic. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1139,7 +1143,7 @@ This is the original film based on the book. It is much slower than the remake, 
 
 #### [Solaris](http://www.imdb.com/title/tt0307479/) (2002) [6.2]
 
-Categories: `space` `drama`  
+Categories: `space` `drama`
 Director: _Steven Soderbergh_
 
 Starring George Clooney and Natasha McElhone, this is much more of a modern psychodrama with fantastic shots and a more colored atmosphere than the original film. The original score by Cliff Martinez really adds to the film, and is great on its own. One of my favorite films. - [@RichardLitt](https://github.com/RichardLitt)
