@@ -1328,6 +1328,18 @@ The show feels completely different than Stargate SG-1 and Atlantis, it is certa
 
 > Trapped on an Ancient spaceship billions of light years from home, a group of soldiers and civilians struggle to survive and find their way back to Earth.
 
+#### [Star Trek: Deep Space Nine](http://www.imdb.com/title/tt0106145/) [7.9]
+
+In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a space station instead of a starship. This made continuing story arcs and appearance of recurring characters much more feasible. The show is noted for well-developed characters, originality, complex plots, religious themes and for starring the only black captain of all the Star Trek series to be featured as the show's protagonist. The series often showcased darker themes, less physical exploration of space, and (in later seasons) an emphasis on many aspects of war. - [@augustopedro](https://github.com/augustopedro)
+
+> Orbiting the liberated planet of Bajor, a Federation space station guards the opening of a stable wormhole to the far side of the galaxy.
+
+#### [Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/) [8.7]
+
+Similar in ethic and setting to the Star Trek: The Original Series, but with new enemies and technologies; continues to deal with issues of morality, culture, and politics. The stories and the acting are excellent, and it has pretty amazing special effects for that time. There's also 4 movies which take place after the series. - [@augustopedro](https://github.com/augustopedro)
+
+> Set decades after Captain James T. Kirk's 5-year mission, a new generation of Starfleet officers in a new Enterprise set off on their own mission to go where no one has gone before.
+
 #### [Star Trek: The Original Series](http://www.imdb.com/title/tt0060028/) [8.4]
 
 A science-fiction masterpiece, Star Trek has been a really important vision not only of what future technology could look like, but also a reflection of what the hopes were, especially in the 60's, for what human society could look like.
@@ -1337,18 +1349,6 @@ The Original Series, in many ways, is Star Trek at its purest. It's true that it
 Plus, I'm not sure the franchise has ever quite topped the amazing chemistry between Shatner, Nimoy, and Kelly. It's worth watching for them alone. - [@augustopedro](https://github.com/augustopedro)
 
 > Captain James T. Kirk and the crew of the Starship Enterprise explore the Galaxy and defend the United Federation of Planets.
-
-#### [Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/) [8.7]
-
-Similar in ethic and setting to the Star Trek: The Original Series, but with new enemies and technologies; continues to deal with issues of morality, culture, and politics. The stories and the acting are excellent, and it has pretty amazing special effects for that time. There's also 4 movies which take place after the series. - [@augustopedro](https://github.com/augustopedro)
-
-> Set decades after Captain James T. Kirk's 5-year mission, a new generation of Starfleet officers in a new Enterprise set off on their own mission to go where no one has gone before.
-
-#### [Star Trek: Deep Space Nine](http://www.imdb.com/title/tt0106145/) [7.9]
-
-In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a space station instead of a starship. This made continuing story arcs and appearance of recurring characters much more feasible. The show is noted for well-developed characters, originality, complex plots, religious themes and for starring the only black captain of all the Star Trek series to be featured as the show's protagonist. The series often showcased darker themes, less physical exploration of space, and (in later seasons) an emphasis on many aspects of war. - [@augustopedro](https://github.com/augustopedro)
-
-> Orbiting the liberated planet of Bajor, a Federation space station guards the opening of a stable wormhole to the far side of the galaxy.
 
 #### [The Prisoner](http://www.imdb.com/title/tt0061287/) [8.8]
 
