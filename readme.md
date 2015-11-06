@@ -1344,6 +1344,12 @@ Similar in ethic and setting to the Star Trek: The Original Series, but with new
 
 > Set decades after Captain James T. Kirk's 5-year mission, a new generation of Starfleet officers in a new Enterprise set off on their own mission to go where no one has gone before.
 
+#### [Star Trek: Deep Space Nine](http://www.imdb.com/title/tt0106145/) [7.9]
+
+In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a space station instead of a starship. This made continuing story arcs and appearance of recurring characters much more feasible. The show is noted for well-developed characters, originality, complex plots, religious themes and for starring the only black captain of all the Star Trek series to be featured as the show's protagonist. The series often showcased darker themes, less physical exploration of space, and (in later seasons) an emphasis on many aspects of war. - [@augustopedro](https://github.com/augustopedro)
+
+> Orbiting the liberated planet of Bajor, a Federation space station guards the opening of a stable wormhole to the far side of the galaxy.
+
 #### [The Prisoner](http://www.imdb.com/title/tt0061287/) [8.8]
 
 > After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
