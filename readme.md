@@ -1300,6 +1300,16 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 #### [Firefly](http://www.imdb.com/title/tt0303461/) [9.2]
 
+Category: `space` `western`  
+
+![Rise again](https://cloud.githubusercontent.com/assets/170270/11022860/c94c77c2-869c-11e5-9830-ec232159f00e.gif)
+
+Asking someone if they wish Firefly would be rebooted tells me everything I need to know about a person.
+
+It's in my opinion the best scifi TV-show ever made. - [@sindresorhus](https://github.com/sindresorhus)
+
+What he said. - [@RichardLitt](https://github.com/RichardLitt)
+
 > Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.
 
 #### [Fringe](http://www.imdb.com/title/tt1119644/) [8.5]
