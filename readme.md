@@ -46,7 +46,6 @@ We've heard these books are awesome, but no one has done a PR to add them yet. I
 * [An Oblique Approach](http://www.goodreads.com/book/show/406911.An_Oblique_Approach) by David Drake, Eric Flint
 * [The Clockwork Trilogy](https://www.goodreads.com/book/show/9756310-the-clockwork-rocket) by Greg Egan
 * [The Expanse Series](https://www.goodreads.com/book/show/8855321-leviathan-wakes) by James A. Corey
-* [The Metamorphosis of Prime Intellect](https://www.goodreads.com/book/show/64341.The_Metamorphosis_of_Prime_Intellect) by Roger Williams
 
 If you think there should be a book or movie or TV series here but haven't read it yet, please add it here instead of opening an issue.
 
@@ -458,6 +457,12 @@ A classic, beautiful book. A short read that does a good job of making the reade
 Sci-Fi, sociology and philosophy. - [@NaxYoMizmo](https://twitter.com/NaxYoMizmo)
 
 > Shevek, a brilliant physicist, decides to take action. He will seek answers, question the unquestionable, and attempt to tear down the walls of hatred that have isolated his planet of anarchists from the rest of the civilized universe. To do this dangerous task will mean giving up his family and possibly his life—Shevek must make the unprecedented journey to the utopian mother planet, Urras, to challenge the complex structures of life and living, and ignite the fires of change.
+
+#### [The Metamorphosis of Prime Intellect](https://www.goodreads.com/book/show/64341.The_Metamorphosis_of_Prime_Intellect) (2002) *by [Roger Williams](https://www.goodreads.com/author/show/2765575.Roger_Williams)* [4.2]
+
+An interesting take on the possibly negative consequences of the singularity. A little more vulgar than the average Sci-Fi novel. - [@sylvarant](https://github.com/sylvarant)
+
+> In a time not far from our own, Lawrence sets out simply to build an artifical intelligence that can pass as human, and finds himself instead with one that can pass as a god. Taking the Three Laws of Robotics literally, Prime Intellect makes every human immortal and provides instantly for every stated human desire. Caroline finds no meaning in this life of purposeless ease, and forgets her emptiness only in moments of violent and profane exhibitionism. At turns shocking and humorous, Prime Intellect looks unflinchingly at extremes of human behavior that might emerge when all limits are removed.
 
 #### [Wool Omnibus](https://www.goodreads.com/book/show/13453029-wool-omnibus) (2011) *by [Hugh Howey](https://en.wikipedia.org/wiki/Hugh_Howey)* [4.3]
 
