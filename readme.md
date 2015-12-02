@@ -234,11 +234,23 @@ _Novels which place an emphasis on scientific accuracy and/or technical detail; 
 
 > Fleeing the threat, a family of scientists, including two children, are taken captive by the Tines, an alien race with a harsh medieval culture, and used as pawns in a ruthless power struggle. A rescue mission, not entirely composed of humans, must rescue the children—and a secret that may save the rest of interstellar civilization.
 
-#### [Blindsight](https://www.goodreads.com/book/show/48484.Blindsight) (2006) *by [Peter Watts](https://en.wikipedia.org/wiki/Peter_Watts_%28author%29)* [4.0]
+#### [Blindsight (Firefall #1)](https://www.goodreads.com/book/show/48484.Blindsight) (2006) *by [Peter Watts](https://en.wikipedia.org/wiki/Peter_Watts_%28author%29)* [4.0]
 
-A cast of strange and wonderful characters. Overarching themes on consciousness, transhumanism, humanity and first contact. This book has everything.
+A cast of strange and wonderful characters. Overarching themes on consciousness, transhumanism, humanity and first contact. This book has everything. - [@davidmerrique](https://github.com/davidmerrique)
 
 > It’s been two months since a myriad of alien objects clenched about the Earth, screaming as they burned. The heavens have been silent since—until a derelict space probe hears whispers from a distant comet. Something talks out there: but not to us. Who to send to meet the alien, when the alien doesn’t want to meet? Send a linguist with multiple-personality disorder, and a biologist so spliced to machinery he can’t feel his own flesh. Send a pacifist warrior, and a vampire recalled from the grave by the voodoo of paleogenetics. Send a man with half his mind gone since childhood. Send them to the edge of the solar system, praying you can trust such freaks and monsters with the fate of a world. You fear they may be more alien than the thing they’ve been sent to find—but you’d give anything for that to be true, if you knew what was waiting for them.
+
+#### [Echopraxia (Firefall #2)](https://www.goodreads.com/book/show/18490708-echopraxia) (2014) *by [Peter Watts](https://en.wikipedia.org/wiki/Peter_Watts_%28author%29)* [3.8]
+
+> Prepare for a different kind of singularity in this follow-up to the Hugo-nominated novel Blindsight
+
+> It's the eve of the twenty-second century: a world where the dearly departed send postcards back from Heaven and evangelicals make scientific breakthroughs by speaking in tongues; where genetically engineered vampires solve problems intractable to baseline humans and soldiers come with zombie switches that shut off self-awareness during combat. And it’s all under surveillance by an alien presence that refuses to show itself.
+
+> Daniel Bruks is a living fossil: a field biologist in a world where biology has turned computational, a cat's-paw used by terrorists to kill thousands. Taking refuge in the Oregon desert, he’s turned his back on a humanity that shatters into strange new subspecies with every heartbeat. But he awakens one night to find himself at the center of a storm that will turn all of history inside-out.
+
+> Now he’s trapped on a ship bound for the center of the solar system. To his left is a grief-stricken soldier, obsessed by whispered messages from a dead son. To his right is a pilot who hasn’t yet found the man she's sworn to kill on sight. A vampire and its entourage of zombie bodyguards lurk in the shadows behind. And dead ahead, a handful of rapture-stricken monks takes them all to a meeting with something they will only call “The Angels of the Asteroids.”
+
+> Their pilgrimage brings Dan Bruks, the fossil man, face-to-face with the biggest evolutionary breakpoint since the origin of thought itself.
 
 #### [Diaspora](https://www.goodreads.com/book/show/156785.Diaspora) (1997) *by [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan)* [4.1]
 
@@ -293,6 +305,20 @@ This is a fun read; Weir manages to write an evocative techno-thriller without h
 This book is most interesting for its pretty cool take on terraforming a planet, and how that goes both for the inhabitants and what it means for nationalism (or planetism, as it were). - [@RichardLitt](https://github.com/RichardLitt)
 
 > Space writers holiday. When a celebrated science fiction writer takes to space on his first trip to Mars, he’s sure to be in for some heckling from the spaceship crew. But Martin Gibson, man about space, takes it all in his stride. That is, until he lands on the red planet. Once there the intrepid author causes one problem after another as he stumbles upon Mars’ most carefully hidden secrets and threatens the future of an entire planet
+
+#### [Aurora](https://www.goodreads.com/book/show/23197269-aurora) (2015) *by [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)* [3.7]
+
+This was, I thought, an emotional read. I really connected with the characters and their struggle. It was interesting seeing the ways they overcame each obstacle despite overwhelming odds. It also shows what could happen when desperate people are left to fend for themselves without a governing force. - [@davidmerrique](https://github.com/davidmerrique)
+
+> A major new novel from one of science fiction's most powerful voices, AURORA tells the incredible story of our first voyage beyond the solar system.
+
+> Brilliantly imagined and beautifully told, it is the work of a writer at the height of his powers.
+
+> Our voyage from Earth began generations ago.
+
+> Now, we approach our new home.
+
+> AURORA.
 
 
 ### Soft Science Fiction
