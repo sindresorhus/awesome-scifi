@@ -61,7 +61,7 @@ If you think there should be a book or movie or TV series here but haven't read 
 ### Science Fiction
 
 #### [Babel-17](https://www.goodreads.com/book/show/1199688.Babel_17) (1966) *by [Samuel R. Delany](https://en.wikipedia.org/wiki/Samuel_R._Delany)* [3.8]
-This intense linguistic thriller will change the way you think about lanuage. - [@helderroem](https://github.com/helderroem)
+This intense linguistic thriller will change the way you think about language. - [@helderroem](https://github.com/helderroem)
 
 > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 
@@ -113,7 +113,7 @@ Archetypal tale of mad science with the theme of 'how far can Science go' that a
 
 > Mary Shelley began writing Frankenstein when she was only eighteen. At once a Gothic thriller, a passionate romance, and a cautionary tale about the dangers of science, Frankenstein tells the story of committed science student Victor Frankenstein. Obsessed with discovering the cause of generation and life and bestowing animation upon lifeless matter, Frankenstein assembles a human being from stolen body parts but; upon bringing it to life, he recoils in horror at the creature's hideousness. Tormented by isolation and loneliness, the once-innocent creature turns to evil and unleashes a campaign of murderous revenge against his creator, Frankenstein.
 
-> Frankenstein, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bio-terrorism, these questions are more relevant than ever.
+> Frankenstein, an instant bestseller and an important ancestor of both the horror and science fiction genres, not only tells a terrifying story, but also raises profound, disturbing questions about the very nature of life and the place of humankind within the cosmos: What does it mean to be human? What responsibilities do we have to each other? How far can we go in tampering with Nature? In our age, filled with news of organ donation genetic engineering, and bioterrorism, these questions are more relevant than ever.
 
 #### [Glasshouse](https://www.goodreads.com/book/show/17866.Glasshouse) (2006) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.8]
 
@@ -141,7 +141,7 @@ This was like if Hermann Hesse decided he was tired of writing Steppenwolf and S
 
 Twitter user: One of the best books I have ever read.
 
-> Red Schuhart is a stalker, one of those strange misfits compelled to venture illegally into the Zone and collect the strange artefacts that the alien visitors left scattered there. His whole life, even the nature of his daughter, is determined by the Zone.
+> Red Schuhart is a stalker, one of those strange misfits compelled to venture illegally into the Zone and collect the strange artifacts that the alien visitors left scattered there. His whole life, even the nature of his daughter, is determined by the Zone.
 
 #### [Solaris](https://www.goodreads.com/book/show/95558.Solaris) (1961) *by [Stanisław Lem](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)* [3.9] <img src="https://i.imgur.com/yJaoHfh.png" width="30px">
 
@@ -167,7 +167,7 @@ This book has a wonderful look at non-technological space travel and what paradi
 
 One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt)
 
->  The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organisation called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organisation, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
+>  The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organization called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organization, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
 #### [Spin](https://www.goodreads.com/book/show/910863.Spin) (2005) *by [Robert Charles Wilson](https://en.wikipedia.org/wiki/Robert_Charles_Wilson)* [4.0]
 
@@ -189,7 +189,7 @@ If you're going to read one Science Fiction book to get a broader perspective on
 
 #### [The Fifth Head of Cerberus](https://www.goodreads.com/book/show/845501.The_Fifth_Head_of_Cerberus) (1972) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.0]
 
-This is an incredible book. Absolutely incredible. The first section, about a son of a scientist, is a great exposé of Wolfe's ability to make the future sound like the Victorian past, and to add decay to what, to our eyes, seems incredibly futuristic. The story about the traveler and the aborigines on Saint Croix is something I think about a lot - "old men think long thoughts", in particular, is a thought that I love, especially given its context. Gene Wolfe also uses the epistolary novel technique incredibly well in the third story. But the best part is how you come to realize that each of these stories is intertwined with the others, subtly. Amazing storytelling. - [@RichardLitt](https://github.com/RichardLitt)
+This is an incredible book. Absolutely incredible. The first section, about a son of a scientist, is a great example of Wolfe's ability to make the future sound like the Victorian past, and to add decay to what, to our eyes, seems incredibly futuristic. The story about the traveler and the aborigines on Saint Croix is something I think about a lot - "old men think long thoughts", in particular, is a thought that I love, especially given its context. Gene Wolfe also uses the epistolary novel technique incredibly well in the third story. But the best part is how you come to realize that each of these stories is intertwined with the others, subtly. Amazing storytelling. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Gene Wolfe’s _The Fifth Head of Cerberus_ is a universally acknowledged masterpiece of science fiction by one of the field’s most brilliant writers. Far out from Earth, two sister planets, Saint Anne and Saint Croix, circle each other in an eternal dance. It is said a race of shapeshifters once lived here, only to perish when men came. But one man believes they can still be found, somewhere in the back of the beyond.
 
