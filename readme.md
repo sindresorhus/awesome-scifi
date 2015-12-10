@@ -1085,6 +1085,8 @@ Categories: `space`
 
 An interesting (and long) movie about a humanity trying to safe itself by leaving Earth after a huge climate change that made it difficult to grow food. Truly remarkable story and amazing graphic. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
+The visuals are pretty good. There are plotholes here and there, but overall I really liked this movie. - [@RichardLitt](https://github.com/RichardLitt)
+
 > A team of explorers travel through a wormhole in an attempt to ensure humanity’s survival.
 
 #### [La Jetée](http://www.imdb.com/title/tt0056119/) (1962) [8.4]
