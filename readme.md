@@ -1261,7 +1261,7 @@ Categories: `time travel` `action`
 
 #### [Vanilla Sky](http://www.imdb.com/title/tt0259711/) (2001) [6.9]
 
-Categoris: `drama` `romance`
+Categories: `drama` `romance`
 
 This is an early version of [Inception](#inception) in a lot of ways, and a remake of Possible Worlds in others. While the acting isn't spectactular (notably Tom Cruise's), what is interesting is the myriad level of interpretations of the film and possibly realities involved. The budget ensured that the actual plot was well done, as opposed to just a poor implementation of possible world ideas. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1283,6 +1283,8 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 #### [Babylon 5](http://www.imdb.com/title/tt0105946/) [8.2]
 
+Categories: `action` `adventure` `drama`
+
 Babylon 5's special effects left a lot to be desired, but the plot was amazing. - [@elektrovert](https://github.com/elektrovert)
 
 The CGI hasn't aged well—but the show's strength lies in character development and (on a meta level) the pre-planned structure which is fairly unique for TV series. On the other hand, it's a polarizing show... So my vote is a conditional yes :) - [@mihailim](https://github.com/mihailim)
@@ -1293,19 +1295,27 @@ This is awesome for its nostalgic value, if little else. The line about friction
 
 #### [Battlestar Galactica](http://www.imdb.com/title/tt0407362/) [8.8]
 
+Categories: `action` `adventure` `drama`
+
 This show. Watch this show. It's military science fiction done right. The interpersonal relationships are the best part, and the constant questioning of what it means to be human. At times it is a bit heavy handed. At other times it paints humanity as a desperate and stupid species, but at least it does so faithfully and self-referentially. The show is written tremendously well. Gaius Baltar, in particular, is a character worth watching out for. Be warned: once you start, you can't really stop. Portlandia even made a skit about needing [one more episode](https://www.youtube.com/watch?v=yYjLrJRuMnY). - [@RichardLitt](https://github.com/RichardLitt)
 
 > When an old enemy, the Cylons, resurfaces and obliterate the 12 colonies, the crew of the aged Galactica protects a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony of Earth.
 
 #### [Black Mirror](http://www.imdb.com/title/tt2085059/) [8.8]
 
+Categories: `drama` `thriller`
+
 >  A television anthology series that shows the dark side of life and technology.
 
 #### [Blakes 7](http://www.imdb.com/title/tt0076987/) [8.0]
 
+Categories: `adventure` `drama`
+
 > A group of convicts and outcasts fight a guerrilla war against the totalitarian Terran Federation from a highly advanced alien spaceship.
 
 #### [Children of Dune](http://www.imdb.com/title/tt0287839/) [7.7]
+
+Categories: `adventure` `drama` `fantasy`
 
 James McAvoy's acting as Leto II is absolutely incredible in this short series, as is Susan Sarandon's as Princess Corrinno. This miniseries is short and sweet, and manages to make the most out of what really is one of the lesser of the Dune book series. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1313,13 +1323,19 @@ James McAvoy's acting as Leto II is absolutely incredible in this short series, 
 
 #### [Continuum](http://www.imdb.com/title/tt1954347/) [7.8]
 
+Categories: `action` `thriller`
+
 > A detective from the year 2077 finds herself trapped in present day Vancouver and searching for ruthless criminals from the future.
 
 #### [Doctor Who](http://www.imdb.com/title/tt0436992/) [8.9]
 
+Categories: `adventure` `drama` `family`
+
 > The further adventures of the time traveling alien adventurer and his companions.
 
 #### [Dune](http://www.imdb.com/title/tt0142032/) [7.1]
+
+Categories: `adventure` `drama` `fantasy`
 
 Out of all--big or small screen--Dune adaptations, I felt this one has come closest to Herbert's vision. They didn't go too crazy on the CGI either, in that it didn't distract from the story. The acting was a bit meh, but that's usually a question of budget (wasn't HBO... :wink:). Given the dearth of good SF on TV, I would consider it awesome by comparison. - [@mihailim](https://github.com/mihailim)
 
@@ -1327,11 +1343,13 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 #### [Farscape](http://www.imdb.com/title/tt0187636/) [8.4]
 
+Categories: `adventure` `drama`
+
 > Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.
 
 #### [Firefly](http://www.imdb.com/title/tt0303461/) [9.2]
 
-Category: `space` `western`  
+Categories: `adventure` `drama` `western`
 
 ![Rise again](https://cloud.githubusercontent.com/assets/170270/11022860/c94c77c2-869c-11e5-9830-ec232159f00e.gif)
 
@@ -1345,17 +1363,25 @@ What he said. - [@RichardLitt](https://github.com/RichardLitt)
 
 #### [Fringe](http://www.imdb.com/title/tt1119644/) [8.5]
 
+Categories: `drama` `mystery`
+
 > A television drama centered around a female FBI agent who is forced to work with an institutionalized scientist in order to rationalize a brewing storm of unexplained phenomena.
 
 #### [Hitchhiker’s Guide to the Galaxy](http://www.imdb.com/title/tt0081874/) [8.0]
+
+Categories: `comedy` `adventure`
 
 > An Earth man and his alien friend escape Earth’s destruction and go on a truly strange adventure as space hitchhikers.
 
 #### [Neon Genesis Evangelion](http://www.imdb.com/title/tt0112159/) [8.6]
 
+Categories: `animation` `action` `drama`
+
 > 15 years after the enormous catastrophe that killed half of the world population, another crisis has come—the unidentified invaders called “Angels” begin to attack human-kind. Mankind’s only hope lies with giant organic mecha and their teenage pilots.
 
 #### [Red Dwarf](http://www.imdb.com/title/tt0094535/) [8.5]
+
+Categories: `comedy`
 
 This stretched my ideas of how stupid and silly space travel could be. It's smegging awesome. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1363,13 +1389,19 @@ This stretched my ideas of how stupid and silly space travel could be. It's smeg
 
 #### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) [8.1]
 
+Categories: `action` `drama`
+
 > An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.
 
 #### [Stargate SG1](http://www.imdb.com/title/tt0118480/) [8.5]
 
+Categories: `action` `adventure` `drama`
+
 > A secret military team, SG-1, is formed to explore the recently discovered Stargates.
 
 #### [Stargate Universe](http://www.imdb.com/title/tt1286039/) [7.7]
+
+Categories: `drama`
 
 The show feels completely different than Stargate SG-1 and Atlantis, it is certainly the most cinematic looking of the three series. It is darker, the plot seems slower, but also more realistic and intense, which provides a higher dose of suspense to the show. - [@HQarroum](https://github.com/HQarroum)
 
@@ -1377,17 +1409,23 @@ The show feels completely different than Stargate SG-1 and Atlantis, it is certa
 
 #### [Star Trek: Deep Space Nine](http://www.imdb.com/title/tt0106145/) [7.9]
 
+Categories: `action` `adventure` `drama`
+
 In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a space station instead of a starship. This made continuing story arcs and appearance of recurring characters much more feasible. The show is noted for well-developed characters, originality, complex plots, religious themes and for starring the only black captain of all the Star Trek series to be featured as the show's protagonist. The series often showcased darker themes, less physical exploration of space, and (in later seasons) an emphasis on many aspects of war. - [@augustopedro](https://github.com/augustopedro)
 
 > Orbiting the liberated planet of Bajor, a Federation space station guards the opening of a stable wormhole to the far side of the galaxy.
 
 #### [Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/) [8.7]
 
+Categories: `action` `adventure` `mystery`
+
 Similar in ethic and setting to the Star Trek: The Original Series, but with new enemies and technologies; continues to deal with issues of morality, culture, and politics. The stories and the acting are excellent, and it has pretty amazing special effects for that time. There's also 4 movies which take place after the series. - [@augustopedro](https://github.com/augustopedro)
 
 > Set decades after Captain James T. Kirk's 5-year mission, a new generation of Starfleet officers in a new Enterprise set off on their own mission to go where no one has gone before.
 
 #### [Star Trek: The Original Series](http://www.imdb.com/title/tt0060028/) [8.4]
+
+Categories: `action` `adventure` `mystery`
 
 A science-fiction masterpiece, Star Trek has been a really important vision not only of what future technology could look like, but also a reflection of what the hopes were, especially in the 60's, for what human society could look like.
 
@@ -1399,13 +1437,19 @@ Plus, I'm not sure the franchise has ever quite topped the amazing chemistry bet
 
 #### [The Prisoner](http://www.imdb.com/title/tt0061287/) [8.8]
 
+Categories: `drama` `mystery`
+
 > After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
 
 #### [The X-Files](http://www.imdb.com/title/tt0106179/) [8.8]
 
+Categories: `drama` `mystery`
+
 > Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.
 
 #### [Twilight Zone](http://www.imdb.com/title/tt0052520/) [9.0]
+
+Categories: `drama` `fantasy` `horror`
 
 > Rod Serling’s seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations. The stories would typically end with an ironic twist that would see the guilty punished.
 
