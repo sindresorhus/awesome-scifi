@@ -29,7 +29,7 @@ Commentary - [@you](https://github.com/you)
 ```
 
 - Check your spelling and grammar.
-- Please add the entry in the correct section, in alphabetical order.
+- Please add the entry in the correct section, in alphabetical order. If you don't know what section your entry should go in, just throw it in the general Science Fiction section. Categories for TV shows and movies can be grabbed from the IMDB page.
 - The author link should point to the author's [Wikipedia](https://en.wikipedia.org) page. If no such page exists, it should point to the author's [Goodreads](https://goodreads.com) page. If that doesn't exist either, please leave the author name in plain text instead of a link.
 - Please add your name to your commentary, so we know who made it.
 - Start the description with a capital and end with a full stop/period.
