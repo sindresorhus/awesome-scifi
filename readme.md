@@ -81,6 +81,14 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 > When distant political machinations deliver a new ambassador to Arieka, the fragile equilibrium between humans and aliens is violently upset. Catastrophe looms, and Avice is torn between competing loyalties—to a husband she no longer loves, to a system she no longer trusts, and to her place in a language she cannot speak yet speaks through her.
 
+#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2015) *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)* [4.17 (avg)]
+
+A series comprised (as of late 2015) of five full-length novels with a sixth one in the works and a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. [@jpkempf](https://github.com/jpkempf)
+
+> Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach.
+
+> Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, "The Scopuli," they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for - and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why.
+
 #### [Flatland](http://www.goodreads.com/book/show/433567.Flatland) (1884) *by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)* [3.8] <img src="https://i.imgur.com/yJaoHfh.png" width="30px">
 
 This book will teach you to stretch your imagination and see things in a different way. - [@elssar](https://github.com/elssar)
