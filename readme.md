@@ -83,7 +83,7 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 #### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2015) *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)* [4.17 (avg)]
 
-A series comprised (as of late 2015) of five full-length novels with a sixth one in the works and a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. [@jpkempf](https://github.com/jpkempf)
+A series comprised (as of late 2015) of five full-length novels with a sixth one in the works and a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. - [@jpkempf](https://github.com/jpkempf)
 
 > Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach.
 
