@@ -14,7 +14,7 @@ Thanks!
 
 Please ensure your pull request adheres to the following guidelines:
 
-- You should have consumed the content you're suggesting, unless you are adding a book to the 'Suggested' category.
+- You should have consumed the content you're suggesting. If you haven't, open an issue to see if anyone has.
 - The entry should contain the title and author links, first publication year, rating, description and your personal commentary.
   - For books, please copy the description and rating from [Goodreads](https://goodreads.com) and link to the Goodreads entry.
   - For movies and TV shows, please copy the description and rating from [IMDb](https://www.imdb.com) and link to the IMDb entry.
