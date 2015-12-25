@@ -13,7 +13,6 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 ## TOC
 
-- [Suggested](#suggested)
 - [Novels](#novels)
 	- [Science Fiction](#science-fiction)
 	- [Hard Science Fiction](#hard-science-fiction)
@@ -37,17 +36,6 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 - [Movie Series](#movie-series)
 - [TV Series](#tv-series)
 - [Links](#links)
-
-## Suggested
-
-We've heard these books are awesome, but no one has done a PR to add them yet. If you think any of these are awesome, please read the [Contributing Guidelines](contributing.md), remove it from this list, and open a PR!
-
-* [Accelerando](https://www.goodreads.com/book/show/17863.Accelerando) by Charles Stross
-* [An Oblique Approach](http://www.goodreads.com/book/show/406911.An_Oblique_Approach) by David Drake, Eric Flint
-* [The Clockwork Trilogy](https://www.goodreads.com/book/show/9756310-the-clockwork-rocket) by Greg Egan
-* [The Expanse Series](https://www.goodreads.com/book/show/8855321-leviathan-wakes) by James A. Corey
-
-If you think there should be a book or movie or TV series here but haven't read it yet, please add it here instead of opening an issue.
 
 ## Novels
 
