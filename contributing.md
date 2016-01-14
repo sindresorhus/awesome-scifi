@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+
 ### Comments
 
 If you have consumed any of the content here, please add a comment if you think it is awesome. This especially applies if the content has no comments. Please use the format:
