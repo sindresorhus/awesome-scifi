@@ -214,6 +214,14 @@ This is more of a read about what happens when you are outside the law than anyt
 
 > This masterpiece of science fiction is the fascinating story of Griffin, a scientist who creates a serum to render himself invisible, and his descent into madness that follows.
 
+#### [The Left Hand of Darkness](https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness) (1969) *by [Ursula Le Guin](https://en.wikipedia.org/wiki/Ursula_K._Le_Guin)* [4.1]
+
+Ursula Le Guin is an amazing writer, and this is one of her seminal works. It explores sexuality and humanity in ways that I didn't know were possible. I loved it. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A groundbreaking work of science fiction, The Left Hand of Darkness tells the story of a lone human emissary to Winter, an alien world whose inhabitants can choose -and change - their gender. His goal is to facilitate Winter's inclusion in a growing intergalactic civilization. But to do so he must bridge the gulf between his own views and those of the completely dissimilar culture that he encounters.
+
+> Embracing the aspects of psychology, society, and human emotion on an alien world, The Left Hand of Darkness stands as a landmark achievement in the annals of intellectual science fiction.
+
 #### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* [4.0]  
 
 This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. The follow-up book: "[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)", is great as well.  - [@sylvarant](https://github.com/sylvarant)
