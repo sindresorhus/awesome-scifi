@@ -176,6 +176,14 @@ One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://gith
 
 >  The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organization called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organization, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
+#### [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) (1994) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.0]
+
+I had been putting off reading this book for years, after reading _Ender's Game_ and not knowing wanting to belittle it with a bad sequel (like I thought _Ender's Shadow_ had been). I regret that immensely, having now read this book; it is deep, insightful, and brilliantly written. - [@RichardLitt](https://github.com/RichardLitt)
+
+> In the aftermath of his terrible war, Ender Wiggin disappeared, and a powerful voice arose: the Speaker for the Dead, who told of the true story of the Bugger War.
+
+> Now long years later, a second alien race has been discovered, but again the aliens’ ways are strange and frightening…again, humans die. And it is only the Speaker for the Dead, who is also Ender Wiggin the Xenocide, who has the courage to confront the mystery…and the truth.
+
 #### [Spin](https://www.goodreads.com/book/show/910863.Spin) (2005) *by [Robert Charles Wilson](https://en.wikipedia.org/wiki/Robert_Charles_Wilson)* [4.0]
 
 > One night in October when he was ten years old, Tyler Dupree stood in his back yard and watched the stars go out. They all flared into brilliance at once, then disappeared, replaced by a flat, empty black barrier. He and his best friends, Jason and Diane Lawton, had seen what became known as the Big Blackout. It would shape their lives.
