@@ -665,6 +665,8 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 
 #### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.3] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
+This is a quick read, but it has a slow burn; the more times I read this book, and the more I think of it, the better it becomes. This book is one of the most strategically interesting books I have read. At every turn, you can feel Orson Scott Card manipulating you into seeing how brilliant Ender is. A masterpiece. - [@RichardLitt](https://github.com/RichardLitt)
+
 > In order to develop a secure defense against a hostile alien race’s next attack, government agencies breed child geniuses and train them as soldiers. A brilliant young boy—Andrew “Ender” Wiggin—lives with his kind but distant parents, his sadistic brother Peter, and the person he loves more than anyone else, his sister Valentine. Peter and Valentine were candidates for the soldier-training program but didn’t make the cut—young Ender is the Wiggin drafted to the orbiting Battle School for rigorous military training.
 
 > Ender’s skills make him a leader in school and respected in the Battle Room, where children play at mock battles in zero gravity. Yet growing up in an artificial community of young soldiers Ender suffers greatly from isolation, rivalry from his peers, pressure from the adult teachers, and an unsettling fear of the alien invaders. His psychological battles include loneliness, fear that he is becoming like the cruel brother he remembers, and fanning the flames of devotion to his beloved sister.
