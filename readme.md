@@ -16,7 +16,6 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 - [Novels](#novels)
 	- [Science Fiction](#science-fiction)
 	- [Hard Science Fiction](#hard-science-fiction)
-	- [Soft Science Fiction](#soft-science-fiction)
 	- [Cyberpunk](#cyberpunk)
 	- [Dystopia](#dystopia)
 	- [Space Opera](#space-opera)
@@ -24,8 +23,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Military Science Fiction](#military-science-fiction)
 	- [Police Procedural Science Fiction](#police-procedural-science-fiction)
 	- [Techno Thriller](#techno-thriller)
-	- [High Fantasy](#high-fantasy)
-	- [Low Fantasy](#low-fantasy)
+	- [Fantasy](#fantasy)
 	- [Drama](#drama)
 	- [Biopunk](#biopunk)
 	- [Speculative Fiction](#speculative-fiction)
@@ -84,6 +82,14 @@ What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/
 
 >  Fred Cassidy, a perpetual student, scrounger, and acrophile, is the last known person to have seen an important stone that his friend had. Various criminals, Anglophile zealots, government agents and aliens torture, shoot, beat, trick, chase, terrorize, assault telepathically, stalk, and importune Fred in attempts to get him to tell them the location of the stone. He denies any knowledge of its whereabouts, and decides to make his own investigation.
 
+#### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) (1963-1994) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
+
+I think what is most fascinating about Dune isn't that it is so commonly read, but the ubiquity with which it is referenced. Once you read this, you start seeing Dune quotes everywhere. Dune is monumental in scope, and the cautionary tone in which it was written - this is what happens when you put faith in a single person trained scientifically - almost completely backfires in an amazing story of heroism, revenge, and reconciliation. A book worth reading multiple times. Of course, it is also a series - the first stands alone, and I haven't read beyond the first two. There almost isn't a need. Dune alone is that good. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, _Dune_ tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice” melange, the most important and valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology and human emotion, as the forces of the empire confront each other for control of Arrakis.
+
+> Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. _Dune_ is frequently cited as the world’s best-selling SF novel.
+
 #### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) *by [China Miéville](https://en.wikipedia.org/wiki/China_Mi%C3%A9ville)* [3.8]
 
 >  In the far future, humans have colonized a distant planet, home to the enigmatic Ariekei, sentient beings famed for a language unique in the universe, one that only a few altered human ambassadors can speak.
@@ -108,6 +114,12 @@ This book will teach you to stretch your imagination and see things in a differe
 
 > Through strange occurrences that bring him into contact with a host of geometric forms, Square has adventures in Spaceland (three dimensions), Lineland (one dimension) and Pointland (no dimensions) and ultimately entertains thoughts of visiting a land of four dimensions—a revolutionary idea for which he is returned to his two-dimensional world. Charmingly illustrated by the author, Flatland is not only fascinating reading, it is still a first-rate fictional introduction to the concept of the multiple dimensions of space. “Instructive, entertaining, and stimulating to the imagination.” — _Mathematics Teacher_
 
+#### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) *by [Daniel Keyes](https://en.wikipedia.org/wiki/Daniel_Keyes)* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
+
+This book is often given to high school students, but stands up well as an adult read. I think the best part about it is what Charlie does once he starts being intelligent; he suddenly likes art and making things and scientific theory. I think the altruism and openness of that time shows that the experiment, such as it was, didn't change everything. It's fun to think about. Also, this book made me cry the first time I read it. I was 25. - [@RichardLitt](https://github.com/RichardLitt)
+
+> With more than five million copies sold, _Flowers for Algernon_ is the beloved, classic story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse. In poignant diary entries, Charlie tells how a brain operation increases his IQ and changes his life. As the experimental procedure takes effect, Charlie’s intelligence expands until it surpasses that of the doctors who engineered his metamorphosis. The experiment seems to be a scientific breakthrough of paramount importance—until Algernon begins his sudden, unexpected deterioration. Will the same happen to Charlie?
+
 #### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. But only Hari Sheldon, creator of the revolutionary science of psychohistory, can see into the future—to a dark age of ignorance, barbarism, and warfare that will last thirty thousand years. To preserve knowledge and save mankind, Seldon gathers the best minds in the Empire—both scientists and scholars—and brings them to a bleak planet at the edge of the Galaxy to serve as a beacon of hope for a future generations. He calls his sanctuary the Foundation.
@@ -128,6 +140,14 @@ Archetypal tale of mad science with the theme of 'how far can Science go' that a
 
 > On the run from a ruthless pursuer and searching for a place to hide, he volunteers to participate in a unique experimental polity, the Glasshouse, constructed to simulate a pre-accelerated culture. Participants are assigned anonymized identities: It looks like the ideal hiding place for a posthuman on the run. But in this escape-proof environment, Robin will undergo an even more radical change, placing him at the mercy of the experimenters—and at the mercy of his own unbalanced psyche…
 
+#### [Home Fires](https://www.goodreads.com/book/show/8694515-home-fires) (2011) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [3.3]
+
+This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and the main character is sometimes one sided. But the context and the fleshed out world entirely make up for it, as does Gene Wolfe's standard of never mentioning an important detail more than once as a foreshadowing. - [@RichardLitt](https://github.com/RichardLitt)
+
+> Gene Wolfe takes us to a future North America at once familiar and utterly strange. A young man and woman, Skip and Chelle, fall in love in college and marry, but she is enlisted in the military, there is a war on, and she must serve her tour of duty before they can settle down. But the military is fighting a war with aliens in distant solar systems, and her months in the service will be years in relative time on Earth. Chelle returns to recuperate from severe injuries, after months of service, still a young woman but not necessarily the same person—while Skip is in his forties and a wealthy businessman, but eager for her return.
+
+> Still in love (somewhat to his surprise and delight), they go on a Caribbean cruise to resume their marriage. Their vacation rapidly becomes a complex series of challenges, not the least of which are spies, aliens, and battles with pirates who capture the ship for ransom. There is no writer in SF like Gene Wolfe and no SF novel like _Home Fires_.
+
 #### [Jean le Flambeur Series](https://www.goodreads.com/series/57134-jean-le-flambeur) (2010, 2012, 2014) *by [Hannu Rajaniemi](https://en.wikipedia.org/wiki/Hannu_Rajaniemi)* [4.0 (avg)]
 
 > Jean le Flambeur gets up in the morning and has to kill himself before his other self can kill him first. Just another day in the Dilemma Prison. Rescued by the mysterious Mieli and her flirtatious spacecraft, Jean is taken to the Oubliette, the Moving City of Mars, where time is a currency, memories are treasures, and a moon-turned-singularity lights the night. Meanwhile, investigator Isidore Beautrelet, called in to investigate the murder of a chocolatier, finds himself on the trail of an arch-criminal, a man named le Flambeur…
@@ -143,6 +163,12 @@ This book has a few beautiful passages. It deals mainly with the ethics of using
 This was like if Hermann Hesse decided he was tired of writing Steppenwolf and Siddhartha and wanted to do something interesting for a change. What a weird book. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Earth is long since dead. On a colony planet, a band of men has gained control of technology, made themselves immortal, and now rule their world as the gods of the Hindu pantheon. Only one dares oppose them: he who was once Siddhartha and is now Mahasamatman. Binder of Demons, Lord of Light.
+
+#### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
+
+This book is filled with a quiet suspense that is almost palpable; in that, it does an extraordinary job of showing how humans respond to alien encounters. The otherworldliness of Rama isn't always interesting, but the reaction of the reader to it is. - [@RichardLitt](https://github.com/RichardLitt)
+
+> At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits—just behind a Raman airlock door.
 
 #### [Roadside Picnic](https://www.goodreads.com/book/show/331256.Roadside_Picnic) (1972) *by [Arkady Strugatsky & Boris Strugatsky](https://en.wikipedia.org/wiki/Arkady_and_Boris_Strugatsky)* [4.2]
 
@@ -202,6 +228,14 @@ If you're going to read one Science Fiction book to get a broader perspective on
 
 > _Star Maker_ is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon’s previous book, _Last and First Men_ (1930), a history of the human species over two billion years. _Star Maker_ tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered _Star Maker_ to be one of the finest works of science fiction ever written.
 
+#### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.7]
+
+This is one of Arthur C. Clarke's novels that is less about space and more about humanity, and the oceans. Clarke lived for a large part of his later life in Sri Lanka, and always loved the sea; in this book, that sentiment really comes out. I love it for that. It also has a nice view of ocean management, which is rare for books set in the future. - [@RichardLitt](https://github.com/RichardLitt)
+
+> A century into the future, humanity lives mostly on the sea. Gigantic whale herds are tended by submariners, and vast plankton farms feed the world.
+
+> Walter Franklin, once a space engineer, now works on a submarine patrol. This novel tells the story of his adventures, including Franklin’s capture of an enormous kraken at 12,000 feet under the sea; his search for a monstrous sea serpent; and the thrilling rescue of a sunken submarine-all set against the backdrop of a futuristic world that’s both imaginative and believable.
+
 #### [The Fifth Head of Cerberus](https://www.goodreads.com/book/show/845501.The_Fifth_Head_of_Cerberus) (1972) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.0]
 
 This is an incredible book. Absolutely incredible. The first section, about a son of a scientist, is a great example of Wolfe's ability to make the future sound like the Victorian past, and to add decay to what, to our eyes, seems incredibly futuristic. The story about the traveler and the aborigines on Saint Croix is something I think about a lot - "old men think long thoughts", in particular, is a thought that I love, especially given its context. Gene Wolfe also uses the epistolary novel technique incredibly well in the third story. But the best part is how you come to realize that each of these stories is intertwined with the others, subtly. Amazing storytelling. - [@RichardLitt](https://github.com/RichardLitt)
@@ -215,6 +249,14 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 > In the twenty-second century Earth obtains limitless, free energy from a source science little understands: an exchange between Earth and a parallel universe, using a process devised by the aliens. But even free energy has a price. The transference process itself will eventually lead to the destruction of Earth’s Sun—and of Earth itself.
 
 > Only a few know the terrifying truth—an outcast Earth scientist, a rebellious alien inhabitant who senses the imminent annihilation of the Sun. They know the truth—but who will listen? They have foreseen the cost of abundant energy—but who will believe? These few beings, human and alien, hold the key to Earth’s survival.
+
+#### [The Golden Age](https://www.goodreads.com/series/41545-golden-age) (2002, 2003) *by [John C. Wright](https://en.wikipedia.org/wiki/John_C._Wright_%28author%29)* [4.1]
+
+> The Golden Age is 10,000 years in the future in our solar system, an interplanetary utopian society filled with immortal humans.
+
+> Phaethon, of Radamanthus House, is attending a glorious party at his family mansion celebrating the thousand-year anniversary of the High Transcendence. There he meets an old man who accuses him of being an imposter, and then a being from Neptune who claims to be an old friend. The Neptunian tells him that essential parts of his memory were removed and stored by the very government that Phaethon believes to be wholly honorable. It shakes his faith. Is he indeed an exile from himself? He can’t resist investigating, even though to do so could mean the loss of his inheritance, his very place in society. His quest must be to regain his true identity and fulfill the destiny he chose for himself.
+
+> _The Golden Age_ is just the beginning of Phaethon’s story, which continues in _The Phoenix Exultant_.
 
 #### [The Invisible Man](https://www.goodreads.com/book/show/17184.The_Invisible_Man) (1897) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.6] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
@@ -342,55 +384,6 @@ This was, I thought, an emotional read. I really connected with the characters a
 > Now, we approach our new home.
 
 > AURORA.
-
-
-### Soft Science Fiction
-
-_Novels where the science elements from the backdrop of the story rather than the central topic._
-
-#### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) (1963-1994) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
-
-I think what is most fascinating about Dune isn't that it is so commonly read, but the ubiquity with which it is referenced. Once you read this, you start seeing Dune quotes everywhere. Dune is monumental in scope, and the cautionary tone in which it was written - this is what happens when you put faith in a single person trained scientifically - almost completely backfires in an amazing story of heroism, revenge, and reconciliation. A book worth reading multiple times. Of course, it is also a series - the first stands alone, and I haven't read beyond the first two. There almost isn't a need. Dune alone is that good. - [@RichardLitt](https://github.com/RichardLitt)
-
-> Set in the far future amidst a sprawling feudal interstellar empire where planetary dynasties are controlled by noble houses that owe an allegiance to the imperial House Corrino, _Dune_ tells the story of young Paul Atreides (the heir apparent to Duke Leto Atreides and heir of House Atreides) as he and his family accept control of the desert planet Arrakis, the only source of the “spice” melange, the most important and valuable substance in the cosmos. The story explores the complex, multilayered interactions of politics, religion, ecology, technology and human emotion, as the forces of the empire confront each other for control of Arrakis.
-
-> Published in 1965, it won the Hugo Award in 1966 and the inaugural Nebula Award for Best Novel. _Dune_ is frequently cited as the world’s best-selling SF novel.
-
-#### [Flowers for Algernon](https://www.goodreads.com/book/show/18373.Flowers_for_Algernon) (1959) *by [Daniel Keyes](https://en.wikipedia.org/wiki/Daniel_Keyes)* [4.0] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
-
-This book is often given to high school students, but stands up well as an adult read. I think the best part about it is what Charlie does once he starts being intelligent; he suddenly likes art and making things and scientific theory. I think the altruism and openness of that time shows that the experiment, such as it was, didn't change everything. It's fun to think about. Also, this book made me cry the first time I read it. I was 25. - [@RichardLitt](https://github.com/RichardLitt)
-
-> With more than five million copies sold, _Flowers for Algernon_ is the beloved, classic story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse. In poignant diary entries, Charlie tells how a brain operation increases his IQ and changes his life. As the experimental procedure takes effect, Charlie’s intelligence expands until it surpasses that of the doctors who engineered his metamorphosis. The experiment seems to be a scientific breakthrough of paramount importance—until Algernon begins his sudden, unexpected deterioration. Will the same happen to Charlie?
-
-#### [Home Fires](https://www.goodreads.com/book/show/8694515-home-fires) (2011) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [3.3]
-
-This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and the main character is sometimes one sided. But the context and the fleshed out world entirely make up for it, as does Gene Wolfe's standard of never mentioning an important detail more than once as a foreshadowing. - [@RichardLitt](https://github.com/RichardLitt)
-
-> Gene Wolfe takes us to a future North America at once familiar and utterly strange. A young man and woman, Skip and Chelle, fall in love in college and marry, but she is enlisted in the military, there is a war on, and she must serve her tour of duty before they can settle down. But the military is fighting a war with aliens in distant solar systems, and her months in the service will be years in relative time on Earth. Chelle returns to recuperate from severe injuries, after months of service, still a young woman but not necessarily the same person—while Skip is in his forties and a wealthy businessman, but eager for her return.
-
-> Still in love (somewhat to his surprise and delight), they go on a Caribbean cruise to resume their marriage. Their vacation rapidly becomes a complex series of challenges, not the least of which are spies, aliens, and battles with pirates who capture the ship for ransom. There is no writer in SF like Gene Wolfe and no SF novel like _Home Fires_.
-
-#### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
-
-This book is filled with a quiet suspense that is almost palpable; in that, it does an extraordinary job of showing how humans respond to alien encounters. The otherworldliness of Rama isn't always interesting, but the reaction of the reader to it is. - [@RichardLitt](https://github.com/RichardLitt)
-
-> At first, only a few things are known about the celestial object that astronomers dub Rama. It is huge, weighing more than ten trillion tons. And it is hurtling through the solar system at an inconceivable speed. Then a space probe confirms the unthinkable: Rama is no natural object. It is, incredibly, an interstellar spacecraft. Space explorers and planet-bound scientists alike prepare for mankind’s first encounter with alien intelligence. It will kindle their wildest dreams… and fan their darkest fears. For no one knows who the Ramans are or why they have come. And now the moment of rendezvous awaits—just behind a Raman airlock door.
-
-#### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.7]
-
-This is one of Arthur C. Clarke's novels that is less about space and more about humanity, and the oceans. Clarke lived for a large part of his later life in Sri Lanka, and always loved the sea; in this book, that sentiment really comes out. I love it for that. It also has a nice view of ocean management, which is rare for books set in the future. - [@RichardLitt](https://github.com/RichardLitt)
-
-> A century into the future, humanity lives mostly on the sea. Gigantic whale herds are tended by submariners, and vast plankton farms feed the world.
-
-> Walter Franklin, once a space engineer, now works on a submarine patrol. This novel tells the story of his adventures, including Franklin’s capture of an enormous kraken at 12,000 feet under the sea; his search for a monstrous sea serpent; and the thrilling rescue of a sunken submarine-all set against the backdrop of a futuristic world that’s both imaginative and believable.
-
-#### [The Golden Age](https://www.goodreads.com/series/41545-golden-age) (2002, 2003) *by [John C. Wright](https://en.wikipedia.org/wiki/John_C._Wright_%28author%29)* [4.1]
-
-> The Golden Age is 10,000 years in the future in our solar system, an interplanetary utopian society filled with immortal humans.
-
-> Phaethon, of Radamanthus House, is attending a glorious party at his family mansion celebrating the thousand-year anniversary of the High Transcendence. There he meets an old man who accuses him of being an imposter, and then a being from Neptune who claims to be an old friend. The Neptunian tells him that essential parts of his memory were removed and stored by the very government that Phaethon believes to be wholly honorable. It shakes his faith. Is he indeed an exile from himself? He can’t resist investigating, even though to do so could mean the loss of his inheritance, his very place in society. His quest must be to regain his true identity and fulfill the destiny he chose for himself.
-
-> _The Golden Age_ is just the beginning of Phaethon’s story, which continues in _The Phoenix Exultant_.
 
 ### Cyberpunk
 
@@ -728,7 +721,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 > A group of American scientists are rushed to a huge vessel that has been discovered resting on the ocean floor in the middle of the South Pacific. What they find defines their imaginations and mocks their attempts at logical explanation. It is a spaceship of phenomenal dimensions, apparently, undamaged by its fall from the sky. And, most startling, it appears to be at least three hundred years old…
 
 
-### High Fantasy
+### Fantasy
 
 _Fantasy books which contain elements of science fiction. For pure fantasy, see [this list](https://github.com/RichardLitt/awesome-fantasy)._
 
@@ -743,11 +736,6 @@ This is my favorite book. It is science fiction and, to a certain extent, fantas
 > _The Book of the New Sun_ is unanimously acclaimed as Gene Wolfe’s most remarkable work, hailed as “a masterpiece of science fantasy comparable in importance to the major works of Tolkien and Lewis” by _Publishers Weekly_, and “one of the most ambitious works of speculative fiction in the twentieth century” by _The Magazine of Fantasy and Science Fiction_.
 
 > Young Severian, an apprentice in the Guild of Torturers on the world called Urth, has been exiled for committing the ultimate sin of his profession—showing mercy toward his victim.
-
-
-### Low Fantasy
-
-_Fantasy which isn't epic, but still has elements of science fiction in it._
 
 #### [There Are Doors](https://www.goodreads.com/book/show/666601.There_Are_Doors) (1988) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [3.6]
 
