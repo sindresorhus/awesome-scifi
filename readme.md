@@ -478,6 +478,8 @@ A classic, beautiful book. A short read that does a good job of making the reade
 
 #### [Ready Player One](https://www.goodreads.com/book/show/9969571-ready-player-one) (2011) *by [Ernest Cline](https://en.wikipedia.org/wiki/Ernest_Cline)* [4.3] <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
+This is easily in one of my top 5 favorite books I've ever read. It's SO fun to read, and every single person I've recommended it to has loved it. Even if you don't understand every single reference, it's still a great story to follow. It has an excellent amount of humor, adventure, and nostalgia. It also has one of the best endings I've ever read, which any reader knows is a hard thing to nail. Ernest Cline really hit it out of the park with this one. Highly recommend it. - [cassidoo](https://github.com/cassidoo)
+
 > It’s the year 2044, and the real world is an ugly place.
 
 > Like most of humanity, Wade Watts escapes his grim surroundings by spending his waking hours jacked into the OASIS, a sprawling virtual utopia that lets you be anything you want to be, a place where you can live and play and fall in love on any of ten thousand planets.
