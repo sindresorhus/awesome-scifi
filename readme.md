@@ -480,6 +480,8 @@ A classic, beautiful book. A short read that does a good job of making the reade
 
 This is easily in one of my top 5 favorite books I've ever read. It's SO fun to read, and every single person I've recommended it to has loved it. Even if you don't understand every single reference, it's still a great story to follow. It has an excellent amount of humor, adventure, and nostalgia. It also has one of the best endings I've ever read, which any reader knows is a hard thing to nail. Ernest Cline really hit it out of the park with this one. Highly recommend it. - [cassidoo](https://github.com/cassidoo)
 
+This book is AWESOME. It's so AWESOME that it makes me want to go back and play arcade games and rewatch all of the Macross saga. The plot is great, the writing is great, it makes you laugh out loud if you're a geek and know the references, and the story is kickass. Warning: Might be a good idea to brush up on your old school fantasy and scifi before reading this. Just don't go rewatch Krull, OK? - [RichardLitt](https://github.com/RichardLitt)
+
 > It’s the year 2044, and the real world is an ugly place.
 
 > Like most of humanity, Wade Watts escapes his grim surroundings by spending his waking hours jacked into the OASIS, a sprawling virtual utopia that lets you be anything you want to be, a place where you can live and play and fall in love on any of ten thousand planets.
