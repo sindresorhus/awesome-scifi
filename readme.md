@@ -1398,7 +1398,7 @@ Categories: `animation` `action` `drama`
 
 > 15 years after the enormous catastrophe that killed half of the world population, another crisis has come—the unidentified invaders called “Angels” begin to attack human-kind. Mankind’s only hope lies with giant organic mecha and their teenage pilots.
 
-#### [Red Dwarf](http://www.imdb.com/title/tt0094535/) (1988–1999, 2009–)[8.5]
+#### [Red Dwarf](http://www.imdb.com/title/tt0094535/) (1988–1999, 2009– ) [8.5]
 
 Categories: `comedy`
 
@@ -1460,7 +1460,7 @@ Categories: `drama` `mystery`
 
 > After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
 
-#### [The X-Files](http://www.imdb.com/title/tt0106179/) (1993-2002, 2016-) [8.8]
+#### [The X-Files](http://www.imdb.com/title/tt0106179/) (1993-2002, 2016- ) [8.8]
 
 Categories: `drama` `mystery`
 
