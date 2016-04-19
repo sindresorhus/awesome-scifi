@@ -4,7 +4,7 @@
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For fantasy books, see [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy](https://github.com/RichardLitt/awesome-fantasy).*
 
 *Please read the [Contributing Guidelines](contributing.md) before contributing.*
 
