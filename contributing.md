@@ -45,7 +45,7 @@ Commentary - [@you](https://github.com/you)
 Categories: `ai` `action` `not about batman`
 ```
 
-Thank you for your suggestions!
+Thank you for your suggestion!
 
 ### Updating your PR
 
