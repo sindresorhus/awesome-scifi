@@ -829,7 +829,7 @@ I liked this series so much I got a tattoo partially inspired by it. - [@Richard
 
 #### [Future Times Three](https://www.goodreads.com/book/show/2509242.Future_Times_Three) (1968) *by [René Barjavel](https://en.wikipedia.org/wiki/Ren%C3%A9_Barjavel)* [3.8]
 
-A really good story about time travels, their consequences and the famous [Grandfather paradox](https://en.wikipedia.org/wiki/Grandfather_paradox). [@Gibet](https://github.com/Gibet)
+A really good story about time travels, their consequences and the famous [Grandfather paradox](https://en.wikipedia.org/wiki/Grandfather_paradox). - [@Gibet](https://github.com/Gibet)
 
 > Here is a fantastic journey that takes you from the past into the near-future—then to the year 300,000 A.D. into a world where a single female creature, the size of a mountain, gives birth to all of society!
 
