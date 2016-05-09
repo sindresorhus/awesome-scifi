@@ -1,4 +1,4 @@
-# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Sci-Fi worth consuming
 
@@ -826,6 +826,12 @@ I liked this series so much I got a tattoo partially inspired by it. - [@Richard
 > It is 1970, and electronics engineer Dan Davis has finally made the invention of a lifetime: a household robot with extraordinary abilities, destined to dramatically change the landscape of everyday routine. Then, with wild success just within reach, Dan’s greedy partner and even greedier fiancée steal his work and leave him penniless, and trick him into taking the long sleep—suspended animation for thirty years.
 
 > They never imagine that the future time in which Dan awakens has a very limited form of time travel, just enough that Davis can travel back and recover his research. He then again undergoes suspended animation, and awakens again in the high-tech future of the year 2000, with his reputation, fortune, and his sweetheart.
+
+#### [Future Times Three](https://www.goodreads.com/book/show/2509242.Future_Times_Three) (1968) *by [René Barjavel](https://en.wikipedia.org/wiki/Ren%C3%A9_Barjavel)* [3.8]
+
+A really good story about time travels, their consequences and the famous [Grandfather paradox](https://en.wikipedia.org/wiki/Grandfather_paradox). [@Gibet](https://github.com/Gibet)
+
+> Here is a fantastic journey that takes you from the past into the near-future—then to the year 300,000 A.D. into a world where a single female creature, the size of a mountain, gives birth to all of society!
 
 #### [The Time Machine](https://www.goodreads.com/book/show/2493.The_Time_Machine) (1895) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.8] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
