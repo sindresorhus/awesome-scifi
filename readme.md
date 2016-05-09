@@ -1278,6 +1278,12 @@ One of the most well known scifi films, this is a great expose on what people th
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
+#### [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/) (1999) [7.0]
+
+Categories: `thriller` `ai`
+
+> Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...
+
 #### [The Signal](http://www.imdb.com/title/tt2910814/) (2014) [6.2]
 
 > On a road trip, Nic and two friends are drawn to an isolated area by a computer genius. When everything suddenly goes dark, Nic regains consciousness - only to find himself in a waking nightmare.
