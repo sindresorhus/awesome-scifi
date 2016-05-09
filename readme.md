@@ -1164,6 +1164,14 @@ A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andre
 
 > A veteran assigned to extract Earth’s remaining resources begins to question what he knows about his mission and himself.
 
+#### [Open Your Eyes](http://www.imdb.com/title/tt0125659/) (1997) [7.8]
+
+Categories: `drama` `romance`
+
+The original spanish movie [Vanilla Sky](#vanilla-sky) was based on, way better acting, you should watch this first. - [@uraimo](https://github.com/uraimo)
+
+> A very handsome man finds the love of his life, but he suffers an accident and needs to have his face rebuilt by surgery after it is severely disfigured.
+
 #### [Paprika](http://www.imdb.com/title/tt0851578/) (2006) [7.7]
 
 Categories: `ai`
