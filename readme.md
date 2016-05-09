@@ -857,6 +857,12 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 
 > Contents: _The Infinite Assassin_ (1991), _The Hundred Light-Year Diary_ (1992), _Eugene_ (1990), _The Caress_ (1990), _Blood Sisters_ (1991), _Axiomatic_ (1990), _The Safe-Deposit Box_ (1990), _Seeing_ (1995), _A Kidnapping_ (1995), _Learning to Be Me_ (1990), _The Moat_ (1991), _The Walk_ (1992), _The Cutie_ (1989), _Into Darkness_ (1992), _Appropriate Love_ (1991), _The Moral Virologist_ (1990), _Closer_ (1992), _Unstable Orbits in the Space of Lies_ (1992)
 
+#### [City](https://www.goodreads.com/book/show/222093.City) (1952) *by [Clifford D. Simak](https://en.wikipedia.org/wiki/Clifford_D._Simak)* [4.1]
+
+You will never think about ants the same way again. - [@uraimo](https://github.com/uraimo)
+
+>  Simak's "City" is a series of connected stories, a series of legends, myths, and campfire stories told by Dogs about the end of human civilization, centering on the Webster family, who, among their other accomplishments, designed the ships that took Men to the stars and gave Dogs the gift of speech and robots to be their hands.
+
 #### [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot) (1950) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
 > The three laws of Robotics:
