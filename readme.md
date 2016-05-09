@@ -609,7 +609,7 @@ This has a particularly arid and inspired view of humanity after a nuclear holoc
 
 #### [Earth Abides](https://www.goodreads.com/book/show/93269.Earth_Abides) (1949) *by [George R. Stewart](https://en.wikipedia.org/wiki/George_R._Stewart)* [3.9]
 
-Highly plausible outcome after a near-extincion event. The human race will go down the path of least resistance. - [@uraimo](https://github.com/uraimo)
+Highly plausible outcome after a near-extinction event, the human race will hopelessly go down the path of least resistance. Great and somewhat disheartening ending. - [@uraimo](https://github.com/uraimo)
 
 > A disease of unparalleled destructive force has sprung up almost simultaneously in every corner of the globe, all but destroying the human race. One survivor, strangely immune to the effects of the epidemic, ventures forward to experience a world without man. What he ultimately discovers will prove far more astonishing than anything he'd either dreaded or hoped for.
 
