@@ -66,6 +66,19 @@ This intense linguistic thriller will change the way you think about language. -
 
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
+Books:
+ * [A Princess of Mars](https://www.goodreads.com/book/show/40395.A_Princess_of_Mars) [3.8]
+ * [The Gods of Mars](https://www.goodreads.com/book/show/841973.The_Gods_of_Mars) [3.8]
+ * [The Warlord of Mars](https://www.goodreads.com/book/show/40379.The_Warlord_of_Mars) [3.8]
+ * [Thuvia, Maid of Mars](https://www.goodreads.com/book/show/40387.Thuvia_Maid_of_Mars) [3.7]
+ * [The Chessmen of Mars](https://www.goodreads.com/book/show/40378.The_Chessmen_of_Mars) [3.7]
+ * [The Master Mind of Mars](https://www.goodreads.com/book/show/40385.The_Master_Mind_of_Mars) [3.8]
+ * [A Fighting Man of Mars](https://www.goodreads.com/book/show/40386.A_Fighting_Man_of_Mars) [3.8]
+ * [Swords of Mars](https://www.goodreads.com/book/show/40376.Swords_of_Mars) [4.0]
+ * [Synthetic Men of Mars](https://www.goodreads.com/book/show/40384.Synthetic_Men_of_Mars) [3.8]
+ * [Llana of Gathol](https://www.goodreads.com/book/show/215954.Llana_of_Gathol) [3.7]
+ * [John Carter of Mars](https://www.goodreads.com/book/show/40388.John_Carter_of_Mars) [3.8]
+
 > Barsoom is planet Mars from American Edgar Rice Burroughs. First serialized as Under the Moons of Mars in 1912, published as A Princess of Mars in 1917. Dying Mars was based on outdated scientific ideas of canals. The savage, frontier world has honor, noble sacrifice and constant struggle, where martial prowess is paramount and races fight over dwindling resources. 
 
 #### [Childhood’s End](https://www.goodreads.com/book/show/414999.Childhood_s_End) (1953) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
