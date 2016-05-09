@@ -148,6 +148,12 @@ This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and
 
 > Still in love (somewhat to his surprise and delight), they go on a Caribbean cruise to resume their marriage. Their vacation rapidly becomes a complex series of challenges, not the least of which are spies, aliens, and battles with pirates who capture the ship for ransom. There is no writer in SF like Gene Wolfe and no SF novel like _Home Fires_.
 
+#### [The Ice People](https://www.goodreads.com/book/show/106753.The_Ice_People) (1968) *by [René Barjavel](https://en.wikipedia.org/wiki/Ren%C3%A9_Barjavel)* [4.1]
+
+A really good book. Many people have described it as "the best book of Sci-Fi / romance". I would like to see it, one day, as a movie. - [@Gibet](https://github.com/Gibet)
+
+> When a French expedition in Antarctica reveals ruins of a 900,000 year old civilization, scientists from all over the world flock to the site to help explore & understand. The entire planet watches via global satellite tv, mesmerized, as they uncover a chamber in which a man & a woman have been in suspended animation since, as the French title suggests, 'the night of time'. The woman, Eléa, is awakened. Thru a translating machine she tells the story of her world, herself & her husband Paikan & how war destroyed her civilization. She also hints at an incredibly advanced knowledge her still-dormant companion possesses, knowledge that could give energy & food to all humans at no cost. But the superpowers of the world are not ready to let Eléa's secrets spread, & show that, 900,000 years & an apocalypse later, humankind has not grown up & is ready to make the same mistakes again.
+
 #### [Jean le Flambeur Series](https://www.goodreads.com/series/57134-jean-le-flambeur) (2010, 2012, 2014) *by [Hannu Rajaniemi](https://en.wikipedia.org/wiki/Hannu_Rajaniemi)* [4.0 (avg)]
 
 > Jean le Flambeur gets up in the morning and has to kill himself before his other self can kill him first. Just another day in the Dilemma Prison. Rescued by the mysterious Mieli and her flirtatious spacecraft, Jean is taken to the Oubliette, the Moving City of Mars, where time is a currency, memories are treasures, and a moon-turned-singularity lights the night. Meanwhile, investigator Isidore Beautrelet, called in to investigate the murder of a chocolatier, finds himself on the trail of an arch-criminal, a man named le Flambeur…
