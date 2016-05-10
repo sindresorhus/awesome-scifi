@@ -366,6 +366,8 @@ Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [th
 
 #### [Permutation City](https://www.goodreads.com/book/show/156784.Permutation_City) (1994) *by [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan)* [4.1]
 
+With all the ideas contained in Permutation City, a typical Sci-Fi author would have written at least 5 separate books. - [@uraimo](https://github.com/uraimo)
+
 > In the not-too-distant future, technology has given birth to a form of immortality. The human mind can be scanned and uploaded into a virtual reality program to become a perfect electronic “Copy,” aware of itself. A new Copy finds himself forced to cooperate in scientific experiments with the flesh-and-blood man he was copied from.
 
 #### [Red Mars](https://www.goodreads.com/book/show/77507.Red_Mars) (1993) *by [Kim Stanley Robinson](https://en.wikipedia.org/wiki/Kim_Stanley_Robinson)* [3.8]
@@ -1474,6 +1476,8 @@ Categories: `action` `drama`
 #### [Stargate SG1](http://www.imdb.com/title/tt0118480/) (1997–2007) [8.5]
 
 Categories: `action` `adventure` `drama`
+
+Well worth the 9000+ hours you'll need to watch all the series. Finally a series where the human race, starting from a position of abysmal inferiority, defeats superior enemies against all odds with a mix of cleverness and intelligent exploitation of alien technology. - [@uraimo](https://github.com/uraimo)
 
 > A secret military team, SG-1, is formed to explore the recently discovered Stargates.
 
