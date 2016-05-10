@@ -1493,6 +1493,14 @@ In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a
 
 > Orbiting the liberated planet of Bajor, a Federation space station guards the opening of a stable wormhole to the far side of the galaxy.
 
+#### [Star Trek: Enterprise](http://www.imdb.com/title/tt0244365/) (2001–2005) [7.5]
+
+Categories: `action` `adventure` `mystery`
+
+A worthy successor to The Next Generation, well developed characters, great Xindi/Time War story arc. - [@uraimo](https://github.com/uraimo)
+
+> A century before Captain Kirk's five-year mission, Jonathan Archer captains Earth ship Enterprise NX-01 during the early years of Starfleet leading up to the formation of the Federation and the Earth-Romulan War.
+
 #### [Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]
 
 Categories: `action` `adventure` `mystery`
