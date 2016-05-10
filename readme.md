@@ -62,6 +62,25 @@ This intense linguistic thriller will change the way you think about language. -
 
 > Babel-17 is all about the power of language. Humanity, which has spread throughout the universe, is involved in a war with the Invaders, who have been covertly assassinating officials and sabotaging spaceships. The only clues humanity has to go on are strange alien messages that have been intercepted in space. Poet and linguist Rydra Wong is determined to understand the language and stop the alien threat.
 
+#### [Barsoom series](https://www.goodreads.com/series/43942-barsoom) (1912-1927) *by [Edgar Rice Burroughs ](https://en.wikipedia.org/wiki/Edgar_Rice_Burroughs)* [3.8] <img src="https://i.imgur.com/yJaoHfh.png" width="30px">
+
+Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
+
+Books:
+ * [A Princess of Mars](https://www.goodreads.com/book/show/40395.A_Princess_of_Mars) [3.8]
+ * [The Gods of Mars](https://www.goodreads.com/book/show/841973.The_Gods_of_Mars) [3.8]
+ * [The Warlord of Mars](https://www.goodreads.com/book/show/40379.The_Warlord_of_Mars) [3.8]
+ * [Thuvia, Maid of Mars](https://www.goodreads.com/book/show/40387.Thuvia_Maid_of_Mars) [3.7]
+ * [The Chessmen of Mars](https://www.goodreads.com/book/show/40378.The_Chessmen_of_Mars) [3.7]
+ * [The Master Mind of Mars](https://www.goodreads.com/book/show/40385.The_Master_Mind_of_Mars) [3.8]
+ * [A Fighting Man of Mars](https://www.goodreads.com/book/show/40386.A_Fighting_Man_of_Mars) [3.8]
+ * [Swords of Mars](https://www.goodreads.com/book/show/40376.Swords_of_Mars) [4.0]
+ * [Synthetic Men of Mars](https://www.goodreads.com/book/show/40384.Synthetic_Men_of_Mars) [3.8]
+ * [Llana of Gathol](https://www.goodreads.com/book/show/215954.Llana_of_Gathol) [3.7]
+ * [John Carter of Mars](https://www.goodreads.com/book/show/40388.John_Carter_of_Mars) [3.8]
+
+> Barsoom is planet Mars from American Edgar Rice Burroughs. First serialized as Under the Moons of Mars in 1912, published as A Princess of Mars in 1917. Dying Mars was based on outdated scientific ideas of canals. The savage, frontier world has honor, noble sacrifice and constant struggle, where martial prowess is paramount and races fight over dwindling resources. 
+
 #### [Childhood’s End](https://www.goodreads.com/book/show/414999.Childhood_s_End) (1953) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
 
 This book is interesting for its view of what a golden age of mankind would look like, and what would the shortcomings of that be. It also has a very interesting take on mass psychology - I don't want to give away too much, but the Overlords are a nifty bunch. This is a good early Clarke, and has two of his favorite themes; the first that remote work will be possible with technology, and the second that any sufficiently advanced technology is indistinguishable from magic. - [@RichardLitt](https://github.com/RichardLitt)
