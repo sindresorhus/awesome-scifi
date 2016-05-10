@@ -613,6 +613,12 @@ This has a particularly arid and inspired view of humanity after a nuclear holoc
 
 > A final, apocalyptic, world war has killed millions, driving entire species into extinction and sending the majority of mankind off-planet. Those who remain, venerate all remaining examples of life, and owning an animal of your own is both a symbol of status and a necessity. For those who can’t afford an authentic animal, companies build incredibly realistic simulacrae: horses, birds, cats, sheep… even humans.
 
+#### [Earth Abides](https://www.goodreads.com/book/show/93269.Earth_Abides) (1949) *by [George R. Stewart](https://en.wikipedia.org/wiki/George_R._Stewart)* [3.9]
+
+Highly plausible outcome after a near-extinction event, the human race will hopelessly go down the path of least resistance. Great and somewhat disheartening ending. - [@uraimo](https://github.com/uraimo)
+
+> A disease of unparalleled destructive force has sprung up almost simultaneously in every corner of the globe, all but destroying the human race. One survivor, strangely immune to the effects of the epidemic, ventures forward to experience a world without man. What he ultimately discovers will prove far more astonishing than anything he'd either dreaded or hoped for.
+
 #### [Riddley Walker](https://www.goodreads.com/book/show/776573.Riddley_Walker) (1980) *by [Russell Hoban](https://en.wikipedia.org/wiki/Russell_Hoban)* [4.1]
 
 I traveled 500 miles from Edinburgh to Kent just to go to the Canterbury Cathedral to see the painting that inspired this book. It is that good. It was hard for me to read as I normally speed read, and the invented language makes it slow going, but it sticks with you and the imagination of Hoban is uniquely vivid. - [@RichardLitt](https://github.com/RichardLitt)
