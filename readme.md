@@ -11,7 +11,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 ![](https://cloud.githubusercontent.com/assets/170270/7630100/242bda3a-fa33-11e4-881a-589cffa0c421.gif)
 
 
-## TOC
+## Contents
 
 - [Novels](#novels)
 	- [Science Fiction](#science-fiction)
@@ -34,6 +34,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 - [Movie Series](#movie-series)
 - [TV Series](#tv-series)
 - [Links](#links)
+
 
 ## Novels
 
