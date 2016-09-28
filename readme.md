@@ -1200,6 +1200,12 @@ The original spanish movie [Vanilla Sky](#vanilla-sky) was based on, way better 
 
 > A very handsome man finds the love of his life, but he suffers an accident and needs to have his face rebuilt by surgery after it is severely disfigured.
 
+#### [Pandorum](http://www.imdb.com/title/tt1188729/) (2009) [6.8]
+
+Categories: `space` `thriller`
+
+> A pair of crew members aboard a spaceship wake up with no knowledge of their mission or their identities.
+
 #### [Paprika](http://www.imdb.com/title/tt0851578/) (2006) [7.7]
 
 Categories: `ai`
