@@ -1001,6 +1001,14 @@ If you're looking to replicate the experience of taking acid without actually do
 
 > A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.
 
+#### [Cargo](http://www.imdb.com/title/tt0381940/) (2009) [6.2]
+
+Categories: `space` `dystopia`
+
+Why not try something out of the ordinary with this Swizz sci-fi thriller? [@Lekoaf](https://github.com/lekoaf)
+
+> In 2270, Earth is completely depleted and no one lives there anymore. Those that have money move to Rhea; but most of the population lives in orbit in space stations. Dr. Laura Portmann decides to work in the cargo ship Kassandra in an eight year travel to Station 42 that is in orbit of RH278 to raise money to meet her sister Arianne in Rhea.
+
 #### [Chappie](http://www.imdb.com/title/tt1823672/) (2015) [7.1]
 
 Categories: `ai` `police`
