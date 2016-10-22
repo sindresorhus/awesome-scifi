@@ -33,6 +33,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 - [Movies](#movies)
 - [Movie Series](#movie-series)
 - [TV Series](#tv-series)
+- [Comic Books](#comic-books)
 - [Links](#links)
 
 
@@ -80,7 +81,7 @@ Books:
  * [Llana of Gathol](https://www.goodreads.com/book/show/215954.Llana_of_Gathol) [3.7]
  * [John Carter of Mars](https://www.goodreads.com/book/show/40388.John_Carter_of_Mars) [3.8]
 
-> Barsoom is planet Mars from American Edgar Rice Burroughs. First serialized as Under the Moons of Mars in 1912, published as A Princess of Mars in 1917. Dying Mars was based on outdated scientific ideas of canals. The savage, frontier world has honor, noble sacrifice and constant struggle, where martial prowess is paramount and races fight over dwindling resources. 
+> Barsoom is planet Mars from American Edgar Rice Burroughs. First serialized as Under the Moons of Mars in 1912, published as A Princess of Mars in 1917. Dying Mars was based on outdated scientific ideas of canals. The savage, frontier world has honor, noble sacrifice and constant struggle, where martial prowess is paramount and races fight over dwindling resources.
 
 #### [Childhood’s End](https://www.goodreads.com/book/show/414999.Childhood_s_End) (1953) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
 
@@ -1543,6 +1544,44 @@ Categories: `drama` `mystery`
 Categories: `drama` `fantasy` `horror`
 
 > Rod Serling’s seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations. The stories would typically end with an ironic twist that would see the guilty punished.
+
+## Comic books
+
+#### [Saga](https://imagecomics.com/comics/series/saga) (2014-)  *by Brian K. Vaughan*
+
+Categories: `fantasy` `sci-fi` `space-opera`
+
+> Saga is an epic space opera/fantasy comic book series created by writer Brian K. Vaughan and artist Fiona Staples, published monthly by Image Comics. The series is heavily influenced by Star Wars, and based on ideas Vaughan conceived both as a child and as a parent. It depicts two lovers from long-warring extraterrestrial races, Alana and Marko, fleeing authorities from both sides of a galactic war as they struggle to care for their newborn daughter, Hazel, who occasionally narrates the series.
+
+#### [Global Frequency](http://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis*
+
+Categories: `hard-science-fiction` `sci-fi`
+
+> Created by Entertainment Weekly "It" writer, Global Frequency is a worldwide rescue organization that offers the last shred of hope when all other options have failed. Manned by 1001 operatives, the Frequency is made up of experts in fields as diverse as bio-weapon engineering and Le Parkour Running. Each agent-equipped with a special mobile vid-phone-is speciffically chosen by Miranda Zero, enigmatic leader of the Global Frequency, based on proximity, expertise, and, in some cases, sheer desperation!
+
+#### [The Manhattan Projects](http://www.goodreads.com/book/show/15736709-the-manhattan-projects-volume-1) (2015-) *by Jonathan Hickman*
+
+Categories: `hard-science-fiction` `sci-fi`
+
+> What if the research and development department created to produce the first atomic bomb was a front for a series of other, more unusual, programs?
+
+#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison*
+
+Categories: `hard-science-fiction` `sci-fi` `society`
+
+> Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
+
+#### [Arzach](http://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius*
+
+Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
+
+> Arzach fut une révolution pour la bande dessinée de l'époque. Elle est constituée d'une série de cinq histoires autonomes, sortes de « nouvelles graphiques » de quelques planches chacune. Sa particularité réside tout d'abord en son absence totale de dialogues : on y croise un voire deux personnages récurrents (Arzach et son Ptéroïde, sorte de ptérodactyle) mais apparemment muets, en tout cas l'auteur ne leur autorise pas la parole pour s'exprimer.
+
+#### [Transmetropolitan](http://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis*
+
+Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
+
+> After years of self-imposed exile from a civilization rife with degradation and indecency, cynical journalist Spider Jerusalem is forced to return to a job that he hates and a city that he loathes. Working as an investigative reporter for the newspaper The Word, Spider attacks the injustices of his surreal 23rd Century surroundings. Combining black humor, life-threatening situations, and moral ambiguity, this book is the first look into the mind of an outlaw journalist and the world he seeks to destroy.
 
 ## Links
 
