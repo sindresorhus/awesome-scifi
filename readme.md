@@ -69,17 +69,18 @@ This intense linguistic thriller will change the way you think about language. -
 Now more than a century old, has that unique writing style you can only find in adventure classics. - [@uraimo](https://github.com/uraimo)
 
 Books:
- * [A Princess of Mars](https://www.goodreads.com/book/show/40395.A_Princess_of_Mars) [3.8]
- * [The Gods of Mars](https://www.goodreads.com/book/show/841973.The_Gods_of_Mars) [3.8]
- * [The Warlord of Mars](https://www.goodreads.com/book/show/40379.The_Warlord_of_Mars) [3.8]
- * [Thuvia, Maid of Mars](https://www.goodreads.com/book/show/40387.Thuvia_Maid_of_Mars) [3.7]
- * [The Chessmen of Mars](https://www.goodreads.com/book/show/40378.The_Chessmen_of_Mars) [3.7]
- * [The Master Mind of Mars](https://www.goodreads.com/book/show/40385.The_Master_Mind_of_Mars) [3.8]
- * [A Fighting Man of Mars](https://www.goodreads.com/book/show/40386.A_Fighting_Man_of_Mars) [3.8]
- * [Swords of Mars](https://www.goodreads.com/book/show/40376.Swords_of_Mars) [4.0]
- * [Synthetic Men of Mars](https://www.goodreads.com/book/show/40384.Synthetic_Men_of_Mars) [3.8]
- * [Llana of Gathol](https://www.goodreads.com/book/show/215954.Llana_of_Gathol) [3.7]
- * [John Carter of Mars](https://www.goodreads.com/book/show/40388.John_Carter_of_Mars) [3.8]
+
+- [A Princess of Mars](https://www.goodreads.com/book/show/40395.A_Princess_of_Mars) [3.8]
+- [The Gods of Mars](https://www.goodreads.com/book/show/841973.The_Gods_of_Mars) [3.8]
+- [The Warlord of Mars](https://www.goodreads.com/book/show/40379.The_Warlord_of_Mars) [3.8]
+- [Thuvia, Maid of Mars](https://www.goodreads.com/book/show/40387.Thuvia_Maid_of_Mars) [3.7]
+- [The Chessmen of Mars](https://www.goodreads.com/book/show/40378.The_Chessmen_of_Mars) [3.7]
+- [The Master Mind of Mars](https://www.goodreads.com/book/show/40385.The_Master_Mind_of_Mars) [3.8]
+- [A Fighting Man of Mars](https://www.goodreads.com/book/show/40386.A_Fighting_Man_of_Mars) [3.8]
+- [Swords of Mars](https://www.goodreads.com/book/show/40376.Swords_of_Mars) [4.0]
+- [Synthetic Men of Mars](https://www.goodreads.com/book/show/40384.Synthetic_Men_of_Mars) [3.8]
+- [Llana of Gathol](https://www.goodreads.com/book/show/215954.Llana_of_Gathol) [3.7]
+- [John Carter of Mars](https://www.goodreads.com/book/show/40388.John_Carter_of_Mars) [3.8]
 
 > Barsoom is planet Mars from American Edgar Rice Burroughs. First serialized as Under the Moons of Mars in 1912, published as A Princess of Mars in 1917. Dying Mars was based on outdated scientific ideas of canals. The savage, frontier world has honor, noble sacrifice and constant struggle, where martial prowess is paramount and races fight over dwindling resources.
 
@@ -101,7 +102,7 @@ This is a long book, but absolutely fantastic. It redefined for me the scale at 
 
 What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/RichardLitt)
 
->  Fred Cassidy, a perpetual student, scrounger, and acrophile, is the last known person to have seen an important stone that his friend had. Various criminals, Anglophile zealots, government agents and aliens torture, shoot, beat, trick, chase, terrorize, assault telepathically, stalk, and importune Fred in attempts to get him to tell them the location of the stone. He denies any knowledge of its whereabouts, and decides to make his own investigation.
+> Fred Cassidy, a perpetual student, scrounger, and acrophile, is the last known person to have seen an important stone that his friend had. Various criminals, Anglophile zealots, government agents and aliens torture, shoot, beat, trick, chase, terrorize, assault telepathically, stalk, and importune Fred in attempts to get him to tell them the location of the stone. He denies any knowledge of its whereabouts, and decides to make his own investigation.
 
 #### [Dune Chronicles](https://www.goodreads.com/series/45935-dune-chronicles) (1963-1994) *by [Frank Herbert](https://en.wikipedia.org/wiki/Frank_Herbert)* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
@@ -113,7 +114,7 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
 
 #### [Embassytown](https://www.goodreads.com/book/show/9265453-embassytown) (2011) *by [China Miéville](https://en.wikipedia.org/wiki/China_Mi%C3%A9ville)* [3.8]
 
->  In the far future, humans have colonized a distant planet, home to the enigmatic Ariekei, sentient beings famed for a language unique in the universe, one that only a few altered human ambassadors can speak.
+> In the far future, humans have colonized a distant planet, home to the enigmatic Ariekei, sentient beings famed for a language unique in the universe, one that only a few altered human ambassadors can speak.
 
 > Avice Benner Cho, a human colonist, has returned to Embassytown after years of deep-space adventure. She cannot speak the Ariekei tongue, but she is an indelible part of it, having long ago been made a figure of speech, a living simile in their language.
 
@@ -227,7 +228,7 @@ This book has a wonderful look at non-technological space travel and what paradi
 
 One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt)
 
->  The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organization called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organization, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
+> The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organization called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organization, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 
 #### [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) (1994) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.0]
 
@@ -299,9 +300,9 @@ Ursula Le Guin is an amazing writer, and this is one of her seminal works. It ex
 
 > Embracing the aspects of psychology, society, and human emotion on an alien world, The Left Hand of Darkness stands as a landmark achievement in the annals of intellectual science fiction.
 
-#### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* [4.0]  
+#### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* [4.0]
 
-This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. The follow-up book: "[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)", is great as well.  - [@sylvarant](https://github.com/sylvarant)
+This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. The follow-up book: "[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)", is great as well. - [@sylvarant](https://github.com/sylvarant)
 
 > Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
 
@@ -549,7 +550,7 @@ This series of books is well worth a read, I couldn't put it down once I got int
 
 Also, the first book is available free on Kindle, so it won't cost you anything to check it out - except maybe a Kindle. - [@elektrovert](https://github.com/elektrovert)
 
->  This Omnibus Edition collects the five _Wool_ books into a single volume. It is for those who arrived late to the party and who wish to save a dollar or two while picking up the same stories in a single package.
+> This Omnibus Edition collects the five _Wool_ books into a single volume. It is for those who arrived late to the party and who wish to save a dollar or two while picking up the same stories in a single package.
 
 > This is the story of mankind clawing for survival, of mankind on the edge. The world outside has grown unkind, the view of it limited, talk of it forbidden. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they profess to want: They are allowed outside.
 
@@ -902,7 +903,7 @@ Hard-as-nails science fiction, but wonderfully fresh and imaginative (especially
 
 You will never think about ants the same way again. - [@uraimo](https://github.com/uraimo)
 
->  Simak's "City" is a series of connected stories, a series of legends, myths, and campfire stories told by Dogs about the end of human civilization, centering on the Webster family, who, among their other accomplishments, designed the ships that took Men to the stars and gave Dogs the gift of speech and robots to be their hands.
+> Simak's "City" is a series of connected stories, a series of legends, myths, and campfire stories told by Dogs about the end of human civilization, centering on the Webster family, who, among their other accomplishments, designed the ships that took Men to the stars and gave Dogs the gift of speech and robots to be their hands.
 
 #### [I, Robot](https://www.goodreads.com/book/show/41804.I_Robot) (1950) *by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)* [4.1] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
@@ -958,7 +959,7 @@ I think of these stories often; The Death of Dr. Island won a Nebula and offers 
 
 #### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]
 
-Categories: `space` `ai` `singularity`  
+Categories: `space` `ai` `singularity`<br>
 Director: _Stanley Kubrick_
 
 Cinematically, this movie is a masterpiece. This is one of the few films on this list that is important as a film in itself, not just to the genre. From the beginning to the end, it is captivating - if you don't mind a bit of a slower pace than most of the other films on here. - [@RichardLitt](https://github.com/RichardLitt)
@@ -987,7 +988,7 @@ One of the first mainstream anime movies. Psychologically horrifying in more tha
 
 #### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
-Categories: `dystopia` `ai` `cyberpunk` `singularity`  
+Categories: `dystopia` `ai` `cyberpunk` `singularity`<br>
 Director: _Ridley Scott_
 
 Very few films can stand up to as many rewatches as this film can - there are layers upon layers, and the bleak image of the future hasn't lost its power in the thirty years the film has been around. This was a reworking of the Phillip K. Dick book (above), but without a lot of unnecessary or largely spurious subplots, and it focuses much more on identity, sexuality, and the psychological ramifications of technology. A masterpiece. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1018,7 +1019,7 @@ Imagine a world where no baby has been born for 18 years because of the global h
 
 Absolutely beautiful film. The cinematography is fantastic; Michael Caine has a memorable and well-played role (as ever, I mean, he's Michael Caine); and the soundtrack is spectacular, with both Radiohead's _Life in a Glasshouse_ and King Crimson's _The Court of the Crimson King_ actually managing to work in the same film. The best. - [@RichardLitt](https://github.com/RichardLitt)
 
->  In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.
+> In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.
 
 #### [Coherence](http://www.imdb.com/title/tt2866360/) (2013) [7.1]
 
@@ -1026,8 +1027,8 @@ Absolutely beautiful film. The cinematography is fantastic; Michael Caine has a 
 
 #### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
 
-Categories: `aliens` `thriller`  
-Director: _Neill Blomkamp_  
+Categories: `aliens` `thriller`<br>
+Director: _Neill Blomkamp_<br>
 Writer: _Neill Blomkamp, Terri Tatchell_
 
 :+1: I liked it. Very original. - [@sindresorhus](https://github.com/sindresorhus)
@@ -1042,7 +1043,7 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 #### [Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]
 
-Categories: `space` `aliens`  
+Categories: `space` `aliens`<br>
 Director: _David Lynch_
 
 This is based on the Dune book by Herbert, listed above. This version is legendary - it has Patrick Stewart and Sting as actors, and David Lynch's direction is weird and weighty. The soundtrack, by Toto, is good enough to stand on its own. I can't imagine reading the books without thinking of this viewing. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1061,7 +1062,7 @@ It was pretty good, the premise is quiet interesting, and the acting was quite g
 
 I thought it was great, and I was a bit anxious about there being so many scenes repeating the same thing, but it worked! - [@tjFogarty](https://github.com/tjFogarty)
 
->  A military officer is brought into an alien war against an extraterrestrial enemy who can reset the day and know the future. When this officer is enabled with the same power, he teams up with a Special Forces warrior to try and end the war.
+> A military officer is brought into an alien war against an extraterrestrial enemy who can reset the day and know the future. When this officer is enabled with the same power, he teams up with a Special Forces warrior to try and end the war.
 
 #### [Eraserhead](http://www.imdb.com/title/tt0074486/) (1977) [7.4]
 
@@ -1095,7 +1096,7 @@ If you've heard of Star Trek, and like comedy, this is for you - the entire film
 
 Categories: `biopunk` `space`
 
-This film gets more relevant every year. Slow at times, the questions it raises are especially pertinent as your data becomes more important to insurance companies and governments, and as Western culture is increasingly becoming aware of genetic advantages and privilege.  - [@RichardLitt](https://github.com/RichardLitt)
+This film gets more relevant every year. Slow at times, the questions it raises are especially pertinent as your data becomes more important to insurance companies and governments, and as Western culture is increasingly becoming aware of genetic advantages and privilege. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
@@ -1173,7 +1174,7 @@ This is the kind of film that sells out art houses when someone finds an early r
 
 Categories: `ai` `police`
 
-Predicting future crimes? Sure, I am all for it, _until_ they make a mistake and implicate the hero himself. After watching the movie, you could be thinking, _we_ should probably not try to predict the future! Nevertheless, great movie!  - [@icyflame](https://github.com/icyflame)
+Predicting future crimes? Sure, I am all for it, _until_ they make a mistake and implicate the hero himself. After watching the movie, you could be thinking, _we_ should probably not try to predict the future! Nevertheless, great movie! - [@icyflame](https://github.com/icyflame)
 
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
@@ -1241,7 +1242,7 @@ Categories: `apocalypse` `action`
 
 #### [Solaris](http://www.imdb.com/title/tt0069293/) (1972) [8.1]
 
-Categories: `space` `drama`  
+Categories: `space` `drama`<br>
 Director: _Andrei Tarkovsky_
 
 This is the original film based on the book. It is much slower than the remake, but a classic. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1250,7 +1251,7 @@ This is the original film based on the book. It is much slower than the remake, 
 
 #### [Solaris](http://www.imdb.com/title/tt0307479/) (2002) [6.2]
 
-Categories: `space` `drama`  
+Categories: `space` `drama`<br>
 Director: _Steven Soderbergh_
 
 Starring George Clooney and Natasha McElhone, this is much more of a modern psychodrama with fantastic shots and a more colored atmosphere than the original film. The original score by Cliff Martinez really adds to the film, and is great on its own. One of my favorite films. - [@RichardLitt](https://github.com/RichardLitt)
@@ -1333,7 +1334,7 @@ Categories: `ai`
 
 A love story between a woman and her husband uploaded into a computer. What makes the movie a bit scary is that, although a bit unrealistic, it is placed in a near future. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
->  A scientist’s drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
+> A scientist’s drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
 #### [Twelve Monkeys](http://www.imdb.com/title/tt0114746/) (1996) [8.1]
 
@@ -1387,7 +1388,7 @@ This show. Watch this show. It's military science fiction done right. The interp
 
 Categories: `drama` `thriller`
 
->  A television anthology series that shows the dark side of life and technology.
+> A television anthology series that shows the dark side of life and technology.
 
 #### [Blakes 7](http://www.imdb.com/title/tt0076987/) (1978–1981) [8.0]
 
@@ -1547,7 +1548,7 @@ Categories: `drama` `fantasy` `horror`
 
 ## Comic books
 
-#### [Saga](https://imagecomics.com/comics/series/saga) (2014-)  *by Brian K. Vaughan*
+#### [Saga](https://imagecomics.com/comics/series/saga) (2014-) *by Brian K. Vaughan*
 
 Categories: `fantasy` `sci-fi` `space-opera`
 
@@ -1595,15 +1596,18 @@ One of the most anarchistic comics I ever read. Transmetropolitan has no mercy f
 
 > After years of self-imposed exile from a civilization rife with degradation and indecency, cynical journalist Spider Jerusalem is forced to return to a job that he hates and a city that he loathes. Working as an investigative reporter for the newspaper The Word, Spider attacks the injustices of his surreal 23rd Century surroundings. Combining black humor, life-threatening situations, and moral ambiguity, this book is the first look into the mind of an outlaw journalist and the world he seeks to destroy.
 
+
 ## Links
 
-* [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319)  - Hacker News
-* [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
-* [Top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
+- [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
+- [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
+- [Top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
+
 
 ## Credit
 
 Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marvelous humanoids](https://github.com/sindresorhus/awesome-scifi/graphs/contributors).
+
 
 ## License
 
