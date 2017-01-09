@@ -1005,7 +1005,7 @@ If you're looking to replicate the experience of taking acid without actually do
 
 Categories: `space` `dystopia`
 
-Why not try something out of the ordinary with this Swizz sci-fi thriller? [@Lekoaf](https://github.com/lekoaf)
+Why not try something out of the ordinary with this Swiss sci-fi thriller? [@Lekoaf](https://github.com/lekoaf)
 
 > In 2270, Earth is completely depleted and no one lives there anymore. Those that have money move to Rhea; but most of the population lives in orbit in space stations. Dr. Laura Portmann decides to work in the cargo ship Kassandra in an eight year travel to Station 42 that is in orbit of RH278 to raise money to meet her sister Arianne in Rhea.
 
