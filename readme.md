@@ -986,6 +986,15 @@ One of the first mainstream anime movies. Psychologically horrifying in more tha
 
 > A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psionic psychopath that only two kids and a group of psionics can stop.
 
+#### [Arrival](http://www.imdb.com/title/tt2543164/) (2016) [8.3]
+
+Categories: `aliens`<br />
+Director: _Denis Villeneuve_
+
+A beautiful film, weaving together memory, languages, and the other. The film is less about aliens and more about our perception of them; like District 9, this film functions as a good mirror for how different people and governments deal with alien interaction. The music is also exceptional. - [@RichardLitt](https://github.com/RichardLitt)
+
+> When 12 mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.  
+
 #### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
 Categories: `dystopia` `ai` `cyberpunk` `singularity`<br>
