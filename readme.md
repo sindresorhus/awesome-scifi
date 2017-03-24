@@ -300,11 +300,22 @@ Ursula Le Guin is an amazing writer, and this is one of her seminal works. It ex
 
 > Embracing the aspects of psychology, society, and human emotion on an alien world, The Left Hand of Darkness stands as a landmark achievement in the annals of intellectual science fiction.
 
-#### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)* [4.0]
+#### [Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)*
+
+##### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) [4.0]
 
 This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. The follow-up book: "[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)", is great as well. - [@sylvarant](https://github.com/sylvarant)
 
 > Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
+
+##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]  
+
+> In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret. 
+
+##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.5]
+
+> Now this epic trilogy concludes with Death's End. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.
+
 
 #### [The War of the Worlds](https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds) (1898) *by [H. G. Wells](https://en.wikipedia.org/wiki/H._G._Wells)* [3.8] 🌟 🔥
 
