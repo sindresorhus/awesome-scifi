@@ -302,6 +302,8 @@ Ursula Le Guin is an amazing writer, and this is one of her seminal works. It ex
 
 #### [Remembrance of Earth's Past Trilogy](https://www.goodreads.com/series/189931-remembrance-of-earth-s-past) (2014-2016) *by [Liu Cixin](https://en.wikipedia.org/wiki/Liu_Cixin)*
 
+Although each part can be read independently, the whole trilogy has a consistent story line which happens in a very huge time-space context and the first just a beginning. The later two are especially much more hardcore and dramatical, however, gloomy as well. While the first one got the Hugo Award, I'd like to say that it really worth a try for the whole trilogy, don't miss the later two.  - [@cp4](https://github.com/cp4)
+
 ##### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) [4.0]
 
 This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. The follow-up book: "[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)", is great as well. - [@sylvarant](https://github.com/sylvarant)
