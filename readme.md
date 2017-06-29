@@ -1578,6 +1578,14 @@ Categories: `drama` `fantasy` `horror`
 
 ## Comic books
 
+#### [Alex + Ada](https://www.goodreads.com/book/show/30896668-alex-ada) (2013-2015) *by [Jonathan Luna](https://en.wikipedia.org/wiki/Luna_Brothers), [Sarah Vaughn](https://www.goodreads.com/author/show/7372180.Sarah_Vaughn)* [4.11]
+
+Categories: `ai` `drama` `sci-fi`
+
+Alex + Ada is a thought provoking and moving exploration of what it means to be alive, and what rights can and should be afforded to non-human sentient beings. It's a short and effective near-future look at the obligations we have to both each other and to the intelligent life we create. - [@thejessleigh](https://github.com/thejessleigh)
+
+> From JONATHAN LUNA (THE SWORD, GIRLS, Spider-Woman: Origin) and SARAH VAUGHN (Sparkshooter, Ruined) comes ALEX + ADA, a sci-fi/drama set in the near future. The last thing in the world Alex wanted was an X5, the latest in realistic androids. But after Ada is dropped into his life, he discovers she is more than just a robot. Alex takes a huge risk to unlock Ada so she can think for herself and explore life as a sentient android.
+
 #### [Saga](https://imagecomics.com/comics/series/saga) (2014-) *by Brian K. Vaughan*
 
 Categories: `fantasy` `sci-fi` `space-opera`
