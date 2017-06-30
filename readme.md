@@ -1592,13 +1592,13 @@ Alex + Ada is a thought provoking and moving exploration of what it means to be 
 
 > From JONATHAN LUNA (THE SWORD, GIRLS, Spider-Woman: Origin) and SARAH VAUGHN (Sparkshooter, Ruined) comes ALEX + ADA, a sci-fi/drama set in the near future. The last thing in the world Alex wanted was an X5, the latest in realistic androids. But after Ada is dropped into his life, he discovers she is more than just a robot. Alex takes a huge risk to unlock Ada so she can think for herself and explore life as a sentient android.
 
-#### [Saga](https://imagecomics.com/comics/series/saga) (2014-) *by Brian K. Vaughan*
+#### [Arzach](http://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius*
 
-Categories: `fantasy` `sci-fi` `space-opera`
+Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
 
-Saga is a comic that is an elevator pitch proof. It's impossible to describe it in a sentence. All I can say is that it's a beautifully written and drawn story about love and family, in a very interesting space opera-like world. It's kinda like Star Wars, but not at all. While in Star Wars the heroes are in a huge journey to end the war, in Saga they just want to be left alone to live with their family. - [@matheusteixeira](https://github.com/matheusteixeira)
+One of the most influential french sci-fi comics. It inspired a lot of what became Heavy Metal Magazine. Moebius in this onirical tale uses no words to this graphical prose. - [@matheusteixeira](https://github.com/matheusteixeira)
 
-> Saga is an epic space opera/fantasy comic book series created by writer Brian K. Vaughan and artist Fiona Staples, published monthly by Image Comics. The series is heavily influenced by Star Wars, and based on ideas Vaughan conceived both as a child and as a parent. It depicts two lovers from long-warring extraterrestrial races, Alana and Marko, fleeing authorities from both sides of a galactic war as they struggle to care for their newborn daughter, Hazel, who occasionally narrates the series.
+> Arzach fut une révolution pour la bande dessinée de l'époque. Elle est constituée d'une série de cinq histoires autonomes, sortes de « nouvelles graphiques » de quelques planches chacune. Sa particularité réside tout d'abord en son absence totale de dialogues : on y croise un voire deux personnages récurrents (Arzach et son Ptéroïde, sorte de ptérodactyle) mais apparemment muets, en tout cas l'auteur ne leur autorise pas la parole pour s'exprimer.
 
 #### [Global Frequency](http://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis*
 
@@ -1616,21 +1616,13 @@ Mind boggling, crazy high concepts based on historical events. - [@matheusteixei
 
 > What if the research and development department created to produce the first atomic bomb was a front for a series of other, more unusual, programs?
 
-#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison*
+#### [Saga](https://imagecomics.com/comics/series/saga) (2014-) *by Brian K. Vaughan*
 
-Categories: `hard-science-fiction` `sci-fi` `society`
+Categories: `fantasy` `sci-fi` `space-opera`
 
-One of the most emotional stories I ever read. We3 is a very visceral and incredibly well drawn tale of freedom. - [@matheusteixeira](https://github.com/matheusteixeira)
+Saga is a comic that is an elevator pitch proof. It's impossible to describe it in a sentence. All I can say is that it's a beautifully written and drawn story about love and family, in a very interesting space opera-like world. It's kinda like Star Wars, but not at all. While in Star Wars the heroes are in a huge journey to end the war, in Saga they just want to be left alone to live with their family. - [@matheusteixeira](https://github.com/matheusteixeira)
 
-> Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
-
-#### [Arzach](http://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius*
-
-Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
-
-One of the most influential french sci-fi comics. It inspired a lot of what became Heavy Metal Magazine. Moebius in this onirical tale uses no words to this graphical prose. - [@matheusteixeira](https://github.com/matheusteixeira)
-
-> Arzach fut une révolution pour la bande dessinée de l'époque. Elle est constituée d'une série de cinq histoires autonomes, sortes de « nouvelles graphiques » de quelques planches chacune. Sa particularité réside tout d'abord en son absence totale de dialogues : on y croise un voire deux personnages récurrents (Arzach et son Ptéroïde, sorte de ptérodactyle) mais apparemment muets, en tout cas l'auteur ne leur autorise pas la parole pour s'exprimer.
+> Saga is an epic space opera/fantasy comic book series created by writer Brian K. Vaughan and artist Fiona Staples, published monthly by Image Comics. The series is heavily influenced by Star Wars, and based on ideas Vaughan conceived both as a child and as a parent. It depicts two lovers from long-warring extraterrestrial races, Alana and Marko, fleeing authorities from both sides of a galactic war as they struggle to care for their newborn daughter, Hazel, who occasionally narrates the series.
 
 #### [Transmetropolitan](http://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis*
 
@@ -1640,6 +1632,13 @@ One of the most anarchistic comics I ever read. Transmetropolitan has no mercy f
 
 > After years of self-imposed exile from a civilization rife with degradation and indecency, cynical journalist Spider Jerusalem is forced to return to a job that he hates and a city that he loathes. Working as an investigative reporter for the newspaper The Word, Spider attacks the injustices of his surreal 23rd Century surroundings. Combining black humor, life-threatening situations, and moral ambiguity, this book is the first look into the mind of an outlaw journalist and the world he seeks to destroy.
 
+#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison*
+
+Categories: `hard-science-fiction` `sci-fi` `society`
+
+One of the most emotional stories I ever read. We3 is a very visceral and incredibly well drawn tale of freedom. - [@matheusteixeira](https://github.com/matheusteixeira)
+
+> Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
 
 ## Links
 
