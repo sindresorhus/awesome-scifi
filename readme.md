@@ -310,9 +310,9 @@ This book is not just filled to the brim with interesting and novel ideas about 
 
 > Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
 
-##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]  
+##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]
 
-> In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret. 
+> In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
 
 ##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.5]
 
@@ -833,6 +833,12 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 
 > Powerful unforeseen forces jeopardize the peaceful stability of mathic life and the established ennui of the Extramuros—a threat that only an unsteady alliance of saecular and avout can oppose—as, one by one, Erasmas and his colleagues, teachers, and friends are summoned forth from the safety of the concent in hopes of warding off global disaster. Suddenly burdened with a staggering responsibility, Erasmas finds himself a major player in a drama that will determine the future of his world—as he sets out on an extraordinary odyssey that will carry him to the most dangerous, inhospitable corners of the planet… and beyond.
 
+#### [Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go) (2005) *by [Kazuo Ishiguro](https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro)* [3.8] 🔥
+
+A heartbreaking coming of age novel with a speculative, mysterious twist. Definitely a character-driven story. - [@sunrein](https://github.com/sunrein)
+
+> As children, Kathy, Ruth, and Tommy were students at Hailsham, an exclusive boarding school secluded in the English countryside. It was a place of mercurial cliques and mysterious rules where teachers were constantly reminding their charges of how special they were. Now, years later, Kathy is a young woman. Ruth and Tommy have reentered her life, and for the first time she is beginning to look back at their shared past and understand just what it is that makes them special— and how that gift will shape the rest of their time together.
+
 #### [Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land) (1961) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [3.9] 🌟 🔥
 
 > NAME: Valentine Michael Smith
@@ -1006,7 +1012,7 @@ Director: _Denis Villeneuve_
 
 A beautiful film, weaving together memory, languages, and the other. The film is less about aliens and more about our perception of them; like District 9, this film functions as a good mirror for how different people and governments deal with alien interaction. The music is also exceptional. - [@RichardLitt](https://github.com/RichardLitt)
 
-> When 12 mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.  
+> When 12 mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.
 
 #### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
