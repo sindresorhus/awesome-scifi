@@ -657,6 +657,14 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 
 #### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) *by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)* [4.3] <img src="https://i.imgur.com/yJaoHfh.png" width="30px"> <img src="https://i.imgur.com/iA6WScw.png" width="30px">
 
+I’ve lost count of the amount of times I have read _Ender’s Game_. I generally read it around once a year, at least. It is part of a larger series, including _Speaker for the Dead_, and _Xenocide_ - follow-ups which build on _Ender’s Game_ and which are, in their own right, great books. _EG_ was originally just a short story, a kind of prequel to the themes spoken of in _Speaker for the Dead_. It shows Card’s talent that he was able to so fluently make it a stand-alone book.
+
+I love _Ender’s Game_. All things considered, this is not a book about emotional development, or about coming of age. It’s not about taking on the weight of the world. Rather, this is a book about strategy. More happens in the gaps between the pages than in the chapters themselves - taking the time to figure out how Ender worked out an advantage in a game room, and how you would have done it, is an incredibly rewarding experience. Every now and then, there is a wonderful feeling of ‘Damn, I wish I had done that! So smart.’  And, as Card notes in the prologue:
+
+> Fiction, because it is not about somebody who actually lived in the real world, always has the possibility of being about ourself.
+
+So, you’re able to share in Ender’s cleverness, too. That’s what makes this book a fun read. - [@RichardLitt](https://github.com/RichardLitt)
+
 > In order to develop a secure defense against a hostile alien race’s next attack, government agencies breed child geniuses and train them as soldiers. A brilliant young boy—Andrew “Ender” Wiggin—lives with his kind but distant parents, his sadistic brother Peter, and the person he loves more than anyone else, his sister Valentine. Peter and Valentine were candidates for the soldier-training program but didn’t make the cut—young Ender is the Wiggin drafted to the orbiting Battle School for rigorous military training.
 
 > Ender’s skills make him a leader in school and respected in the Battle Room, where children play at mock battles in zero gravity. Yet growing up in an artificial community of young soldiers Ender suffers greatly from isolation, rivalry from his peers, pressure from the adult teachers, and an unsettling fear of the alien invaders. His psychological battles include loneliness, fear that he is becoming like the cruel brother he remembers, and fanning the flames of devotion to his beloved sister.
