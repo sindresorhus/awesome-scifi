@@ -646,6 +646,12 @@ This has a particularly arid and inspired view of humanity after a nuclear holoc
 
 > In a nightmarish ruined world slowly awakening to the light after sleeping in darkness, the infant rediscoveries of science are secretly nourished by cloistered monks dedicated to the study and preservation of the relics and writings of the blessed Saint Isaac Leibowitz. From here the story spans centuries of ignorance, violence, and barbarism, viewing through a sharp, satirical eye the relentless progression of a human race damned by its inherent humanness to recelebrate its grand foibles and repeat its grievous mistakes. Seriously funny, stunning, and tragic, eternally fresh, imaginative, and altogether remarkable, _A Canticle for Leibowitz_ retains its ability to enthrall and amaze. It is now, as it always has been, a masterpiece.
 
+#### [Borne](https://www.goodreads.com/book/show/31451186-borne) (2017) *by [Jeff VanderMeer](https://en.wikipedia.org/wiki/Jeff_VanderMeer)* [4.0]
+
+A weird, beautiful book, reminiscent of Lovecraft, Stephen King, and Brautigan's _Watermelon Sugar_ all wrapped up in a post-apocalyptic landscape populated by poisonous fire-breathing bears and deprecated biotech. This book is a survival story - how to hang on to the edges of civilization, and what that means for humanity. It also questions identity, love, mothering, and meaning itself. Some of the passages were astoundingly beautiful, and as much as the world would be an awful place to live in, I found myself missing it when I finished. - [@RichardLitt](https://github.com/RichardLitt)
+
+> In the ruins of a nameless city of the future, ruled by a giant grizzly called Mord, a woman named Rachel lives as a scavenger, collecting genetically engineered organisms and experiments created by the biotech firm the Company. Hidden in Mord's fur, she finds a sea anemone shaped creature she calls Borne.
+
 #### [Do Androids Dream of Electric Sheep?](https://www.goodreads.com/book/show/7083.Do_Androids_Dream_of_Electric_Sheep_) (1968) *by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)* [4.1] 🌟 🔥
 
 > A final, apocalyptic, world war has killed millions, driving entire species into extinction and sending the majority of mankind off-planet. Those who remain, venerate all remaining examples of life, and owning an animal of your own is both a symbol of status and a necessity. For those who can’t afford an authentic animal, companies build incredibly realistic simulacrae: horses, birds, cats, sheep… even humans.
