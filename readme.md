@@ -1530,7 +1530,7 @@ Categories: `action` `drama`
 
 Categories: `action` `adventure` `drama`
 
-Well worth the 9000+ hours you'll need to watch all the series. Finally a series where the human race, starting from a position of abysmal inferiority, defeats superior enemies against all odds with a mix of cleverness and intelligent exploitation of alien technology. - [@uraimo](https://github.com/uraimo)
+Well worth the 9000+ minutes you'll need to watch all the series. Finally a series where the human race, starting from a position of abysmal inferiority, defeats superior enemies against all odds with a mix of cleverness and intelligent exploitation of alien technology. - [@uraimo](https://github.com/uraimo)
 
 > A secret military team, SG-1, is formed to explore the recently discovered Stargates.
 
