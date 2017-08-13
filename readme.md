@@ -466,6 +466,8 @@ I think of this book often, even though initially I had consigned it as a cheap 
 
 #### [The Diamond Age: Or, A Young Lady’s Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) (1995) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]
 
+This book had me looking up more words than any book had me do for a long time. A mildly interesting story, with cunning turns and twists, in a very interesting world. What suprised me most was that the book already foresaw cryptocurrencies, 3d-printers and fleets of UAV's while already being 20+ years old. - [@fritzvd](https://github.com/fritzvd)
+
 > _The Diamond Age: Or, A Young Lady’s Illustrated Primer_ is a postcyberpunk novel by Neal Stephenson. It is to some extent a science fiction coming-of-age story, focused on a young girl named Nell, and set in a future world in which nanotechnology affects all aspects of life. The novel deals with themes of education, social class, ethnicity, and the nature of artificial intelligence.
 
 #### [The Stars My Destination](https://www.goodreads.com/book/show/333867.The_Stars_My_Destination) (1955) *by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester)* [4.2]
@@ -516,6 +518,8 @@ A classic, beautiful book. A short read that does a good job of making the reade
 > Bradbury’s powerful and poetic prose combines with uncanny insight into the potential of technology to create a novel which, decades on from first publication, still has the power to dazzle and shock.
 
 #### [Oryx and Crake](https://www.goodreads.com/series/55674-maddaddam) (2003, 2009, 2013) *by [Margaret Atwood](https://en.wikipedia.org/wiki/Margaret_Atwood)* [4.0] 🔥
+
+This book is a wonderfully constructed tale that can be seen as warning for an age where genetic engineering is up and coming and we haven't the faintest clue where this might lead us. I loved it to bits and only found out there was a sequel by reading about the final episode coming out when I was well done with the first part and devoured the other two as eagerly as the first. That said, I find the first the best of the three books. - [@fritzvd](https://github.com/fritzvd)
 
 > _Oryx and Crake_ is at once an unforgettable love story and a compelling vision of the future. Snowman, known as Jimmy before mankind was overwhelmed by a plague, is struggling to survive in a world where he may be the last human, and mourning the loss of his best friend, Crake, and the beautiful and elusive Oryx whom they both loved. In search of answers, Snowman embarks on a journey–with the help of the green-eyed Children of Crake–through the lush wilderness that was so recently a great city, until powerful corporations took mankind on an uncontrolled genetic engineering ride. Margaret Atwood projects us into a near future that is both all too familiar and beyond our imagining.
 
