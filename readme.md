@@ -1079,6 +1079,15 @@ Absolutely beautiful film. The cinematography is fantastic; Michael Caine has a 
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
 
+#### [Contact](http://www.imdb.com/title/tt0118884/) (1997) [7.4]
+
+Categories: `aliens` `space` `drama` `mystery` `thriller`<br>
+Director: _Robert Zemeckis_<br>
+
+Based on a novel by the fantastic Carl Sagan, this is a painstakingly realistic piece of sci-fi art. - [@abhineet97](https://github.com/abhineet97)
+
+> Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.
+
 #### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
 
 Categories: `aliens` `thriller`<br>
