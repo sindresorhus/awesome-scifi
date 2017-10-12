@@ -1619,7 +1619,7 @@ Alex + Ada is a thought provoking and moving exploration of what it means to be 
 
 > From JONATHAN LUNA (THE SWORD, GIRLS, Spider-Woman: Origin) and SARAH VAUGHN (Sparkshooter, Ruined) comes ALEX + ADA, a sci-fi/drama set in the near future. The last thing in the world Alex wanted was an X5, the latest in realistic androids. But after Ada is dropped into his life, he discovers she is more than just a robot. Alex takes a huge risk to unlock Ada so she can think for herself and explore life as a sentient android.
 
-#### [Arzach](http://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius*
+#### [Arzach](http://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius* [4.06]
 
 Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
 
@@ -1627,7 +1627,7 @@ One of the most influential french sci-fi comics. It inspired a lot of what beca
 
 > Arzach fut une révolution pour la bande dessinée de l'époque. Elle est constituée d'une série de cinq histoires autonomes, sortes de « nouvelles graphiques » de quelques planches chacune. Sa particularité réside tout d'abord en son absence totale de dialogues : on y croise un voire deux personnages récurrents (Arzach et son Ptéroïde, sorte de ptérodactyle) mais apparemment muets, en tout cas l'auteur ne leur autorise pas la parole pour s'exprimer.
 
-#### [Global Frequency](http://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis*
+#### [Global Frequency](http://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis* [4.05]
 
 Categories: `hard-science-fiction` `sci-fi`
 
@@ -1635,7 +1635,7 @@ Global Frequency is a very livid, strong, and fast-paced adventure/action-packed
 
 > Created by Entertainment Weekly "It" writer, Global Frequency is a worldwide rescue organization that offers the last shred of hope when all other options have failed. Manned by 1001 operatives, the Frequency is made up of experts in fields as diverse as bio-weapon engineering and Le Parkour Running. Each agent-equipped with a special mobile vid-phone-is speciffically chosen by Miranda Zero, enigmatic leader of the Global Frequency, based on proximity, expertise, and, in some cases, sheer desperation!
 
-#### [The Manhattan Projects](http://www.goodreads.com/book/show/15736709-the-manhattan-projects-volume-1) (2015-) *by Jonathan Hickman*
+#### [The Manhattan Projects](http://www.goodreads.com/book/show/15736709-the-manhattan-projects-volume-1) (2015-) *by Jonathan Hickman* [3.9]
 
 Categories: `hard-science-fiction` `sci-fi`
 
@@ -1643,7 +1643,7 @@ Mind boggling, crazy high concepts based on historical events. - [@matheusteixei
 
 > What if the research and development department created to produce the first atomic bomb was a front for a series of other, more unusual, programs?
 
-#### [Saga](https://imagecomics.com/comics/series/saga) (2014-) *by Brian K. Vaughan*
+#### [Saga](https://www.goodreads.com/book/show/17131869-saga-vol-2) (2014-) *by Brian K. Vaughan* [4.56]
 
 Categories: `fantasy` `sci-fi` `space-opera`
 
@@ -1651,7 +1651,7 @@ Saga is a comic that is an elevator pitch proof. It's impossible to describe it 
 
 > Saga is an epic space opera/fantasy comic book series created by writer Brian K. Vaughan and artist Fiona Staples, published monthly by Image Comics. The series is heavily influenced by Star Wars, and based on ideas Vaughan conceived both as a child and as a parent. It depicts two lovers from long-warring extraterrestrial races, Alana and Marko, fleeing authorities from both sides of a galactic war as they struggle to care for their newborn daughter, Hazel, who occasionally narrates the series.
 
-#### [Transmetropolitan](http://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis*
+#### [Transmetropolitan](http://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis* [4.23]
 
 Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
 
@@ -1659,7 +1659,7 @@ One of the most anarchistic comics I ever read. Transmetropolitan has no mercy f
 
 > After years of self-imposed exile from a civilization rife with degradation and indecency, cynical journalist Spider Jerusalem is forced to return to a job that he hates and a city that he loathes. Working as an investigative reporter for the newspaper The Word, Spider attacks the injustices of his surreal 23rd Century surroundings. Combining black humor, life-threatening situations, and moral ambiguity, this book is the first look into the mind of an outlaw journalist and the world he seeks to destroy.
 
-#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison*
+#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison* [3.95]
 
 Categories: `hard-science-fiction` `sci-fi` `society`
 
