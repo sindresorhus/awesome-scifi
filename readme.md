@@ -1088,6 +1088,15 @@ Based on a novel by the fantastic Carl Sagan, this is a painstakingly realistic 
 
 > Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.
 
+#### [Dark City](http://www.imdb.com/title/tt0118929/) (1998) [7.7]
+
+Categories: `aliens` `mystery` `sci-fi` `thriller`<br>
+Director: _Alex Proyas_<br>
+
+Excellent neo-noir about a man trapped in a city permanently in nighttime. He suffers from amnesia, and he may or may not have killed several women. Both the police and a group of men called the Strangers are hot on his trail. I love the 1940s sci-fi setting and the plot full of mysteries. - [@CodeWritingCow](https://github.com/CodeWritingCow)
+
+> A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun.
+
 #### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
 
 Categories: `aliens` `thriller`<br>
