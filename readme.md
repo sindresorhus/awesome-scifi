@@ -713,6 +713,13 @@ A short and rather old post-apocalyptic story which remained stuck in my mind li
 
 _Novels featuring the use use of technology, mainly weapons, for military purposes and principal characters that are members of a military organization involved in military activity; sometimes occurring in outer space or other planets._
 
+#### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines)  (2013-) *by [Marko Kloos](http://www.markokloos.com/)* [4.05]
+A very entertaining military drama that has continued to grow on me, book by book. [@AlexKeyes](https://github.com/alex-keyes)
+>The year is 2108, and the North American Commonwealth is bursting at the seams. For welfare rats like Andrew Grayson, there are only two ways out of the crime-ridden and filthy welfare tenements, where you're restricted to two thousand calories of badly flavored soy every day
+>You can hope to win the lottery and draw a ticket on a colony ship settling off-world, or you can join the service.
+>With the colony lottery a pipe dream, Andrew chooses to enlist in the armed forces for a shot at real food, a retirement bonus, and maybe a ticket off Earth. But as he starts a career of supposed privilege, he soon learns that the good food and decent health care come at a steep price…and that the settled galaxy holds far greater dangers than military bureaucrats or the gangs that rule the slums.
+>The debut novel from Marko Kloos, Terms of Enlistment is a new addition to the great military sci-fi tradition of Robert Heinlein, Joe Haldeman, and John Scalzi.
+
 #### [Armor](https://www.goodreads.com/book/show/102327.Armor) (1984) *by [John Steakley](https://en.wikipedia.org/wiki/John_Steakley)* [4.12]
 
 Steakley puts his readers inside the mind of an armored soldier who lives in constant fear of being torn apart by the enemy he was sent to fight. The book plays brilliantly on our innate fear of bugs and describes the visceral terror of fighting a nearly unstoppable enemy. - [@phmullins](https://github.com/phmullins)
