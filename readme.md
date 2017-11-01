@@ -48,6 +48,16 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 ### Science Fiction
 
+#### [Bobiverse Series](https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob) (2016) *by [Dennis E. Taylor](https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor)* [4.35] 
+
+Like Accelerando, this series is an excellent exploration of posthumanism.  It also has themes of space exploration, references to various other series, and is all around a great amount of fun to read.  It's also free if you have kindle unlimited. - [@AlexKeyes](https://github.com/alex-keyes)
+
+>Bob Johansson has just sold his software company and is looking forward to a life of leisure. There are places to go, books to read, and movies to watch. So it's a little unfair when he gets himself killed crossing the street. 
+>Bob wakes up a century later to find that corpsicles have been declared to be without rights, and he is now the property of the state. He has been uploaded into computer hardware and is slated to be the controlling AI in an interstellar probe looking for habitable planets. The stakes are high: no less than the first claim to entire worlds. If he declines the honor, he'll be switched off, and they'll try again with someone else. If he accepts, he becomes a prime target. There are at least three other countries trying to get their own probes launched first, and they play dirty. 
+> The safest place for Bob is in space, heading away from Earth at top speed. Or so he thinks. Because the universe is full of nasties, and trespassers make them mad - very mad.
+
+
+
 #### [Accelerando](http://www.goodreads.com/book/show/17863.Accelerando) (2005) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9]
 
 Accelerando is an excellent exploration of Posthumanism. It's my go to recommendation for people wanting to read about that stuff. - [@erbridge](https://github.com/erbridge)
