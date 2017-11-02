@@ -1589,6 +1589,14 @@ In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a
 
 > Orbiting the liberated planet of Bajor, a Federation space station guards the opening of a stable wormhole to the far side of the galaxy.
 
+#### [Star Trek: Discovery](http://www.imdb.com/title/tt5171438/) (2017-) [7.3]
+
+Categories: `action` `adventure` `drama`
+
+While Discovery is fundamentally quite different from much of the Trek that's come before, its engagement with the franchise, and willingness to both celebrate and examine its core values, keep it true to that spirit. As the medium of television evolves, it's comforting to know that Star Trek is there to evolve right along with it. - [@augustopedro](https://github.com/augustopedro)
+
+> Ten years before Kirk, Spock and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.
+
 #### [Star Trek: Enterprise](http://www.imdb.com/title/tt0244365/) (2001–2005) [7.5]
 
 Categories: `action` `adventure` `mystery`
