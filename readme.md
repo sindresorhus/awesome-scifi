@@ -1624,6 +1624,14 @@ Plus, I'm not sure the franchise has ever quite topped the amazing chemistry bet
 
 > Captain James T. Kirk and the crew of the Starship Enterprise explore the Galaxy and defend the United Federation of Planets.
 
+#### [The Orville](https://www.imdb.com/title/tt5691552/) (2017–) [7.9]
+
+Categories: `adventure` `comedy` `drama`
+
+The Orville does an awesome job recreating the feeling of past Star Trek series. The look and feel is very TNG-era. Many episodes tackle modern day social issues like LGBTQ rights, social media and religion. The characters are interesting and relatable, since they talk and behave like real, imperfect people. Though the series has a comedic element, it doesn't interfere with the other messages, and we get a very good balance of sci-fi, humor, drama and moral. Highly recommended for (but not only) Trekkies. - [@GabiAxel](https://github.com/gabiaxel)
+
+> Follows the crew of the not-so-functional exploratory ship in the Earth's interstellar fleet, 400 years in the future.
+
 #### [The Prisoner](http://www.imdb.com/title/tt0061287/) (1967–1968) [8.8]
 
 Categories: `drama` `mystery`
