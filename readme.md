@@ -1550,6 +1550,14 @@ Categories: `animation` `action` `drama`
 
 > 15 years after the enormous catastrophe that killed half of the world population, another crisis has come—the unidentified invaders called “Angels” begin to attack human-kind. Mankind’s only hope lies with giant organic mecha and their teenage pilots.
 
+#### [Person of Interest](https://www.imdb.com/title/tt1839578/) (2011-2016) [8.5]
+
+Categories: `action` `crime` `drama` `artificial intelligence`
+
+Starting with crime prevention, the show progresses to gradually touching on AI and man's misuse of technology such as mass surveillance, which is the key focus. Add to that the complicated pasts of the two protagonists' government work and you have a genre defining TV Show standing apart from it's peers by tackling relevant issues in the modern digital era. "You are being watched." - [@AB1908](https://github.com/AB1908)
+
+> An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery. 
+
 #### [Red Dwarf](http://www.imdb.com/title/tt0094535/) (1988–1999, 2009– ) [8.5]
 
 Categories: `comedy`
