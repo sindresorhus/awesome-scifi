@@ -1204,7 +1204,7 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 Categories: `thriller`
 
-An independent movie showing how humans react and interact with the technologies that surround them, in this case, the world of video games in perfect virtual reality. - [@damaru2](https://github.com/damaru2)
+This is an independent movie, their budget wasn't very good and thus maybe the shots and the special effects are not the best, but it has all the good elements of a scifi movie and a thriller. I liked all the details about how the perfect virtual reality devices work and what the users feel when in game. - [@damaru2](https://github.com/damaru2)
 
 > A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.
 
@@ -1322,7 +1322,7 @@ This is one of the best drawn-out psychodrama films about space out there, along
 
 Categories: `drama` `romance`
 
-This is a tale about choice. We see a glimpse of the infinite possibilities of the protagonist's life. A myriad of stories are told, each of them a different possible life Mr. Nobody could have lived. The film also makes substantial use of chaos theory, string theory, and the butterfly effect to accentuate the lack of control that humanity as individuals possesses - [@damaru2](https://github.com/damaru2)
+This is one of my favourite movies. A myriad of stories are told: the different ramifications of how Mr. Nobody's life would have been if he had made different choices or if different things happened around him. What's best of this movie is that each of these __lifes__ is completely different (and __would have been equally meaningful__ :D) which means a lot of stuff is happening all the time and you have to follow what is going on now in this life, how it relates to its past which is probably another life shown in the movie and it's the common past of several of the lives you'll see. At the same time you have to understand the common theme of the movie, which I think it is what is trying to communicate after all. The end is surprising and difficult to grasp at first.  The film also makes substantial use of chaos theory and the butterfly effect to accentuate the lack of control that humanity as individuals possesses - [@damaru2](https://github.com/damaru2)
 
 > A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 
@@ -1468,7 +1468,7 @@ One of the most well known scifi films, this is a great expose on what people th
 
 Categories: `remake` `steampunk`
 
-> Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races. - [@damaru2](https://github.com/damaru2)
+> Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races. 
 
 #### [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/) (1999) [7.0]
 
