@@ -1117,7 +1117,7 @@ Absolutely beautiful film. The cinematography is fantastic; Michael Caine has a 
 
 Categories: `drama` `thriller`
 
-Several different independent stories told beautifully, each of them set in a different era.
+Several different independent stories told beautifully, each of them set in a different era. - [@damaru2](https://github.com/damaru2)
 
 > An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.
 
@@ -1204,7 +1204,7 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 Categories: `thriller`
 
-An independent movie showing how humans react and interact with the technologies that surround them, in this case, the world of video games in perfect virtual reality.
+An independent movie showing how humans react and interact with the technologies that surround them, in this case, the world of video games in perfect virtual reality. - [@damaru2](https://github.com/damaru2)
 
 > A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.
 
@@ -1264,7 +1264,7 @@ Categories: `cyberpunk`
 
 Categories: `ia` `crime`
 
-The name of this movie comes from the Asimov's book of the same name, which consists of science fiction short stories. The movie could perfectly be another of Asimov's stories. It mimics his style and shows an interesting movie posing questions about artificial intelligence, conscience and emotion.
+The name of this movie comes from the Asimov's book of the same name, which consists of science fiction short stories. The movie could perfectly be another of Asimov's stories. It mimics his style and shows an interesting movie posing questions about artificial intelligence, conscience and emotion. - [@damaru2](https://github.com/damaru2)
 
 > In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
 
@@ -1322,7 +1322,7 @@ This is one of the best drawn-out psychodrama films about space out there, along
 
 Categories: `drama` `romance`
 
-This is a tale about choice. We see a glimpse of the infinite possibilities of the protagonist's life. The film also makes substantial use of chaos theory, string theory, and the butterfly effect to accentuate the lack of control that humanity as individuals possesses.  It makes substantial use of chaos theory, string theory, and the butterfly effect to accentuate the lack of control that humanity as individuals possesses.
+This is a tale about choice. We see a glimpse of the infinite possibilities of the protagonist's life. A myriad of stories are told, each of them a different possible life Mr. Nobody could have lived. The film also makes substantial use of chaos theory, string theory, and the butterfly effect to accentuate the lack of control that humanity as individuals possesses - [@damaru2](https://github.com/damaru2)
 
 > A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 
@@ -1434,7 +1434,7 @@ This movie is ridiculous. Worth watching just for the amazing opera scene - the 
 
 Categories: `adventure` `comedy`
 
-Pretty much like the first book of the trilogy of five books with the same name, with some Holywood adaptations. (Why, Hollywood?). Very funny and enjoyable.
+Pretty much like the first book of the trilogy of five books with the same name, with some Holywood adaptations. (Why, Hollywood?). Very funny and enjoyable. - [@damaru2](https://github.com/damaru2)
 
 > Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of "The Hitchhiker's Guide to the Galaxy."
 
@@ -1468,7 +1468,7 @@ One of the most well known scifi films, this is a great expose on what people th
 
 Categories: `remake` `steampunk`
 
-> Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races.
+> Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races. - [@damaru2](https://github.com/damaru2)
 
 #### [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/) (1999) [7.0]
 
