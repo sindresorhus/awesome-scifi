@@ -1117,7 +1117,7 @@ Absolutely beautiful film. The cinematography is fantastic; Michael Caine has a 
 
 Categories: `drama` `thriller`
 
-Several different independent stories told beautifully, each of them set in a different era. - [@damaru2](https://github.com/damaru2)
+This is an awesome movie. It is a deep movie, with a complex plot. You don't want to be distracted while watching it. I liked how the six different stories played by different characters are played by the same actors and how the stories can be different but are linked by small things. Also, if you like non standard narratives this is your movie. - [@damaru2](https://github.com/damaru2)
 
 > An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.
 
@@ -1467,6 +1467,8 @@ One of the most well known scifi films, this is a great expose on what people th
 #### [The Time Machine](https://www.imdb.com/title/tt0268695/) (2002) [4.2]
 
 Categories: `remake` `steampunk`
+
+It is an entertaining and a well done movie with lots of scifi topics: time travels, artificial intelligence, a post apocalyptic world with a new race of humans and more. - [@damaru2](https://github.com/damaru2)
 
 > Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races. 
 
