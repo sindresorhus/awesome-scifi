@@ -1113,6 +1113,14 @@ Absolutely beautiful film. The cinematography is fantastic; Michael Caine has a 
 
 > In 2027, in a chaotic world in which women have become somehow infertile, a former activist agrees to help transport a miraculously pregnant woman to a sanctuary at sea.
 
+#### [Cloud Atlas](https://www.imdb.com/title/tt1371111/) (2012) [7.5]
+
+Categories: `drama` `thriller`
+
+This is an awesome movie. It is a deep movie, with a complex plot. You don't want to be distracted while watching it. I liked how the six different stories played by different characters are played by the same actors and how the stories can be different but are linked by small things. Also, if you like non standard narratives this is your movie. - [@damaru2](https://github.com/damaru2)
+
+> An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.
+
 #### [Coherence](http://www.imdb.com/title/tt2866360/) (2013) [7.1]
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
@@ -1192,6 +1200,14 @@ Kind of a parody about Google. The owner of a huge search provider creates an A.
 
 > A young programmer is selected to participate in a breakthrough experiment in artificial intelligence by evaluating the human qualities of a breathtaking female A.I.
 
+#### [eXistenZ](https://www.imdb.com/title/tt0120907/) (1999) [6.8]
+
+Categories: `thriller`
+
+This is an independent movie, their budget wasn't very good and thus maybe the shots and the special effects are not the best, but it has all the good elements of a scifi movie and a thriller. I liked all the details about how the perfect virtual reality devices work and what the users feel when in game. - [@damaru2](https://github.com/damaru2)
+
+> A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.
+
 #### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) (1999) [7.3]
 
 Categories: `comedy` `space` `aliens`
@@ -1244,6 +1260,14 @@ Categories: `cyberpunk`
 
 > A molecular biologist and his laboratory partner uncover evidence that may fundamentally change society as we know it.
 
+#### [I, Robot](https://www.imdb.com/title/tt0343818/) (2004) [7.1]
+
+Categories: `ia` `crime`
+
+The name of this movie comes from the Asimov's book of the same name, which consists of science fiction short stories. The movie could perfectly be another of Asimov's stories. It mimics his style and shows an interesting movie posing questions about artificial intelligence, conscience and emotion. - [@damaru2](https://github.com/damaru2)
+
+> In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
+
 #### [Inception](http://www.imdb.com/title/tt1375666/) (2010) [8.8]
 
 Categories: `cyberpunk`
@@ -1294,6 +1318,14 @@ This is one of the best drawn-out psychodrama films about space out there, along
 
 > Astronaut Sam Bell has a quintessentially personal encounter toward the end of his three-year stint on the Moon, where he, working alongside his computer, GERTY, sends back to Earth parcels of a resource that has helped diminish our planet’s power problems.
 
+#### [Mr. Nobody](https://www.imdb.com/title/tt0485947) (2009) [7.9]
+
+Categories: `drama` `romance`
+
+This is one of my favourite movies. A myriad of stories are told: the different ramifications of how Mr. Nobody's life would have been if he had made different choices or if different things happened around him. What's best of this movie is that each of these __lifes__ is completely different (and __would have been equally meaningful__ :D) which means a lot of stuff is happening all the time and you have to follow what is going on now in this life, how it relates to its past which is probably another life shown in the movie and it's the common past of several of the lives you'll see. At the same time you have to understand the common theme of the movie, which I think it is what is trying to communicate after all. The end is surprising and difficult to grasp at first.  The film also makes substantial use of chaos theory and the butterfly effect to accentuate the lack of control that humanity as individuals possesses - [@damaru2](https://github.com/damaru2)
+
+> A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+
 #### [Oblivion](http://www.imdb.com/title/tt1483013/) (2013) [7.0]
 
 Categories: `apocalypse`
@@ -1306,7 +1338,7 @@ A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andre
 
 Categories: `drama` `romance`
 
-The original spanish movie [Vanilla Sky](#vanilla-sky) was based on, way better acting, you should watch this first. - [@uraimo](https://github.com/uraimo)
+The original spanish movie [Vanilla Sky](#vanilla-sky-2001-69) was based on, way better acting, you should watch this first. - [@uraimo](https://github.com/uraimo)
 
 > A very handsome man finds the love of his life, but he suffers an accident and needs to have his face rebuilt by surgery after it is severely disfigured.
 
@@ -1398,6 +1430,14 @@ This movie is ridiculous. Worth watching just for the amazing opera scene - the 
 
 > In the colorful future, a cab driver unwittingly becomes the central figure in the search for a legendary cosmic weapon to keep Evil and Mr Zorg at bay.
 
+#### [The Hitchhiker’s Guide to the Galaxy](https://www.imdb.com/title/tt0371724/) (2005) [6.8]
+
+Categories: `adventure` `comedy`
+
+Pretty much like the first book of the trilogy of five books with the same name, with some Holywood adaptations. (Why, Hollywood?). Very funny and enjoyable. - [@damaru2](https://github.com/damaru2)
+
+> Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of "The Hitchhiker's Guide to the Galaxy."
+
 #### [The Island](http://www.imdb.com/title/tt0399201/) (2005) [6.9]
 
 Categories: `action`
@@ -1423,6 +1463,14 @@ Categories: `ai` `action` `apocalypse` `singularity`
 One of the most well known scifi films, this is a great expose on what people thought of hackers in the late 90s. The first in a trilogy, this film stands on its own legs, for its well-written script, great casting, and solid score. The unworldly choreography combined with slow motion filming was so influential it is now a cliché. - [@RichardLitt](https://github.com/RichardLitt)
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+
+#### [The Time Machine](https://www.imdb.com/title/tt0268695/) (2002) [4.2]
+
+Categories: `remake` `steampunk`
+
+It is an entertaining and a well done movie with lots of scifi topics: time travels, artificial intelligence, a post apocalyptic world with a new race of humans and more. - [@damaru2](https://github.com/damaru2)
+
+> Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races. 
 
 #### [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/) (1999) [7.0]
 
