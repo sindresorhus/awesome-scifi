@@ -1634,6 +1634,14 @@ This stretched my ideas of how stupid and silly space travel could be. It's smeg
 
 > The adventures of the last human alive and his friends, stranded three million years into deep space on the mining ship Red Dwarf.
 
+#### [Rick and Morty](https://www.imdb.com/title/tt2861424/) (2013-) [9.3]
+
+Categories: `animation` `adventure` `comedy` 
+
+Rick and Morty is one of the best animated shows to have come out in the last decade. The commentary that the show delivers on the society as a whole, while describing the adventures of an old man and his grandon is hilarious. This is a must-watch for anyone who is into veiled sarcasm, animation and sci-fi. - [@ArindumRoy](https://github.com/AsliRoy)
+
+> An animated series that follows the exploits of a super scientist and his not-so-bright grandson. 
+
 #### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) (2004–2009) [8.1]
 
 Categories: `action` `drama`
