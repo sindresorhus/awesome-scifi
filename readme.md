@@ -836,6 +836,24 @@ This is debatably science fiction. I mention it here because certain elements, l
 
 ### Drama
 
+#### [If I Stay](https://www.goodreads.com/book/show/4374400-if-i-stay) (2009) *by [Gayle Forman](https://es.wikipedia.org/wiki/Gayle_Forman)* [4.0] 🔥
+
+This is one of my favorite books! If you like reading novels with a mix of love, music and drama, I highly recommend it! I love the way it's written, it really transmits you Mia's emotions. This was the first book I finished the same day I started reading (which made me realize how much I liked it!) - [@GracielaGarcia](https://github.com/GracielaGarcia)
+
+> Just listen, Adam says with a voice that sounds like shrapnel.
+>
+> I open my eyes wide now.
+> I sit up as much as I can.
+> And I listen.
+>
+> Stay, he says.
+>
+> Choices. Seventeen-year-old Mia is faced with some tough ones: Stay true to her first love—music—even if it means losing her boyfriend and leaving her family and friends behind?
+>
+> Then one February morning Mia goes for a drive with her family, and in an instant, everything changes. Suddenly, all the choices are gone, except one. And it's the only one that matters.
+>
+> If I Stay is a heartachingly beautiful book about the power of love, the true meaning of family, and the choices we all make.
+
 #### [The Bone Clocks](https://www.goodreads.com/book/show/20819685-the-bone-clocks) (2014) *by [David Mitchell](https://en.wikipedia.org/wiki/David_Mitchell_%28author%29)* [3.9]
 
 If you liked Cloud Atlas this is a good read.
