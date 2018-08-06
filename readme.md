@@ -201,6 +201,16 @@ This was like if Hermann Hesse decided he was tired of writing Steppenwolf and S
 
 > Earth is long since dead. On a colony planet, a band of men has gained control of technology, made themselves immortal, and now rule their world as the gods of the Hindu pantheon. Only one dares oppose them: he who was once Siddhartha and is now Mahasamatman. Binder of Demons, Lord of Light.
 
+#### [The Polity](https://www.goodreads.com/series/49128-polity-universe-chronological-order) (1998-2018) *by [Neal Asher](https://en.wikipedia.org/wiki/Neal_Asher)* [4.11]
+
+Neal Asher has written almost 20 books (if you include short story compilations) set within the universe of the Polity, an interstellar human civilization ruled by (mostly) benevolent AIs, all overseen by the most powerful AI of all: Earth Central.  There are several distinct series within the larger Polity collection, as well as several standalone novels and short story collections. The *Ian Cormac* series follows a human agent of Earth Central as he investigates threats towards the Polity. The *Spatterjay* series explores the hostile world of Spatterjay and the lives of its hoopers: humans infected by an alien virus that grants its hosts functional immortality, immense strength, and incredible durability, but not without a cost. The *Transformations* series focuses on a rogue AI named Penny Royal capable of granting almost any wish, but its help is always a double-edged sword. His most recent series, *Rise of the Jain*, is about the re-emergence of an ancient and incredibly powerful alien race that disappeared after seeding the galaxy with technological seeds designed to destroy any intelligent civilization that came across one.
+
+All of Asher's *Polity* novels are chock full of amazing technology, vibrant characters, picture-painting prose, and themes that explore the nature and limits of humanity.  I was tempted to put this series under the Hard Sci-Fi category, as Asher introduces very few technologies that can't be extrapolated from existing tech, but a few things (e.g. FTL travel) and the distance in the future in which the series is set convinced me it should probably not be included in the "hard" category. - [@isochronous](https://github.com/isochronous)
+
+> The phrase ‘world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
+>
+> In the universe of the Polity Neal Asher has created ancient, but no longer completely active, races who remain a threat to the existence of humanity.  He tells in passing of how a ‘Quiet War’ replaced humans with the artificial intelligence and in doing so allowed humans more freedom than if they’d remained under their own governance. We get to see a world pre-Polity in The Line of the Polity and post-Polity twenty years later in The Technician, though the comparison is an aside to the storytelling.
+
 #### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
 
 This book is filled with a quiet suspense that is almost palpable; in that, it does an extraordinary job of showing how humans respond to alien encounters. The otherworldliness of Rama isn't always interesting, but the reaction of the reader to it is. - [@RichardLitt](https://github.com/RichardLitt)
@@ -340,6 +350,14 @@ This is always fun; it's a classic, and it is fun remembering what science ficti
 ### Hard Science Fiction
 
 _Novels which place an emphasis on scientific accuracy and/or technical detail; where the science itself is a central topic._
+
+#### [A Deepness in the Sky](https://www.goodreads.com/book/show/226004.A_Deepness_in_the_Sky) (2000) *by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)* [4.32]
+
+Though written after _A Fire upon the Deep_, _A Deepness in the Sky_ is a prequel to Vinge's earlier novel, and shares one of its protagonists: the Qeng Ho trader Pham Nuwen. Though I read _A Fire upon the Deep_ once and enjoyed it, I've read _A Deepness in the Sky_ at least half a dozen times, and consider it my favorite hard sci-fi novel, period. Vernor Vinge was one of the first people to propose the idea of the technological singularity, and the near-future novels he wrote a decade or more ago have revealed themselves to be almost eerily prescient. - [@isochronous](https://github.com/isochronous)
+
+> After thousands of years searching, humans stand on the verge of first contact with an alien race. Two human groups: the Qeng Ho, a culture of free traders, and the Emergents, a ruthless society based on the technological enslavement of minds.
+>
+> The group that opens trade with the aliens will reap unimaginable riches. But first, both groups must wait at the aliens' very doorstep for their strange star to relight and for their planet to reawaken, as it does every two hundred and fifty years....
 
 #### [A Fire Upon the Deep](https://www.goodreads.com/book/show/77711.A_Fire_Upon_the_Deep) (1992) *by [Vernor Vinge](https://en.wikipedia.org/wiki/Vernor_Vinge)* [4.1]
 
