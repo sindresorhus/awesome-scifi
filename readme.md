@@ -41,7 +41,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 🔥 means that it has more than 100 000 ratings on Goodreads.
 
-*The [number] at the end is the rounded version of the rating on Goodreads.*
+*The `[number]` at the end is the rounded version of the rating on Goodreads.*
 
 
 ### Science Fiction
@@ -532,9 +532,9 @@ This book is insidiously horrifying in its applicability, more so than _1984_ or
 >
 > Huxley’s ingenious fantasy of the future sheds a blazing light on the present and is considered to be his most enduring masterpiece.
 
-#### [Divergent](https://www.goodreads.com/book/show/13335037-divergent) (2012) *by [Veronica Roth](https://es.wikipedia.org/wiki/Veronica_Roth)* [4.2] 🔥 
+#### [Divergent](https://www.goodreads.com/book/show/13335037-divergent) (2012) *by [Veronica Roth](https://es.wikipedia.org/wiki/Veronica_Roth)* [4.2] 🔥
 
-One of my favorite trilogies! Divergent is a young adult science fiction trilogy. This book is about a dystopian Chicago society divided by five factions: Abnegation, Erudite, Dauntless, Amity, and Candor. Factions that were created to maintain peace within the society. In this book you follow the story of Beatrice, who's decisions leads her to discover who she really is and what is really happening. Through the trilogy you are able to see how the character evolves and becomes more mature with her decisions... decisions that not only impact her life but others too. I highly recommend this book! The ending of the trilogy left me astonished for 3 days after I finished it! (good thing I got to discuss it with one of my friends!) - [@GracielaGarcia](https://github.com/GracielaGarcia)  
+One of my favorite trilogies! Divergent is a young adult science fiction trilogy. This book is about a dystopian Chicago society divided by five factions: Abnegation, Erudite, Dauntless, Amity, and Candor. Factions that were created to maintain peace within the society. In this book you follow the story of Beatrice, who's decisions leads her to discover who she really is and what is really happening. Through the trilogy you are able to see how the character evolves and becomes more mature with her decisions... decisions that not only impact her life but others too. I highly recommend this book! The ending of the trilogy left me astonished for 3 days after I finished it! (good thing I got to discuss it with one of my friends!) - [@GracielaGarcia](https://github.com/GracielaGarcia)
 
 >In Beatrice Prior's dystopian Chicago world, society is divided into five factions, each dedicated to the cultivation of a particular virtue—Candor (the honest), Abnegation (the selfless), Dauntless (the brave), Amity (the peaceful), and Erudite (the intelligent). On an appointed day of every year, all sixteen-year-olds must select the faction to which they will devote the rest of their lives. For Beatrice, the decision is between staying with her family and being who she really is—she can't have both. So she makes a choice that surprises everyone, including herself.
 >
@@ -1496,7 +1496,7 @@ Categories: `remake` `steampunk`
 
 It is an entertaining and a well done movie with lots of scifi topics: time travels, artificial intelligence, a post apocalyptic world with a new race of humans and more. - [@damaru2](https://github.com/damaru2)
 
-> Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races. 
+> Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races.
 
 #### [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/) (1999) [7.0]
 
@@ -1662,11 +1662,11 @@ This stretched my ideas of how stupid and silly space travel could be. It's smeg
 
 #### [Rick and Morty](https://www.imdb.com/title/tt2861424/) (2013-) [9.3]
 
-Categories: `animation` `adventure` `comedy` 
+Categories: `animation` `adventure` `comedy`
 
 Rick and Morty is one of the best animated shows to have come out in the last decade. The commentary that the show delivers on the society as a whole, while describing the adventures of an old man and his grandon is hilarious. This is a must-watch for anyone who is into veiled sarcasm, animation and sci-fi. - [@ArindumRoy](https://github.com/AsliRoy)
 
-> An animated series that follows the exploits of a super scientist and his not-so-bright grandson. 
+> An animated series that follows the exploits of a super scientist and his not-so-bright grandson.
 
 #### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) (2004–2009) [8.1]
 
@@ -1760,7 +1760,7 @@ Categories: `drama` `fantasy` `horror`
 
 > Rod Serling’s seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations. The stories would typically end with an ironic twist that would see the guilty punished.
 
-## Comic books
+## Comic Books
 
 #### [Alex + Ada](https://www.goodreads.com/book/show/30896668-alex-ada) (2013-2015) *by [Jonathan Luna](https://en.wikipedia.org/wiki/Luna_Brothers), [Sarah Vaughn](https://www.goodreads.com/author/show/7372180.Sarah_Vaughn)* [4.11]
 
