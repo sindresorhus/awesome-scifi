@@ -61,6 +61,8 @@ Like Accelerando, this series is an excellent exploration of posthumanism.  It a
 
 Accelerando is an excellent exploration of Posthumanism. It's my go to recommendation for people wanting to read about that stuff. - [@erbridge](https://github.com/erbridge)
 
+It's also worth mentioning that [the ebook is available for free in a variety of formats on Stross's website](https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando-intro.html).  - [@AlexKeyes](https://github.com/alex-keyes)
+
 > The Singularity. It is the era of the posthuman. Artificial intelligences have surpassed the limits of human intellect. Biotechnological beings have rendered people all but extinct. Molecular nanotechnology runs rampant, replicating and reprogramming at will. Contact with extraterrestrial life grows more imminent with each new day.
 >
 > Struggling to survive and thrive in this accelerated world are three generations of the Macx clan: Manfred, an entrepreneur dealing in intelligence amplification technology whose mind is divided between his physical environment and the Internet; his daughter, Amber, on the run from her domineering mother, seeking her fortune in the outer system as an indentured astronaut; and Sirhan, Amber's son, who finds his destiny linked to the fate of all of humanity.
