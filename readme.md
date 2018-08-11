@@ -210,6 +210,22 @@ This was like if Hermann Hesse decided he was tired of writing Steppenwolf and S
 
 > Earth is long since dead. On a colony planet, a band of men has gained control of technology, made themselves immortal, and now rule their world as the gods of the Hindu pantheon. Only one dares oppose them: he who was once Siddhartha and is now Mahasamatman. Binder of Demons, Lord of Light.
 
+#### [The Murderbot Diaries](https://www.goodreads.com/series/191900) (2017-) *by [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)* [4.3]
+
+Books:
+
+- [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) [4.15]
+- [Artificial Condition](https://www.goodreads.com/book/show/36223860-artificial-condition) [4.33]
+- [Rogue Protocol](https://www.goodreads.com/book/show/35519101-rogue-protocol) [4.41]
+
+The Murderbot Diaries is a series of novellas, each one around 150 pages starring a human-like android who keeps getting sucked back into adventure after adventure, though it just wants to be left alone, away from humanity and small talk and watch tv series.- [@oschrenk](https://github.com/oschrenk)
+
+> In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn’t a primary concern.
+>
+> On a distant planet, a team of scientists are conducting surface tests, shadowed by their Company-supplied ‘droid — a self-aware SecUnit that has hacked its own governor module, and refers to itself (though never out loud) as “Murderbot.” Scornful of humans, all it really wants is to be left alone long enough to figure out who it is.
+>
+> But when a neighboring mission goes dark, it's up to the scientists and their Murderbot to get to the truth.
+
 #### [The Polity](https://www.goodreads.com/series/49128-polity-universe-chronological-order) (1998-2018) *by [Neal Asher](https://en.wikipedia.org/wiki/Neal_Asher)* [4.11]
 
 Neal Asher has written almost 20 books (if you include short story compilations) set within the universe of the Polity, an interstellar human civilization ruled by (mostly) benevolent AIs, all overseen by the most powerful AI of all: Earth Central.  There are several distinct series within the larger Polity collection, as well as several standalone novels and short story collections. The *Ian Cormac* series follows a human agent of Earth Central as he investigates threats towards the Polity. The *Spatterjay* series explores the hostile world of Spatterjay and the lives of its hoopers: humans infected by an alien virus that grants its hosts functional immortality, immense strength, and incredible durability, but not without a cost. The *Transformations* series focuses on a rogue AI named Penny Royal capable of granting almost any wish, but its help is always a double-edged sword. His most recent series, *Rise of the Jain*, is about the re-emergence of an ancient and incredibly powerful alien race that disappeared after seeding the galaxy with technological seeds designed to destroy any intelligent civilization that came across one.
