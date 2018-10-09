@@ -982,7 +982,7 @@ Books:
 - [Spell or High Water](https://www.goodreads.com/book/show/21483760-spell-or-high-water) [4.02]
 - [An Unwelcome Quest](https://www.goodreads.com/book/show/23249416-an-unwelcome-quest) [3.98]
 - [Fight and Flight](https://www.goodreads.com/book/show/36566205-fight-and-flight) [3.61]
-- [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/39751936-out-of-spite-out-of-mind) [3.79]
+- [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/36566205-fight-and-flight) *forthcoming, expected publication: June 19th 2018*
 
 > Martin Banks is just a normal guy who has made an abnormal discovery: he can manipulate reality, thanks to reality being nothing more than a computer program. With every use of this ability, though, Martin finds his little “tweaks” have not escaped notice. Rather than face prosecution, he decides instead to travel back in time to the Middle Ages and pose as a wizard.
 >
