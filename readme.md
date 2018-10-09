@@ -982,7 +982,7 @@ Books:
 - [Spell or High Water](https://www.goodreads.com/book/show/21483760-spell-or-high-water) [4.02]
 - [An Unwelcome Quest](https://www.goodreads.com/book/show/23249416-an-unwelcome-quest) [3.98]
 - [Fight and Flight](https://www.goodreads.com/book/show/36566205-fight-and-flight) [3.61]
-- [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/39751936-out-of-spite-out-of-mind) [3.79]
+- [Out of Spite, Out of Mind](https://www.goodreads.com/book/show/36566205-fight-and-flight) *forthcoming, expected publication: June 19th 2018*
 
 > Martin Banks is just a normal guy who has made an abnormal discovery: he can manipulate reality, thanks to reality being nothing more than a computer program. With every use of this ability, though, Martin finds his little “tweaks” have not escaped notice. Rather than face prosecution, he decides instead to travel back in time to the Middle Ages and pose as a wizard.
 >
@@ -1779,6 +1779,14 @@ Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
 One of the most influential french sci-fi comics. It inspired a lot of what became Heavy Metal Magazine. Moebius in this onirical tale uses no words to this graphical prose. - [@matheusteixeira](https://github.com/matheusteixeira)
 
 > Arzach fut une révolution pour la bande dessinée de l'époque. Elle est constituée d'une série de cinq histoires autonomes, sortes de « nouvelles graphiques » de quelques planches chacune. Sa particularité réside tout d'abord en son absence totale de dialogues : on y croise un voire deux personnages récurrents (Arzach et son Ptéroïde, sorte de ptérodactyle) mais apparemment muets, en tout cas l'auteur ne leur autorise pas la parole pour s'exprimer.
+
+#### [Black Science](https://www.goodreads.com/book/show/20881139-black-science-vol-1) (2014) *by [Rick Remender](https://en.wikipedia.org/wiki/Rick_Remender)* [3.93]
+
+Categories: `space-opera` `sci-fi`
+
+Black Science is one of those stories where you explain it to people at a really high level and gradually get more excited as you do so. It's essentially what happens if Rick & Morty had a less skilled and lucky Rick. Grant McKay goes through some really dark experiences, and the multiverse around him feels nothing for his plight. It's a story to read and revisit. - [@EricPonvelle](https://github.com/EricPonvelle)
+
+> Grant McKay, former member of The Anarchistic Order of Scientists, has finally done the impossible: He has deciphered Black Science and punched through the barriers of reality. But what lies beyond the veil is not epiphany, but chaos. Now Grant and his team are lost, living ghosts shipwrecked on an infinite ocean of alien worlds, barreling through the long-forgotten, ancient, and unimaginable dark realms. The only way is forward. The only question is how far are they willing to go, and how much can they endure, to get home again? Join writer RICK REMENDER and the superstar art team of MATTEO SCALERA & DEAN WHITE for this face-melting science fiction epic spanning the lifetimes of a cast of dimensional castaways lead by the man who caused it all.
 
 #### [Global Frequency](http://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis* [4.05]
 
