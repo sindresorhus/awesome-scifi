@@ -495,7 +495,7 @@ I think of this book often, even though initially I had consigned it as a cheap 
 
 #### [The Diamond Age: Or, A Young Lady’s Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) (1995) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]
 
-This book had me looking up more words than any book had me do for a long time. A mildly interesting story, with cunning turns and twists, in a very interesting world. What suprised me most was that the book already foresaw cryptocurrencies, 3d-printers and fleets of UAV's while already being 20+ years old. - [@fritzvd](https://github.com/fritzvd)
+This book had me looking up more words than any book had me do for a long time. A mildly interesting story, with cunning turns and twists, in a very interesting world. What surprised me most was that the book already foresaw cryptocurrencies, 3d-printers and fleets of UAV's while already being 20+ years old. - [@fritzvd](https://github.com/fritzvd)
 
 > _The Diamond Age: Or, A Young Lady’s Illustrated Primer_ is a postcyberpunk novel by Neal Stephenson. It is to some extent a science fiction coming-of-age story, focused on a young girl named Nell, and set in a future world in which nanotechnology affects all aspects of life. The novel deals with themes of education, social class, ethnicity, and the nature of artificial intelligence.
 
@@ -592,7 +592,7 @@ Sci-Fi, sociology and philosophy. - [@NaxYoMizmo](https://twitter.com/NaxYoMizmo
 
 An interesting take on the possibly negative consequences of the singularity. A little more vulgar than the average Sci-Fi novel. - [@sylvarant](https://github.com/sylvarant)
 
-> In a time not far from our own, Lawrence sets out simply to build an artifical intelligence that can pass as human, and finds himself instead with one that can pass as a god. Taking the Three Laws of Robotics literally, Prime Intellect makes every human immortal and provides instantly for every stated human desire. Caroline finds no meaning in this life of purposeless ease, and forgets her emptiness only in moments of violent and profane exhibitionism. At turns shocking and humorous, Prime Intellect looks unflinchingly at extremes of human behavior that might emerge when all limits are removed.
+> In a time not far from our own, Lawrence sets out simply to build an artificial intelligence that can pass as human, and finds himself instead with one that can pass as a god. Taking the Three Laws of Robotics literally, Prime Intellect makes every human immortal and provides instantly for every stated human desire. Caroline finds no meaning in this life of purposeless ease, and forgets her emptiness only in moments of violent and profane exhibitionism. At turns shocking and humorous, Prime Intellect looks unflinchingly at extremes of human behavior that might emerge when all limits are removed.
 
 #### [Wool Omnibus](https://www.goodreads.com/book/show/13453029-wool-omnibus) (2011) *by [Hugh Howey](https://en.wikipedia.org/wiki/Hugh_Howey)* [4.3]
 
