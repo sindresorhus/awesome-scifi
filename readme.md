@@ -109,6 +109,12 @@ This is a long book, but absolutely fantastic. It redefined for me the scale at 
 >
 > In the first novel, _They Shall Have Stars_, man has thoroughly explored the Solar System, yet the dream of going even further seems to have died in all but one man. His battle to realize his dream results in two momentous discoveries anti-gravity and the secret of immortality. In _A Life for the Stars_, it is centuries later and antigravity generations have enabled whole cities to lift off the surface of the earth to become galactic wanderers. In _Earthman, Come Home_, the nomadic cities revert to barbarism and marauding rogue cities begin to pose a threat to all civilized worlds. In the final novel, _The Triumph of Time_, history repeats itself as the cities once again journey back in to space making a terrifying discovery which could destroy the entire Universe. A serious and haunting vision of our world and its limits, _Cities in Flight_ marks the return to print of one of science fiction’s most inimitable writers.
 
+#### [Contact](https://www.goodreads.com/book/show/61666.Contact) (1985) *by [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)* [4.1]
+
+Based on Sagan's own studies as an astrophysicist and philosopher, Contact provides a possible glimpse of the world's reaction to extraterrestrial life - [@augustopedro](https://github.com/augustopedro)
+
+> At first it seemed impossible - a radio signal that came not from Earth but from far beyond the nearest stars. But then the signal was translated, and what had been impossible became terrifying. For the signal contains the information to build a Machine that can travel to the stars. A Machine that can take a human to meet those that sent the message. They are eager to meet us: they have been watching and waiting for a long time. And now they will judge.
+
 #### [Doorways in the Sand](https://www.goodreads.com/book/show/61998.Doorways_in_the_Sand) (1976) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.0]
 
 What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/RichardLitt)
