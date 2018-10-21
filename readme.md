@@ -805,6 +805,14 @@ A short and rather old post-apocalyptic story which remained stuck in my mind li
 
 _Novels featuring the use use of technology, mainly weapons, for military purposes and principal characters that are members of a military organization involved in military activity; sometimes occurring in outer space or other planets._
 
+#### [The Ultramarines Omnibus](https://www.goodreads.com/book/show/31638.The_Ultramarines_Omnibus) (2008) *by [Graham Mcniell](https://en.wikipedia.org/wiki/Graham_McNeill)* [3.96]
+
+Conan the Barbarian in space. - [@alex-keyes](https://github.com/alex-keyes)
+
+>The Ultramarines are a byword for loyalty and courage, their martial prowess is legendary and is second only to the God-Emperor.
+>
+>Graham Mcneill's epic trilogy of Ultramarines novels is a masterpiece of non-stop action! Containing the novels Nightbringer, Warriors of Ultramar and Dead Sky, Black Sun, plus a connected short story, Chains of Command, the series follows the adventures of Space Marine Captain Uriel Ventris and the Ultramarines as they battle against the enemies of mankind. From their home world of Macragge, into the dreaded Eye of Terror and beyond, Graham McNeill's prose rattles like gunfire and brings the Space Marines to life like never before.
+
 #### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines)  (2013-) *by [Marko Kloos](http://www.markokloos.com/)* [4.05]
 A very entertaining military drama that has continued to grow on me, book by book. [@AlexKeyes](https://github.com/alex-keyes)
 > The year is 2108, and the North American Commonwealth is bursting at the seams. For welfare rats like Andrew Grayson, there are only two ways out of the crime-ridden and filthy welfare tenements, where you're restricted to two thousand calories of badly flavored soy every day.
