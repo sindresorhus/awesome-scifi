@@ -581,6 +581,16 @@ _Dystopian novels deal with imaginary communities or societies that are undesira
 >
 > While 1984 has come and gone, Orwell’s narrative is more timely that ever. _1984_ presents a “negative utopia,” that is at once a startling and haunting vision of the world—so powerful that it’s completely convincing from start to finish. No one can deny the power of this novel, its hold on the imaginations of entire generations of readers, or the resiliency of its admonitions—a legacy that seems to grow, not lessen, with the passage of time.
 
+
+#### [A Clockwork Orange](https://www.goodreads.com/book/show/227463.A_Clockwork_Orange) (1962) *by [Anthony Burgess](https://en.wikipedia.org/wiki/Anthony_Burgess)*
+[3.99]
+
+Better than the movie IMHO.  Written in a slang language called Nadsat, the book really draws you into the world Alex occupies, as opposed to Kubrick's version of the story, portrayed in the movie.  The endings are also different! - [@alexkeyes](https://github.com/alex-keyes)
+
+> A vicious fifteen-year-old "droog" is the central character of this 1963 classic, whose stark terror was captured in Stanley Kubrick's magnificent film of the same title.
+>
+> In Anthony Burgess's nightmare vision of the future, where criminals take over after dark, the story is told by the central character, Alex, who talks in a brutal invented slang that brilliantly renders his and his friends' social pathology. A Clockwork Orange is a frightening fable about good and evil, and the meaning of human freedom. When the state undertakes to reform Alex — to "redeem" him — the novel asks, "At what cost?"
+
 #### [Brave New World](https://www.goodreads.com/book/show/5129.Brave_New_World) (1932) *by [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)* [3.9] 🌟 🔥
 
 This book is insidiously horrifying in its applicability, more so than _1984_ or _Fahrenheit 451_. [Here's a comic](https://abetterkuwait.files.wordpress.com/2011/08/orwell-huxley.jpg) that sums up the difference. Well worth the read. - [@RichardLitt](https://github.com/RichardLitt)
