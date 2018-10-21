@@ -526,6 +526,14 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 _Dystopian novels deal with imaginary communities or societies that are undesirable or frightening._
 
+#### [A Clockwork Orangee](https://www.goodreads.com/book/show/227463.A_Clockwork_Orange) (1962) *by [Anthony Burgess](https://en.wikipedia.org/wiki/Anthony_Burgess)
+[3.99] 
+
+Better than the movie imho.  Written in a slang language called Nadsat, the book really draws you into the world Alex occupies, as opposed to Kubrick's version.  The endings are also different! - [@alexkeyes](https://github.com/alex-keyes)
+
+>A vicious fifteen-year-old "droog" is the central character of this 1963 classic, whose stark terror was captured in Stanley Kubrick's magnificent film of the same title.
+>
+>In Anthony Burgess's nightmare vision of the future, where criminals take over after dark, the story is told by the central character, Alex, who talks in a brutal invented slang that brilliantly renders his and his friends' social pathology. A Clockwork Orange is a frightening fable about good and evil, and the meaning of human freedom. When the state undertakes to reform Alex—to "redeem
 #### [1984](https://www.goodreads.com/book/show/5470.1984) (1949) *by [George Orwell](https://en.wikipedia.org/wiki/George_Orwell)* [4.1] 🌟 🔥
 
 > Written in 1948, _1984_ was George Orwell’s chilling prophecy about the future.
