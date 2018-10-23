@@ -352,6 +352,14 @@ This is always fun; it's a classic, and it is fun remembering what science ficti
 
 > Man had not yet learned to fly when H. G. Wells conceived this story of a Martian attack on England. Giant cylinders crash to Earth, disgorging huge, unearthly creatures armed with heat-rays and fighting machines. Amid the boundless destruction they cause, it looks as if the end of the world has come.
 
+#### [The Long Way to a Small, Angry Planet](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) (2014) *by [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers_(author))* [4.17]
+
+Funny, touching, and full of unexpected details. - [@lgierth](https://github.com/lgierth)
+
+> Follow a motley crew on an exciting journey through space—and one adventurous young explorer who discovers the meaning of family in the far reaches of the universe—in this light-hearted debut space opera from a rising sci-fi star.
+>
+> Life aboard the Wayfarer is chaotic and crazy—exactly what Rosemary wants. It’s also about to get extremely dangerous when the crew is offered the job of a lifetime. Tunneling wormholes through space to a distant planet is definitely lucrative and will keep them comfortable for years. But risking her life wasn’t part of the plan. In the far reaches of deep space, the tiny Wayfarer crew will confront a host of unexpected mishaps and thrilling adventures that force them to depend on each other. To survive, Rosemary’s got to learn how to rely on this assortment of oddballs—an experience that teaches her about love and trust, and that having a family isn’t necessarily the worst thing in the universe.
+
 
 
 
