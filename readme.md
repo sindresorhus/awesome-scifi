@@ -978,6 +978,12 @@ Worth the read, mostly because it is the first time the words 'time machine' wer
 
 ### Comedy
 
+#### [The Laundry Series](https://www.goodreads.com/book/show/101869.The_Atrocity_Archives) (2004) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* 3.94 
+
+A bit of a lighthearted series, it's a great drama - [@alexkeyes](https://github.com/alex-keyes)
+
+> NEVER VOLUNTEER FOR ACTIVE DUTY ...Bob Howard is a low-level techie working for a super-secret government agency. While his colleagues are out saving the world, Bob's under a desk restoring lost data. His world was dull and safe - but then he went and got Noticed. Now, Bob is up to his neck in spycraft, parallel universes, dimension-hopping terrorists, monstrous elder gods and the end of the world. Only one thing is certain: it will take more than a full system reboot to sort this mess out ...This is the first novel in the Laundry Files.
+
 #### [The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)* [4.20] 🌟 🔥
 
 One of the funniest series I have ever read. I laugh to myself and think about this all of the time. Changed how I view the galaxy and lost pens irreversibly. I also celebrate [International Towel Day](http://en.wikipedia.org/wiki/Towel_Day) every year now. - [@RichardLitt](https://github.com/RichardLitt)
