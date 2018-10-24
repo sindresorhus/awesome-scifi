@@ -529,7 +529,7 @@ _Dystopian novels deal with imaginary communities or societies that are undesira
 #### [A Clockwork Orangee](https://www.goodreads.com/book/show/227463.A_Clockwork_Orange) (1962) *by [Anthony Burgess](https://en.wikipedia.org/wiki/Anthony_Burgess)*
 [3.99] 
 
-Better than the movie imho.  Written in a slang language called Nadsat, the book really draws you into the world Alex occupies, as opposed to Kubrick's version.  The endings are also different! - [@alexkeyes](https://github.com/alex-keyes)
+Better than the movie imho.  Written in a slang language called Nadsat, the book really draws you into the world Alex occupies, as opposed to Kubrick's version of the story, portrayed in the movie.  The endings are also different! - [@alexkeyes](https://github.com/alex-keyes)
 
 >A vicious fifteen-year-old "droog" is the central character of this 1963 classic, whose stark terror was captured in Stanley Kubrick's magnificent film of the same title.
 >
