@@ -757,7 +757,7 @@ A short and rather old post-apocalyptic story which remained stuck in my mind li
 _Novels featuring the use use of technology, mainly weapons, for military purposes and principal characters that are members of a military organization involved in military activity; sometimes occurring in outer space or other planets._
 
 #### [The Ultramarines Omnibus](https://www.goodreads.com/book/show/31638.The_Ultramarines_Omnibus) (2008) *by [Graham Mcniell](https://en.wikipedia.org/wiki/Graham_McNeill)
-If you don't know anything about the warhammer universe, this book should provide a solid introduction.  It reals like Conan the Barbarian in space.  [@alex-keyes](https://github.com/alex-keyes)
+Conan the Barbarian in space.  [@alex-keyes](https://github.com/alex-keyes)
 
 >The Ultramarines are a byword for loyalty and courage, their martial prowess is legendary and is second only to the God-Emperor.
 >
