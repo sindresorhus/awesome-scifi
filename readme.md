@@ -526,7 +526,7 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 _Dystopian novels deal with imaginary communities or societies that are undesirable or frightening._
 
-#### [A Clockwork Orangee](https://www.goodreads.com/book/show/227463.A_Clockwork_Orange) (1962) *by [Anthony Burgess](https://en.wikipedia.org/wiki/Anthony_Burgess)
+#### [A Clockwork Orangee](https://www.goodreads.com/book/show/227463.A_Clockwork_Orange) (1962) *by [Anthony Burgess](https://en.wikipedia.org/wiki/Anthony_Burgess)*
 [3.99] 
 
 Better than the movie imho.  Written in a slang language called Nadsat, the book really draws you into the world Alex occupies, as opposed to Kubrick's version.  The endings are also different! - [@alexkeyes](https://github.com/alex-keyes)
