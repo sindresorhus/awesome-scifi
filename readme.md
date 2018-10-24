@@ -187,6 +187,18 @@ This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and
 >
 > Still in love (somewhat to his surprise and delight), they go on a Caribbean cruise to resume their marriage. Their vacation rapidly becomes a complex series of challenges, not the least of which are spies, aliens, and battles with pirates who capture the ship for ransom. There is no writer in SF like Gene Wolfe and no SF novel like _Home Fires_.
 
+#### [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves) (2000) *by [Mark Z. Danielewski](https://en.wikipedia.org/wiki/Mark_Z._Danielewski)* [4.12]
+
+This book has a cult following, and upon reading it this summer, I fully understand why people are still so enamored with it almost twenty years after its first publish. I still think back to it often, and I will eventually re-read it (at least once) to get details I missed the first time. You can get lost in this book both figuratively and literally, so it's best to take your time with it. Shout-out to [Austin McConnell's video](https://www.youtube.com/watch?v=bLpAd9j9n7k) for introducing me to *House of Leaves!* - [@thedeany](https://github.com/thedeany)
+
+>Years ago, when House of Leaves was first being passed around, it was nothing more than a badly bundled heap of paper, parts of which would occasionally surface on the Internet. No one could have anticipated the small but devoted following this terrifying story would soon command. Starting with an odd assortment of marginalized youth—musicians, tattoo artists, programmers, strippers, environmentalists, and adrenaline junkies—the book eventually made its way into the hands of older generations, who not only found themselves in those strangely arranged pages but also discovered a way back into the lives of their estranged children.
+>
+>Now, for the first time, this astonishing novel is made available in book form, complete with the original colored words, vertical footnotes, and newly added second and third appendices.
+>
+>The story remains unchanged, focusing on a young family that moves into a small home on Ash Tree Lane where they discover something is terribly wrong: their house is bigger on the inside than it is on the outside.
+>
+>Of course, neither Pulitzer Prize-winning photojournalist Will Navidson nor his companion Karen Green was prepared to face the consequences of that impossibility, until the day their two little children wandered off and their voices eerily began to return another story—of creature darkness, of an ever-growing abyss behind a closet door, and of that unholy growl which soon enough would tear through their walls and consume all their dreams.
+
 #### [The Ice People](https://www.goodreads.com/book/show/106753.The_Ice_People) (1968) *by [René Barjavel](https://en.wikipedia.org/wiki/Ren%C3%A9_Barjavel)* [4.1]
 
 A really good book. Many people have described it as "the best book of Sci-Fi / romance". I would like to see it, one day, as a movie. - [@Gibet](https://github.com/Gibet)
