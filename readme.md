@@ -187,7 +187,7 @@ This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and
 >
 > Still in love (somewhat to his surprise and delight), they go on a Caribbean cruise to resume their marriage. Their vacation rapidly becomes a complex series of challenges, not the least of which are spies, aliens, and battles with pirates who capture the ship for ransom. There is no writer in SF like Gene Wolfe and no SF novel like _Home Fires_.
 
-#### [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves) (2000) *by [Mark Z. Danielewski](https://en.wikipedia.org/wiki/Mark_Z._Danielewski)* [4.12]
+#### [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves) (2000) *by [Mark Z. Danielewski](https://en.wikipedia.org/wiki/Mark_Z._Danielewski)* [4.12] 🔥
 
 This book has a cult following, and upon reading it this summer, I fully understand why people are still so enamored with it almost twenty years after its first publish. I still think back to it often, and I will eventually re-read it (at least once) to get details I missed the first time. You can get lost in this book both figuratively and literally, so it's best to take your time with it. Shout-out to [Austin McConnell's video](https://www.youtube.com/watch?v=bLpAd9j9n7k) for introducing me to *House of Leaves!* - [@thedeany](https://github.com/thedeany)
 
