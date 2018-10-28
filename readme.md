@@ -1816,6 +1816,14 @@ Global Frequency is a very livid, strong, and fast-paced adventure/action-packed
 
 > Created by Entertainment Weekly "It" writer, Global Frequency is a worldwide rescue organization that offers the last shred of hope when all other options have failed. Manned by 1001 operatives, the Frequency is made up of experts in fields as diverse as bio-weapon engineering and Le Parkour Running. Each agent-equipped with a special mobile vid-phone-is speciffically chosen by Miranda Zero, enigmatic leader of the Global Frequency, based on proximity, expertise, and, in some cases, sheer desperation!
 
+#### [The Incal](https://www.goodreads.com/book/show/10842223-the-incal) (1981) *by  Alejandro Jodorowsky and Mœbius* [4.2]
+
+Categories: `sci-fi` `dystopian` `surrealist` `space-opera`
+
+Highly imaginative, hilarious, sprawling epic graphic novel — a collaboration between two giants of weird storytelling. Jodorowsky is an auteur of avant-garde film, and Mœbius is a legendary cartoonist; together their work has been a huge influence on such classic films as Alien, Tron, and Star Wars. The story is all kinds of preposterous, a dazzling display of surrealist science fiction, and the illustrations render it way-larger-than-life on the page. This single-volume collection of the complete series is well-worth the read. - [@bschlagel](https://github.com/bschlagel)
+
+> John Difool, a low-class detective in a degenerate dystopian world, finds his life turned upside down when he discovers an ancient, mystical artifact called "The Incal." Difool's adventures will bring him into conflict with the galaxy's greatest warrior, the Metabaron, and will pit him against the awesome powers of the Technopope. These encounters and many more make up a tale of comic and cosmic proportions that has Difool fighting for not only his very survival, but also the survival of the entire universe.
+
 #### [The Manhattan Projects](http://www.goodreads.com/book/show/15736709-the-manhattan-projects-volume-1) (2015-) *by Jonathan Hickman* [3.9]
 
 Categories: `hard-science-fiction` `sci-fi`
