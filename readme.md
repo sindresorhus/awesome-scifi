@@ -360,7 +360,31 @@ Funny, touching, and full of unexpected details. - [@lgierth](https://github.com
 >
 > Life aboard the Wayfarer is chaotic and crazy—exactly what Rosemary wants. It’s also about to get extremely dangerous when the crew is offered the job of a lifetime. Tunneling wormholes through space to a distant planet is definitely lucrative and will keep them comfortable for years. But risking her life wasn’t part of the plan. In the far reaches of deep space, the tiny Wayfarer crew will confront a host of unexpected mishaps and thrilling adventures that force them to depend on each other. To survive, Rosemary’s got to learn how to rely on this assortment of oddballs—an experience that teaches her about love and trust, and that having a family isn’t necessarily the worst thing in the universe.
 
+#### [Xenogenesis Trilogy](https://www.goodreads.com/book/show/39334343-lilith-s-brood) (1987-1989) *by [Octavia Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)*
 
+Very interesting exploration of what happens when aliens arrive on earth, after the planet has been ravaged by war, with their own ideas of a path forward. Humans must learn to coexist with the Oankali, genetic colonizers of the cosmos, and confront what this means for their future — deciding whether to give up an essential part of their identity in order to survive. I enjoyed the first book the most, for the worldbuilding and the way it introduces the Oankali and key concepts, but the series has a satisfying arc so I think it's worth reading all three books. - [@bschlagel](https://github.com/bschlagel)
+
+##### [Dawn](https://www.goodreads.com/book/show/36694961-dawn) (1987) [4.1]
+
+> Lilith Iyapo has just lost her husband and son when atomic fire consumes Earth—the last stage of the planet’s final war. Hundreds of years later Lilith awakes, deep in the hold of a massive alien spacecraft piloted by the Oankali—who arrived just in time to save humanity from extinction. They have kept Lilith and other survivors asleep for centuries, as they learned whatever they could about Earth. Now it is time for Lilith to lead them back to her home world, but life among the Oankali on the newly resettled planet will be nothing like it was before.
+>
+> The Oankali survive by genetically merging with primitive civilizations—whether their new hosts like it or not. For the first time since the nuclear holocaust, Earth will be inhabited. Grass will grow, animals will run, and people will learn to survive the planet’s untamed wilderness. But their children will not be human. Not exactly.
+
+##### [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites) (1988) [4.2]
+
+> In this sequel to Dawn, Lilith Iyapo has given birth to what looks like a normal human boy named Akin. But Akin actually has five parents: a male and female human, a male and female Oankali, and a sexless Ooloi. The Oankali and Ooloi are part of an alien race that rescued humanity from a devastating nuclear war, but the price they exact is a high one the aliens are compelled to genetically merge their species with other races, drastically altering both in the process. 
+> 
+> On a rehabilitated Earth, this "new" race is emerging through human/Oankali/Ooloi mating, but there are also "pure" humans who choose to resist the aliens and the salvation they offer. These resisters are sterilized by the Ooloi so that they cannot reproduce the genetic defect that drives humanity to destroy itself, but otherwise they are left alone (unless they become violent). 
+> 
+> When the resisters kidnap young Akin, the Oankali choose to leave the child with his captors, for he the most "human" of the Oankali children will decide whether the resisters should be given back their fertility and freedom, even though they will only destroy themselves again. 
+
+##### [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
+
+> Child of two species, but part of neither, a new being must find his way.
+>
+> Human and Oankali have been mating since the aliens first came to Earth to rescue the few survivors of an annihilating nuclear war. The Oankali began a massive breeding project, guided by the ooloi, a sexless subspecies capable of manipulating DNA, in the hope of eventually creating a perfect starfaring race.
+>
+> Jodahs is supposed to be just another hybrid of human and Oankali, but as he begins his transformation to adulthood he finds himself becoming ooloi—the first ever born to a human mother. As his body changes, Jodahs develops the ability to shapeshift, manipulate matter, and cure or create disease at will. If this frightened young man is able to master his new identity, Jodahs could prove the savior of what’s left of mankind. Or, if he is not careful, he could become a plague that will destroy this new race once and for all.
 
 
 ### Hard Science Fiction
