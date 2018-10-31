@@ -1280,6 +1280,16 @@ This is an independent movie, their budget wasn't very good and thus maybe the s
 
 > A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.
 
+#### [Forbidden Planet](https://www.imdb.com/title/tt0049223/) (1956) [7.6]
+
+Categories: `Action` `Adventure` `Sci-Fi` 
+
+Forbidden Planet is one of, if not the most iconic Science Fiction movie to have have been released during the 1950's. It stands shoulder to shoulder with the likes of "The Day the Earth Stood Still" and "The Invasion of the Body Snatchers".
+
+Forbidden Planet takes the "hard" Sci-Fi route, whilst retaining fantastical elements that are associated with space dramas. The film carries a level of class that elevates it above its genre contemporaries due to the fantastic production values. The special effects and set designs hold up remarkably well even by today's standards. - [@augustopedro](https://github.com/augustopedro)
+
+> A starship crew goes to investigate the silence of a planet's colony only to find two survivors and a deadly secret that one of them has.
+
 #### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) (1999) [7.3]
 
 Categories: `comedy` `space` `aliens`
