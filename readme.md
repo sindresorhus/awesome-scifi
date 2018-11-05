@@ -27,6 +27,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Speculative Fiction](#speculative-fiction)
 	- [Time Travel](#time-travel)
 	- [Comedy](#comedy)
+	- [Horror](#horror)
 - [Short Story Collections](#short-story-collections)
 - [Movies](#movies)
 - [Movie Series](#movie-series)
@@ -1033,6 +1034,22 @@ Books:
 > What could possibly go wrong?
 >
 > An American hacker in King Arthur’s court, Martin must now train to become a full-fledged master of his powers, discover the truth behind the ancient wizard Merlin… and not, y’know, die or anything.
+
+
+### Horror
+
+#### [House of Leaves](https://www.goodreads.com/book/show/24800.House_of_Leaves) (2000) *by [Mark Z. Danielewski](https://en.wikipedia.org/wiki/Mark_Z._Danielewski)* [4.12] 🔥
+
+This book has a cult following, and upon reading it this summer, I fully understand why people are still so enamored with it almost twenty years after its first publish. I still think back to it often, and I will eventually re-read it (at least once) to get details I missed the first time. You can get lost in this book both figuratively and literally, so it's best to take your time with it. Shout-out to [Austin McConnell's video](https://www.youtube.com/watch?v=bLpAd9j9n7k) for introducing me to *House of Leaves!* - [@thedeany](https://github.com/thedeany)
+
+>Years ago, when House of Leaves was first being passed around, it was nothing more than a badly bundled heap of paper, parts of which would occasionally surface on the Internet. No one could have anticipated the small but devoted following this terrifying story would soon command. Starting with an odd assortment of marginalized youth—musicians, tattoo artists, programmers, strippers, environmentalists, and adrenaline junkies—the book eventually made its way into the hands of older generations, who not only found themselves in those strangely arranged pages but also discovered a way back into the lives of their estranged children.
+>
+>Now, for the first time, this astonishing novel is made available in book form, complete with the original colored words, vertical footnotes, and newly added second and third appendices.
+>
+>The story remains unchanged, focusing on a young family that moves into a small home on Ash Tree Lane where they discover something is terribly wrong: their house is bigger on the inside than it is on the outside.
+>
+>Of course, neither Pulitzer Prize-winning photojournalist Will Navidson nor his companion Karen Green was prepared to face the consequences of that impossibility, until the day their two little children wandered off and their voices eerily began to return another story—of creature darkness, of an ever-growing abyss behind a closet door, and of that unholy growl which soon enough would tear through their walls and consume all their dreams.
+
 
 
 
