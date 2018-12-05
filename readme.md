@@ -212,13 +212,13 @@ This was like if Hermann Hesse decided he was tired of writing Steppenwolf and S
 
 #### [The Murderbot Diaries](https://www.goodreads.com/series/191900) (2017-) *by [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)* [4.3]
 
+The Murderbot Diaries is a series of novellas, each one around 150 pages starring a human-like android who keeps getting sucked back into adventure after adventure, though it just wants to be left alone, away from humanity and small talk and watch tv series. If you enjoy Ann Leckie's Imperial Raadch series or Iain M. Banks' Culture novels, this series of novellas might be for you. They are light, fun to read but yet still engaging enough to get your synapses fired up. - [@oschrenk](https://github.com/oschrenk)
+
 Books:
 
 - [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) [4.15]
 - [Artificial Condition](https://www.goodreads.com/book/show/36223860-artificial-condition) [4.33]
 - [Rogue Protocol](https://www.goodreads.com/book/show/35519101-rogue-protocol) [4.41]
-
-The Murderbot Diaries is a series of novellas, each one around 150 pages starring a human-like android who keeps getting sucked back into adventure after adventure, though it just wants to be left alone, away from humanity and small talk and watch tv series.- [@oschrenk](https://github.com/oschrenk)
 
 > In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn’t a primary concern.
 >
