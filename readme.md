@@ -1867,6 +1867,13 @@ Categories: `drama` `fantasy` `horror`
 
 > Rod Serling’s seminal anthology series focused on ordinary folks who suddenly found themselves in extraordinary, usually supernatural, situations. The stories would typically end with an ironic twist that would see the guilty punished.
 
+#### [MR. ROBOT](https://www.imdb.com/title/tt4158110/) (2015- ) [8.6]
+
+Categories: `crime` `drama` `thriller`
+
+> Elliot, a brilliant but highly unstable young cyber-security engineer and vigilante hacker, becomes a key figure in a complex game of global dominance when he and his shadowy allies try to take down the corrupt corporation he works for.
+
+
 ## Comic Books
 
 #### [Alex + Ada](https://www.goodreads.com/book/show/30896668-alex-ada) (2013-2015) *by [Jonathan Luna](https://en.wikipedia.org/wiki/Luna_Brothers), [Sarah Vaughn](https://www.goodreads.com/author/show/7372180.Sarah_Vaughn)* [4.11]
@@ -1940,6 +1947,7 @@ Categories: `hard-science-fiction` `sci-fi` `society`
 One of the most emotional stories I ever read. We3 is a very visceral and incredibly well drawn tale of freedom. - [@matheusteixeira](https://github.com/matheusteixeira)
 
 > Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
+
 
 ## Links
 
