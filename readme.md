@@ -1713,6 +1713,12 @@ Out of all--big or small screen--Dune adaptations, I felt this one has come clos
 
 > A three-part miniseries on politics, betrayal, lust, greed and the coming of a Messiah. Based on Frank Herbert's classic science fiction novel.
 
+#### [Electric Dreams](https://www.imdb.com/title/tt5711280/) (2017– ) [7.3]
+
+Categories: `dystopian` `thriller`
+
+> A sci-fi anthology series with stand-alone episodes based on the works of Philip K. Dick.
+
 #### [Farscape](http://www.imdb.com/title/tt0187636/) (1999–2003) [8.4]
 
 Categories: `adventure` `drama`
