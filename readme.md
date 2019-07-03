@@ -212,13 +212,14 @@ This was like if Hermann Hesse decided he was tired of writing Steppenwolf and S
 
 #### [The Murderbot Diaries](https://www.goodreads.com/series/191900) (2017-) *by [Martha Wells](https://en.wikipedia.org/wiki/Martha_Wells)* [4.3]
 
-The Murderbot Diaries is a series of novellas, each one around 150 pages starring a human-like android who keeps getting sucked back into adventure after adventure, though it just wants to be left alone, away from humanity and small talk and watch tv series. If you enjoy Ann Leckie's Imperial Raadch series or Iain M. Banks' Culture novels, this series of novellas might be for you. They are light, fun to read but yet still engaging enough to get your synapses fired up. - [@oschrenk](https://github.com/oschrenk)
+_The Murderbot Diaries_ is a series of novellas, each one around 150 pages starring a human-like android who keeps getting sucked back into adventure after adventure, though it just wants to be left alone, away from humanity and small talk and watch tv series. If you enjoy Ann Leckie's _Imperial Raadch_ series or Iain M. Banks' _Culture_ novels, this series of novellas might be for you. They are light, fun to read but yet still engaging enough to get your synapses fired up. - [@oschrenk](https://github.com/oschrenk)
 
 Books:
 
-- [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) [4.15]
-- [Artificial Condition](https://www.goodreads.com/book/show/36223860-artificial-condition) [4.33]
-- [Rogue Protocol](https://www.goodreads.com/book/show/35519101-rogue-protocol) [4.41]
+- [All Systems Red](https://www.goodreads.com/book/show/32758901-all-systems-red) [4.2]
+- [Artificial Condition](https://www.goodreads.com/book/show/36223860-artificial-condition) [4.3]
+- [Rogue Protocol](https://www.goodreads.com/book/show/35519101-rogue-protocol) [4.4]
+- [Exit Strategy](https://www.goodreads.com/book/show/35519109-exit-strategy) [4.4]
 
 > In a corporate-dominated spacefaring future, planetary missions must be approved and supplied by the Company. Exploratory teams are accompanied by Company-supplied security androids, for their own safety. But in a society where contracts are awarded to the lowest bidder, safety isn’t a primary concern.
 >
@@ -403,6 +404,11 @@ Very interesting exploration of what happens when aliens arrive on earth, after 
 >
 > Jodahs is supposed to be just another hybrid of human and Oankali, but as he begins his transformation to adulthood he finds himself becoming ooloi—the first ever born to a human mother. As his body changes, Jodahs develops the ability to shapeshift, manipulate matter, and cure or create disease at will. If this frightened young man is able to master his new identity, Jodahs could prove the savior of what’s left of mankind. Or, if he is not careful, he could become a plague that will destroy this new race once and for all.
 
+#### [The Voyage of the Space Beagle](https://www.goodreads.com/book/show/1981484.The_Voyage_of_the_Space_Beagle) (1950) *by [A.E. Van Vogt](https://www.goodreads.com/author/show/1293688.A_E_van_Vogt)* [3.9]
+
+This novel reminds me of a season of _Star Trek_ episdoes, if Roddenberry's final frontier been Machiavellian. One section is very reminiscent of the _Alien_ plot. - [@neontapir](https://github.com/neontapir)
+
+> The book can be roughly divided into four sections corresponding to the four short stories on which it was based. In the first part, the _Space Beagle_ is infiltrated by Coeurl, a starving, intelligent and vicious cat-like carnivore with tentacles on its shoulders. In the second, the ship is almost destroyed by internal warfare caused by telepathic contact with a race of bird-like aliens. The third features Ixtl, a scarlet alien that kidnaps several crew members in order to implant parasitic eggs in their stomachs. In the last section, the crew battles Anabis, a galaxy-spanning consciousness.
 
 ### Hard Science Fiction
 
@@ -689,6 +695,12 @@ My favourite of all Philip K. Dick's novels, the I Ching and the alternate histo
 
 > An alternate history novel set in 1962, fifteen years after an alternate ending to World War II which in the novel lasted until 1947, the novel concerns intrigues between the victorious Axis Powers—Imperial Japan and Nazi Germany—as they rule over the former United States, as well as daily life under the resulting totalitarian rule.
 
+#### [The Handmaid's Tale](https://www.goodreads.com/book/show/12961964-the-handmaid-s-tale) (1986) *by [Margaret Atwood](https://www.goodreads.com/author/show/3472.Margaret_Atwood)* [4.1]
+
+A bleak and haunting tale, easy to picture playing out in today's political climate. There's a reason the TV series adaptation is popular. - [@neontapir](https://github.com/neontapir)
+
+> Set in the near future, it describes life in what was once the United States, now called the Republic of Gilead, a monotheocracy that has reacted to social unrest and a sharply declining birthrate by reverting to, and going beyond, the repressive intolerance of the original Puritans. The regime takes the Book of Genesis absolutely at its word, with bizarre consequences for the women and men of its population.
+
 ### Space Opera
 
 _Novels which emphasize adventure, set mainly or entirely in outer space, usually involving conflict between opponents possessing advanced abilities, weapons, and other technology._
@@ -810,6 +822,27 @@ A short and rather old post-apocalyptic story which remained stuck in my mind li
 
 > The spellbinding story of an isolated post-holocaust community determined to preserve itself, through a perilous experiment in cloning. Sweeping, dramatic, rich with humanity, and rigorous in its science, _Where Late the Sweet Birds Sang_ is widely regarded as a high point of both humanistic and hard SF, winning SF’s Hugo Award and Locus Award on its first publication.
 
+#### [The Road](https://www.goodreads.com/book/show/6288.The_Road) (2006) *by [Cormac McCarthy](https://www.goodreads.com/author/show/4178.Cormac_McCarthy)* [4.0]
+
+A dreary story that compels you forward with its unyielding backdrop and vivid characters. - [@neontapir](https://github.com/neontapir)
+
+> A father and his son walk alone through burned America. Nothing moves in the ravaged landscape save the ash on the wind. It is cold enough to crack stones, and when the snow falls it is gray. The sky is dark. Their destination is the coast, although they don’t know what, if anything, awaits them there. They have nothing; just a pistol to defend themselves against the lawless bands that stalk the road, the clothes they are wearing, a cart of scavenged food—and each other. It boldly imagines a future in which no hope remains, but in which the father and his son, “each the other’s world entire,” are sustained by love. Winner of the 2007 Pulitzer Prize for fiction.
+
+#### [Severence](https://www.goodreads.com/book/show/36348525-severance) (2018) *by [Ling Ma](https://www.goodreads.com/author/show/17343848.Ling_Ma)* [3.8]
+
+Although I'd like to believe I'd do well in the apocalypse, this story spells out how a younger me might've fared.  - [@neontapir](https://github.com/neontapir)
+
+> An offbeat office novel turns apocalyptic satire as a young woman transforms from orphan to worker bee to survivor.
+>
+> Candace Chen, a millennial drone self-sequestered in a Manhattan office tower, is devoted to routine. She barely notices when a plague of biblical proportions sweeps New York. Her bosses enlist her as part of a dwindling skeleton crew with a big end-date payoff. Soon entirely alone, still unfevered, she photographs the eerie, abandoned city as the anonymous blogger NY Ghost. Candace won’t be able to make it on her own forever, though. Enter a group of survivors, led by the power-hungry IT tech Bob. They’re traveling to a place called the Facility, where, Bob promises, they will have everything they need to start society anew. But Candace is carrying a secret she knows Bob will exploit. Should she escape from her rescuers?
+
+#### [The City of Ember](https://www.goodreads.com/book/show/307791.The_City_of_Ember) (2003) *by [Jeanne DuPrau](https://www.goodreads.com/author/show/2347.Jeanne_DuPrau)* [3.9]
+
+A less violent coming of age story in the vein of _Hugo_ or _The Hunger Games_. - [@neontapir](https://github.com/neontapir)
+
+> Many hundreds of years ago, the city of Ember was created by the Builders to contain everything needed for human survival. It worked…but now the storerooms are almost out of food, crops are blighted, corruption is spreading through the city and worst of all—the lights are failing. Soon Ember could be engulfed by darkness…
+>
+> But when two children, Lina and Doon, discover fragments of an ancient parchment, they begin to wonder if there could be a way out of Ember. Can they decipher the words from long ago and find a new future for everyone? Will the people of Ember listen to them?
 
 ### Military Science Fiction
 
@@ -823,8 +856,10 @@ Conan the Barbarian in space. - [@alex-keyes](https://github.com/alex-keyes)
 >
 >Graham Mcneill's epic trilogy of Ultramarines novels is a masterpiece of non-stop action! Containing the novels Nightbringer, Warriors of Ultramar and Dead Sky, Black Sun, plus a connected short story, Chains of Command, the series follows the adventures of Space Marine Captain Uriel Ventris and the Ultramarines as they battle against the enemies of mankind. From their home world of Macragge, into the dreaded Eye of Terror and beyond, Graham McNeill's prose rattles like gunfire and brings the Space Marines to life like never before.
 
-#### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines)  (2013-) *by [Marko Kloos](http://www.markokloos.com/)* [4.05]
+#### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines) (2013-) *by [Marko Kloos](http://www.markokloos.com/)* [4.05]
+
 A very entertaining military drama that has continued to grow on me, book by book. [@AlexKeyes](https://github.com/alex-keyes)
+
 > The year is 2108, and the North American Commonwealth is bursting at the seams. For welfare rats like Andrew Grayson, there are only two ways out of the crime-ridden and filthy welfare tenements, where you're restricted to two thousand calories of badly flavored soy every day.
 >
 > You can hope to win the lottery and draw a ticket on a colony ship settling off-world, or you can join the service.
@@ -960,6 +995,11 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 >
 > What happens when calories become currency? What happens when bio-terrorism becomes a tool for corporate profits, when said bio-terrorism’s genetic drift forces mankind to the cusp of post-human evolution? Award-winning author Paolo Bacigalupi delivers one of the most highly acclaimed science fiction novels of the twenty-first century.
 
+#### [Kiln People](https://www.goodreads.com/book/show/96478.Kiln_People) (2002) *by [David Brin](https://www.goodreads.com/author/show/14078.David_Brin)* [3.8]
+
+This novel explores how society might adapt to affordable temporary cloning of one's self. - [@neontapir](https://github.com/neontapir)
+
+> In a perilous future where disposable duplicate bodies fulfill every legal and illicit whim of their decadent masters, life is cheap. No one knows that better than Albert Morris, a brash investigator with a knack for trouble, who has sent his own duplicates into deadly peril more times than he cares to remember. But when Morris takes on a ring of bootleggers making illegal copies of a famous actress, he stumbles upon a secret so explosive it has incited open warfare on the streets of Dittotown. Morris must enter a shadowy, nightmare world of ghosts and golems where nothing -- and no one -- is what they seem, memory itself is suspect, and the line between life and death may no longer exist.
 
 ### Speculative Fiction
 
@@ -995,6 +1035,11 @@ This was pretty good; it's pretty obvious what it is about, and it reads predict
 
 > Andrew Harlan is an Eternal, a man whose job it is to range through past and present Centuries, monitoring and, where necessary, altering Time’s myriad cause-and-effect relationships. But when Harlan meets and falls for a non-Eternal woman, he seeks to use the awesome powers and techniques of the Eternals to twist time for his own purposes, so that he and his love can survive together.
 
+#### [The Years of Rice and Salt](https://www.goodreads.com/book/show/2723.The_Years_of_Rice_and_Salt) (2002) *by [Kim Stanley Robinson](https://www.goodreads.com/author/show/1858.Kim_Stanley_Robinson)* [3.7]
+
+The alternate history worldbuilding is the draw here, and the scale and depth of it is impressive. - [@neontapir](https://github.com/neontapir)
+
+> It is the fourteenth century and one of the most apocalyptic events in human history is set to occur - the coming of the Black Death. History teaches us that a third of Europe's population was destroyed. But what if? What if the plague killed 99 percent of the population instead? How would the world have changed? This is a look at the history that could have been: a history that stretches across centuries, a history that sees dynasties and nations rise and crumble, a history that spans horrible famine and magnificent innovation. These are the years of rice and salt.
 
 ### Time Travel
 
@@ -1034,16 +1079,21 @@ Worth the read, mostly because it is the first time the words 'time machine' wer
 >
 > So begins the Time Traveller’s astonishing firsthand account of his journey 800,000 years beyond his own era—and the story that launched H. G. Wells’s successful career and earned him his reputation as the father of science fiction. With a speculative leap that still fires the imagination, Wells sends his brave explorer to face a future burdened with our greatest hopes… and our darkest fears. A pull of the Time Machine’s lever propels him to the age of a slowly dying Earth. There he discovers two bizarre races—the ethereal Eloi and the subterranean Morlocks—who not only symbolize the duality of human nature, but offer a terrifying portrait of the men of tomorrow as well. Published in 1895, this masterpiece of invention captivated readers on the threshold of a new century. Thanks to Wells’s expert storytelling and provocative insight, _The Time Machine_ will continue to enthrall readers for generations to come.
 
+#### [The Eyre Affair](https://www.goodreads.com/book/show/27003.The_Eyre_Affair) (2001) *by [Jasper Fforde](https://www.goodreads.com/author/show/4432.Jasper_Fforde)* [3.9]
+
+This novel is absurd fun -- think Douglas Adams style with a literary flair. Though flawed, the later novels in the series are in my reading pile. - [@neontapir](https://github.com/neontapir)
+
+> Great Britain circa 1985: time travel is routine, cloning is a reality (dodos are the resurrected pet of choice), and literature is taken very, very seriously. Acheron Hades, Third Most Wanted Man In the World, steals the original manuscript of Martin Chuzzlewit and kills a minor character, who then disappears from every volume of the novel ever printed! Hades' real target is the beloved Jane Eyre, and it's not long before he plucks her from the pages of Bronte's novel. Enter Thursday Next, the Special Operative's renowned literary detective. With the help of her uncle Mycroft's Prose Portal, Thursday enters the novel to rescue Jane Eyre from this heinous act of literary homicide. Can Thursday save Jane Eyre and Bronte's masterpiece?
 
 ### Comedy
 
-#### [The Laundry Series](https://www.goodreads.com/book/show/101869.The_Atrocity_Archives) (2004) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* 3.94 
+#### [The Laundry Series](https://www.goodreads.com/book/show/101869.The_Atrocity_Archives) (2004) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9] 
 
 A bit of a lighthearted series, it's a great drama - [@alexkeyes](https://github.com/alex-keyes)
 
 > NEVER VOLUNTEER FOR ACTIVE DUTY ...Bob Howard is a low-level techie working for a super-secret government agency. While his colleagues are out saving the world, Bob's under a desk restoring lost data. His world was dull and safe - but then he went and got Noticed. Now, Bob is up to his neck in spycraft, parallel universes, dimension-hopping terrorists, monstrous elder gods and the end of the world. Only one thing is certain: it will take more than a full system reboot to sort this mess out ...This is the first novel in the Laundry Files.
 
-#### [The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)* [4.20] 🌟 🔥
+#### [The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)* [4.2] 🌟 🔥
 
 One of the funniest series I have ever read. I laugh to myself and think about this all of the time. Changed how I view the galaxy and lost pens irreversibly. I also celebrate [International Towel Day](http://en.wikipedia.org/wiki/Towel_Day) every year now. - [@RichardLitt](https://github.com/RichardLitt)
 
