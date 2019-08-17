@@ -406,7 +406,7 @@ Very interesting exploration of what happens when aliens arrive on earth, after 
 
 #### [The Voyage of the Space Beagle](https://www.goodreads.com/book/show/1981484.The_Voyage_of_the_Space_Beagle) (1950) *by [A.E. Van Vogt](https://www.goodreads.com/author/show/1293688.A_E_van_Vogt)* [3.9]
 
-This novel reminds me of a season of _Star Trek_ episdoes, if Roddenberry's final frontier been Machiavellian. One section is very reminiscent of the _Alien_ plot. - [@neontapir](https://github.com/neontapir)
+This space opera novel reminds me of a series of _Star Trek_ episdoes, if Roddenberry's final frontier had been a Machiavellian rather than a utopian vision of the future. Unlike the crew of Trek's _Enterprise_, the _Beagle_ crew engage in power struggles between its civilian and military leaders. The plot of the third section is very reminiscent of the _Alien_ movie. - [@neontapir](https://github.com/neontapir)
 
 > The book can be roughly divided into four sections corresponding to the four short stories on which it was based. In the first part, the _Space Beagle_ is infiltrated by Coeurl, a starving, intelligent and vicious cat-like carnivore with tentacles on its shoulders. In the second, the ship is almost destroyed by internal warfare caused by telepathic contact with a race of bird-like aliens. The third features Ixtl, a scarlet alien that kidnaps several crew members in order to implant parasitic eggs in their stomachs. In the last section, the crew battles Anabis, a galaxy-spanning consciousness.
 
