@@ -390,11 +390,11 @@ Very interesting exploration of what happens when aliens arrive on earth, after 
 
 ##### [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites) (1988) [4.2]
 
-> In this sequel to Dawn, Lilith Iyapo has given birth to what looks like a normal human boy named Akin. But Akin actually has five parents: a male and female human, a male and female Oankali, and a sexless Ooloi. The Oankali and Ooloi are part of an alien race that rescued humanity from a devastating nuclear war, but the price they exact is a high one the aliens are compelled to genetically merge their species with other races, drastically altering both in the process. 
-> 
-> On a rehabilitated Earth, this "new" race is emerging through human/Oankali/Ooloi mating, but there are also "pure" humans who choose to resist the aliens and the salvation they offer. These resisters are sterilized by the Ooloi so that they cannot reproduce the genetic defect that drives humanity to destroy itself, but otherwise they are left alone (unless they become violent). 
-> 
-> When the resisters kidnap young Akin, the Oankali choose to leave the child with his captors, for he the most "human" of the Oankali children will decide whether the resisters should be given back their fertility and freedom, even though they will only destroy themselves again. 
+> In this sequel to Dawn, Lilith Iyapo has given birth to what looks like a normal human boy named Akin. But Akin actually has five parents: a male and female human, a male and female Oankali, and a sexless Ooloi. The Oankali and Ooloi are part of an alien race that rescued humanity from a devastating nuclear war, but the price they exact is a high one the aliens are compelled to genetically merge their species with other races, drastically altering both in the process.
+>
+> On a rehabilitated Earth, this "new" race is emerging through human/Oankali/Ooloi mating, but there are also "pure" humans who choose to resist the aliens and the salvation they offer. These resisters are sterilized by the Ooloi so that they cannot reproduce the genetic defect that drives humanity to destroy itself, but otherwise they are left alone (unless they become violent).
+>
+> When the resisters kidnap young Akin, the Oankali choose to leave the child with his captors, for he the most "human" of the Oankali children will decide whether the resisters should be given back their fertility and freedom, even though they will only destroy themselves again.
 
 ##### [Imago](https://www.goodreads.com/book/show/17609348-imago) (1989) [4.2]
 
@@ -1087,7 +1087,7 @@ This novel is absurd fun -- think Douglas Adams style with a literary flair. Tho
 
 ### Comedy
 
-#### [The Laundry Series](https://www.goodreads.com/book/show/101869.The_Atrocity_Archives) (2004) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9] 
+#### [The Laundry Series](https://www.goodreads.com/book/show/101869.The_Atrocity_Archives) (2004) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9]
 
 A bit of a lighthearted series, it's a great drama - [@alexkeyes](https://github.com/alex-keyes)
 
@@ -1383,7 +1383,7 @@ This is an independent movie, their budget wasn't very good and thus maybe the s
 
 #### [Forbidden Planet](https://www.imdb.com/title/tt0049223/) (1956) [7.6]
 
-Categories: `Action` `Adventure` `Sci-Fi` 
+Categories: `Action` `Adventure` `Sci-Fi`
 
 Forbidden Planet is one of, if not the most iconic Science Fiction movie to have have been released during the 1950's. It stands shoulder to shoulder with the likes of "The Day the Earth Stood Still" and "The Invasion of the Body Snatchers".
 
@@ -1762,6 +1762,14 @@ Categories: `adventure` `drama` `fantasy`
 Out of all--big or small screen--Dune adaptations, I felt this one has come closest to Herbert's vision. They didn't go too crazy on the CGI either, in that it didn't distract from the story. The acting was a bit meh, but that's usually a question of budget (wasn't HBO... :wink:). Given the dearth of good SF on TV, I would consider it awesome by comparison. - [@mihailim](https://github.com/mihailim)
 
 > A three-part miniseries on politics, betrayal, lust, greed and the coming of a Messiah. Based on Frank Herbert's classic science fiction novel.
+
+#### [Eureka](https://www.imdb.com/title/tt0796264/) (2006-2012) [7.9]
+
+Categories: `adventure` `drama` `family`
+
+It is all about a fictional town called Eureka. Inhabitants are geniuses and scientists. This is where the most major technology inventions in the last five decades did happen. Very enjoyable and entertaining show. Most of the episodes were keeping me guessing 'what will happen next?' and 'how this all will end?'. - [@vovinacci](https://github.com/vovinacci)
+
+> A U.S. Marshall becomes the sheriff of a remote cozy little Northwestern town of Eureka where the best minds in the US have secretly been tucked away to build futuristic inventions for the government which often go disastrously wrong.
 
 #### [Farscape](http://www.imdb.com/title/tt0187636/) (1999–2003) [8.4]
 
