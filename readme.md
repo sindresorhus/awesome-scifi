@@ -1351,6 +1351,8 @@ It was pretty good, the premise is quiet interesting, and the acting was quite g
 
 I thought it was great, and I was a bit anxious about there being so many scenes repeating the same thing, but it worked! - [@tjFogarty](https://github.com/tjFogarty)
 
+One of my favorite sci-fi movies of all time. The source material is supposed to be good too, which is a manga called "All You Need is Kill". Haven't read it yet, but if you liked the movie then you would probably like this too. - [@wulfshadow](https://github.com/wulfshadow)
+
 > A military officer is brought into an alien war against an extraterrestrial enemy who can reset the day and know the future. When this officer is enabled with the same power, he teams up with a Special Forces warrior to try and end the war.
 
 #### [Eraserhead](http://www.imdb.com/title/tt0074486/) (1977) [7.4]
