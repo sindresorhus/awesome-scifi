@@ -2007,6 +2007,14 @@ One of the most emotional stories I ever read. We3 is a very visceral and incred
 
 > Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
 
+#### [Y: The Last Man](https://www.goodreads.com/series/86528-y-the-last-man) (2003-2008) *by Brian K. Vaughan* [4.33]
+
+Categories: `dystopian` `sci-fi`
+
+Y: The Last Man is graphic novel series unlike any other I have read. The "last man" struggles with trying to learn why every other man on earth is dead and how did he survive. Adding to his own internal struggle, the women on earth are divided between wanting to ensure humanity lives on, and those who believe they should be the last generation of humans on earth. - [@derekneuland](https://github.com/derekneuland)
+
+> Y: The Last Man is a dystopian science fiction comic book series by Brian K. Vaughan and Pia Guerra published by Vertigo beginning in 2002. The series is about the only man to survive the apparent simultaneous death of every male mammal (barring the same man's pet monkey) on Earth.
+
 
 ## Links
 
