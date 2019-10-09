@@ -1419,6 +1419,14 @@ Categories: `apocalypse` `aliens` `action`
 
 > American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
 
+#### [Godzilla vs. Mechagodzilla (1974)](https://www.imdb.com/title/tt0071565/) (1974) [6.4]
+
+Categories: `action` `fantasy` `horror`
+
+> Ape-like aliens build a robotic Godzilla to destroy Japan, and the true Godzilla may not be powerful enough to destroy it. 
+
+Aliens attack Godzilla with a metallic clone of himself. The film features an adventurous spy sub-plot on a cruise from Japan to Okinawa, giant robots, mystical monsters and radioactive beasts -- and the film is not without its charm. - [@bluewhaledelta] (https://github.com/bluewhaledelta)
+
 #### [Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2]
 
 Categories: `cyberpunk` `police` `thriller`
