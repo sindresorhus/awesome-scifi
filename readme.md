@@ -116,6 +116,20 @@ Based on Sagan's own studies as an astrophysicist and philosopher, Contact provi
 
 > At first it seemed impossible - a radio signal that came not from Earth but from far beyond the nearest stars. But then the signal was translated, and what had been impossible became terrifying. For the signal contains the information to build a Machine that can travel to the stars. A Machine that can take a human to meet those that sent the message. They are eager to meet us: they have been watching and waiting for a long time. And now they will judge.
 
+#### [Dark Matter](https://www.goodreads.com/book/show/27833670-dark-matter) (2016) *by [Blake Crouch](https://en.wikipedia.org/wiki/Blake_Crouch)* [4.1]
+
+An interesting take on the possibility of the multiverse, Schrödinger's cat, and how every choice, big or small, has led to this exact moment. - [@thedeany](https://github.com/thedeany)
+
+> Jason Dessen is walking home through the chilly Chicago streets one night, looking forward to a quiet evening in front of the fireplace with his wife, Daniela, and their son, Charlie—when his reality shatters.
+>
+> It starts with a man in a mask kidnapping him at gunpoint, for reasons Jason can’t begin to fathom—what would anyone want with an ordinary physics professor?—and grows even more terrifying from there, as Jason’s abductor injects him with some unknown drug and watches while he loses consciousness.
+>
+> When Jason awakes, he’s in a lab, strapped to a gurney—and a man he’s never seen before is cheerily telling him “welcome back!”
+>
+> Jason soon learns that in this world he’s woken up to, his house is not his house. His wife is not his wife. His son was never born.
+>
+> And someone is hunting him.
+
 #### [Doorways in the Sand](https://www.goodreads.com/book/show/61998.Doorways_in_the_Sand) (1976) *by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)* [4.0]
 
 What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/RichardLitt)
