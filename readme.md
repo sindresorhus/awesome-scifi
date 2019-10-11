@@ -1899,6 +1899,14 @@ Plus, I'm not sure the franchise has ever quite topped the amazing chemistry bet
 
 > Captain James T. Kirk and the crew of the Starship Enterprise explore the Galaxy and defend the United Federation of Planets.
 
+#### [The 100](https://www.imdb.com/title/tt2661044/) (2014–) [7.7]
+
+Categories:  `drama` `mystery`
+
+I never really understood the need or reason for binge watching until I encountered The 100. The first and second season were absolutely mesmerizing and compelling. The character development, the story, the plot twists; all amazing! Literally, pulled a few all-nighters because I had to know what happened next in the series. The premise of the show is after evacuating Earth do to global nuclear bombings and radiation, the International Space Station decide to send '100' of the stations adolescent deliquents down to earth so see if it is habitable again. Middle to end of season 3 start to get a little weird and supposedly it was supposed to end after season 3 so they attempt to wrap up the series. I have tried to continue watching but am no where as entranced as I was with seasons 1 and 2. - [@kyebrowning](https://github.com/kyebrowning)
+
+>Set ninety-seven years after a nuclear war has destroyed civilization, when a spaceship housing humanity's lone survivors sends one hundred juvenile delinquents back to Earth, in hopes of possibly re-populating the planet. 
+
 #### [The Orville](https://www.imdb.com/title/tt5691552/) (2017–) [7.9]
 
 Categories: `adventure` `comedy` `drama`
