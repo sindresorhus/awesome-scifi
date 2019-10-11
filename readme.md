@@ -1252,6 +1252,15 @@ Very few films can stand up to as many rewatches as this film can - there are la
 
 > A blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
 
+#### [Blade Runner 2049](https://www.imdb.com/title/tt1856101/) (2017) [8.0]
+
+Categories: `dystopia` `ai` `cyberpunk` `thriller` `mystery`<br>
+Director: _Denis Villeneuve_
+
+Blade Runner 2049 returns to the original book's deep philosophical questions about the nature of humanity, and expressed through a captivating, epic mystery it amounts to a breathtaking, mind-bending cinematic experience. - [@TheSherlockHomie](https://github.com/TheSherlockHomie)s
+
+> A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.
+
 #### [Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]
 
 Categories: `dystopia` `police`
