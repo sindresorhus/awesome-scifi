@@ -15,6 +15,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 	- [Science Fiction](#science-fiction)
 	- [Hard Science Fiction](#hard-science-fiction)
 	- [Cyberpunk](#cyberpunk)
+	- [Utopia](#Utopia)
 	- [Dystopia](#dystopia)
 	- [Space Opera](#space-opera)
 	- [Post Apocalyptic](#post-apocalyptic)
@@ -576,6 +577,19 @@ My favorite of Murakami's. Great mix of quirky, mundane, and fascinating ideas. 
 
 > A narrative particle accelerator that zooms between Wild Turkey Whiskey and Bob Dylan, unicorn skulls and voracious librarians, John Coltrane and _Lord Jim_. Science fiction, detective story and post-modern manifesto all rolled into one rip-roaring novel, _Hard-Boiled Wonderland and the End of the World_ is the tour de force that expanded Haruki Murakami’s international following. Tracking one man’s descent into the Kafkaesque underworld of contemporary Tokyo, Murakami unites East and West, tragedy and farce, compassion and detachment, slang and philosophy.
 
+### Utopia
+
+_Utopian novels deal with imaginary communities or societies that are desirable or pleasant._
+
+#### [The Songs of Distant Earth](https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth) (1986) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [3.9]
+
+My first Arthur C. Clarke Sci-fi book that introduced me to the world of Arthur C. Clarke. The book deals with the utopian society where the aliens are human beings from the old earth. -[@DibeshMSShrestha](https://github.com/DibeshMSShrestha)
+
+> Just a few islands in a planetwide ocean, Thalassa was a veritable paradise—home to one of the small colonies founded centuries before by robot Mother Ships when the Sun had gone nova and mankind had fled Earth.
+>
+> Mesmerized by the beauty of Thalassa and overwhelmed by its vast resources, the colonists lived an idyllic existence, unaware of the monumental evolutionary event slowly taking place beneath their seas...
+>
+> Then the Magellan arrived in orbit carrying one million refugees from the last, mad days on Earth. And suddenly uncertainty and change had come to the placid paradise that was Thalassa.
 
 ### Dystopia
 
