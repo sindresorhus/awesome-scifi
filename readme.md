@@ -203,6 +203,16 @@ This is a pretty good book. Like later Gene Wolfe books, it reads a bit dry, and
 >
 > Still in love (somewhat to his surprise and delight), they go on a Caribbean cruise to resume their marriage. Their vacation rapidly becomes a complex series of challenges, not the least of which are spies, aliens, and battles with pirates who capture the ship for ransom. There is no writer in SF like Gene Wolfe and no SF novel like _Home Fires_.
 
+#### [The Horus Heresy](https://www.goodreads.com/series/40983-the-horus-heresy) (2006) *by [Dan Abnett](https://www.goodreads.com/author/show/33262.Dan_Abnett)* [4.19]
+
+This is a very long series consisting of 95 primary works and 286 total works that started in 2006 and has several authors contributing to it. It takes place 10,000 years before the Warhammer 40k series. So technically, it is the Warhammer 30k series but it revolves around the Primarch Horus. Right off the bat I was sucked into the first book and haven't been able to put it down. I am only on book 5 currently and still have a long way to go. - [@shlavocky](https://github.com/shlavocky)
+
+> Led by the Emperor’s superhuman progeny, the primarchs, the vast armies of Earth have conquered the galaxy in the Great Crusade. The Emperor’s elite warriors, the heroic and battle-hardened Space Marines, have smashed all aliens, tyrant despots and traitors into compliance. Gleaming citadels of marble and gold celebrate their many victories. Triumphs are raised on a million worlds to record their epic deeds, but such vainglory will not last…
+
+Rebellion looms when the Primarch Horus, he who once stood by the side of the Emperor, is tempted by the Chaos gods. Horus’s defection will shake the foundations of the nascent Imperium and take it to the edge of annihilation. As the flames of war spread across the galaxy, mankind’s champions will be put to the ultimate test, as brother faces brother and the universe trembles with the beat of war.
+
+Part of the Warhammer 40k universe.
+
 #### [The Ice People](https://www.goodreads.com/book/show/106753.The_Ice_People) (1968) *by [René Barjavel](https://en.wikipedia.org/wiki/Ren%C3%A9_Barjavel)* [4.1]
 
 A really good book. Many people have described it as "the best book of Sci-Fi / romance". I would like to see it, one day, as a movie. - [@Gibet](https://github.com/Gibet)
