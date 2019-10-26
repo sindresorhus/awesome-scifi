@@ -1516,6 +1516,14 @@ This film inspired Twelve Monkeys, but is more notable for being one of the earl
 
 > Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world’s fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
 
+#### [Lucy](https://www.imdb.com/title/tt2872732//) (2014) [6.4]
+
+Categories: ` Action` `Sci-Fi` `Thriller`
+
+A facinating story about a woman named lucy who is forcibbly used as a drug trafficker, comes in contact with a powerful synthetic drug which allows her to unlock her mind's full potential.  - [@sanchittechnogeek](https://github.com/sanchittechnogeek)
+
+> A woman, accidentally caught in a dark deal, turns the tables on her captors and transforms into a merciless warrior evolved beyond human logic.
+
 #### [Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]
 
 Categories: `apocalypse`
