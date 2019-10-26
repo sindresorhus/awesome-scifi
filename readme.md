@@ -1686,6 +1686,14 @@ One of the most well known scifi films, this is a great expose on what people th
 
 > A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
 
+#### [The Matrix Reloaded](https://www.imdb.com/title/tt0234215/) (2003) [7.2]
+
+Categories: `ai` `action` `apocalypse` `singularity`
+
+The Matrix Reloaded (2003) is the greatest action movie of all time and a good sequel to the original The Matrix (1999).It is obvious that this sequal to The Matrix (1999)takes the story to a whole new dimension. - [@bhaveshgoel07](https://github.com/bhaveshgoel07)
+
+> Following the events of The Matrix (1999), Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams.
+
 #### [The Time Machine](https://www.imdb.com/title/tt0268695/) (2002) [4.2]
 
 Categories: `remake` `steampunk`
