@@ -1015,6 +1015,18 @@ If you liked Cloud Atlas this is a good read.
 
 _Novels which focus on the near-future unintended consequences of biotechnology revolutions._
 
+#### [Pandemic](https://www.goodreads.com/book/show/34811896-pandemic) (2017) *by [A.G. Riddle](https://www.goodreads.com/author/show/3087199.A_G_Riddle)
+
+The first book in a two part series called the extinction files, the story explores a bioterrorist plot attempting to usurp the major world governments, with an extra scifi twist. [@Rogue-System](https://github.com/Rogue-System)
+
+>A deadly outbreak in Kenya.
+>
+>A conspiracy beyond imagination.
+>
+>And a race to save humanity in its darkest hour.
+
+>From A.G. Riddle, the worldwide bestselling author of The Atlantis Gene and Departure, comes a novel that will change everything you think you know about pandemics. 
+
 #### [The Windup Girl](https://www.goodreads.com/book/show/6597651-the-windup-girl) (2009) *by [Paolo Bacigalupi](https://en.wikipedia.org/wiki/Paolo_Bacigalupi)* [3.7]
 
 > Anderson Lake is a company man, AgriGen’s Calorie Man in Thailand. Under cover as a factory manager, Anderson combs Bangkok’s street markets in search of foodstuffs thought to be extinct, hoping to reap the bounty of history’s lost calories. There, he encounters Emiko…
