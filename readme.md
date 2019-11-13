@@ -1015,9 +1015,9 @@ If you liked Cloud Atlas this is a good read.
 
 _Novels which focus on the near-future unintended consequences of biotechnology revolutions._
 
-#### [Pandemic](https://www.goodreads.com/book/show/34811896-pandemic) (2017) *by [A.G. Riddle](https://www.goodreads.com/author/show/3087199.A_G_Riddle)
+#### [Pandemic](https://www.goodreads.com/book/show/34811896-pandemic) (2017) *by [A.G. Riddle](https://www.goodreads.com/author/show/3087199.A_G_Riddle)*
 
-The first book in a two part series called the extinction files, the story explores a bioterrorist plot attempting to usurp the major world governments, with an extra scifi twist. [@Rogue-System](https://github.com/Rogue-System)
+The first book in a two part series called the extinction files, the story explores a bioterrorist plot attempting to usurp the major world governments, with an extra scifi twist . Not what I would call hard SciFi and it has its fair share of cheese and cliche, but enough action and suspense to keep the party going without getting boring.. - [@Rogue-System](https://github.com/Rogue-System)
 
 >A deadly outbreak in Kenya.
 >
