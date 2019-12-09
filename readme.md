@@ -591,6 +591,12 @@ This book is fantastic not for the novelty of non-technological teleportation, b
 
 > In this pulse-quickening novel, Alfred Bester imagines a future in which people “jaunte” a thousand miles with a single thought, where the rich barricade themselves in labyrinths and protect themselves with radioactive hit men—and where an inarticulate outcast is the most valuable and dangerous man alive. _The Stars My Destination_ is a classic of technological prophecy and timeless narrative enchantment by an acknowledged master of science fiction.
 
+#### [Thin Air](https://www.goodreads.com/book/show/25835917-thin-air) (2018) *by [Richard K. Morgan](https://en.wikipedia.org/wiki/Richard_K._Morgan)* [4.0]
+
+Modernized cyberpunk with the noir grit dialled up to eleven. - [@nahkampf](https://github.com/nahkampf)
+
+> An ex-corporate enforcer, Hakan Veil, is forced to bodyguard Madison Madekwe, part of a colonial audit team investigating a disappeared lottery winner on Mars. But when Madekwe is abducted, and Hakan nearly killed, the investigation takes him farther and deeper than he had ever expected. And soon Hakan discovers the heavy price he may have to pay to learn the truth.
+
 #### [Ware](https://www.goodreads.com/series/41816-ware) (1982-2000) *by [Rudy Rucker](https://en.wikipedia.org/wiki/Rudy_Rucker)* [3.7]
 
 > Cobb Anderson created the “boppers,” sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers—and eventually every human—into a giant, melded consciousness. Some of the little boppers aren’t too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his “software.” It seems like a good idea to Cobb.
