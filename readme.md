@@ -781,7 +781,7 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 #### [Revelation Space](https://www.goodreads.com/series/56392-revelation-space) (2000-2018) *by [https://en.wikipedia.org/wiki/Alastair_Reynolds)* [4.0 avg]
 
-Alastair Reynolds take on the Fermi Paradox is a vast and brutal epic, consisting of the three "main" books (forming the "Inhibitor Trilogy") and a a few other books and novellas set in the same universe. Revelation Space is "hard space opera". - [@nahkampf](https://github.com/nahkampf)
+Alastair Reynolds' take on the Fermi Paradox is a vast and brutal epic, consisting of the three "main" books (forming the "Inhibitor Trilogy") and a few other books and novellas set in the same universe. Revelation Space is page-turning "hard space opera" - believable but fantastic, and delightfully bizarre at times. - [@nahkampf](https://github.com/nahkampf)
 
 > Nine hundred thousand years ago, something annihilated the Amarantin civilization just as it was on the verge of discovering space flight. Now one scientist, Dan Sylveste, will stop at nothing to solve the Amarantin riddle before ancient history repeats itself. With no other resources at his disposal, Sylveste forges a dangerous alliance with the cyborg crew of the starship Nostalgia for Infinity. But as he closes in on the secret, a killer closes in on him. Because the Amarantin were destroyed for a reason — and if that reason is uncovered, the universe—and reality itself — could be irrecoverably altered...
 
