@@ -157,6 +157,8 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
 
 A series comprised (as of 2019) of eight full-length novels with a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. The narrative, which is told from the changing perspectives of a cast of diverse characters, offers a healthy mix of humor and suspension, making it an entertaining read. - [@jpkempf](https://github.com/jpkempf)
 
+The books are real page turners with its mix of high politics, space battles, ancient mysteries, day-to-day grit and cultural differences, and the world Expanse starts out with really changes over the course of the books. You may find book four (Cibola Burn) a bit slow, but keep at it, subsequent books really pay dividends. - [@nahkampf](https://github.com/nahkampf)
+
 > Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach.
 >
 > Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, "The Scopuli," they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for - and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why.
