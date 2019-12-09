@@ -153,9 +153,11 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
 >
 > When distant political machinations deliver a new ambassador to Arieka, the fragile equilibrium between humans and aliens is violently upset. Catastrophe looms, and Avice is torn between competing loyalties—to a husband she no longer loves, to a system she no longer trusts, and to her place in a language she cannot speak yet speaks through her.
 
-#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2015) *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)* [4.17 (avg)]
+#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2019) *by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)* [4.17 (avg)]
 
-A series comprised (as of late 2015) of five full-length novels with a sixth one in the works and a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. The narrative, which is told from the changing perspectives of a cast of diverse characters, offers a healthy mix of humor and suspension, making it an entertaining read. - [@jpkempf](https://github.com/jpkempf)
+A series comprised (as of 2019) of eight full-length novels with a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. The narrative, which is told from the changing perspectives of a cast of diverse characters, offers a healthy mix of humor and suspension, making it an entertaining read. - [@jpkempf](https://github.com/jpkempf)
+
+The books are real page turners with its mix of high politics, space battles, ancient mysteries, day-to-day grit and cultural differences, and the world Expanse starts out with really changes over the course of the books. You may find book four (Cibola Burn) a bit slow, but keep at it, subsequent books really pay dividends. - [@nahkampf](https://github.com/nahkampf)
 
 > Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach.
 >
