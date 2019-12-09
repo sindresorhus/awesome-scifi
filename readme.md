@@ -475,6 +475,16 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > In a moving story of sacrifice and triumph, human scientists establish a relationship with intelligent life forms—the cheela—living on Dragon’s Egg, a neutron star where one Earth hour is equivalent to hundreds of their years. The cheela culturally evolve from savagery to the discovery of science, and for a brief time men are their diligent teachers.
 
+#### [Manifold series](https://www.goodreads.com/series/49783-manifold) (1999-2003) *by [Stephen Baxter](https://en.wikipedia.org/wiki/Stephen_Baxter_(author))* [3.8 avg]
+
+Stephen Baxter explores the Fermi Paradox in different ways over the course of three books (and a collection of novellas), in a gloriously hard scifi style. It is very thought provoking, and also utterly brutal and bleak. Space and time is cold and uncaring.  - [@nahkampf](https://github.com/nahkampf)
+
+> Each one of the main novels deals with a possible resolution to the Fermi paradox. The first, Time, is set in a universe that is completely devoid of intelligent life beyond that of mankind and its creations (i.e. A.I. and uplifted animals).
+>
+> The second in the series, Space, proposes the opposite: that life is endemic to the universe, and there is intelligence in nearly all possible places of the cosmos. The solution to the Fermi Paradox in this novel is that intelligent life is continually wiped out by cosmic disasters before it has time to spread too far.
+>
+> The third novel, Origin, is set in a multiverse that is a compromise between the ideals in the first two novels: that life is only on Earth, but at the same time is everywhere. This novel solves the Fermi Paradox by suggesting that intelligent life is segregated into separate parallel universes. 
+
 #### [Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by [Ramez Naam](https://en.wikipedia.org/wiki/Ramez_Naam)* [4.1]
 
 Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [thumbs up](https://twitter.com/ID_AA_Carmack/status/494337667035697152) from John Carmack. Can't go wrong. - [@christianboyle](https://github.com/christianboyle)
@@ -580,6 +590,12 @@ This book had me looking up more words than any book had me do for a long time. 
 This book is fantastic not for the novelty of non-technological teleportation, but because of the main character. What happens when someone who has been ignored by society finds himself in a position of power? This book reminds me a tiny bit of Ender's Game - imagine what would happen if Mazer Rackham, another tattooed Maori hero, wanted more than to be a military genius. I loved it. I quote the poem to myself all the time, and have set a variant of it as my twitter bio for years now. - [@RichardLitt](https://github.com/RichardLitt)
 
 > In this pulse-quickening novel, Alfred Bester imagines a future in which people “jaunte” a thousand miles with a single thought, where the rich barricade themselves in labyrinths and protect themselves with radioactive hit men—and where an inarticulate outcast is the most valuable and dangerous man alive. _The Stars My Destination_ is a classic of technological prophecy and timeless narrative enchantment by an acknowledged master of science fiction.
+
+#### [Thin Air](https://www.goodreads.com/book/show/25835917-thin-air) (2018) *by [Richard K. Morgan](https://en.wikipedia.org/wiki/Richard_K._Morgan)* [4.0]
+
+Modernized cyberpunk with the noir grit dialled up to eleven. - [@nahkampf](https://github.com/nahkampf)
+
+> An ex-corporate enforcer, Hakan Veil, is forced to bodyguard Madison Madekwe, part of a colonial audit team investigating a disappeared lottery winner on Mars. But when Madekwe is abducted, and Hakan nearly killed, the investigation takes him farther and deeper than he had ever expected. And soon Hakan discovers the heavy price he may have to pay to learn the truth.
 
 #### [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway) (2017) *by [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow)* [3.7]
 
