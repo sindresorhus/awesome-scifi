@@ -475,6 +475,16 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > In a moving story of sacrifice and triumph, human scientists establish a relationship with intelligent life forms—the cheela—living on Dragon’s Egg, a neutron star where one Earth hour is equivalent to hundreds of their years. The cheela culturally evolve from savagery to the discovery of science, and for a brief time men are their diligent teachers.
 
+#### [Manifold series](https://www.goodreads.com/series/49783-manifold) (1999-2003) *by [Stephen Baxter](https://en.wikipedia.org/wiki/Stephen_Baxter_(author))* [3.8 avg]
+
+Stephen Baxter explores the Fermi Paradox in different ways over the course of three books (and a collection of novellas), in a gloriously hard scifi style. It is very thought provoking, and also utterly brutal and bleak. Space and time is cold and uncaring.  - [@nahkampf](https://github.com/nahkampf)
+
+> Each one of the main novels deals with a possible resolution to the Fermi paradox. The first, Time, is set in a universe that is completely devoid of intelligent life beyond that of mankind and its creations (i.e. A.I. and uplifted animals).
+>
+> The second in the series, Space, proposes the opposite: that life is endemic to the universe, and there is intelligence in nearly all possible places of the cosmos. The solution to the Fermi Paradox in this novel is that intelligent life is continually wiped out by cosmic disasters before it has time to spread too far.
+>
+> The third novel, Origin, is set in a multiverse that is a compromise between the ideals in the first two novels: that life is only on Earth, but at the same time is everywhere. This novel solves the Fermi Paradox by suggesting that intelligent life is segregated into separate parallel universes. 
+
 #### [Nexus](https://www.goodreads.com/book/show/24968342-nexus) (2012) *by [Ramez Naam](https://en.wikipedia.org/wiki/Ramez_Naam)* [4.1]
 
 Near-future hard Sci-Fi at its best. Lots of awards and endorsements, even a [thumbs up](https://twitter.com/ID_AA_Carmack/status/494337667035697152) from John Carmack. Can't go wrong. - [@christianboyle](https://github.com/christianboyle)
