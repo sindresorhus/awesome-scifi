@@ -581,6 +581,18 @@ This book is fantastic not for the novelty of non-technological teleportation, b
 
 > In this pulse-quickening novel, Alfred Bester imagines a future in which people “jaunte” a thousand miles with a single thought, where the rich barricade themselves in labyrinths and protect themselves with radioactive hit men—and where an inarticulate outcast is the most valuable and dangerous man alive. _The Stars My Destination_ is a classic of technological prophecy and timeless narrative enchantment by an acknowledged master of science fiction.
 
+#### [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway) (2017) *by [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow)* [3.7]
+
+Idea-driven scifi about a tech-savvy movement of "walkways", disenchanted people walking away from an increasingly oppressive capitalist society and creating their own ad-hoc societies. Doctorow manages to combine cyberpunk "high tech, low life" with a bit of utopian science fiction which feels very refreshing. - [nahkampf](https://github.com/nahkampf)
+
+> In a world of non-work, ruined by human-created climate change and pollution, and where people are under surveillance and ruled over by a mega-rich elite, Hubert, Etc, his friend Seth, and Natalie, decide that they have nothing to lose by turning their backs and walking away from the everyday world or "default reality".
+>
+> With the advent of 3D printing – and especially the ability to use these to fabricate even better fabricators – and with machines that can search for and reprocess waste or discarded materials, they no longer have need of Default for the basic essentials of life, such as food, clothing and shelter.
+>
+> As more and more people choose to "walkaway", the ruling elite do not take these social changes sitting down. They use the military, police and mercenaries to attack and disrupt the walkaways' new settlements.
+>
+> One thing that the elite are especially interested in is scientific research that the walkaways are carrying out which could finally put an end to death – and all this leads to revolution and eventual war.
+
 #### [Ware](https://www.goodreads.com/series/41816-ware) (1982-2000) *by [Rudy Rucker](https://en.wikipedia.org/wiki/Rudy_Rucker)* [3.7]
 
 > Cobb Anderson created the “boppers,” sentient robots that overthrew their human overlords. But now Cobb is just an aging alcoholic waiting to die, and the big boppers are threatening to absorb all of the little boppers—and eventually every human—into a giant, melded consciousness. Some of the little boppers aren’t too keen on the idea, and a full-scale robot revolt is underway on the moon (where the boppers live). Meanwhile, bopper Ralph Numbers wants to give Cobb immortality by letting a big bopper slice up his brain and tape his “software.” It seems like a good idea to Cobb.
