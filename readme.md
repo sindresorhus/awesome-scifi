@@ -572,6 +572,16 @@ A fun and fast-paced hard-boiled cyberpunk noir, almost impossible to put down. 
 >
 > Hotwired to the leading edges of art and technology, _Neuromancer_ ranks with _1984_ and _Brave New World_ as one of the century’s most potent visions of the future.
 
+#### [REAMDE](https://www.goodreads.com/book/show/10552338-reamde) (2011) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [3.9]
+
+With REAMDE (sic) Neal Stephenson returns with a much more down to earth cyberpunk story, closer to our own future and shaped not by the cyberpunk futures imagined in the early nineties but rather what we actually got instead in the 2000s. A few wrong turns quickly turns into a world-spanning chase, featuring terrorists, russian mobsters, online gaming and a more realistic, contemporary take on cyberpunk storytelling. - [@nahkampf](https://github.com/nahkampf)
+
+>Four decades ago, Richard Forthrast, the black sheep of an Iowa family, fled to a wild and lonely mountainous corner of British Columbia to avoid the draft. Smuggling backpack loads of high-grade marijuana across the border into Northern Idaho, he quickly amassed an enormous and illegal fortune. With plenty of time and money to burn, he became addicted to an online fantasy game in which opposing factions battle for power and treasure in a vast cyber realm. Like many serious gamers, he began routinely purchasing virtual gold pieces and other desirables from Chinese gold farmers—young professional players in Asia who accumulated virtual weapons and armor to sell to busy American and European buyers.
+>
+>For Richard, the game was the perfect opportunity to launder his aging hundred dollar bills and begin his own high-tech start up—a venture that has morphed into a Fortune 500 computer gaming group, Corporation 9592, with its own super successful online role-playing game, T’Rain. But the line between fantasy and reality becomes dangerously blurred when a young gold farmer accidently triggers a virtual war for dominance—and Richard is caught at the center.
+>
+>In this edgy, 21st century tale, Neal Stephenson, one of the most ambitious and prophetic writers of our time, returns to the terrain of his cyberpunk masterpieces Snow Crash and Cryptonomicon, leading readers through the looking glass and into the dark heart of imagination.
+
 #### [Snow Crash](https://www.goodreads.com/book/show/830.Snow_Crash) (1992) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.0] 🔥
 
 > In reality, Hiro Protagonist delivers pizza for Uncle Enzo’s CosoNostra Pizza Inc., but in the Metaverse he’s a warrior prince. Plunging headlong into the enigma of a new computer virus that’s striking down hackers everywhere, he races along the neon-lit streets on a search-and-destroy mission for the shadowy virtual villain threatening to bring about infocalypse. _Snow Crash_ is a mind-altering romp through a future America so bizarre, so outrageous… you’ll recognize it immediately.
@@ -602,7 +612,7 @@ Modernized cyberpunk with the noir grit dialled up to eleven. - [@nahkampf](http
 
 #### [Walkaway](https://www.goodreads.com/book/show/40604388-walkaway) (2017) *by [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow)* [3.7]
 
-Idea-driven scifi about a tech-savvy movement of "walkways", disenchanted people walking away from an increasingly oppressive capitalist society and creating their own ad-hoc societies. Doctorow manages to combine cyberpunk "high tech, low life" with a bit of utopian science fiction which feels very refreshing. - [nahkampf](https://github.com/nahkampf)
+Idea-driven scifi about a tech-savvy movement of "walkaways", disenchanted people walking away from an increasingly oppressive capitalist society and creating their own ad-hoc societies. Doctorow manages to combine cyberpunk "high tech, low life" with a bit of utopian science fiction which feels very refreshing. - [nahkampf](https://github.com/nahkampf)
 
 > In a world of non-work, ruined by human-created climate change and pollution, and where people are under surveillance and ruled over by a mega-rich elite, Hubert, Etc, his friend Seth, and Natalie, decide that they have nothing to lose by turning their backs and walking away from the everyday world or "default reality".
 >
