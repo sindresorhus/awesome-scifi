@@ -825,6 +825,13 @@ Alastair Reynolds' take on the Fermi Paradox is a vast and brutal epic, consisti
 
 > Nine hundred thousand years ago, something annihilated the Amarantin civilization just as it was on the verge of discovering space flight. Now one scientist, Dan Sylveste, will stop at nothing to solve the Amarantin riddle before ancient history repeats itself. With no other resources at his disposal, Sylveste forges a dangerous alliance with the cyborg crew of the starship Nostalgia for Infinity. But as he closes in on the secret, a killer closes in on him. Because the Amarantin were destroyed for a reason — and if that reason is uncovered, the universe—and reality itself — could be irrecoverably altered...
 
+#### [Salvation](https://www.goodreads.com/book/show/34068552-salvation) (2018-2020) *by [https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [4.19 avg]
+
+Peter Hamilton is back with another multi-planetary wormhole based society story, and this one has elements of both space opera and cyberpunk. The perspective shifts between 2204 and several thousand years into the future. Starts slow but when the shit hits the fan it hits with a vengeance. Three books in total, a very good read. - [@nahkampf](https://github.com/nahkampf)
+
+> In 2204, humanity is expanding into the wider galaxy in leaps and bounds. A new technology of linked jump gates has rendered most forms of transporation--including starships--virtually obsolete. Every place on earth, every distant planet mankind has settled, is now merely a step away from any other. And all seems wonderful...until a crashed alien spaceship is found on a newly-located world 89 light years from Earth, harboring seventeen human victims. And of the high-powered team dispatched to investigate the mystery, one is an alien spy...
+
+
 ### Post Apocalyptic
 
 _Novels concerning the end of civilization, usually based in a future resulting from a catastrophe of some sort, where only scattered elements of technology remain._
