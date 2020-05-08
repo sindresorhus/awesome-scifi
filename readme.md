@@ -250,6 +250,12 @@ All of Asher's *Polity* novels are chock full of amazing technology, vibrant cha
 >
 > In the universe of the Polity Neal Asher has created ancient, but no longer completely active, races who remain a threat to the existence of humanity.  He tells in passing of how a ‘Quiet War’ replaced humans with the artificial intelligence and in doing so allowed humans more freedom than if they’d remained under their own governance. We get to see a world pre-Polity in The Line of the Polity and post-Polity twenty years later in The Technician, though the comparison is an aside to the storytelling.
 
+#### [Red Dwarf](https://www.goodreads.com/book/show/70956.Red_Dwarf_Omnibus) (1989) *by [Grant Naylor](https://en.wikipedia.org/wiki/Grant_Naylor)* [4.3]
+
+Actually four books by two authors. It was made into a TV series but the books should be consumed instead. Very high quality over the top deep space trouble with anti-hero Lister and his crew. - [@montao](https://github.com/montao)
+
+> ...three million years from Earth, marooned in the wrong dimension of the wrong reality, and down to his last two cigarettes. 
+
 #### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
 
 This book is filled with a quiet suspense that is almost palpable; in that, it does an extraordinary job of showing how humans respond to alien encounters. The otherworldliness of Rama isn't always interesting, but the reaction of the reader to it is. - [@RichardLitt](https://github.com/RichardLitt)
