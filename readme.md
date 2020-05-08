@@ -827,7 +827,7 @@ Alastair Reynolds' take on the Fermi Paradox is a vast and brutal epic, consisti
 
 #### [Salvation](https://www.goodreads.com/book/show/34068552-salvation) (2018-2020) *by [https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [4.19 avg]
 
-Peter Hamilton is back with another multi-planetary wormhole based society story, and this one has elements of both space opera and cyberpunk. The perspective shifts between 2204 and several thousand years into the future. Starts slow but when the shit hits the fan it hits with a vengeance. Three books in total, a very good read. - [@nahkampf](https://github.com/nahkampf)
+Peter Hamilton is back with another story featuring a wormhole-based multi-planetary society, and this one has elements of both space opera and cyberpunk. The perspective shifts between 2204 and several thousand years into the future. Starts slow but when the shit hits the fan it hits with a vengeance. Three books in total, a very good read. - [@nahkampf](https://github.com/nahkampf)
 
 > In 2204, humanity is expanding into the wider galaxy in leaps and bounds. A new technology of linked jump gates has rendered most forms of transporation--including starships--virtually obsolete. Every place on earth, every distant planet mankind has settled, is now merely a step away from any other. And all seems wonderful...until a crashed alien spaceship is found on a newly-located world 89 light years from Earth, harboring seventeen human victims. And of the high-powered team dispatched to investigate the mystery, one is an alien spy...
 
