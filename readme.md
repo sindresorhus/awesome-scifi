@@ -55,7 +55,7 @@ Like Accelerando, this series is an excellent exploration of posthumanism.  It a
 >
 > The safest place for Bob is in space, heading away from Earth at top speed. Or so he thinks. Because the universe is full of nasties, and trespassers make them mad - very mad.
 
-#### [Accelerando](http://www.goodreads.com/book/show/17863.Accelerando) (2005) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9]
+#### [Accelerando](https://www.goodreads.com/book/show/17863.Accelerando) (2005) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9]
 
 Accelerando is an excellent exploration of Posthumanism. It's my go to recommendation for people wanting to read about that stuff. - [@erbridge](https://github.com/erbridge)
 
@@ -159,7 +159,7 @@ The books are real page turners with its mix of high politics, space battles, an
 >
 > Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, "The Scopuli," they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for - and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why.
 
-#### [Flatland](http://www.goodreads.com/book/show/433567.Flatland) (1884) *by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)* [3.8] 🌟
+#### [Flatland](https://www.goodreads.com/book/show/433567.Flatland) (1884) *by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)* [3.8] 🌟
 
 This book will teach you to stretch your imagination and see things in a different way. - [@elssar](https://github.com/elssar)
 
@@ -254,7 +254,7 @@ All of Asher's *Polity* novels are chock full of amazing technology, vibrant cha
 
 Actually four books by two authors. It was made into a TV series but the books should be consumed instead. Very high quality over the top deep space trouble with anti-hero Lister and his crew. - [@montao](https://github.com/montao)
 
-> ...three million years from Earth, marooned in the wrong dimension of the wrong reality, and down to his last two cigarettes. 
+> ...three million years from Earth, marooned in the wrong dimension of the wrong reality, and down to his last two cigarettes.
 
 #### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) *by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)* [4.0]
 
@@ -929,7 +929,7 @@ Conan the Barbarian in space. - [@alex-keyes](https://github.com/alex-keyes)
 >
 >Graham Mcneill's epic trilogy of Ultramarines novels is a masterpiece of non-stop action! Containing the novels Nightbringer, Warriors of Ultramar and Dead Sky, Black Sun, plus a connected short story, Chains of Command, the series follows the adventures of Space Marine Captain Uriel Ventris and the Ultramarines as they battle against the enemies of mankind. From their home world of Macragge, into the dreaded Eye of Terror and beyond, Graham McNeill's prose rattles like gunfire and brings the Space Marines to life like never before.
 
-#### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines) (2013-) *by [Marko Kloos](http://www.markokloos.com/)* [4.05]
+#### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines) (2013-) *by [Marko Kloos](https://www.markokloos.com/)* [4.05]
 
 A very entertaining military drama that has continued to grow on me, book by book. [@AlexKeyes](https://github.com/alex-keyes)
 
@@ -1171,7 +1171,7 @@ A bit of a lighthearted series, it's a great drama - [@alexkeyes](https://github
 
 #### [The Hitchhiker’s Guide to the Galaxy](https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) (1979) *by [Douglas Adams](https://en.wikipedia.org/wiki/Douglas_Adams)* [4.2] 🌟 🔥
 
-One of the funniest series I have ever read. I laugh to myself and think about this all of the time. Changed how I view the galaxy and lost pens irreversibly. I also celebrate [International Towel Day](http://en.wikipedia.org/wiki/Towel_Day) every year now. - [@RichardLitt](https://github.com/RichardLitt)
+One of the funniest series I have ever read. I laugh to myself and think about this all of the time. Changed how I view the galaxy and lost pens irreversibly. I also celebrate [International Towel Day](https://en.wikipedia.org/wiki/Towel_Day) every year now. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Seconds before the Earth is demolished to make way for a galactic freeway, Arthur Dent is plucked off the planet by his friend Ford Prefect, a researcher for the revised edition of _The Hitchhiker’s Guide to the Galaxy_ who, for the last fifteen years, has been posing as an out-of-work actor.
 >
@@ -1277,7 +1277,7 @@ I think of these stories often; The Death of Dr. Island won a Nebula and offers 
 
 ## Movies
 
-#### [2001: A Space Odyssey](http://www.imdb.com/title/tt0062622/) (1968) [8.3]
+#### [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/) (1968) [8.3]
 
 Categories: `space` `ai` `singularity`<br>
 Director: _Stanley Kubrick_
@@ -1286,19 +1286,19 @@ Cinematically, this movie is a masterpiece. This is one of the few films on this
 
 > Humanity finds a mysterious, obviously artificial, object buried beneath the Lunar surface and, with the intelligent computer H.A.L. 9000, sets off on a quest.
 
-#### [A Clockwork Orange](http://www.imdb.com/title/tt0066921/) (1971) [8.4]
+#### [A Clockwork Orange](https://www.imdb.com/title/tt0066921/) (1971) [8.4]
 
 Categories: `dystopia`
 
 > In future Britain, charismatic delinquent Alex DeLarge is jailed and volunteers for an experimental aversion therapy developed by the government in an effort to solve society’s crime problem—but not all goes according to plan.
 
-#### [A Scanner Darkly](http://www.imdb.com/title/tt0405296/) (2006) [7.1]
+#### [A Scanner Darkly](https://www.imdb.com/title/tt0405296/) (2006) [7.1]
 
 Categories: `dystopia` `cyberpunk`
 
 > An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.
 
-#### [Akira](http://www.imdb.com/title/tt0094625/) (1988) [8.1]
+#### [Akira](https://www.imdb.com/title/tt0094625/) (1988) [8.1]
 
 Categories: `anime` `dystopia` `thriller`
 
@@ -1306,7 +1306,7 @@ One of the first mainstream anime movies. Psychologically horrifying in more tha
 
 > A secret military project endangers Neo-Tokyo when it turns a biker gang member into a rampaging psionic psychopath that only two kids and a group of psionics can stop.
 
-#### [Arrival](http://www.imdb.com/title/tt2543164/) (2016) [8.3]
+#### [Arrival](https://www.imdb.com/title/tt2543164/) (2016) [8.3]
 
 Categories: `aliens` `linguistics`<br />
 Director: _Denis Villeneuve_
@@ -1315,7 +1315,7 @@ A beautiful film, weaving together memory, languages, and the other. The film is
 
 > When 12 mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.
 
-#### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
+#### [Blade Runner](https://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
 Categories: `dystopia` `ai` `cyberpunk` `singularity`<br>
 Director: _Ridley Scott_
@@ -1333,7 +1333,7 @@ Blade Runner 2049 returns to the original book's deep philosophical questions ab
 
 > A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.
 
-#### [Brazil](http://www.imdb.com/title/tt0088846/) (1985) [8.0]
+#### [Brazil](https://www.imdb.com/title/tt0088846/) (1985) [8.0]
 
 Categories: `dystopia` `police`
 
@@ -1341,7 +1341,7 @@ If you're looking to replicate the experience of taking acid without actually do
 
 > A bureaucrat in a retro-future world tries to correct an administrative error and himself becomes an enemy of the state.
 
-#### [Cargo](http://www.imdb.com/title/tt0381940/) (2009) [6.2]
+#### [Cargo](https://www.imdb.com/title/tt0381940/) (2009) [6.2]
 
 Categories: `space` `dystopia`
 
@@ -1349,7 +1349,7 @@ Why not try something out of the ordinary with this Swiss sci-fi thriller? [@Lek
 
 > In 2270, Earth is completely depleted and no one lives there anymore. Those that have money move to Rhea; but most of the population lives in orbit in space stations. Dr. Laura Portmann decides to work in the cargo ship Kassandra in an eight year travel to Station 42 that is in orbit of RH278 to raise money to meet her sister Arianne in Rhea.
 
-#### [Chappie](http://www.imdb.com/title/tt1823672/) (2015) [7.1]
+#### [Chappie](https://www.imdb.com/title/tt1823672/) (2015) [7.1]
 
 Categories: `ai` `police`
 
@@ -1357,7 +1357,7 @@ A movie about an AI robot "growing up" (as in, learning about the world and lear
 
 > In the near future, crime is patrolled by a mechanized police force. When one police droid, Chappie, is stolen and given new programming, he becomes the first robot with the ability to think and feel for himself.
 
-#### [Children of Men](http://www.imdb.com/title/tt0206634/) (2006) [7.9]
+#### [Children of Men](https://www.imdb.com/title/tt0206634/) (2006) [7.9]
 
 Categories: `dystopia` `drama`
 
@@ -1375,11 +1375,11 @@ This is an awesome movie. It is a deep movie, with a complex plot. You don't wan
 
 > An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.
 
-#### [Coherence](http://www.imdb.com/title/tt2866360/) (2013) [7.1]
+#### [Coherence](https://www.imdb.com/title/tt2866360/) (2013) [7.1]
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
 
-#### [Contact](http://www.imdb.com/title/tt0118884/) (1997) [7.4]
+#### [Contact](https://www.imdb.com/title/tt0118884/) (1997) [7.4]
 
 Categories: `aliens` `space` `drama` `mystery` `thriller`<br>
 Director: _Robert Zemeckis_<br>
@@ -1388,7 +1388,7 @@ Based on a novel by the fantastic Carl Sagan, this is a painstakingly realistic 
 
 > Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.
 
-#### [Dark City](http://www.imdb.com/title/tt0118929/) (1998) [7.7]
+#### [Dark City](https://www.imdb.com/title/tt0118929/) (1998) [7.7]
 
 Categories: `aliens` `mystery` `sci-fi` `thriller`<br>
 Director: _Alex Proyas_<br>
@@ -1397,7 +1397,7 @@ Excellent neo-noir about a man trapped in a city permanently in nighttime. He su
 
 > A man struggles with memories of his past, including a wife he cannot remember, in a nightmarish world with no sun.
 
-#### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
+#### [District 9](https://www.imdb.com/title/tt1136608/) (2009) [8.0]
 
 Categories: `aliens` `thriller` `apartheid`<br>
 Director: _Neill Blomkamp_<br>
@@ -1411,7 +1411,7 @@ I thought it was pretty awesome, even just linguistically. Special effects were 
 
 > An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.
 
-#### [Dune](http://www.imdb.com/title/tt0087182/) (1984) [6.6]
+#### [Dune](https://www.imdb.com/title/tt0087182/) (1984) [6.6]
 
 Categories: `space` `aliens`<br>
 Director: _David Lynch_
@@ -1420,7 +1420,7 @@ This is based on the Dune book by Herbert, listed above. This version is legenda
 
 > A Duke’s son leads desert warriors against the galactic emperor and his father’s evil nemesis when they assassinate his father and free their desert world from the emperor’s rule.
 
-#### [Edge of Tomorrow](http://www.imdb.com/title/tt1631867/) (2014) [7.9]
+#### [Edge of Tomorrow](https://www.imdb.com/title/tt1631867/) (2014) [7.9]
 
 Categories: `thriller` `police` `aliens`
 
@@ -1436,21 +1436,21 @@ One of my favorite sci-fi movies of all time. The source material is supposed to
 
 > A military officer is brought into an alien war against an extraterrestrial enemy who can reset the day and know the future. When this officer is enabled with the same power, he teams up with a Special Forces warrior to try and end the war.
 
-#### [Eraserhead](http://www.imdb.com/title/tt0074486/) (1977) [7.4]
+#### [Eraserhead](https://www.imdb.com/title/tt0074486/) (1977) [7.4]
 
 > Henry Spencer tries to survive his industrial environment, his angry girlfriend, and the unbearable screams of his newly born mutant child.
 
-#### [Europa Report](http://www.imdb.com/title/tt2051879/) (2013) [6.5]
+#### [Europa Report](https://www.imdb.com/title/tt2051879/) (2013) [6.5]
 
 Categories: `space`
 
 > An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter’s fourth largest moon.
 
-#### [Ex Machina](http://www.imdb.com/title/tt0470752/) (2015) [7.9]
+#### [Ex Machina](https://www.imdb.com/title/tt0470752/) (2015) [7.9]
 
 Categories: `ai`
 
-Thought-provoking movie that explores what it means to be human. Deep, suspenseful, and at times claustrophobic. Acting is to perfection. Visual effects are so well done and natural you don't even notice them. Truly the best sci-fi movie I've watched in years. - [@sindresorhus](http://sindresorhus.com)
+Thought-provoking movie that explores what it means to be human. Deep, suspenseful, and at times claustrophobic. Acting is to perfection. Visual effects are so well done and natural you don't even notice them. Truly the best sci-fi movie I've watched in years. - [@sindresorhus](https://sindresorhus.com)
 
 Kind of a parody about Google. The owner of a huge search provider creates an A.I. humanoid in a complete secrecy and calls a young programmer to perform a slight variation of a [Turing test](https://en.wikipedia.org/wiki/Turing_test) to test his creation in a secret underground lab. Can be a good introduction to Turing test to people interested in A.I. To be honest, the end of the movie was a bit disappointing to me. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
@@ -1474,7 +1474,7 @@ Forbidden Planet takes the "hard" Sci-Fi route, whilst retaining fantastical ele
 
 > A starship crew goes to investigate the silence of a planet's colony only to find two survivors and a deadly secret that one of them has.
 
-#### [Galaxy Quest](http://www.imdb.com/title/tt0177789/) (1999) [7.3]
+#### [Galaxy Quest](https://www.imdb.com/title/tt0177789/) (1999) [7.3]
 
 Categories: `comedy` `space` `aliens`
 
@@ -1482,7 +1482,7 @@ If you've heard of Star Trek, and like comedy, this is for you - the entire film
 
 > The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help.
 
-#### [Gattaca](http://www.imdb.com/title/tt0119177/) (1997) [7.8]
+#### [Gattaca](https://www.imdb.com/title/tt0119177/) (1997) [7.8]
 
 Categories: `biopunk` `space`
 
@@ -1490,19 +1490,19 @@ This film gets more relevant every year. Slow at times, the questions it raises 
 
 > A genetically inferior man assumes the identity of a superior one in order to pursue his lifelong dream of space travel.
 
-#### [Ghost in the Shell](http://www.imdb.com/title/tt0113568/) (1995) [8.0]
+#### [Ghost in the Shell](https://www.imdb.com/title/tt0113568/) (1995) [8.0]
 
 Categories: `anime` `ai` `police`
 
 > A female cyborg cop and her partner hunt a mysterious and powerful hacker called the Puppet Master.
 
-#### [Godzilla](http://www.imdb.com/title/tt0047034/) (1954) [7.5]
+#### [Godzilla](https://www.imdb.com/title/tt0047034/) (1954) [7.5]
 
 Categories: `apocalypse` `aliens` `action`
 
 > American nuclear weapons testing results in the creation of a seemingly unstoppable, dinosaur-like beast.
 
-#### [Hackers](http://www.imdb.com/title/tt0113243/) (1995) [6.2]
+#### [Hackers](https://www.imdb.com/title/tt0113243/) (1995) [6.2]
 
 Categories: `cyberpunk` `police` `thriller`
 
@@ -1510,7 +1510,7 @@ In a strange loop, a lot of the statements made in this film about who hackers a
 
 > A young boy is arrested by the U.S. Secret Service for writing a computer virus and is banned from using a computer until his 18th birthday. Years later, he and his new-found friends discover a plot to unleash a dangerous computer virus, but they must use their computer skills to find the evidence while being pursued by the Secret Service and the evil computer genius behind the virus.
 
-#### [Her](http://www.imdb.com/title/tt1798709/) (2014) [8.0]
+#### [Her](https://www.imdb.com/title/tt1798709/) (2014) [8.0]
 
 Categories: `ai` `drama` `singularity`
 
@@ -1520,7 +1520,7 @@ This is a beautiful film; the plot was forced at times, especially towards the e
 
 > A lonely writer develops an unlikely relationship with his newly purchased operating system that’s designed to meet his every need.
 
-#### [I Origins](http://www.imdb.com/title/tt2884206/) (2014) [7.3]
+#### [I Origins](https://www.imdb.com/title/tt2884206/) (2014) [7.3]
 
 Categories: `cyberpunk`
 
@@ -1534,7 +1534,7 @@ The name of this movie comes from the Asimov's book of the same name, which cons
 
 > In 2035, a technophobic cop investigates a crime that may have been perpetrated by a robot, which leads to a larger threat to humanity.
 
-#### [Inception](http://www.imdb.com/title/tt1375666/) (2010) [8.8]
+#### [Inception](https://www.imdb.com/title/tt1375666/) (2010) [8.8]
 
 Categories: `cyberpunk`
 
@@ -1542,7 +1542,7 @@ A major blockbuster, this film stretches the limits of recursion while maintaini
 
 > A thief who steals corporate secrets through use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
 
-#### [Interstellar](http://www.imdb.com/title/tt0816692/) (2014) [8.7]
+#### [Interstellar](https://www.imdb.com/title/tt0816692/) (2014) [8.7]
 
 Categories: `space`
 
@@ -1552,7 +1552,7 @@ The visuals are pretty good. There are plotholes here and there, but overall I r
 
 > A team of explorers travel through a wormhole in an attempt to ensure humanity’s survival.
 
-#### [La Jetée](http://www.imdb.com/title/tt0056119/) (1962) [8.4]
+#### [La Jetée](https://www.imdb.com/title/tt0056119/) (1962) [8.4]
 
 Categories: `time travel` `drama`
 
@@ -1560,7 +1560,7 @@ This film inspired Twelve Monkeys, but is more notable for being one of the earl
 
 > Time travel, still images, a past, present and future and the aftermath of World War III. The tale of a man, a slave, sent back and forth, in and out of time, to find a solution to the world’s fate. To replenish its decreasing stocks of food, medicine and energies, and in doing so, resulting in a perpetual memory of a lone female, life, death and past events that are recreated on an airports jetée.
 
-#### [Metropolis](http://www.imdb.com/title/tt0017136/) (1927) [8.3]
+#### [Metropolis](https://www.imdb.com/title/tt0017136/) (1927) [8.3]
 
 Categories: `apocalypse`
 
@@ -1568,7 +1568,7 @@ This is the kind of film that sells out art houses when someone finds an early r
 
 > In a futuristic city sharply divided between the working class and the city planners, the son of the city’s mastermind falls in love with a working class prophet who predicts the coming of a savior to mediate their differences.
 
-#### [Minority Report](http://www.imdb.com/title/tt0181689/) (2002) [7.7]
+#### [Minority Report](https://www.imdb.com/title/tt0181689/) (2002) [7.7]
 
 Categories: `ai` `police`
 
@@ -1576,7 +1576,7 @@ Predicting future crimes? Sure, I am all for it, _until_ they make a mistake and
 
 > In a future where a special police unit is able to arrest murderers before they commit their crimes, an officer from that unit is himself accused of a future murder.
 
-#### [Moon](http://www.imdb.com/title/tt1182345/) (2009) [8.0]
+#### [Moon](https://www.imdb.com/title/tt1182345/) (2009) [8.0]
 
 Categories: `space` `drama`
 
@@ -1592,7 +1592,7 @@ This is one of my favourite movies. A myriad of stories are told: the different 
 
 > A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
 
-#### [Oblivion](http://www.imdb.com/title/tt1483013/) (2013) [7.0]
+#### [Oblivion](https://www.imdb.com/title/tt1483013/) (2013) [7.0]
 
 Categories: `apocalypse`
 
@@ -1600,7 +1600,7 @@ A post-apocalyptic movie, starring Tom Cruise as Jack Harper (Tech 49) and Andre
 
 > A veteran assigned to extract Earth’s remaining resources begins to question what he knows about his mission and himself.
 
-#### [Open Your Eyes](http://www.imdb.com/title/tt0125659/) (1997) [7.8]
+#### [Open Your Eyes](https://www.imdb.com/title/tt0125659/) (1997) [7.8]
 
 Categories: `drama` `romance`
 
@@ -1608,13 +1608,13 @@ The original spanish movie [Vanilla Sky](#vanilla-sky-2001-69) was based on, way
 
 > A very handsome man finds the love of his life, but he suffers an accident and needs to have his face rebuilt by surgery after it is severely disfigured.
 
-#### [Paprika](http://www.imdb.com/title/tt0851578/) (2006) [7.7]
+#### [Paprika](https://www.imdb.com/title/tt0851578/) (2006) [7.7]
 
 Categories: `ai`
 
 > When a machine that allows therapists to enter their patients’ dreams is stolen, all hell breaks loose. Only a young female therapist can stop it: Paprika.
 
-#### [Possible Worlds](http://www.imdb.com/title/tt0222293/) (2000) [6.9]
+#### [Possible Worlds](https://www.imdb.com/title/tt0222293/) (2000) [6.9]
 
 Categories: `philosophy` `drama`
 
@@ -1622,17 +1622,17 @@ This is an extraordinary film that manages to give an expose of possible worlds 
 
 > A man lives in parallel worlds, falling in love with the same woman, while the police hunt down a serial killer who steals brains.
 
-#### [Predestination](http://www.imdb.com/title/tt2397535/) (2014) [7.5]
+#### [Predestination](https://www.imdb.com/title/tt2397535/) (2014) [7.5]
 
 Categories: `time travel`
 
 > The life of a time-traveling Temporal Agent. On his final assignment, he must pursue the one criminal that has eluded him throughout time.
 
-#### [Primer](http://www.imdb.com/title/tt0390384/) (2004) [7.0]
+#### [Primer](https://www.imdb.com/title/tt0390384/) (2004) [7.0]
 
 > Four friends/fledgling entrepreneurs, knowing that there’s something bigger and more innovative than the different error-checking devices they’ve built, wrestle over their new invention.
 
-#### [Serenity (Firefly)](http://www.imdb.com/title/tt0379786/) (2005) [8.0]
+#### [Serenity (Firefly)](https://www.imdb.com/title/tt0379786/) (2005) [8.0]
 
 Categories: `space` `western` `action`
 
@@ -1640,13 +1640,13 @@ Watch the Firefly series before seeing this film. It is good in itself, for the 
 
 > The crew of the ship Serenity tries to evade an assassin sent to recapture one of their number who is telepathic.
 
-#### [Snowpiercer](http://www.imdb.com/title/tt1706620/) (2013) [7.0]
+#### [Snowpiercer](https://www.imdb.com/title/tt1706620/) (2013) [7.0]
 
 Categories: `apocalypse` `action`
 
 > Set in a future where a failed climate-change experiment kills all life on the planet except for a lucky few who boarded the Snowpiercer, a train that travels around the globe, where a class system emerges.
 
-#### [Solaris](http://www.imdb.com/title/tt0069293/) (1972) [8.1]
+#### [Solaris](https://www.imdb.com/title/tt0069293/) (1972) [8.1]
 
 Categories: `space` `drama`<br>
 Director: _Andrei Tarkovsky_
@@ -1655,7 +1655,7 @@ This is the original film based on the book. It is much slower than the remake, 
 
 > A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.
 
-#### [Solaris](http://www.imdb.com/title/tt0307479/) (2002) [6.2]
+#### [Solaris](https://www.imdb.com/title/tt0307479/) (2002) [6.2]
 
 Categories: `space` `drama`<br>
 Director: _Steven Soderbergh_
@@ -1664,19 +1664,19 @@ Starring George Clooney and Natasha McElhone, this is much more of a modern psyc
 
 > A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.
 
-#### [Source Code](http://www.imdb.com/title/tt0945513/) (2011) [7.5]
+#### [Source Code](https://www.imdb.com/title/tt0945513/) (2011) [7.5]
 
 Categories: `ai` `action`
 
 > A soldier wakes up in someone else’s body and discovers he’s part of an experimental government program to find the bomber of a commuter train. A mission he has only 8 minutes to complete.
 
-#### [Stalker](http://www.imdb.com/title/tt0079944/) (1979) [8.2]
+#### [Stalker](https://www.imdb.com/title/tt0079944/) (1979) [8.2]
 
 Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadside Picnic". - [@ggb](https://github.com/ggb)
 
 > Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife’s objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He’s a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one’s secret hopes come true.
 
-#### [Sunshine](http://www.imdb.com/title/tt0448134/) (2007) [7.3]
+#### [Sunshine](https://www.imdb.com/title/tt0448134/) (2007) [7.3]
 
 Categories: `space` `action`
 
@@ -1684,11 +1684,11 @@ This is a pretty good movie. The science is ridiculous, but the characters are g
 
 > A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
 
-#### [The City of Lost Children](http://www.imdb.com/title/tt0112682/) (1995) [7.7]
+#### [The City of Lost Children](https://www.imdb.com/title/tt0112682/) (1995) [7.7]
 
 > A scientist in a surrealist society kidnaps children to steal their dreams, hoping that they slow his aging process.
 
-#### [The Fifth Element](http://www.imdb.com/title/tt0119116/) (1997) [7.6]
+#### [The Fifth Element](https://www.imdb.com/title/tt0119116/) (1997) [7.6]
 
 Categories: `space` `action`
 
@@ -1704,7 +1704,7 @@ Pretty much like the first book of the trilogy of five books with the same name,
 
 > Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of "The Hitchhiker's Guide to the Galaxy."
 
-#### [The Island](http://www.imdb.com/title/tt0399201/) (2005) [6.9]
+#### [The Island](https://www.imdb.com/title/tt0399201/) (2005) [6.9]
 
 Categories: `action`
 
@@ -1712,17 +1712,17 @@ I rather liked this film; Steve Buscemi's acting abilities brings a poorly-writt
 
 > Lincoln Six-Echo is a resident of a seemingly Utopian but contained facility in the year 2019. Like all of the inhabitants of this carefully controlled environment, Lincoln hopes to be chosen to go to the "The Island" - reportedly the last uncontaminated spot on the planet. But Lincoln soon discovers that everything about his existence is a lie. He and all of the other inhabitants of the facility are actually human clones. Lincoln makes a daring escape with a beautiful fellow resident named Jordan Two-Delta. Relentlessly pursued by the forces of the sinister institute that once housed them, Lincoln and Jordan engage in a race for their lives to literally meet their makers.
 
-#### [The Man from Earth](http://www.imdb.com/title/tt0756683/) (2007) [8.0]
+#### [The Man from Earth](https://www.imdb.com/title/tt0756683/) (2007) [8.0]
 
 > An impromptu goodbye party for Professor John Oldman becomes a mysterious interrogation after the retiring scholar reveals to his colleagues he never ages and has walked the earth for 14,000 years.
 
-#### [The Martian](http://www.imdb.com/title/tt3659388/) (2015) [8.2]
+#### [The Martian](https://www.imdb.com/title/tt3659388/) (2015) [8.2]
 
 This is a fairly accurate representation of the awesome book, but it focuses much more on Watney's personality than on the science (which is a given, as we can actually see Watney in this, as opposed to just read his logs in the book). The space shots were incredibly well done, and one scene with a ribbon like an umbilical chord floating in zero g - absolutely beautiful. This film had great actors, marvelously cast. And there's even a reference to Glorfindel at the council of Elrond; I don't think I've laughed that hard in a theatre in years. Loved it. - [@RichardLitt](https://github.com/RichardLitt)
 
 > During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.
 
-#### [The Matrix](http://www.imdb.com/title/tt0133093/) (1999) [8.7]
+#### [The Matrix](https://www.imdb.com/title/tt0133093/) (1999) [8.7]
 
 Categories: `ai` `action` `apocalypse` `singularity`
 
@@ -1738,7 +1738,7 @@ It is an entertaining and a well done movie with lots of scifi topics: time trav
 
 > Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races.
 
-#### [The Thirteenth Floor](http://www.imdb.com/title/tt0139809/) (1999) [7.0]
+#### [The Thirteenth Floor](https://www.imdb.com/title/tt0139809/) (1999) [7.0]
 
 Categories: `thriller` `ai`
 
@@ -1746,11 +1746,11 @@ It's a classic, came out the same year of the matrix but is focused on the inter
 
 > Computer scientist Hannon Fuller has discovered something extremely important. He's about to tell the discovery to his colleague, Douglas Hall, but knowing someone is after him, the old man leaves a letter in the computer generated parallel world his company has created (which looks like the 30's with seemingly real people with real emotions). Fuller is murdered in our real world the same night, and his colleague is suspected. Douglas discovers a bloody shirt in his bathroom and he cannot recall what he was doing the night Fuller was murdered. He logs into the system in order to find the letter, but has to confront the unexpected. The truth is harsher than he could ever imagine...
 
-#### [The Signal](http://www.imdb.com/title/tt2910814/) (2014) [6.2]
+#### [The Signal](https://www.imdb.com/title/tt2910814/) (2014) [6.2]
 
 > On a road trip, Nic and two friends are drawn to an isolated area by a computer genius. When everything suddenly goes dark, Nic regains consciousness - only to find himself in a waking nightmare.
 
-#### [Transcendence](http://www.imdb.com/title/tt2209764/) (2014) [6.3]
+#### [Transcendence](https://www.imdb.com/title/tt2209764/) (2014) [6.3]
 
 Categories: `ai`
 
@@ -1758,13 +1758,13 @@ A love story between a woman and her husband uploaded into a computer. What make
 
 > A scientist’s drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.
 
-#### [Twelve Monkeys](http://www.imdb.com/title/tt0114746/) (1996) [8.1]
+#### [Twelve Monkeys](https://www.imdb.com/title/tt0114746/) (1996) [8.1]
 
 Categories: `time travel` `action`
 
 > In a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
 
-#### [Vanilla Sky](http://www.imdb.com/title/tt0259711/) (2001) [6.9]
+#### [Vanilla Sky](https://www.imdb.com/title/tt0259711/) (2001) [6.9]
 
 Categories: `drama` `romance`
 
@@ -1778,7 +1778,7 @@ This is an early version of [Inception](#inception) in a lot of ways, and a rema
 
 ![](https://cloud.githubusercontent.com/assets/170270/7905777/f4fc5402-081e-11e5-9a71-8dad63e3b30b.gif)
 
-#### [Star Trek II: The Wrath of Khan](http://www.imdb.com/title/tt0084726/) [7.7]
+#### [Star Trek II: The Wrath of Khan](https://www.imdb.com/title/tt0084726/) [7.7]
 
 This is a classic film, and well worth watching if only for the incredible and iconic 'khaaaaan' echo. More impressive, however, is Ricardo Montalban's performance, which is incredible on its own. As well, in a move that goes against mainstream whitewashing, a Mexican and not a Caucasian plays a genetically engineered superhuman, making this a movie that showed the power of diversity well ahead of its time. This movie is great to watch. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1786,7 +1786,7 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 ## TV Series
 
-#### [Babylon 5](http://www.imdb.com/title/tt0105946/) (1994–1998) [8.2]
+#### [Babylon 5](https://www.imdb.com/title/tt0105946/) (1994–1998) [8.2]
 
 Categories: `action` `adventure` `drama`
 
@@ -1798,7 +1798,7 @@ This is awesome for its nostalgic value, if little else. The line about friction
 
 > A space station in neutral territory is the focus of a unique five year saga.
 
-#### [Battlestar Galactica](http://www.imdb.com/title/tt0407362/) (2004–2009) [8.8]
+#### [Battlestar Galactica](https://www.imdb.com/title/tt0407362/) (2004–2009) [8.8]
 
 Categories: `action` `adventure` `drama`
 
@@ -1806,19 +1806,19 @@ This show. Watch this show. It's military science fiction done right. The interp
 
 > When an old enemy, the Cylons, resurfaces and obliterate the 12 colonies, the crew of the aged Galactica protects a small civilian fleet - the last of humanity - as they journey toward the fabled 13th colony of Earth.
 
-#### [Black Mirror](http://www.imdb.com/title/tt2085059/) (2011– ) [8.8]
+#### [Black Mirror](https://www.imdb.com/title/tt2085059/) (2011– ) [8.8]
 
 Categories: `drama` `thriller`
 
 > A television anthology series that shows the dark side of life and technology.
 
-#### [Blakes 7](http://www.imdb.com/title/tt0076987/) (1978–1981) [8.0]
+#### [Blakes 7](https://www.imdb.com/title/tt0076987/) (1978–1981) [8.0]
 
 Categories: `adventure` `drama`
 
 > A group of convicts and outcasts fight a guerrilla war against the totalitarian Terran Federation from a highly advanced alien spaceship.
 
-#### [Children of Dune](http://www.imdb.com/title/tt0287839/) (2003) [7.7]
+#### [Children of Dune](https://www.imdb.com/title/tt0287839/) (2003) [7.7]
 
 Categories: `adventure` `drama` `fantasy`
 
@@ -1826,19 +1826,19 @@ James McAvoy's acting as Leto II is absolutely incredible in this short series, 
 
 > The twins of Paul "Muad'dib" Atreides become embroiled in the political landscape of Arrakis ("Dune") and the rest of the universe.
 
-#### [Continuum](http://www.imdb.com/title/tt1954347/) (2012–2015) [7.8]
+#### [Continuum](https://www.imdb.com/title/tt1954347/) (2012–2015) [7.8]
 
 Categories: `action` `thriller`
 
 > A detective from the year 2077 finds herself trapped in present day Vancouver and searching for ruthless criminals from the future.
 
-#### [Doctor Who](http://www.imdb.com/title/tt0436992/) (1964-1989, 2005– ) [8.9]
+#### [Doctor Who](https://www.imdb.com/title/tt0436992/) (1964-1989, 2005– ) [8.9]
 
 Categories: `adventure` `drama` `family`
 
 > The further adventures of the time traveling alien adventurer and his companions.
 
-#### [Dune](http://www.imdb.com/title/tt0142032/) (2000) [7.1]
+#### [Dune](https://www.imdb.com/title/tt0142032/) (2000) [7.1]
 
 Categories: `adventure` `drama` `fantasy`
 
@@ -1854,13 +1854,13 @@ It is all about a fictional town called Eureka. Inhabitants are geniuses and sci
 
 > A U.S. Marshall becomes the sheriff of a remote cozy little Northwestern town of Eureka where the best minds in the US have secretly been tucked away to build futuristic inventions for the government which often go disastrously wrong.
 
-#### [Farscape](http://www.imdb.com/title/tt0187636/) (1999–2003) [8.4]
+#### [Farscape](https://www.imdb.com/title/tt0187636/) (1999–2003) [8.4]
 
 Categories: `adventure` `drama`
 
 > Thrown into a distant part of the universe, an Earth astronaut finds himself part of a fugitive alien starship crew.
 
-#### [Firefly](http://www.imdb.com/title/tt0303461/) (2002–2003) [9.2]
+#### [Firefly](https://www.imdb.com/title/tt0303461/) (2002–2003) [9.2]
 
 Categories: `adventure` `drama` `western`
 
@@ -1874,19 +1874,19 @@ What he said. - [@RichardLitt](https://github.com/RichardLitt)
 
 > Five hundred years in the future, a renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them.
 
-#### [Fringe](http://www.imdb.com/title/tt1119644/) (2008–2013) [8.5]
+#### [Fringe](https://www.imdb.com/title/tt1119644/) (2008–2013) [8.5]
 
 Categories: `drama` `mystery`
 
 > A television drama centered around a female FBI agent who is forced to work with an institutionalized scientist in order to rationalize a brewing storm of unexplained phenomena.
 
-#### [Hitchhiker’s Guide to the Galaxy](http://www.imdb.com/title/tt0081874/) (1981) [8.0]
+#### [Hitchhiker’s Guide to the Galaxy](https://www.imdb.com/title/tt0081874/) (1981) [8.0]
 
 Categories: `comedy` `adventure`
 
 > An Earth man and his alien friend escape Earth’s destruction and go on a truly strange adventure as space hitchhikers.
 
-#### [Neon Genesis Evangelion](http://www.imdb.com/title/tt0112159/) (1995–1996) [8.6]
+#### [Neon Genesis Evangelion](https://www.imdb.com/title/tt0112159/) (1995–1996) [8.6]
 
 Categories: `animation` `action` `drama`
 
@@ -1900,7 +1900,7 @@ Starting with crime prevention, the show progresses to gradually touching on AI 
 
 > An ex-assassin and a wealthy programmer save lives via a surveillance AI that sends them the identities of civilians involved in impending crimes. However, the details of the crimes--including the civilians' roles--are left a mystery.
 
-#### [Red Dwarf](http://www.imdb.com/title/tt0094535/) (1988–1999, 2009– ) [8.5]
+#### [Red Dwarf](https://www.imdb.com/title/tt0094535/) (1988–1999, 2009– ) [8.5]
 
 Categories: `comedy`
 
@@ -1916,13 +1916,13 @@ Rick and Morty is one of the best animated shows to have come out in the last de
 
 > An animated series that follows the exploits of a super scientist and his not-so-bright grandson.
 
-#### [Stargate Atlantis](http://www.imdb.com/title/tt0374455/) (2004–2009) [8.1]
+#### [Stargate Atlantis](https://www.imdb.com/title/tt0374455/) (2004–2009) [8.1]
 
 Categories: `action` `drama`
 
 > An international team of scientists and military personnel discover a Stargate network in the Pegasus Galaxy and come face-to-face with a new, powerful enemy, The Wraith.
 
-#### [Stargate SG1](http://www.imdb.com/title/tt0118480/) (1997–2007) [8.5]
+#### [Stargate SG1](https://www.imdb.com/title/tt0118480/) (1997–2007) [8.5]
 
 Categories: `action` `adventure` `drama`
 
@@ -1930,7 +1930,7 @@ Well worth the 9000+ minutes you'll need to watch all the series. Finally a seri
 
 > A secret military team, SG-1, is formed to explore the recently discovered Stargates.
 
-#### [Stargate Universe](http://www.imdb.com/title/tt1286039/) (2009–2011) [7.7]
+#### [Stargate Universe](https://www.imdb.com/title/tt1286039/) (2009–2011) [7.7]
 
 Categories: `drama`
 
@@ -1938,7 +1938,7 @@ The show feels completely different than Stargate SG-1 and Atlantis, it is certa
 
 > Trapped on an Ancient spaceship billions of light years from home, a group of soldiers and civilians struggle to survive and find their way back to Earth.
 
-#### [Star Trek: Deep Space Nine](http://www.imdb.com/title/tt0106145/) (1993–1999) [7.9]
+#### [Star Trek: Deep Space Nine](https://www.imdb.com/title/tt0106145/) (1993–1999) [7.9]
 
 Categories: `action` `adventure` `drama`
 
@@ -1946,7 +1946,7 @@ In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a
 
 > Orbiting the liberated planet of Bajor, a Federation space station guards the opening of a stable wormhole to the far side of the galaxy.
 
-#### [Star Trek: Discovery](http://www.imdb.com/title/tt5171438/) (2017-) [7.3]
+#### [Star Trek: Discovery](https://www.imdb.com/title/tt5171438/) (2017-) [7.3]
 
 Categories: `action` `adventure` `drama`
 
@@ -1954,7 +1954,7 @@ While Discovery is fundamentally quite different from much of the Trek that's co
 
 > Ten years before Kirk, Spock and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.
 
-#### [Star Trek: Enterprise](http://www.imdb.com/title/tt0244365/) (2001–2005) [7.5]
+#### [Star Trek: Enterprise](https://www.imdb.com/title/tt0244365/) (2001–2005) [7.5]
 
 Categories: `action` `adventure` `mystery`
 
@@ -1962,7 +1962,7 @@ A worthy successor to The Next Generation, well developed characters, great Xind
 
 > A century before Captain Kirk's five-year mission, Jonathan Archer captains Earth ship Enterprise NX-01 during the early years of Starfleet leading up to the formation of the Federation and the Earth-Romulan War.
 
-#### [Star Trek: The Next Generation](http://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]
+#### [Star Trek: The Next Generation](https://www.imdb.com/title/tt0092455/) (1987–1994) [8.7]
 
 Categories: `action` `adventure` `mystery`
 
@@ -1970,7 +1970,7 @@ Similar in ethic and setting to the Star Trek: The Original Series, but with new
 
 > Set decades after Captain James T. Kirk's 5-year mission, a new generation of Starfleet officers in a new Enterprise set off on their own mission to go where no one has gone before.
 
-#### [Star Trek: The Original Series](http://www.imdb.com/title/tt0060028/) (1966–1969) [8.4]
+#### [Star Trek: The Original Series](https://www.imdb.com/title/tt0060028/) (1966–1969) [8.4]
 
 Categories: `action` `adventure` `mystery`
 
@@ -1998,19 +1998,19 @@ The Orville does an awesome job recreating the feeling of past Star Trek series.
 
 > Follows the crew of the not-so-functional exploratory ship in the Earth's interstellar fleet, 400 years in the future.
 
-#### [The Prisoner](http://www.imdb.com/title/tt0061287/) (1967–1968) [8.8]
+#### [The Prisoner](https://www.imdb.com/title/tt0061287/) (1967–1968) [8.8]
 
 Categories: `drama` `mystery`
 
 > After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.
 
-#### [The X-Files](http://www.imdb.com/title/tt0106179/) (1993-2002, 2016- ) [8.8]
+#### [The X-Files](https://www.imdb.com/title/tt0106179/) (1993-2002, 2016- ) [8.8]
 
 Categories: `drama` `mystery`
 
 > Two FBI agents, Fox Mulder the believer and Dana Scully the skeptic, investigate the strange and unexplained while hidden forces work to impede their efforts.
 
-#### [Twilight Zone](http://www.imdb.com/title/tt0052520/) (1959–1964) [9.0]
+#### [Twilight Zone](https://www.imdb.com/title/tt0052520/) (1959–1964) [9.0]
 
 Categories: `drama` `fantasy` `horror`
 
@@ -2034,7 +2034,7 @@ Alex + Ada is a thought provoking and moving exploration of what it means to be 
 
 > From JONATHAN LUNA (THE SWORD, GIRLS, Spider-Woman: Origin) and SARAH VAUGHN (Sparkshooter, Ruined) comes ALEX + ADA, a sci-fi/drama set in the near future. The last thing in the world Alex wanted was an X5, the latest in realistic androids. But after Ada is dropped into his life, he discovers she is more than just a robot. Alex takes a huge risk to unlock Ada so she can think for herself and explore life as a sentient android.
 
-#### [Arzach](http://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius* [4.06]
+#### [Arzach](https://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius* [4.06]
 
 Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
 
@@ -2050,7 +2050,7 @@ Black Science is one of those stories where you explain it to people at a really
 
 > Grant McKay, former member of The Anarchistic Order of Scientists, has finally done the impossible: He has deciphered Black Science and punched through the barriers of reality. But what lies beyond the veil is not epiphany, but chaos. Now Grant and his team are lost, living ghosts shipwrecked on an infinite ocean of alien worlds, barreling through the long-forgotten, ancient, and unimaginable dark realms. The only way is forward. The only question is how far are they willing to go, and how much can they endure, to get home again? Join writer RICK REMENDER and the superstar art team of MATTEO SCALERA & DEAN WHITE for this face-melting science fiction epic spanning the lifetimes of a cast of dimensional castaways lead by the man who caused it all.
 
-#### [Global Frequency](http://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis* [4.05]
+#### [Global Frequency](https://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis* [4.05]
 
 Categories: `hard-science-fiction` `sci-fi`
 
@@ -2066,7 +2066,7 @@ Highly imaginative, hilarious, sprawling epic graphic novel — a collaboration 
 
 > John Difool, a low-class detective in a degenerate dystopian world, finds his life turned upside down when he discovers an ancient, mystical artifact called "The Incal." Difool's adventures will bring him into conflict with the galaxy's greatest warrior, the Metabaron, and will pit him against the awesome powers of the Technopope. These encounters and many more make up a tale of comic and cosmic proportions that has Difool fighting for not only his very survival, but also the survival of the entire universe.
 
-#### [The Manhattan Projects](http://www.goodreads.com/book/show/15736709-the-manhattan-projects-volume-1) (2015-) *by Jonathan Hickman* [3.9]
+#### [The Manhattan Projects](https://www.goodreads.com/book/show/15736709-the-manhattan-projects-volume-1) (2015-) *by Jonathan Hickman* [3.9]
 
 Categories: `hard-science-fiction` `sci-fi`
 
@@ -2082,7 +2082,7 @@ Saga is a comic that is an elevator pitch proof. It's impossible to describe it 
 
 > Saga is an epic space opera/fantasy comic book series created by writer Brian K. Vaughan and artist Fiona Staples, published monthly by Image Comics. The series is heavily influenced by Star Wars, and based on ideas Vaughan conceived both as a child and as a parent. It depicts two lovers from long-warring extraterrestrial races, Alana and Marko, fleeing authorities from both sides of a galactic war as they struggle to care for their newborn daughter, Hazel, who occasionally narrates the series.
 
-#### [Transmetropolitan](http://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis* [4.23]
+#### [Transmetropolitan](https://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis* [4.23]
 
 Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
 
@@ -2090,7 +2090,7 @@ One of the most anarchistic comics I ever read. Transmetropolitan has no mercy f
 
 > After years of self-imposed exile from a civilization rife with degradation and indecency, cynical journalist Spider Jerusalem is forced to return to a job that he hates and a city that he loathes. Working as an investigative reporter for the newspaper The Word, Spider attacks the injustices of his surreal 23rd Century surroundings. Combining black humor, life-threatening situations, and moral ambiguity, this book is the first look into the mind of an outlaw journalist and the world he seeks to destroy.
 
-#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison* [3.95]
+#### [We3](https://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison* [3.95]
 
 Categories: `hard-science-fiction` `sci-fi` `society`
 
@@ -2110,7 +2110,7 @@ Y: The Last Man is graphic novel series unlike any other I have read. The "last 
 
 - [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
 - [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
-- [Top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
+- [Top 100 sci-fi and fantasy books as picked by NPR listeners](https://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
 - [List of all the movies from this list on Letterboxd](https://letterboxd.com/potherca/list/the-awesome-sci-fi-list/)
 - [List of all the novels, short story collections, and comic books from this list on Goodreads](https://www.goodreads.com/list/show/148073.The_Awesome_Sci_Fi_List)
 
