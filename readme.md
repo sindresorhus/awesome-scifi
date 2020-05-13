@@ -2111,6 +2111,8 @@ Y: The Last Man is graphic novel series unlike any other I have read. The "last 
 - [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
 - [Whats the best Sci-Fi novel you have ever read?](https://www.reddit.com/r/AskReddit/comments/k70dh/whats_the_best_scifi_novel_you_have_ever_read/) - Reddit
 - [Top 100 sci-fi and fantasy books as picked by NPR listeners](http://www.npr.org/2011/08/11/139085843/your-picks-top-100-science-fiction-fantasy-books) - NPR
+- [List of all the movies from this list on Letterboxd](https://letterboxd.com/potherca/list/the-awesome-sci-fi-list/)
+- [List of all the novels, short story collections, and comic books from this list on Goodreads](https://www.goodreads.com/list/show/148073.The_Awesome_Sci_Fi_List)
 
 ## Credit
 
