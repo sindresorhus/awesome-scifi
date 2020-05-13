@@ -887,7 +887,7 @@ A short and rather old post-apocalyptic story which remained stuck in my mind li
 >
 > Now Stephen King’s apocalyptic vision of a world blasted by plague and embroiled in an elemental struggle between good and evil has been restored to its entirety. _The Stand: The Complete and Uncut Edition_ includes more than five hundred pages of material previously deleted, along with new material that King added as he reworked the manuscript for a new generation. It gives us new characters and endows familiar ones with new depths. It has a new beginning and a new ending. What emerges is a gripping work with the scope and moral complexity of a true epic.
 
-#### [Timestorm](https://www.goodreads.com/book/show/536951.Time_Storm) (1977) *by [Gordon R. Dickson](https://en.wikipedia.org/wiki/Gordon_R._Dickson)* [3.7]
+#### [Time Storm](https://www.goodreads.com/book/show/536951.Time_Storm) (1977) *by [Gordon R. Dickson](https://en.wikipedia.org/wiki/Gordon_R._Dickson)* [3.7]
 
 > A time storm has devastated the Earth, and only a small fraction of humankind remains. From the rubble, three survivors form an unlikely alliance: a young man, a young woman, and a leopard.
 
