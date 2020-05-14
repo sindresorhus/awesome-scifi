@@ -819,13 +819,13 @@ _Novels which emphasize adventure, set mainly or entirely in outer space, usuall
 
 > The trilogy is set in a universe with a wealth of worlds and artificial orbiting colonies. The plot is centered on the souls of the dead coming back from a hellish “beyond” to possess the living, and the latter fighting back. It was followed by a companion to the series, _The Confederation Handbook_, an informational book containing data about the universe of the _Night’s Dawn_ trilogy. Hamilton re-set several earlier short stories in the Confederation timeline, published as the collection _A Second Chance at Eden_, including the newly written title novella.
 
-#### [Revelation Space](https://www.goodreads.com/series/56392-revelation-space) (2000-2018) *by [https://en.wikipedia.org/wiki/Alastair_Reynolds)* [4.0 avg]
+#### [Revelation Space](https://www.goodreads.com/series/56392-revelation-space) (2000-2018) *by [Alastair Reynolds](https://en.wikipedia.org/wiki/Alastair_Reynolds)* [4.0 avg]
 
 Alastair Reynolds' take on the Fermi Paradox is a vast and brutal epic, consisting of the three "main" books (forming the "Inhibitor Trilogy") and a few other books and novellas set in the same universe. Revelation Space is page-turning "hard space opera" - believable but fantastic, and delightfully bizarre at times. - [@nahkampf](https://github.com/nahkampf)
 
 > Nine hundred thousand years ago, something annihilated the Amarantin civilization just as it was on the verge of discovering space flight. Now one scientist, Dan Sylveste, will stop at nothing to solve the Amarantin riddle before ancient history repeats itself. With no other resources at his disposal, Sylveste forges a dangerous alliance with the cyborg crew of the starship Nostalgia for Infinity. But as he closes in on the secret, a killer closes in on him. Because the Amarantin were destroyed for a reason — and if that reason is uncovered, the universe—and reality itself — could be irrecoverably altered...
 
-#### [Salvation](https://www.goodreads.com/book/show/34068552-salvation) (2018-2020) *by [https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [4.19 avg]
+#### [Salvation](https://www.goodreads.com/book/show/34068552-salvation) (2018-2020) *by [Peter F. Hamilton](https://en.wikipedia.org/wiki/Peter_F._Hamilton)* [4.19 avg]
 
 Peter Hamilton is back with another story featuring a wormhole-based multi-planetary society, and this one has elements of both space opera and cyberpunk. The perspective shifts between 2204 and several thousand years into the future. Starts slow but when the shit hits the fan it hits with a vengeance. Three books in total, a very good read. - [@nahkampf](https://github.com/nahkampf)
 
