@@ -1793,6 +1793,12 @@ This is a classic film, and well worth watching if only for the incredible and i
 
 ## TV Series
 
+#### [Stranger Things](https://www.imdb.com/title/tt4574334/) (2016-ongoing) [8.8]
+
+A Sci-Fi fantasy show filled with suspense,thrill and adventure. It includes a talented cast and great production. The story is engaging, addictive and insanely detailed. Its a great watch that will not leave you diappointed. [@sudhatanay](https://github.com/sudhatanay)
+
+> When a young boy disappears, his mother, a police chief and his friends must confront terrifying supernatural forces in order to get him back.
+
 #### [Babylon 5](https://www.imdb.com/title/tt0105946/) (1994–1998) [8.2]
 
 Categories: `action` `adventure` `drama`
