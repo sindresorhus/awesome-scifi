@@ -141,10 +141,6 @@ An interesting take on the possibility of the multiverse, Schrödinger's cat, an
 >
 > The Oankali survive by genetically merging with primitive civilizations—whether their new hosts like it or not. For the first time since the nuclear holocaust, Earth will be inhabited. Grass will grow, animals will run, and people will learn to survive the planet’s untamed wilderness. But their children will not be human. Not exactly.
 
-##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.5]
-
-> Now this epic trilogy concludes with Death's End. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.
-
 #### [Doorways in the Sand](https://www.goodreads.com/book/show/61998.Doorways_in_the_Sand) (1976) _by [Roger Zelazny](https://en.wikipedia.org/wiki/Roger_Zelazny)_ [4.0]
 
 What a weird, funny and lovely little book. - [@RichardLitt](https://github.com/RichardLitt)
@@ -259,6 +255,25 @@ Actually four books by two authors. It was made into a TV series but the books s
 
 Although each part can be read independently, the whole trilogy has a consistent story line which happens in a very huge time-space context and the first just a beginning. The later two are especially much more hardcore and dramatical, however, gloomy as well. While the first one got the Hugo Award, I'd like to say that it really worth a try for the whole trilogy, don't miss the later two. - [@cp4](https://github.com/cp4)
 
+Books:
+- [The Three-Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) [4.0] 🔥
+- [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) [4.4]
+- [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) [4.4]
+
+##### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) [4.0]
+
+This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. 
+
+> Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
+
+##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]
+
+> In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
+
+##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.4]
+
+> Now this epic trilogy concludes with Death's End. Half a century after the Doomsday Battle, the uneasy balance of Dark Forest Deterrence keeps the Trisolaran invaders at bay. Earth enjoys unprecedented prosperity due to the infusion of Trisolaran knowledge. With human science advancing daily and the Trisolarans adopting Earth culture, it seems that the two civilizations will soon be able to co-exist peacefully as equals without the terrible threat of mutually assured annihilation. But the peace has also made humanity complacent.
+
 #### [Rendezvous with Rama](https://www.goodreads.com/book/show/112537.Rendezvous_with_Rama) (1973) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [4.0]
 
 This book is filled with a quiet suspense that is almost palpable; in that, it does an extraordinary job of showing how humans respond to alien encounters. The otherworldliness of Rama isn't always interesting, but the reaction of the reader to it is. - [@RichardLitt](https://github.com/RichardLitt)
@@ -316,10 +331,6 @@ If you're going to read one Science Fiction book to get a broader perspective on
 One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt)
 
 > The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organization called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organization, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
-
-##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]
-
-> In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
 
 #### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [3.7]
 
@@ -405,12 +416,6 @@ All of Asher's _Polity_ novels are chock full of amazing technology, vibrant cha
 > The phrase ‘world-building’ brings immediately to mind fantasy especially places like the Middle Earth of Tolkien but we don’t hear ‘universe-building’ nearly enough. SF authors not only have to create the history and society for one place, which isn’t usually even a planet in fantasy, but for an almost unimaginable universe, which needs to be filled with a multitude of races and planets with their own technology and vast history.
 >
 > In the universe of the Polity Neal Asher has created ancient, but no longer completely active, races who remain a threat to the existence of humanity. He tells in passing of how a ‘Quiet War’ replaced humans with the artificial intelligence and in doing so allowed humans more freedom than if they’d remained under their own governance. We get to see a world pre-Polity in The Line of the Polity and post-Polity twenty years later in The Technician, though the comparison is an aside to the storytelling.
-
-##### [The Three Body Problem](https://www.goodreads.com/book/show/20518872-the-three-body-problem) (2014) [4.0]
-
-This book is not just filled to the brim with interesting and novel ideas about technology and civilization, it also offers some really great insights into China and its recent history. The follow-up book: "[The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest)", is great as well. - [@sylvarant](https://github.com/sylvarant)
-
-> Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
 
 #### [The Voyage of the Space Beagle](https://www.goodreads.com/book/show/1981484.The_Voyage_of_the_Space_Beagle) (1950) _by [A.E. Van Vogt](https://www.goodreads.com/author/show/1293688.A_E_van_Vogt)_ [3.9]
 
