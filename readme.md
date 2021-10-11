@@ -163,7 +163,7 @@ I think what is most fascinating about Dune isn't that it is so commonly read, b
 >
 > When distant political machinations deliver a new ambassador to Arieka, the fragile equilibrium between humans and aliens is violently upset. Catastrophe looms, and Avice is torn between competing loyalties—to a husband she no longer loves, to a system she no longer trusts, and to her place in a language she cannot speak yet speaks through her.
 
-#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2019) _by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)_ [4.17 (avg)]
+#### [Expanse](https://www.goodreads.com/series/56399-expanse) (2011-2021) _by [James S.A. Corey](https://en.wikipedia.org/wiki/James_S._A._Corey)_ [4.17 (avg)]
 
 A series comprised (as of 2019) of eight full-length novels with a total of nine entries planned. Several shorts not relevant to the main plot also exist. Notable for this series is the attention to detail regarding the actual physics involved in space travel and the challenges of daily life outside a friendly biosphere. The narrative, which is told from the changing perspectives of a cast of diverse characters, offers a healthy mix of humor and suspension, making it an entertaining read. - [@jpkempf](https://github.com/jpkempf)
 
@@ -172,6 +172,16 @@ The books are real page turners with its mix of high politics, space battles, an
 > Humanity has colonized the solar system - Mars, the Moon, the Asteroid Belt and beyond - but the stars are still out of our reach.
 >
 > Jim Holden is XO of an ice miner making runs from the rings of Saturn to the mining stations of the Belt. When he and his crew stumble upon a derelict ship, "The Scopuli," they find themselves in possession of a secret they never wanted. A secret that someone is willing to kill for - and kill on a scale unfathomable to Jim and his crew. War is brewing in the system unless he can find out who left the ship and why.
+
+Books:
+- [Leviathan Wakes](https://www.goodreads.com/book/show/8855321-leviathan-wakes) [4.2] 🔥
+- [Caliban's War](https://www.goodreads.com/book/show/12591698-caliban-s-war) [4.3] 🔥
+- [Abaddon's Gate](https://www.goodreads.com/book/show/16131032-abaddon-s-gate) [4.2]
+- [Cibola Burn](https://www.goodreads.com/book/show/18656030-cibola-burn) [4.2]
+- [Nemesis Games](https://www.goodreads.com/book/show/22886612-nemesis-games) [4.4]
+- [Babylon's Ashes](https://www.goodreads.com/book/show/25877663-babylon-s-ashes) [4.2]
+- [Persepolis Rising](https://www.goodreads.com/book/show/34600958-persepolis-rising) [4.3]
+- [Tiamat's Wrath](https://www.goodreads.com/book/show/28335698-tiamat-s-wrath) [4.5]
 
 #### [Flatland](https://www.goodreads.com/book/show/433567.Flatland) (1884) _by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)_ [3.8] 🌟
 
