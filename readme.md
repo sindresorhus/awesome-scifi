@@ -358,6 +358,12 @@ This is an incredible book. Absolutely incredible. The first section, about a so
 >
 > In _The Fifth Head of Cerberus_, Wolfe skillfully interweaves three bizarre tales to create a mesmerizing pattern: the harrowing account of the son of a mad genius who discovers his hideous heritage; a young man’s mythic dreamquest for his darker half; the bizarre chronicle of a scientists’ nightmarish imprisonment. Like an intricate, braided knot, the pattern at last unfolds to reveal astonishing truths about this strange and savage alien landscape.
 
+#### [The First Fifteen Lives of Harry August](https://www.goodreads.com/book/show/35066358-the-first-fifteen-lives-of-harry-august) (2014) _by [Claire North](https://en.wikipedia.org/wiki/Catherine_Webb) [4.01]
+
+An awesome book. Intriguing ,funny and moving. Never mind the negative reviews...I would have given it a 6th star if I could. - [@naz2001](https://github.com/naz2001)
+
+>Some stories cannot be told in just one lifetime. Harry August is on his deathbed. Again. No matter what he does or the decisions he makes, when death comes, Harry always returns to where he began, a child with all the knowledge of a life he has already lived a dozen times before. Nothing ever changes. Until now. As Harry nears the end of his eleventh life, a little girl appears at his bedside. "I nearly missed you, Doctor August," she says. "I need to send a message." This is the story of what Harry does next, and what he did before, and how he tries to save a past he cannot change and a future he cannot allow.
+
 #### [The Gods Themselves](https://www.goodreads.com/book/show/41821.The_Gods_Themselves) (1972) _by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)_ [4.1]
 
 > In the twenty-second century Earth obtains limitless, free energy from a source science little understands: an exchange between Earth and a parallel universe, using a process devised by the aliens. But even free energy has a price. The transference process itself will eventually lead to the destruction of Earth’s Sun—and of Earth itself.
