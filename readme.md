@@ -1704,6 +1704,17 @@ Stalker is a philosophical art movie and aesthetic masterpiece, based on "Roadsi
 
 > Near a gray and unnamed city is the Zone, an alien place guarded by barbed wire and soldiers. Over his wife’s objections, a man rises in the early morning and leaves her with their disabled daughter to meet two men. He’s a Stalker, one of a handful who have the mental gifts (and who risk imprisonment) to lead people into the Zone to the Room, a place where one’s secret hopes come true.
 
+#### [Strange Days](https://www.imdb.com/title/tt0114558/) (1995) [7.2]
+
+Categories: `action` `police` `thriller`
+Director: _Kathryn Bigelow_
+Writer: _James Cameron_, _Jay Cocks_
+
+Borrowing copiously from cyperpunk but giving things enough spin to keep them interesting, "Strange Days" gives an orginal sci-fi version of the old washed-up-cop turn soft-hearted criminal. Set in the futuristic year of 1999, during new years eve, the main character has to solve a case in which he unwittingly finds himself, if he wants to survive the night. The movie also contains music performance by Juliette Lewis and the band Skunk Anansie.
+- [@potherca](https://github.com/potherca)
+
+> A former cop turned street-hustler accidentally uncovers a conspiracy in Los Angeles in 1999.
+
 #### [Sunshine](https://www.imdb.com/title/tt0448134/) (2007) [7.3]
 
 Categories: `space` `action`
