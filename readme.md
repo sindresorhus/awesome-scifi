@@ -1710,7 +1710,7 @@ Categories: `action` `police` `thriller`
 Director: _Kathryn Bigelow_
 Writer: _James Cameron_, _Jay Cocks_
 
-Borrowing copiously from cyperpunk but giving things enough spin to keep them interesting, "Strange Days" gives an orginal sci-fi version of the old washed-up-cop turn soft-hearted criminal. Set in the futuristic year of 1999, during new years eve, the main character has to solve a case in which he unwittingly finds himself, if he wants to survive the night. The movie also contains music performance by Juliette Lewis and the band Skunk Anansie.
+Borrowing copiously from cyperpunk but giving things enough spin to keep them interesting, "Strange Days" gives an orginal sci-fi version of the old washed-up-cop turns soft-hearted criminal. Set in the futuristic year of 1999, during new years eve, the main character has to solve a case in which he unwittingly finds himself, if he wants to survive the night. The movie also contains music performance by Juliette Lewis and the band Skunk Anansie.
 - [@potherca](https://github.com/potherca)
 
 > A former cop turned street-hustler accidentally uncovers a conspiracy in Los Angeles in 1999.
