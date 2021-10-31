@@ -793,7 +793,7 @@ Also, the first book is available free on Kindle, so it won't cost you anything 
 
 #### [Make Room! Make Room!](https://www.goodreads.com/book/show/473850.Make_Room_Make_Room_) (1966) _by [Harry Harrison](https://en.wikipedia.org/wiki/Harry_Harrison_(writer))_
 
-Great dystopian work shows the impact of [Universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) to society.
+Great dystopian work shows the impact of [Universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) to society. - [@4ndrej](https://github.com/4ndrej)
 
 > Set in a future August 1999, novel of an overpopulated urban jungle, a divided class system—operating within an atmosphere of riots, food shortages, and senseless acts of violence—and a desperate hunt for the truth by a cynical NYC detective tells a classic tale of a dark future. The 1973 science fiction movie Soylent Green is loosely based on this novel.
 
