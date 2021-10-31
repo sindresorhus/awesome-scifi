@@ -765,6 +765,12 @@ A bleak and haunting tale, easy to picture playing out in today's political clim
 
 > Set in the near future, it describes life in what was once the United States, now called the Republic of Gilead, a monotheocracy that has reacted to social unrest and a sharply declining birthrate by reverting to, and going beyond, the repressive intolerance of the original Puritans. The regime takes the Book of Genesis absolutely at its word, with bizarre consequences for the women and men of its population.
 
+#### [Make Room! Make Room!](https://www.goodreads.com/book/show/473850.Make_Room_Make_Room_) (1966) _by [Harry Harrison](https://en.wikipedia.org/wiki/Harry_Harrison_(writer))_
+
+Great dystopian work shows the impact of [Universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) to society. - [@4ndrej](https://github.com/4ndrej)
+
+> Set in a future August 1999, novel of an overpopulated urban jungle, a divided class system—operating within an atmosphere of riots, food shortages, and senseless acts of violence—and a desperate hunt for the truth by a cynical NYC detective tells a classic tale of a dark future. The 1973 science fiction movie Soylent Green is loosely based on this novel.
+
 #### [The Man in the High Castle](https://www.goodreads.com/book/show/216363.The_Man_in_the_High_Castle) (1962) _by [Philip K. Dick](https://en.wikipedia.org/wiki/Philip_K._Dick)_ [3.8]
 
 My favourite of all Philip K. Dick's novels, the I Ching and the alternate history within an alternate history novel being interesting elements. - [@roryrjb](https://github.com/roryrjb)
@@ -790,12 +796,6 @@ Also, the first book is available free on Kindle, so it won't cost you anything 
 > This Omnibus Edition collects the five _Wool_ books into a single volume. It is for those who arrived late to the party and who wish to save a dollar or two while picking up the same stories in a single package.
 >
 > This is the story of mankind clawing for survival, of mankind on the edge. The world outside has grown unkind, the view of it limited, talk of it forbidden. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they profess to want: They are allowed outside.
-
-#### [Make Room! Make Room!](https://www.goodreads.com/book/show/473850.Make_Room_Make_Room_) (1966) _by [Harry Harrison](https://en.wikipedia.org/wiki/Harry_Harrison_(writer))_
-
-Great dystopian work shows the impact of [Universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) to society. - [@4ndrej](https://github.com/4ndrej)
-
-> Set in a future August 1999, novel of an overpopulated urban jungle, a divided class system—operating within an atmosphere of riots, food shortages, and senseless acts of violence—and a desperate hunt for the truth by a cynical NYC detective tells a classic tale of a dark future. The 1973 science fiction movie Soylent Green is loosely based on this novel.
 
 ### Space Opera
 
