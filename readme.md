@@ -765,7 +765,7 @@ A bleak and haunting tale, easy to picture playing out in today's political clim
 
 > Set in the near future, it describes life in what was once the United States, now called the Republic of Gilead, a monotheocracy that has reacted to social unrest and a sharply declining birthrate by reverting to, and going beyond, the repressive intolerance of the original Puritans. The regime takes the Book of Genesis absolutely at its word, with bizarre consequences for the women and men of its population.
 
-#### [Make Room! Make Room!](https://www.goodreads.com/book/show/473850.Make_Room_Make_Room_) (1966) _by [Harry Harrison](https://en.wikipedia.org/wiki/Harry_Harrison_(writer))_
+#### [Make Room! Make Room!](https://www.goodreads.com/book/show/473850.Make_Room_Make_Room_) (1966) _by [Harry Harrison](https://en.wikipedia.org/wiki/Harry_Harrison_(writer))_ [3.7]
 
 Great dystopian work shows the impact of [Universal basic income](https://en.wikipedia.org/wiki/Universal_basic_income) to society. - [@4ndrej](https://github.com/4ndrej)
 
