@@ -1297,7 +1297,7 @@ I can't praise this book enough. _The Nine Billion Names of God_ is brilliantly 
 
 The all-too-near-future novella _Unauthorized Bread_ embodies what cyberpunk should be all about: high tech, low life. _Radicalized_ and _The Masque of the Red Death_ delve deep into some dark corners of society, while _Model Minority_ is a pretty interesting take on Superman and racism. The book had me turning pages late into the night. - [@nahkampf](https://github.com/nahkampf)
 
-> Here are four urgent stories from author and activist Cory Doctorow, four social, technological and economic visions of the world today and its near—all too near—future.
+> Radicalized explores such issues as digital rights management, police brutality, radicalization in internet communities, and doomsday preppers. Doctorow has stated that the collection was inspired by "dealing with the stress and anxiety of being alive in the Trump era," and that the stories are not meant to be predictive, but rather allegorical.
 
 > Contents: _Unauthorized Bread_ (2019), _Model Minority_ (2019), _Radicalized_ (2019), _The Masque of the Red Death_ (2019)
 
