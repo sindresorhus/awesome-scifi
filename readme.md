@@ -1293,6 +1293,14 @@ I can't praise this book enough. _The Nine Billion Names of God_ is brilliantly 
 
 > Contents: _The Nine Billion Names of God_ (1953), _An Ape About the House_ (1962), _Green Fingers_ (1956), _Trouble with the Natives_ (1951), _Into the Comet_ (1960), _No Morning After_ (1954), _‘If I Forget Thee, Oh Earth…’_ (1951), _Who’s There?_ (1958), _All the Time in the World_ (1952), _Hide and Seek_ (1949), _Robin Hood, F.R.S._ (1956), _The Fires Within_ (1949), _The Forgotten Enemy_ (1953), _The Reluctant Orchid_ (1956), _Encounter at Dawn_ (1953), _Security Check_ (1957), _Feathered Friend_ (1957), _The Sentinel_ (1951)
 
+#### [Radicalized](https://www.goodreads.com/book/show/41447687-radicalized) (2019) _by [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow)_ [4.03]
+
+The all-too-near-future novella _Unauthorized Bread_ embodies what cyberpunk should be all about: high tech, low life. _Radicalized_ and _The Masque of the Red Death_ delve deep into some dark corners of society, while _Model Minority_ is a pretty interesting take on Superman and racism. The book had me turning pages late into the night. - [@nahkampf](https://github.com/nahkampf)
+
+> Radicalized explores such issues as digital rights management, police brutality, radicalization in internet communities, and doomsday preppers. Doctorow has stated that the collection was inspired by "dealing with the stress and anxiety of being alive in the Trump era," and that the stories are not meant to be predictive, but rather allegorical.
+
+> Contents: _Unauthorized Bread_ (2019), _Model Minority_ (2019), _Radicalized_ (2019), _The Masque of the Red Death_ (2019)
+
 #### [Stories of Your Life and Others](https://www.goodreads.com/book/show/729760.Stories_of_Your_Life_and_Others) (2002) _by [Ted Chiang](https://en.wikipedia.org/wiki/Ted_Chiang)_ [4.4]
 
 What amazes me most about Ted Chiang’s stories is their _richness_—the level of detail which the author managed to weave into the stories without having them turn into fluff. Artfully executed, uniformly good through excellent—which is by no means par for the course in single-author collections! Reminds me the most of Greg Egan’s _Axiomatic_ collection, except Chiang manages to keep his characters optimistic. - [@mihailim](https://github.com/mihailim)
