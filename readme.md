@@ -182,6 +182,7 @@ Books:
 - [Babylon's Ashes](https://www.goodreads.com/book/show/25877663-babylon-s-ashes) [4.2]
 - [Persepolis Rising](https://www.goodreads.com/book/show/34600958-persepolis-rising) [4.3]
 - [Tiamat's Wrath](https://www.goodreads.com/book/show/28335698-tiamat-s-wrath) [4.5]
+- [Leviathan Falls](https://www.goodreads.com/book/show/28335699-leviathan-falls) [4.5]
 
 #### [Flatland](https://www.goodreads.com/book/show/433567.Flatland) (1884) _by [Edwin A. Abbott](https://en.wikipedia.org/wiki/Edwin_Abbott_Abbott)_ [3.8] 🌟
 
