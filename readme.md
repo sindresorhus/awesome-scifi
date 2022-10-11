@@ -668,6 +668,14 @@ My first Arthur C. Clarke Sci-fi book that introduced me to the world of Arthur 
 >
 > Then the Magellan arrived in orbit carrying one million refugees from the last, mad days on Earth. And suddenly uncertainty and change had come to the placid paradise that was Thalassa.
 
+#### [Klara and the Sun](https://www.goodreads.com/book/show/54120408-klara-and-the-sun) (2021) _by [Kazuo Ishiguro ](https://en.wikipedia.org/wiki/Kazuo_Ishiguro)_ [3.77]
+
+This novel is set in a distant future where robots/artificial friends(AF) are used as companions for sick children. This novel deals with loneliness and the view of a robot of the human world. -[@DibeshMSShrestha](https://github.com/DibeshMSShrestha)
+
+> From her place in the store, Klara, an Artificial Friend with outstanding observational qualities, watches carefully the behavior of those who come in to browse, and of those who pass on the street outside. She remains hopeful that a customer will soon choose her, but when the possibility emerges that her circumstances may change forever, Klara is warned not to invest too much in the promises of humans.
+
+> In Klara and the Sun, Kazuo Ishiguro looks at our rapidly changing modern world through the eyes of an unforgettable narrator to explore a fundamental question: what does it mean to love?
+
 ### Dystopia
 
 _Dystopian novels deal with imaginary communities or societies that are undesirable or frightening._
