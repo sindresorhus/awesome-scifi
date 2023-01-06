@@ -65,23 +65,6 @@ It's also worth mentioning that [the ebook is available for free in a variety of
 >
 > When the resisters kidnap young Akin, the Oankali choose to leave the child with his captors, for he the most "human" of the Oankali children will decide whether the resisters should be given back their fertility and freedom, even though they will only destroy themselves again.
 
-#### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle) (2019-2021) _by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)_ [3.8]
-
-This novel starts as a simple rescue by a cadet that led to the entire universe fighting an epic battle the have no hope of winning   . - [@sammy4gh](https://github.com/sammy4gh)
-
->The year is 2380, and the graduating cadets of Aurora Academy are being assigned their first missions. Star pupil Tyler Jones is ready to recruit the squad of his dreams, but his own boneheaded heroism sees him stuck with the dregs nobody else in the Academy would touch…
-
-A cocky diplomat with a black belt in sarcasm
-A sociopath scientist with a fondness for shooting her bunkmates
-A smart-ass techwiz with the galaxy’s biggest chip on his shoulder
-An alien warrior with anger management issues
-A tomboy pilot who’s totally not into him, in case you were wondering
-
-And Ty’s squad isn’t even his biggest problem—that’d be Aurora Jie-Lin O’Malley, the girl he’s just rescued from interdimensional space. Trapped in cryo-sleep for two centuries, Auri is a girl out of time and out of her depth. But she could be the catalyst that starts a war millions of years in the making, and Tyler’s squad of losers, discipline-cases and misfits might just be the last hope for the entire galaxy.
-
-**They're not the heroes we deserve. They're just the ones we could find. Nobody panic**.
-
-
 #### [Babel-17](https://www.goodreads.com/book/show/1199688.Babel_17) (1966) _by [Samuel R. Delany](https://en.wikipedia.org/wiki/Samuel_R._Delany)_ [3.8]
 
 This intense linguistic thriller will change the way you think about language. - [@helderroem](https://github.com/helderroem)
@@ -978,6 +961,26 @@ _Novels featuring the use use of technology, mainly weapons, for military purpos
 Steakley puts his readers inside the mind of an armored soldier who lives in constant fear of being torn apart by the enemy he was sent to fight. The book plays brilliantly on our innate fear of bugs and describes the visceral terror of fighting a nearly unstoppable enemy. - [@phmullins](https://github.com/phmullins)
 
 > Felix is an Earth soldier, encased in special body armor designed to withstand Earth's most implacable enemy-a bioengineered, insectoid alien horde. But Felix is also equipped with internal mechanisms that enable him, and his fellow soldiers, to survive battle situations that would destroy a man's mind. This is a remarkable novel of the horror, the courage, and the aftermath of combat--and how the strength of the human spirit can be the greatest armor of all.
+
+#### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle) (2019-2021) _by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)_ [4.2]
+
+This novel starts as a simple rescue by a cadet that led to the entire universe fighting an epic battle the have no hope of winning   . - [@sammy4gh](https://github.com/sammy4gh)
+
+>The year is 2380, and the graduating cadets of Aurora Academy are being assigned their first missions. Star pupil Tyler Jones is ready to recruit the squad of his dreams, but his own boneheaded heroism sees him stuck with the dregs nobody else in the Academy would touch…
+>
+>A cocky diplomat with a black belt in sarcasm, A sociopath scientist with a fondness for shooting her bunkmates ,A smart-ass techwiz with the galaxy’s biggest chip on his shoulder, An alien warrior with anger management issues ,A tomboy pilot who’s totally not into him, in case you were wondering
+>
+>And Ty’s squad isn’t even his biggest problem—that’d be Aurora Jie-Lin O’Malley, the girl he’s just rescued from interdimensional space. Trapped in cryo-sleep for two centuries, Auri is a girl out of time and out of her depth. But she could be the catalyst that starts a war millions of years in the making, and Tyler’s squad of losers, discipline-cases and misfits might just be the last hope for the entire galaxy.
+>
+>**They're not the heroes we deserve. They're just the ones we could find. Nobody panic**.
+
+Books:
+
+- [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) [4.1]
+- [Aurora Burning](https://www.goodreads.com/book/show/40516960-aurora-burning) [4.3]
+- [Aurora's End](https://www.goodreads.com/book/show/40516976-aurora-s-end) [4.2]
+
+
 
 #### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) _by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)_ [4.3] 🌟 🔥
 
