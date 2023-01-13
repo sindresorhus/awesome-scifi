@@ -964,25 +964,23 @@ Steakley puts his readers inside the mind of an armored soldier who lives in con
 
 #### [The Aurora Cycle Series](https://www.goodreads.com/series/179394-the-aurora-cycle) (2019-2021) _by [Amie Kaufman](https://en.wikipedia.org/wiki/Amie_Kaufman)_ [4.2]
 
-This novel starts as a simple rescue by a cadet that led to the entire universe fighting an epic battle they have no hope of winning. 
->
+This novel starts as a simple rescue by a cadet that led to the entire universe fighting an epic battle they have no hope of winning.
+
 What makes this novel awesome is the build up to the final epic battle. It starts as a small team of ragtags who were framed for a crime and later find out that the least of their worry is the intergalactic military but rather an incomprehensible galaxy ending force whose sole existence is to added all living things to its hive. - [@sammy4gh](https://github.com/sammy4gh)
 
->The year is 2380, and the graduating cadets of Aurora Academy are being assigned their first missions. Star pupil Tyler Jones is ready to recruit the squad of his dreams, but his own boneheaded heroism sees him stuck with the dregs nobody else in the Academy would touch…
+> The year is 2380, and the graduating cadets of Aurora Academy are being assigned their first missions. Star pupil Tyler Jones is ready to recruit the squad of his dreams, but his own boneheaded heroism sees him stuck with the dregs nobody else in the Academy would touch…
 >
->A cocky diplomat with a black belt in sarcasm, A sociopath scientist with a fondness for shooting her bunkmates ,A smart-ass techwiz with the galaxy’s biggest chip on his shoulder, An alien warrior with anger management issues ,A tomboy pilot who’s totally not into him, in case you were wondering
+> A cocky diplomat with a black belt in sarcasm, A sociopath scientist with a fondness for shooting her bunkmates ,A smart-ass techwiz with the galaxy’s biggest chip on his shoulder, An alien warrior with anger management issues ,A tomboy pilot who’s totally not into him, in case you were wondering
 >
->And Ty’s squad isn’t even his biggest problem—that’d be Aurora Jie-Lin O’Malley, the girl he’s just rescued from interdimensional space. Trapped in cryo-sleep for two centuries, Auri is a girl out of time and out of her depth. But she could be the catalyst that starts a war millions of years in the making, and Tyler’s squad of losers, discipline-cases and misfits might just be the last hope for the entire galaxy.
+> And Ty’s squad isn’t even his biggest problem—that’d be Aurora Jie-Lin O’Malley, the girl he’s just rescued from interdimensional space. Trapped in cryo-sleep for two centuries, Auri is a girl out of time and out of her depth. But she could be the catalyst that starts a war millions of years in the making, and Tyler’s squad of losers, discipline-cases and misfits might just be the last hope for the entire galaxy.
 >
->**They're not the heroes we deserve. They're just the ones we could find. Nobody panic**.
+> They're not the heroes we deserve. They're just the ones we could find. Nobody panic.
 
 Books:
 
 - [Aurora Rising](https://www.goodreads.com/book/show/30075662-aurora-rising) [4.1]
 - [Aurora Burning](https://www.goodreads.com/book/show/40516960-aurora-burning) [4.3]
 - [Aurora's End](https://www.goodreads.com/book/show/40516976-aurora-s-end) [4.2]
-
-
 
 #### [Ender’s Game](https://www.goodreads.com/book/show/375802.Ender_s_Game) (1985) _by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)_ [4.3] 🌟 🔥
 
