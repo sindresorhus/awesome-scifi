@@ -658,6 +658,14 @@ Idea-driven scifi about a tech-savvy movement of "walkaways", disenchanted peopl
 
 _Utopian novels deal with imaginary communities or societies that are desirable or pleasant._
 
+#### [A Psalm for the Wild-Built (Monki and Robot #1)](https://www.goodreads.com/book/show/40864002-a-psalm-for-the-wild-built) (2021) _by [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers)_ [4.3]
+
+A lovely balm for the weary science fiction reader about a post-collapse utopian society and the friendship between a human and a robot. -[@nahkampf](https://github.com/nahkampf)
+
+> Centuries before, robots of Panga gained self-awareness, laid down their tools, wandered, en masse into the wilderness, never to be seen again. They faded into myth and urban legend.
+
+> Now the life of the tea monk who tells this story is upended by the arrival of a robot, there to honor the old promise of checking in. The robot cannot go back until the question of "what do people need?" is answered. But the answer to that question depends on who you ask, and how. They will need to ask it a lot. Chambers' series asks: in a world where people have what they want, does having more matter?
+
 #### [The Songs of Distant Earth](https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth) (1986) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [3.9]
 
 My first Arthur C. Clarke Sci-fi book that introduced me to the world of Arthur C. Clarke. The book deals with the utopian society where the aliens are human beings from the old earth. -[@DibeshMSShrestha](https://github.com/DibeshMSShrestha)
