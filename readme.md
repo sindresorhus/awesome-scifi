@@ -490,6 +490,12 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
 
 > It’s been two months since a myriad of alien objects clenched about the Earth, screaming as they burned. The heavens have been silent since—until a derelict space probe hears whispers from a distant comet. Something talks out there: but not to us. Who to send to meet the alien, when the alien doesn’t want to meet? Send a linguist with multiple-personality disorder, and a biologist so spliced to machinery he can’t feel his own flesh. Send a pacifist warrior, and a vampire recalled from the grave by the voodoo of paleogenetics. Send a man with half his mind gone since childhood. Send them to the edge of the solar system, praying you can trust such freaks and monsters with the fate of a world. You fear they may be more alien than the thing they’ve been sent to find—but you’d give anything for that to be true, if you knew what was waiting for them.
 
+#### [Children of Time (Children of Time #1)](https://www.goodreads.com/book/show/25499718-children-of-time) (2015) _by [Adrian Tchaikovsky](https://en.wikipedia.org/wiki/Adrian_Tchaikovsky)\_ [4.29]
+
+A truly epic "evolutionary science fiction" story about animal uplift that feels very well researched. Tchaikovsky manages to perfectly immerse the reader in a radically different mindset. Even arachnofobics will root for the protagonists of the story. - [@nahkampf](https://github.com/nahkampf)
+
+> The last remnants of the human race left a dying Earth, desperate to find a new home among the stars. Following in the footsteps of their ancestors, they discover the greatest treasure of the past age — a world terraformed and prepared for human life. But all is not right in this new Eden. In the long years since the planet was abandoned, the work of its architects has borne disastrous fruit. The planet is not waiting for them, pristine and unoccupied. New masters have turned it from a refuge into mankind's worst nightmare. Now two civilizations are on a collision course, both testing the boundaries of what they will do to survive. As the fate of humanity hangs in the balance, who are the true heirs of this new Earth?
+
 #### [Diaspora](https://www.goodreads.com/book/show/156785.Diaspora) (1997) _by [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan)_ [4.1]
 
 > By the end of the 30th century humanity has the capability to travel the universe, to journey beyond earth and beyond the confines of the vulnerable human frame.
