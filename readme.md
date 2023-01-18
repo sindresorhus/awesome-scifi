@@ -432,7 +432,7 @@ I had been putting off reading this book for years, after reading _Ender's Game_
   > Life on Earth is about to get much, much stranger.
 </details>
 
-#### [Stand on Zanzibar](https://www.goodreads.com/book/show/41069.Stand_on_Zanzibar) (1968) _by [John Brunner](https://en.wikipedia.org/wiki/John_Brunner_%28novelist%29)\_ [4.0]
+#### [Stand on Zanzibar](https://www.goodreads.com/book/show/41069.Stand_on_Zanzibar) (1968) _by [John Brunner](https://en.wikipedia.org/wiki/John_Brunner_%28novelist%29)_ [4.0]
 
 This book was written about 2010, and what the world would be like when the world is over populated. It is still very pertinent today, especially given the style of writing, which seems to have too much information packed in than needed. 'Muckers', the idea of people who go crazy without reason due to overcrowdedness, are a really interesting concept given the rise in anti-terrorist rhetoric in recent years. - [@RichardLitt](https://github.com/RichardLitt)
 <details>
@@ -505,7 +505,7 @@ An awesome book. Intriguing ,funny and moving. Never mind the negative reviews..
   > Only a few know the terrifying truth—an outcast Earth scientist, a rebellious alien inhabitant who senses the imminent annihilation of the Sun. They know the truth—but who will listen? They have foreseen the cost of abundant energy—but who will believe? These few beings, human and alien, hold the key to Earth’s survival.
 </details>
 
-#### [The Golden Age](https://www.goodreads.com/series/41545-golden-age) (2002, 2003) _by [John C. Wright](https://en.wikipedia.org/wiki/John_C._Wright_%28author%29)\_ [4.1]
+#### [The Golden Age](https://www.goodreads.com/series/41545-golden-age) (2002, 2003) _by [John C. Wright](https://en.wikipedia.org/wiki/John_C._Wright_%28author%29)_ [4.1]
 
 <details>
   <summary>Description</summary>
@@ -549,7 +549,7 @@ Ursula Le Guin is an amazing writer, and this is one of her seminal works. It ex
   > Embracing the aspects of psychology, society, and human emotion on an alien world, The Left Hand of Darkness stands as a landmark achievement in the annals of intellectual science fiction.
 </details>
 
-#### [The Long Way to a Small, Angry Planet](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) (2014) _by [Becky Chambers](<https://en.wikipedia.org/wiki/Becky_Chambers_(author)>)\_ [4.17]
+#### [The Long Way to a Small, Angry Planet](https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet) (2014) _by [Becky Chambers](https://en.wikipedia.org/wiki/Becky_Chambers_(author))_ [4.17]
 
 Funny, touching, and full of unexpected details. - [@lgierth](https://github.com/lgierth)
 
@@ -700,7 +700,7 @@ This was, I thought, an emotional read. I really connected with the characters a
   > AURORA.
 </details>
 
-#### [Blindsight (Firefall #1)](https://www.goodreads.com/book/show/48484.Blindsight) (2006) _by [Peter Watts](https://en.wikipedia.org/wiki/Peter_Watts_%28author%29)\_ [4.0]
+#### [Blindsight (Firefall #1)](https://www.goodreads.com/book/show/48484.Blindsight) (2006) _by [Peter Watts](https://en.wikipedia.org/wiki/Peter_Watts_%28author%29)_ [4.0]
 
 A cast of strange and wonderful characters. Overarching themes on consciousness, transhumanism, humanity and first contact. This book has everything. - [@davidmerrique](https://github.com/davidmerrique)
 
@@ -710,7 +710,7 @@ A cast of strange and wonderful characters. Overarching themes on consciousness,
   > It’s been two months since a myriad of alien objects clenched about the Earth, screaming as they burned. The heavens have been silent since—until a derelict space probe hears whispers from a distant comet. Something talks out there: but not to us. Who to send to meet the alien, when the alien doesn’t want to meet? Send a linguist with multiple-personality disorder, and a biologist so spliced to machinery he can’t feel his own flesh. Send a pacifist warrior, and a vampire recalled from the grave by the voodoo of paleogenetics. Send a man with half his mind gone since childhood. Send them to the edge of the solar system, praying you can trust such freaks and monsters with the fate of a world. You fear they may be more alien than the thing they’ve been sent to find—but you’d give anything for that to be true, if you knew what was waiting for them.
 </details>
 
-#### [Children of Time (Children of Time #1)](https://www.goodreads.com/book/show/25499718-children-of-time) (2015) _by [Adrian Tchaikovsky](https://en.wikipedia.org/wiki/Adrian_Tchaikovsky)\_ [4.29]
+#### [Children of Time (Children of Time #1)](https://www.goodreads.com/book/show/25499718-children-of-time) (2015) _by [Adrian Tchaikovsky](https://en.wikipedia.org/wiki/Adrian_Tchaikovsky)_ [4.29]
 
 A truly epic "evolutionary science fiction" story about animal uplift that feels very well researched. Tchaikovsky manages to perfectly immerse the reader in a radically different mindset. Even arachnofobics will root for the protagonists of the story. - [@nahkampf](https://github.com/nahkampf)
 
@@ -740,7 +740,7 @@ A truly epic "evolutionary science fiction" story about animal uplift that feels
   > In a moving story of sacrifice and triumph, human scientists establish a relationship with intelligent life forms—the cheela—living on Dragon’s Egg, a neutron star where one Earth hour is equivalent to hundreds of their years. The cheela culturally evolve from savagery to the discovery of science, and for a brief time men are their diligent teachers.
 </details>
 
-#### [Echopraxia (Firefall #2)](https://www.goodreads.com/book/show/18490708-echopraxia) (2014) _by [Peter Watts](https://en.wikipedia.org/wiki/Peter_Watts_%28author%29)\_ [3.8]
+#### [Echopraxia (Firefall #2)](https://www.goodreads.com/book/show/18490708-echopraxia) (2014) _by [Peter Watts](https://en.wikipedia.org/wiki/Peter_Watts_%28author%29)_ [3.8]
 
 <details>
   <summary>Description</summary>
@@ -756,7 +756,7 @@ A truly epic "evolutionary science fiction" story about animal uplift that feels
   > Their pilgrimage brings Dan Bruks, the fossil man, face-to-face with the biggest evolutionary breakpoint since the origin of thought itself.
 </details>
 
-#### [Manifold series](https://www.goodreads.com/series/49783-manifold) (1999-2003) _by [Stephen Baxter](<https://en.wikipedia.org/wiki/Stephen_Baxter_(author)>)\_ [3.8 avg]
+#### [Manifold series](https://www.goodreads.com/series/49783-manifold) (1999-2003) _by [Stephen Baxter](<https://en.wikipedia.org/wiki/Stephen_Baxter_(author)>)_ [3.8 avg]
 
 Stephen Baxter explores the Fermi Paradox in different ways over the course of three books (and a collection of novellas), in a gloriously hard scifi style. It is very thought provoking, and also utterly brutal and bleak. Space and time is cold and uncaring. - [@nahkampf](https://github.com/nahkampf)
 
@@ -814,7 +814,7 @@ An interesting take on the near-future colonization of Mars by one hundred of th
   > However, in the center of the vacuum, something is developing that neither Tchicaya and the Yielders nor Mariama and the Preservationists could ever have imagined possible: life.
 </details>
 
-#### [The Martian](https://www.goodreads.com/book/show/18007564-the-martian) (2012) _by [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir_%28writer%29)\_ [4.4]
+#### [The Martian](https://www.goodreads.com/book/show/18007564-the-martian) (2012) _by [Andy Weir](https://en.wikipedia.org/wiki/Andy_Weir_%28writer%29)_ [4.4]
 
 This is a fun read; Weir manages to write an evocative techno-thriller without having his characters stoop to constant navel gazing and lonesome pining. This could be described as Robinson Crusoe - in Space. The characters on the earth side aren't the greatest, but the humor throughout the book really pulls it together, and watching a master at work as far as mechanical engineering goes was fascinating. Loved it. - [@RichardLitt](https://github.com/RichardLitt)
 
@@ -1642,7 +1642,7 @@ This is debatably science fiction. I mention it here because certain elements, l
 
 ### Drama
 
-#### [The Bone Clocks](https://www.goodreads.com/book/show/20819685-the-bone-clocks) (2014) _by [David Mitchell](https://en.wikipedia.org/wiki/David_Mitchell_%28author%29)\_ [3.9]
+#### [The Bone Clocks](https://www.goodreads.com/book/show/20819685-the-bone-clocks) (2014) _by [David Mitchell](https://en.wikipedia.org/wiki/David_Mitchell_%28author%29)_ [3.9]
 
 If you liked Cloud Atlas this is a good read.
 
@@ -1838,7 +1838,7 @@ Worth the read, mostly because it is the first time the words 'time machine' wer
 
 ### Comedy
 
-#### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0) (2013, 2014, 2015, 2017) _by [Scott Meyer](<https://en.wikipedia.org/wiki/Scott_Meyer_(author)>)\_ [3.9]
+#### [Magic 2.0 Series](https://www.goodreads.com/series/131379-magic-2-0) (2013, 2014, 2015, 2017) _by [Scott Meyer](<https://en.wikipedia.org/wiki/Scott_Meyer_(author)>)_ [3.9]
 
 A quick, fun mashup of two if my favorite genres. - [@damenleeturks](https://github.com/damenleeturks)
 
