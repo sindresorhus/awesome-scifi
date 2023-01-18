@@ -27,7 +27,13 @@ Please ensure your pull request adheres to the following guidelines:
 
 Commentary - [@you](https://github.com/you)
 
-> Description
+<details>
+  <summary>Description</summary>
+
+  > Summary of book/film etc here
+</details>
+
+*) Note the formatting (spaces etc) for "Description" above!
 ```
 
 - Check your spelling and grammar.
