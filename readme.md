@@ -57,14 +57,6 @@ It's also worth mentioning that [the ebook is available for free in a variety of
 >
 > For something is systemically dismantling the nine planets of the solar system. Something beyond human comprehension. Something that has no use for biological life in any form.
 
-##### [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites) (1988) [4.2]
-
-> In this sequel to Dawn, Lilith Iyapo has given birth to what looks like a normal human boy named Akin. But Akin actually has five parents: a male and female human, a male and female Oankali, and a sexless Ooloi. The Oankali and Ooloi are part of an alien race that rescued humanity from a devastating nuclear war, but the price they exact is a high one the aliens are compelled to genetically merge their species with other races, drastically altering both in the process.
->
-> On a rehabilitated Earth, this "new" race is emerging through human/Oankali/Ooloi mating, but there are also "pure" humans who choose to resist the aliens and the salvation they offer. These resisters are sterilized by the Ooloi so that they cannot reproduce the genetic defect that drives humanity to destroy itself, but otherwise they are left alone (unless they become violent).
->
-> When the resisters kidnap young Akin, the Oankali choose to leave the child with his captors, for he the most "human" of the Oankali children will decide whether the resisters should be given back their fertility and freedom, even though they will only destroy themselves again.
-
 #### [Babel-17](https://www.goodreads.com/book/show/1199688.Babel_17) (1966) _by [Samuel R. Delany](https://en.wikipedia.org/wiki/Samuel_R._Delany)_ [3.8]
 
 This intense linguistic thriller will change the way you think about language. - [@helderroem](https://github.com/helderroem)
@@ -449,6 +441,14 @@ This is always fun; it's a classic, and it is fun remembering what science ficti
 #### [Xenogenesis Trilogy](https://www.goodreads.com/book/show/39334343-lilith-s-brood) (1987-1989) _by [Octavia Butler](https://en.wikipedia.org/wiki/Octavia_E._Butler)_
 
 Very interesting exploration of what happens when aliens arrive on earth, after the planet has been ravaged by war, with their own ideas of a path forward. Humans must learn to coexist with the Oankali, genetic colonizers of the cosmos, and confront what this means for their future — deciding whether to give up an essential part of their identity in order to survive. I enjoyed the first book the most, for the worldbuilding and the way it introduces the Oankali and key concepts, but the series has a satisfying arc so I think it's worth reading all three books. - [@bschlagel](https://github.com/bschlagel)
+
+##### [Adulthood Rites](https://www.goodreads.com/book/show/19105727-adulthood-rites) (1988) [4.2]
+
+> In this sequel to Dawn, Lilith Iyapo has given birth to what looks like a normal human boy named Akin. But Akin actually has five parents: a male and female human, a male and female Oankali, and a sexless Ooloi. The Oankali and Ooloi are part of an alien race that rescued humanity from a devastating nuclear war, but the price they exact is a high one the aliens are compelled to genetically merge their species with other races, drastically altering both in the process.
+>
+> On a rehabilitated Earth, this "new" race is emerging through human/Oankali/Ooloi mating, but there are also "pure" humans who choose to resist the aliens and the salvation they offer. These resisters are sterilized by the Ooloi so that they cannot reproduce the genetic defect that drives humanity to destroy itself, but otherwise they are left alone (unless they become violent).
+>
+> When the resisters kidnap young Akin, the Oankali choose to leave the child with his captors, for he the most "human" of the Oankali children will decide whether the resisters should be given back their fertility and freedom, even though they will only destroy themselves again.
 
 ### Hard Science Fiction
 
