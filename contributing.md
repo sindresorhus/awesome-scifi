@@ -33,7 +33,7 @@ Commentary - [@you](https://github.com/you)
   > Summary of book/film etc here
 </details>
 
-*) Note the formatting (spaces etc) for "Description" above!
+* Note the formatting (spaces etc) for "Description" above!
 ```
 
 - Check your spelling and grammar.
