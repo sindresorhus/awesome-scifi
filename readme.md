@@ -804,6 +804,21 @@ An interesting take on the near-future colonization of Mars by one hundred of th
   > For eons, sandstorms have swept the barren desolate landscape of the red planet. For centuries, Mars has beckoned to mankind to come and conquer its hostile climate. Now, in the year 2026, a group of one hundred colonists is about to fulfill that destiny. John Boone, Maya Toitavna, Frank Chalmers, and Arkady Bogdanov lead a mission whose ultimate goal is the terraforming of Mars. For some, Mars will become a passion driving them to daring acts of courage and madness; for others it offers and opportunity to strip the planet of its riches. And for the genetic “alchemists,” Mars presents a chance to create a biomedical miracle, a breakthrough that could change all we know about life… and death.
 </details>
 
+#### [Seveneves](https://www.goodreads.com/book/show/22816087-seveneves) (2015) _by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)_ [4.0]
+
+<details>
+  <summary>Description</summary>
+
+  > What would happen if the world were ending?
+  >
+  > A catastrophic event renders the earth a ticking time bomb. In a feverish race against the inevitable, nations around the globe band together to devise an ambitious plan to ensure the survival of humanity far beyond our atmosphere, in outer space.
+  >
+  > But the complexities and unpredictability of human nature coupled with unforeseen challenges and dangers threaten the intrepid pioneers, until only a handful of survivors remain...
+  >
+  > Five thousand years later, their progeny—seven distinct races now three billion strong—embark on yet another audacious journey into the unknown . . . to an alien world utterly transformed by cataclysm and time: Earth.
+</details>
+
+
 #### [Schild’s Ladder](https://www.goodreads.com/book/show/156780.Schild_s_Ladder) (2002) _by [Greg Egan](https://en.wikipedia.org/wiki/Greg_Egan)_ [3.9]
 
 <details>
