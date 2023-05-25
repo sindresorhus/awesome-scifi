@@ -241,7 +241,9 @@ This book is often given to high school students, but stands up well as an adult
   > With more than five million copies sold, _Flowers for Algernon_ is the beloved, classic story of a mentally disabled man whose experimental quest for intelligence mirrors that of Algernon, an extraordinary lab mouse. In poignant diary entries, Charlie tells how a brain operation increases his IQ and changes his life. As the experimental procedure takes effect, Charlie’s intelligence expands until it surpasses that of the doctors who engineered his metamorphosis. The experiment seems to be a scientific breakthrough of paramount importance—until Algernon begins his sudden, unexpected deterioration. Will the same happen to Charlie?
 </details>
 
-#### [Foundation](https://www.goodreads.com/book/show/29579.Foundation) (1951) _by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)_ [4.0] 🌟 🔥
+#### [Foundation Trilogy]([https://www.goodreads.com/book/show/29579.Foundation](https://www.goodreads.com/series/59386-foundation-publication-order)) (1951) _by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)_ [4.22 (avg)] 🌟 🔥
+
+Isaac Asimov's original "Foundation Trilogy" is a mesmerizing voyage into the realm of science fiction, presenting a grand game of 4D chess spread over centuries, propelled by the innovative concept of 'psychohistory'. Its thought-provoking exploration of power, control, and inevitability underscores its status as a seminal piece in the pantheon of sci-fi literature. - [@edoardodanna](https://github.com/edoardodanna)
 
 <details>
   <summary>Description</summary>
@@ -250,6 +252,11 @@ This book is often given to high school students, but stands up well as an adult
   >
   > But soon the fledgling Foundation finds itself at the mercy of corrupt warlords rising in the wake of the receding Empire. Mankind’s last best hope is faced with an agonizing choice: submit to the barbarians and be overrun—or fight them and be destroyed.
 </details>
+
+Books:
+- [Foundation](https://www.goodreads.com/book/show/29579.Foundation) [4.2] 🔥
+- [Foundation and Empire](https://www.goodreads.com/book/show/29581.Foundation_and_Empire) [4.2] 🔥
+- [Second Foundation](https://www.goodreads.com/book/show/29580.Second_Foundation) [4.3] 🔥
 
 #### [Frankenstein; or, The Modern Prometheus](https://www.goodreads.com/book/show/18490.Frankenstein) (1818) _by [Mary Wollstonecraft Shelley](https://en.wikipedia.org/wiki/Mary_Shelley)_ [3.7] 🌟 🔥
 
