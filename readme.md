@@ -243,6 +243,8 @@ This book is often given to high school students, but stands up well as an adult
 
 #### [Foundation Trilogy]([https://www.goodreads.com/book/show/29579.Foundation](https://www.goodreads.com/series/59386-foundation-publication-order)) (1951) _by [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)_ [4.22 (avg)] 🌟 🔥
 
+Isaac Asimov's original "Foundation Trilogy" is a mesmerizing voyage into the realm of science fiction, presenting a grand game of 4D chess spread over centuries, propelled by the innovative concept of 'psychohistory'. Its thought-provoking exploration of power, control, and inevitability underscores its status as a seminal piece in the pantheon of sci-fi literature. - [@edoardodanna](https://github.com/edoardodanna)
+
 <details>
   <summary>Description</summary>
 
