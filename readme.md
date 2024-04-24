@@ -320,14 +320,14 @@ This was like if Hermann Hesse decided he was tired of writing Steppenwolf and S
   > Earth is long since dead. On a colony planet, a band of men has gained control of technology, made themselves immortal, and now rule their world as the gods of the Hindu pantheon. Only one dares oppose them: he who was once Siddhartha and is now Mahasamatman. Binder of Demons, Lord of Light.
 </details>
 
-##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) _by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)_ [4.0]
+#### [Planet Wizard](https://www.goodreads.com/book/show/11796889-the-planet-wizard) (1969) _by [John Jakes](https://en.wikipedia.org/wiki/John_Jakes)_ [3.3]
 
-This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. - [@RichardLitt](https://github.com/RichardLitt)
+This book has a banger name. The story of a conman wizard who's not really a wizard, forced to travel to another planet in order to exorcize the demons of a ruined sister planet. John Jakes is more well known for his historical fiction, so it's interesting to read his take on a different genre. - [@just-an-e](https://github.com/just-an-e)
 
 <details>
   <summary>Description</summary>
 
-  > The second novel in Lewis’s science fiction trilogy tells of Dr. Ransom’s voyage to the planet of Perelandra (Venus). Dr. Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
+  > On a post-apocalyptic world far from Earth, Magus Blacklaw, a traveling mountebank, is in trouble with the law. He and his daughter soon fall in with a young man, and pretty soon all three are condemned to ride a skysled to exorcize the demons of a formerly commercial sister planet.
 </details>
 
 #### [Red Dwarf](https://www.goodreads.com/book/show/70956.Red_Dwarf_Omnibus) (1989) _by [Grant Naylor](https://en.wikipedia.org/wiki/Grant_Naylor)_ [4.3]
@@ -417,6 +417,26 @@ A fairly well-wrapped first book in a trilogy, that has some very imaginative an
   > In the first novel of C. S. Lewis’s classic science fiction trilogy, Dr. Ransom, a Cambridge academic, is abducted and taken on a spaceship to the red planet of Malacandra, which he knows as Mars. His captors are plotting to plunder the planet’s treasures and plan to offer Ransom as a sacrifice to the creatures who live there. Ransom discovers he has come from the “silent planet”–Earth–whose tragic story is known throughout the universe…
 </details>
 
+##### [Perelandra](https://www.goodreads.com/book/show/100924.Perelandra) (1944) _by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)_ [4.0]
+
+This book has a wonderful look at non-technological space travel and what paradise might look like on another planet. Lots of good philosophy, too. - [@RichardLitt](https://github.com/RichardLitt)
+
+<details>
+  <summary>Description</summary>
+
+  > The second novel in Lewis’s science fiction trilogy tells of Dr. Ransom’s voyage to the planet of Perelandra (Venus). Dr. Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
+</details>
+
+##### [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) (1945) _by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)_ [3.9]
+
+One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt)
+
+<details>
+  <summary>Description</summary>
+
+  > The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organization called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organization, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
+</details>
+
 #### [Speaker for the Dead](https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead) (1994) _by [Orson Scott Card](https://en.wikipedia.org/wiki/Orson_Scott_Card)_ [4.0]
 
 I had been putting off reading this book for years, after reading _Ender's Game_ and not knowing wanting to belittle it with a bad sequel (like I thought _Ender's Shadow_ had been). I regret that immensely, having now read this book; it is deep, insightful, and brilliantly written. - [@RichardLitt](https://github.com/RichardLitt)
@@ -456,16 +476,6 @@ If you're going to read one Science Fiction book to get a broader perspective on
   <summary>Description</summary>
 
   > _Star Maker_ is a science fiction novel by Olaf Stapledon, published in 1937. The book describes a history of life in the universe, dwarfing in scale Stapledon’s previous book, _Last and First Men_ (1930), a history of the human species over two billion years. _Star Maker_ tackles philosophical themes such as the essence of life, of birth, decay and death, and the relationship between creation and creator. A pervading theme is that of progressive unity within and between different civilizations. Some of the elements and themes briefly discussed prefigure later fiction concerning genetic engineering and alien life forms. Arthur C. Clarke considered _Star Maker_ to be one of the finest works of science fiction ever written.
-</details>
-
-##### [That Hideous Strength](https://www.goodreads.com/book/show/100933.That_Hideous_Strength) (1945) _by [C. S. Lewis](https://en.wikipedia.org/wiki/C._S._Lewis)_ [3.9]
-
-One of the weirdest books I have read and enjoyed. - [@RichardLitt](https://github.com/RichardLitt)
-
-<details>
-  <summary>Description</summary>
-
-  > The third novel in the science-fiction trilogy by C. S. Lewis. This final story is set on Earth, and tells of a terrifying conspiracy against humanity. The story surrounds Mark and Jane Studdock, a newly married couple. Mark is a sociologist who is enticed to join an organization called N.I.C.E. which aims to control all human life. His wife, meanwhile, has bizarre prophetic dreams about a decapitated scientist, Alcasan. As Mark is drawn inextricably into the sinister organization, he discovers the truth of his wife’s dreams when he meets the literal head of Alcasan which is being kept alive by infusions of blood. Jane seeks help concerning her dreams at a community called St. Anne’s, where she meets their leader—Dr. Ransom (the main character of the previous two titles in the trilogy). The story ends in a final spectacular scene at the N.I.C.E. headquarters where Merlin appears to confront the powers of Hell.
 </details>
 
 #### [The Deep Range](https://www.goodreads.com/book/show/20410412-the-deep-range) (1957) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [3.7]
