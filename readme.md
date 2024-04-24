@@ -330,6 +330,16 @@ This book has a wonderful look at non-technological space travel and what paradi
   > The second novel in Lewis’s science fiction trilogy tells of Dr. Ransom’s voyage to the planet of Perelandra (Venus). Dr. Ransom is sent by the Elida to Perelandra (Venus) to battle against evil incarnate and preserve a second Eden from the evil forces present in the possessed body of his enemy, Weston. Through these works, Lewis explores issues of good and evil, and his remarkable and vividly imaginative descriptions of other worlds cements his place as a first-class author of science fiction adventure.
 </details>
 
+##### [Planet Wizard](https://www.goodreads.com/book/show/11796889-the-planet-wizard) (1969) _by [John Jakes](https://en.wikipedia.org/wiki/John_Jakes)_ [3.3]
+
+This book has a banger name. The story of a conman wizard who's not really a wizard, forced to travel to another planet in order to exorcize the demons of a ruined sister planet. John Jakes is more well known for his historical fiction, so it's interesting to read his take on a different genre. - [@just-an-e](https://github.com/just-an-e)
+
+<details>
+  <summary>Description</summary>
+
+  > On a post-apocalyptic world far from Earth, Magus Blacklaw, a traveling mountebank, is in trouble with the law. He and his daughter soon fall in with a young man, and pretty soon all three are condemned to ride a skysled to exorcize the demons of a formerly commercial sister planet.
+</details>
+
 #### [Red Dwarf](https://www.goodreads.com/book/show/70956.Red_Dwarf_Omnibus) (1989) _by [Grant Naylor](https://en.wikipedia.org/wiki/Grant_Naylor)_ [4.3]
 
 Actually four books by two authors. It was made into a TV series but the books should be consumed instead. Very high quality over the top deep space trouble with anti-hero Lister and his crew. - [@montao](https://github.com/montao)
