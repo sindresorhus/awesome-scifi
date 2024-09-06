@@ -1004,6 +1004,16 @@ A lovely balm for the weary science fiction reader about a post-collapse utopian
   > Now the life of the tea monk who tells this story is upended by the arrival of a robot, there to honor the old promise of checking in. The robot cannot go back until the question of "what do people need?" is answered. But the answer to that question depends on who you ask, and how. They will need to ask it a lot. Chambers' series asks: in a world where people have what they want, does having more matter?
 </details>
 
+#### [The Rolling Stones](https://www.goodreads.com/book/show/50848.The_Rolling_Stones) (1952) _by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)_ [3.9]
+
+A charming, fast-paced space adventure following the Stone family as they journey through the solar system, offering a delightful mix of humor, family dynamics, and interplanetary escapades. -[@Russolves](https://github.com/Russolves)
+
+<details>
+	<summary>Description</summary>
+  > It doesn’t seem likely for twins to have the same middle name. Even so, it’s clear that Castor and Pollux Stone both have "Trouble" written in that spot on their birth certificates. Of course, anyone who’s met their grandmother Hazel would know that they came by it honestly…
+  > Join the Stone twins as they connive, cajole, and bamboozle their way across the Solar System in the company of the most high-spirited and hilarious family in all of science fiction. This light-hearted tale has some of Heinlein’s sassiest dialogue (not to mention the famous Flat Cats incident!). Oddly enough, it’s also a true example of real family values–for when you’re a Stone, your family is your highest priority.
+</details>
+
 #### [The Songs of Distant Earth](https://www.goodreads.com/book/show/117842.The_Songs_of_Distant_Earth) (1986) _by [Arthur C. Clarke](https://en.wikipedia.org/wiki/Arthur_C._Clarke)_ [3.9]
 
 My first Arthur C. Clarke Sci-fi book that introduced me to the world of Arthur C. Clarke. The book deals with the utopian society where the aliens are human beings from the old earth. -[@DibeshMSShrestha](https://github.com/DibeshMSShrestha)
