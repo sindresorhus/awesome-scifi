@@ -1010,6 +1010,7 @@ A charming, fast-paced space adventure following the Stone family as they journe
 
 <details>
 	<summary>Description</summary>
+	
   > It doesn’t seem likely for twins to have the same middle name. Even so, it’s clear that Castor and Pollux Stone both have "Trouble" written in that spot on their birth certificates. Of course, anyone who’s met their grandmother Hazel would know that they came by it honestly…
   > Join the Stone twins as they connive, cajole, and bamboozle their way across the Solar System in the company of the most high-spirited and hilarious family in all of science fiction. This light-hearted tale has some of Heinlein’s sassiest dialogue (not to mention the famous Flat Cats incident!). Oddly enough, it’s also a true example of real family values–for when you’re a Stone, your family is your highest priority.
 </details>
