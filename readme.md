@@ -2572,6 +2572,18 @@ Categories: `time travel`
   > Four friends/fledgling entrepreneurs, knowing that there’s something bigger and more innovative than the different error-checking devices they’ve built, wrestle over their new invention.
 </details>
 
+#### [Screamers](https://www.imdb.com/title/tt0114367/) (1995) [6.3]
+
+Categories: `apocalyptic` `artificial intelligence` `space`
+
+A thrilling ride that expertly blends suspense with thought-provoking themes about technology and warfare. If you enjoy films that challenge your perceptions of humanity and technology, this is definitely one to watch! - [@johan-stenqvist](https://github.com/johan-stenqvist)
+
+<details>
+  <summary>Description</summary>
+
+  > A military commander stationed off planet during an interplanetary war travels through the devastated landscape to negotiate a peace treaty, but discovers that the primitive robots they built to kill enemy combatants have gained sentience.
+</details>
+
 #### [Serenity (Firefly)](https://www.imdb.com/title/tt0379786/) (2005) [8.0]
 
 Categories: `space` `western` `action`
