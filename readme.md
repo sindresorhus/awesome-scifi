@@ -2679,6 +2679,18 @@ This is a pretty good movie. The science is ridiculous, but the characters are g
   > A team of international astronauts is sent on a dangerous mission to reignite the dying Sun with a nuclear fission bomb in 2057.
 </details>
 
+#### [Tenet](https://www.imdb.com/title/tt6723592/) (2020) [7.3]
+
+Categories: `time travel` `action` `thriller`
+
+A great watch for those who like complex movies that you probably have to watch several times to understand everything. - [@gilStettler](https://github.com/gilStettler)
+
+<details>
+  <summary>Description</summary>
+	
+  > Armed with only the word "Tenet," and fighting for the survival of the entire world, CIA operative, The Protagonist, journeys through a twilight world of international espionage on a global mission that unfolds beyond real time.
+</details>	
+
 #### [The City of Lost Children](https://www.imdb.com/title/tt0112682/) (1995) [7.7]
 
 <details>
