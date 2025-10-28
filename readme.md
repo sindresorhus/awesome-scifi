@@ -3333,6 +3333,16 @@ Y: The Last Man is graphic novel series unlike any other I have read. The "last 
   > Y: The Last Man is a dystopian science fiction comic book series by Brian K. Vaughan and Pia Guerra published by Vertigo beginning in 2002. The series is about the only man to survive the apparent simultaneous death of every male mammal (barring the same man's pet monkey) on Earth.
 </details>
 
+## Audiobooks
+
+Some books are also exceptional as audiobooks. Some are not. Here is a space for the former.
+
+#### [The Martian](https://www.audible.com/pd/The-Martian-Audiobook/B082BHJMFF) _by Andy Weir_, narrated by _R.C. Bray_ 
+
+I loved this audiobook. I am not sure if this narrator's edition is still publicly available, however. - [@RichardLitt](https://github.com/RichardLitt)
+
+See the book above for the description.
+
 ## Links
 
 - [What are your favourite sci-fi books?](https://news.ycombinator.com/item?id=9056319) - Hacker News
