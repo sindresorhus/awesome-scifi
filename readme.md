@@ -33,6 +33,7 @@ _For fantasy books, see [awesome-fantasy](https://github.com/RichardLitt/awesome
 - [Movie Series](#movie-series)
 - [TV Series](#tv-series)
 - [Comic Books](#comic-books)
+- [Audiobooks](#audiobooks)
 - [Links](#links)
 
 ## Novels
