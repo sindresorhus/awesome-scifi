@@ -1527,6 +1527,39 @@ So, you’re able to share in Ender’s cleverness, too. That’s what makes thi
   > Is Ender the general Earth needs? But Ender is not the only result of the genetic experiments. The war with the Buggers has been raging for a hundred years, and the quest for the perfect general has been underway for almost as long. Ender’s two older siblings are every bit as unusual as he is, but in very different ways. Between the three of them lie the abilities to remake a world. If, that is, the world survives.
 </details>
 
+#### [Expeditionary Force](https://www.goodreads.com/series/185650-expeditionary-force) (2016-) _by [Craig Alanson](https://en.wikipedia.org/wiki/Craig_Alanson)_ [4.38] 
+
+The Expeditionary Force is a sprawling science-fiction saga that blends military sci-fi, space opera, and irreverent humor into a fast-paced, character-driven adventure. Centered on U.S. Army Sergeant Joe Bishop and his unlikely partnership with an all-powerful, arrogant artificial intelligence nicknamed Skippy the Magnificent, the series takes readers from a sudden alien invasion of Earth into the depths of interstellar politics and warfare. While it is corny at times, and there's definitely some deus ex machina going on, the 19 Books, short novel _Trouble on Paradise_, the Audio Only _Homefront_ and the two books in the _Mavericks_ Series create an absolutely gripping story for which I drop everything to listen to the next installment when it releases. The Audio book series spoken by R.C. Bray is just masterfully done as well. [@Anuril](https://github.com/Anuril)
+
+<details>
+  <summary>Description</summary>
+
+  > At the outset in Columbus Day, humanity is blindsided when the Ruhar, a fur-covered alien species, devastate Earth in a strike that pushes civilization back toward pre-industrial levels. In the chaos, Bishop is swept up into the fledgling United Nations Expeditionary Force, a human contingent drafted into an intergalactic conflict between the Ruhar and the reptilian Kristang. Against all odds—and armed with little more than grit, military training, and moments of baffling luck—Bishop and a small band of soldiers ally with the Kristang, discovering that humans are hopelessly outclassed in firepower and technology. [Source](https://www.terranceacrow.com/posts/expeditionary-force-book-review/) 
+
+</details>
+
+Books: 
+- Columbus Day
+- SpecOps
+- Paradise
+- (Trouble on Paradise)
+- Black Ops
+- Zero Hour
+- Mavericks
+- Renegades
+- (Homefront) (Audio only)
+- Armageddon
+- Valkyrie
+- Critical Mass
+- Brushfire
+- Breakaway
+- Fallout
+- Failure Mode
+- Aftermath
+- Task Force Hammer
+- Gateway
+- Ground State
+
 #### [Frontlines Series](https://www.goodreads.com/series/125903-frontlines) (2013-) _by [Marko Kloos](https://www.markokloos.com/)_ [4.05]
 
 A very entertaining military drama that has continued to grow on me, book by book. [@AlexKeyes](https://github.com/alex-keyes)
